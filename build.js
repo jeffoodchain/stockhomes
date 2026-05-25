@@ -152,7 +152,6 @@ function categoryLink(category, fromDir) {
 function reportList(items, fromDir) {
   return `<div class="cards">${items.map((report) => `<article class="card">
       <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
-      <div class="card-meta">${escapeHtml(report.dateText)} · ${categoryLink(report.category, fromDir)}</div>
       <p>${escapeHtml(report.excerpt)}</p>
     </article>`).join("\n")}</div>`;
 }
