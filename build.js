@@ -148,10 +148,16 @@ function reportList(items, fromDir) {
     </article>`).join("\n")}</div>`;
 }
 
+function baseFrom(fromDir) {
+  const rel = relFrom(fromDir, "index.html");
+  if (rel === "index.html") return ".";
+  return rel.replace(/\/index\.html$/, "") || ".";
+}
+
 function page(outFile, title, description, content) {
   ensureDir(path.dirname(outFile));
   const fromDir = path.dirname(outFile);
-  const base = relFrom(fromDir, "index.html").replace(/\/index\.html$/, "") || ".";
+  const base = baseFrom(fromDir);
   fs.writeFileSync(outFile, renderTemplate(baseTemplate, {
     title: `${escapeHtml(title)} | ${site.title}`,
     description: escapeHtml(description),
