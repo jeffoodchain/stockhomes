@@ -45,7 +45,24 @@ nav { display: flex; gap: 1.5rem; }
 nav a { color: var(--color-text); font-weight: 500; }
 nav a:hover { color: var(--color-link); }
 
-.hero { margin-bottom: 3rem; }
+.hero { margin-bottom: 2rem; }
+.search-panel {
+  margin: 0 0 3rem;
+}
+.search-panel input {
+  width: 100%;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--color-text);
+  font: inherit;
+  padding: .65rem .8rem;
+}
+.search-panel p {
+  color: var(--color-muted);
+  font-size: .92rem;
+  margin-top: .5rem;
+}
 .hero h1,
 .report-header h1 {
   font-size: 2rem;

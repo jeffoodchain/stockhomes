@@ -20,6 +20,22 @@
       </header>
       <main>{{content}}</main>
     </div>
+    <script>
+      const searchInput = document.querySelector('[data-report-search]');
+      if (searchInput) {
+        const cards = [...document.querySelectorAll('[data-search]')];
+        const sections = [...document.querySelectorAll('.category')];
+        searchInput.addEventListener('input', () => {
+          const query = searchInput.value.trim().toLowerCase();
+          for (const card of cards) {
+            card.hidden = query && !card.dataset.search.toLowerCase().includes(query);
+          }
+          for (const section of sections) {
+            section.hidden = !section.querySelector('[data-search]:not([hidden])');
+          }
+        });
+      }
+    </script>
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
       mermaid.initialize({ startOnLoad: true, theme: 'dark' });

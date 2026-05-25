@@ -2,8 +2,12 @@
   <h1>股票 / 產業研究</h1>
   <p class="stat">共 {{count}} 篇報告</p>
 </section>
+<section class="search-panel" aria-label="搜尋報告">
+  <input data-report-search type="search" placeholder="搜尋標題、描述或 tag，例如 NVIDIA、CPO、MLCC" />
+  <p>Tags 會作為搜尋索引，不顯示在每篇卡片上。</p>
+</section>
 {{reports}}
 <section class="taxonomy taxonomy-bottom">
-  <h2>標籤</h2>
+  <h2>標籤索引</h2>
   <div class="tags">{{tags}}</div>
 </section>

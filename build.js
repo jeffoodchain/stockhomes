@@ -150,10 +150,13 @@ function categoryLink(category, fromDir) {
 }
 
 function reportList(items, fromDir) {
-  return `<div class="cards">${items.map((report) => `<article class="card">
+  return `<div class="cards">${items.map((report) => {
+    const searchText = [report.title, report.excerpt, report.category, ...report.tags].join(" ");
+    return `<article class="card" data-search="${escapeHtml(searchText)}">
       <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
       <p>${escapeHtml(report.excerpt)}</p>
-    </article>`).join("\n")}</div>`;
+    </article>`;
+  }).join("\n")}</div>`;
 }
 
 function baseFrom(fromDir) {
