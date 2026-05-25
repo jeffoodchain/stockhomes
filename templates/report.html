@@ -4,12 +4,15 @@
     <h1>{{title}}</h1>
     <div class="report-meta">
       <span>{{date}}</span>
-      <span>Local: <code>{{sourcePath}}</code></span>
+      <span>本機：<code>{{sourcePath}}</code></span>
       {{hackmd}}
     </div>
-    <div class="tags">{{tags}}</div>
   </header>
   <section class="content">
     {{content}}
   </section>
+  <footer class="report-footer">
+    <h2>標籤</h2>
+    <div class="tags">{{tags}}</div>
+  </footer>
 </article>

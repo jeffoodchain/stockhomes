@@ -16,7 +16,7 @@ const ASSETS_DIR = path.join(ROOT, "assets");
 
 const site = {
   title: "Stock Homes",
-  description: "Jeff / FoodChain stock and industry research archive",
+  description: "Jeff / FoodChain 股票與產業研究報告庫",
 };
 
 const md = new MarkdownIt({
@@ -135,8 +135,18 @@ function tagLinks(tags, fromDir) {
     .join("");
 }
 
+const categoryLabels = new Map([
+  ["nvidia-architecture", "NVIDIA 架構"],
+  ["passive-components", "被動元件"],
+  ["optical-cpo", "光通 / CPO"],
+]);
+
+function categoryTitle(category) {
+  return categoryLabels.get(category) || category;
+}
+
 function categoryLink(category, fromDir) {
-  return `<a href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(category)}</a>`;
+  return `<a href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(categoryTitle(category))}</a>`;
 }
 
 function reportList(items, fromDir) {
@@ -232,21 +242,21 @@ const tags = reports.reduce((m, r) => {
 
 const indexDir = DIST_DIR;
 const categoryNav = [...categories.entries()]
-  .sort(([a], [b]) => a.localeCompare(b))
-  .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(category)} <span>${items.length}</span></a>`)
+  .sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))
+  .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(categoryTitle(category))} <span>${items.length} 篇</span></a>`)
   .join("");
 const tagNav = [...tags.entries()]
   .sort(([a], [b]) => a.localeCompare(b))
-  .map(([tag, items]) => `<a class="tag" href="tags/${slugify(tag)}.html">${escapeHtml(tag)} <span>${items.length}</span></a>`)
+  .map(([tag, items]) => `<a class="tag" href="tags/${slugify(tag)}.html">${escapeHtml(tag)} <span>${items.length} 篇</span></a>`)
   .join("");
 
 let listHtml = "";
-for (const [category, items] of [...categories.entries()].sort(([a], [b]) => a.localeCompare(b))) {
-  listHtml += `<section class="category"><h2>${escapeHtml(category)}</h2>${reportList(items, indexDir)}</section>`;
+for (const [category, items] of [...categories.entries()].sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))) {
+  listHtml += `<section class="category"><h2>${escapeHtml(categoryTitle(category))}</h2>${reportList(items, indexDir)}</section>`;
 }
 
 const indexHtml = renderTemplate(indexTemplate, {
-  reports: listHtml || `<p class="empty">No reports yet. Add Markdown files under <code>reports/</code>.</p>`,
+  reports: listHtml || `<p class="empty">目前沒有報告。請將 Markdown 檔案放到 <code>reports/</code>。</p>`,
   categories: categoryNav,
   tags: tagNav,
   count: String(reports.length),
@@ -256,18 +266,18 @@ page(path.join(DIST_DIR, "index.html"), site.title, site.description, indexHtml)
 for (const [category, items] of categories) {
   page(
     path.join(DIST_DIR, "categories", `${category}.html`),
-    `Category: ${category}`,
-    `${items.length} report(s) in ${category}`,
-    `<section class="hero"><p class="eyebrow">Category</p><h1>${escapeHtml(category)}</h1><p class="stat">${items.length} report(s)</p></section>${reportList(items, path.join(DIST_DIR, "categories"))}`,
+    `分類：${categoryTitle(category)}`,
+    `${items.length} 篇報告，分類為 ${categoryTitle(category)}`,
+    `<section class="hero"><p class="eyebrow">分類</p><h1>${escapeHtml(categoryTitle(category))}</h1><p class="stat">${items.length} 篇報告</p></section>${reportList(items, path.join(DIST_DIR, "categories"))}`,
   );
 }
 
 for (const [tag, items] of tags) {
   page(
     path.join(DIST_DIR, "tags", `${slugify(tag)}.html`),
-    `Tag: ${tag}`,
-    `${items.length} report(s) tagged ${tag}`,
-    `<section class="hero"><p class="eyebrow">Tag</p><h1>#${escapeHtml(tag)}</h1><p class="stat">${items.length} report(s)</p></section>${reportList(items, path.join(DIST_DIR, "tags"))}`,
+    `標籤：${tag}`,
+    `${items.length} 篇報告，標籤為 ${tag}`,
+    `<section class="hero"><p class="eyebrow">標籤</p><h1>#${escapeHtml(tag)}</h1><p class="stat">${items.length} 篇報告</p></section>${reportList(items, path.join(DIST_DIR, "tags"))}`,
   );
 }
 
