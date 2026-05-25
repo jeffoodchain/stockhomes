@@ -37,6 +37,7 @@ jobs:
         run: pnpm build
 
       - name: Enable Pages for GitHub Actions
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
