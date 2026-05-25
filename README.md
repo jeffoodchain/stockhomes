@@ -6,13 +6,13 @@ Markdown → HTML renderer for stock / industry reports.
 
 1. Keep a local Markdown copy of every report under `reports/<category>/<slug>.md`.
 2. Publish the primary version to HackMD, then paste the HackMD URL into front matter as `hackmd_url`.
-3. Run `bun run build` to render `dist/`.
+3. Run `pnpm build` to render `dist/`.
 4. Push to `main`; GitHub Actions deploys the generated site to GitHub Pages.
 
 ## Create a new local report
 
 ```bash
-bun run new -- "NVIDIA Rubin passive components" passive-components
+pnpm new -- "NVIDIA Rubin passive components" passive-components
 ```
 
 This creates a dated Markdown file with front matter. The renderer supports:

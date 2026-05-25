@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node build.js",
     "clean": "rm -rf dist",
-    "dev": "bunx serve dist",
+    "dev": "pnpm dlx serve dist",
     "new": "node scripts/new-report.js"
   },
   "dependencies": {
@@ -20,5 +20,6 @@
   },
   "devDependencies": {
     "serve": "^14.2.4"
-  }
+  },
+  "packageManager": "pnpm@10.0.0"
 }
