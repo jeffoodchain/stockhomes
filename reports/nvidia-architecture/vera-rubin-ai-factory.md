@@ -4,7 +4,7 @@ date: 2026-05-25
 category: nvidia-architecture
 tags: ["NVIDIA", "Vera Rubin", "AI factory", "NVL72", "DSX"]
 hackmd_url: ""
-description: "Vera Rubin rack / POD-scale AI factory platform, components, networking, storage, power and supply-chain implications."
+description: "Vera Rubin rack / POD-scale AI factory 平台、元件、網路、儲存、電源與供應鏈意涵。"
 ---
 
 > 版本：2026-05-25  

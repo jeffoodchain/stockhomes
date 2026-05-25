@@ -154,7 +154,6 @@ function reportList(items, fromDir) {
       <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
       <div class="card-meta">${escapeHtml(report.dateText)} · ${categoryLink(report.category, fromDir)}</div>
       <p>${escapeHtml(report.excerpt)}</p>
-      <div class="tags">${tagLinks(report.tags, fromDir)}</div>
     </article>`).join("\n")}</div>`;
 }
 
