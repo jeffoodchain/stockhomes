@@ -12,10 +12,17 @@ Markdown → HTML renderer for stock / industry reports.
 ## Create a new local report
 
 ```bash
-pnpm new -- "NVIDIA Rubin passive components" passive-components
+pnpm new -- "NVIDIA Rubin passive components" passive-components "NVIDIA, Rubin, passive-components"
 ```
 
-This creates a dated Markdown file with front matter. The renderer supports:
+This creates a dated Markdown file with front matter. Every report must have:
+
+- one `category`
+- at least one `tag`
+
+The build fails if any report has an empty/missing `tags` field. The renderer also creates category pages under `dist/categories/` and tag pages under `dist/tags/`.
+
+The renderer supports:
 
 - YAML front matter via `front-matter`
 - Markdown tables, footnotes, links, and raw HTML

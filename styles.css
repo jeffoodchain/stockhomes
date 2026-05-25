@@ -61,12 +61,18 @@ nav a:hover { color: var(--color-link); }
   font-size: .95rem;
 }
 
-.category { margin-bottom: 3rem; }
-.category h2 {
+.category,
+.taxonomy { margin-bottom: 3rem; }
+.category h2,
+.taxonomy h2 {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 1rem;
 }
+.taxonomy-links { display: flex; flex-wrap: wrap; gap: .75rem 1rem; }
+.taxonomy-links a { color: var(--color-text); font-weight: 600; }
+.taxonomy-links span,
+.tags span { color: var(--color-muted); font-size: .82rem; }
 .cards { display: block; }
 .card {
   padding: .5rem 0;

@@ -1,9 +1,9 @@
 import fs from "fs";
 import path from "path";
 
-const [, , rawTitle, rawCategory = "uncategorized"] = process.argv;
-if (!rawTitle) {
-  console.error('Usage: bun run new -- "Report title" category');
+const [, , rawTitle, rawCategory = "uncategorized", rawTags = ""] = process.argv;
+if (!rawTitle || !rawTags) {
+  console.error('Usage: pnpm new -- "Report title" category "tag-a, tag-b"');
   process.exit(1);
 }
 
@@ -15,6 +15,11 @@ const slug = rawTitle
   .replace(/^-+|-+$/g, "")
   .slice(0, 80) || "report";
 const category = rawCategory.toLowerCase().replace(/[^a-z0-9-_]+/g, "-").replace(/^-+|-+$/g, "") || "uncategorized";
+const tags = rawTags.split(",").map((x) => x.trim()).filter(Boolean);
+if (tags.length === 0) {
+  console.error("At least one tag is required.");
+  process.exit(1);
+}
 const dir = path.join(process.cwd(), "reports", category);
 fs.mkdirSync(dir, { recursive: true });
 const file = path.join(dir, `${today}-${slug}.md`);
@@ -26,7 +31,7 @@ const content = `---
 title: ${JSON.stringify(rawTitle)}
 date: ${today}
 category: ${category}
-tags: []
+tags: [${tags.map((tag) => JSON.stringify(tag)).join(", ")}]
 hackmd_url: ""
 description: ""
 ---

@@ -17,7 +17,6 @@ const ASSETS_DIR = path.join(ROOT, "assets");
 const site = {
   title: "Stock Homes",
   description: "Jeff / FoodChain stock and industry research archive",
-  baseUrl: process.env.SITE_BASE_URL || "",
 };
 
 const md = new MarkdownIt({
@@ -64,6 +63,14 @@ function formatDate(value) {
   }).format(d);
 }
 
+function slugify(value) {
+  return String(value)
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^\p{Letter}\p{Number}]+/gu, "-")
+    .replace(/^-+|-+$/g, "") || "untitled";
+}
+
 function slugifyFile(file) {
   return path.basename(file, path.extname(file));
 }
@@ -102,8 +109,8 @@ function copyDir(src, dest) {
 
 function normalizeTags(tags) {
   if (!tags) return [];
-  if (Array.isArray(tags)) return tags.map(String);
-  return String(tags).split(",").map((x) => x.trim()).filter(Boolean);
+  const values = Array.isArray(tags) ? tags : String(tags).split(",");
+  return [...new Set(values.map((x) => String(x).trim()).filter(Boolean))];
 }
 
 function excerpt(body) {
@@ -118,6 +125,42 @@ function excerpt(body) {
     .slice(0, 180);
 }
 
+function relFrom(fromDir, url) {
+  return toPosix(path.relative(fromDir, path.join(DIST_DIR, url)));
+}
+
+function tagLinks(tags, fromDir) {
+  return tags
+    .map((tag) => `<a class="tag" href="${relFrom(fromDir, `tags/${slugify(tag)}.html`)}">${escapeHtml(tag)}</a>`)
+    .join("");
+}
+
+function categoryLink(category, fromDir) {
+  return `<a href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(category)}</a>`;
+}
+
+function reportList(items, fromDir) {
+  return `<div class="cards">${items.map((report) => `<article class="card">
+      <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
+      <div class="card-meta">${escapeHtml(report.dateText)} · ${categoryLink(report.category, fromDir)}</div>
+      <p>${escapeHtml(report.excerpt)}</p>
+      <div class="tags">${tagLinks(report.tags, fromDir)}</div>
+    </article>`).join("\n")}</div>`;
+}
+
+function page(outFile, title, description, content) {
+  ensureDir(path.dirname(outFile));
+  const fromDir = path.dirname(outFile);
+  const base = relFrom(fromDir, "index.html").replace(/\/index\.html$/, "") || ".";
+  fs.writeFileSync(outFile, renderTemplate(baseTemplate, {
+    title: `${escapeHtml(title)} | ${site.title}`,
+    description: escapeHtml(description),
+    base,
+    content,
+  }));
+}
+
+fs.rmSync(DIST_DIR, { recursive: true, force: true });
 ensureDir(DIST_DIR);
 ensureDir(REPORTS_DIR);
 
@@ -125,6 +168,7 @@ const baseTemplate = readTemplate("base");
 const reportTemplate = readTemplate("report");
 const indexTemplate = readTemplate("index");
 const reports = [];
+const errors = [];
 
 for (const file of walkMarkdown(REPORTS_DIR)) {
   const raw = fs.readFileSync(file, "utf8");
@@ -132,12 +176,13 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
   const rel = path.relative(REPORTS_DIR, file);
   const category = attributes.category || path.dirname(rel).split(path.sep)[0] || "uncategorized";
   const slug = attributes.slug || slugifyFile(file);
+  const tags = normalizeTags(attributes.tags);
+  if (tags.length === 0) errors.push(`${toPosix(path.relative(ROOT, file))}: front matter must include at least one tag`);
   const outDir = path.join(DIST_DIR, "reports", category);
   const outPath = path.join(outDir, `${slug}.html`);
   ensureDir(outDir);
 
   const title = attributes.title || slug;
-  const tags = normalizeTags(attributes.tags);
   const content = md.render(body);
   const url = `reports/${encodeURIComponent(category)}/${encodeURIComponent(slug)}.html`;
   const meta = {
@@ -156,51 +201,71 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
   const reportHtml = renderTemplate(reportTemplate, {
     title: escapeHtml(title),
     date: escapeHtml(meta.dateText),
-    category: escapeHtml(category),
-    tags: tags.map((t) => `<span class="tag">${escapeHtml(t)}</span>`).join(""),
+    category: categoryLink(category, outDir),
+    tags: tagLinks(tags, outDir),
     hackmd: meta.hackmd_url ? `<a href="${escapeHtml(meta.hackmd_url)}" target="_blank" rel="noopener">HackMD</a>` : "",
     sourcePath: escapeHtml(meta.sourcePath),
     content,
   });
 
-  const finalHtml = renderTemplate(baseTemplate, {
-    title: `${escapeHtml(title)} | ${site.title}`,
-    description: escapeHtml(meta.excerpt),
-    base: "../..",
-    content: reportHtml,
-  });
-  fs.writeFileSync(outPath, finalHtml);
+  page(outPath, title, meta.excerpt, reportHtml);
   console.log(`Built ${toPosix(path.relative(ROOT, outPath))}`);
 }
 
-reports.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-const grouped = Map.groupBy ? Map.groupBy(reports, (r) => r.category) : reports.reduce((m, r) => (m.get(r.category)?.push(r) || m.set(r.category, [r]), m), new Map());
-
-let listHtml = "";
-for (const [category, items] of [...grouped.entries()].sort(([a], [b]) => a.localeCompare(b))) {
-  listHtml += `<section class="category"><h2>${escapeHtml(category)}</h2><div class="cards">`;
-  for (const report of items) {
-    listHtml += `<article class="card">
-      <a class="card-title" href="${report.url}">${escapeHtml(report.title)}</a>
-      <div class="card-meta">${escapeHtml(report.dateText)} · ${escapeHtml(report.sourcePath)}</div>
-      <p>${escapeHtml(report.excerpt)}</p>
-      <div class="tags">${report.tags.map((t) => `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>
-    </article>`;
-  }
-  listHtml += `</div></section>`;
+if (errors.length > 0) {
+  console.error("\nBuild failed:\n" + errors.map((e) => `- ${e}`).join("\n"));
+  process.exit(1);
 }
 
-const indexHtml = renderTemplate(baseTemplate, {
-  title: site.title,
-  description: site.description,
-  base: ".",
-  content: renderTemplate(indexTemplate, {
-    reports: listHtml || `<p class="empty">No reports yet. Add Markdown files under <code>reports/</code>.</p>`,
-    count: String(reports.length),
-  }),
+reports.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+const categories = reports.reduce((m, r) => (m.get(r.category)?.push(r) || m.set(r.category, [r]), m), new Map());
+const tags = reports.reduce((m, r) => {
+  for (const tag of r.tags) m.get(tag)?.push(r) || m.set(tag, [r]);
+  return m;
+}, new Map());
+
+const indexDir = DIST_DIR;
+const categoryNav = [...categories.entries()]
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(category)} <span>${items.length}</span></a>`)
+  .join("");
+const tagNav = [...tags.entries()]
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([tag, items]) => `<a class="tag" href="tags/${slugify(tag)}.html">${escapeHtml(tag)} <span>${items.length}</span></a>`)
+  .join("");
+
+let listHtml = "";
+for (const [category, items] of [...categories.entries()].sort(([a], [b]) => a.localeCompare(b))) {
+  listHtml += `<section class="category"><h2>${escapeHtml(category)}</h2>${reportList(items, indexDir)}</section>`;
+}
+
+const indexHtml = renderTemplate(indexTemplate, {
+  reports: listHtml || `<p class="empty">No reports yet. Add Markdown files under <code>reports/</code>.</p>`,
+  categories: categoryNav,
+  tags: tagNav,
+  count: String(reports.length),
 });
-fs.writeFileSync(path.join(DIST_DIR, "index.html"), indexHtml);
+page(path.join(DIST_DIR, "index.html"), site.title, site.description, indexHtml);
+
+for (const [category, items] of categories) {
+  page(
+    path.join(DIST_DIR, "categories", `${category}.html`),
+    `Category: ${category}`,
+    `${items.length} report(s) in ${category}`,
+    `<section class="hero"><p class="eyebrow">Category</p><h1>${escapeHtml(category)}</h1><p class="stat">${items.length} report(s)</p></section>${reportList(items, path.join(DIST_DIR, "categories"))}`,
+  );
+}
+
+for (const [tag, items] of tags) {
+  page(
+    path.join(DIST_DIR, "tags", `${slugify(tag)}.html`),
+    `Tag: ${tag}`,
+    `${items.length} report(s) tagged ${tag}`,
+    `<section class="hero"><p class="eyebrow">Tag</p><h1>#${escapeHtml(tag)}</h1><p class="stat">${items.length} report(s)</p></section>${reportList(items, path.join(DIST_DIR, "tags"))}`,
+  );
+}
+
 fs.writeFileSync(path.join(DIST_DIR, "reports.json"), JSON.stringify(reports, null, 2));
 fs.copyFileSync(path.join(ROOT, "styles.css"), path.join(DIST_DIR, "styles.css"));
 copyDir(ASSETS_DIR, path.join(DIST_DIR, "assets"));
-console.log(`Build complete: ${reports.length} report(s).`);
+console.log(`Build complete: ${reports.length} report(s), ${categories.size} categor${categories.size === 1 ? "y" : "ies"}, ${tags.size} tag(s).`);
