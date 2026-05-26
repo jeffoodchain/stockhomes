@@ -141,6 +141,7 @@ const categoryLabels = new Map([
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
   ["quant-research", "量化研究"],
+  ["stock-analysis", "個股分析"],
 ]);
 
 const indexCollapsedCategories = new Set(["mk"]);
