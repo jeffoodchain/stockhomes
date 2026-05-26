@@ -136,6 +136,7 @@ function tagLinks(tags, fromDir) {
 }
 
 const categoryLabels = new Map([
+  ["mk", "MK"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
