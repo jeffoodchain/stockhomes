@@ -136,12 +136,14 @@ function tagLinks(tags, fromDir) {
 }
 
 const categoryLabels = new Map([
-  ["mk", "MK"],
+  ["mk", "MK 逐字稿"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
   ["quant-research", "量化研究"],
 ]);
+
+const indexCollapsedCategories = new Set(["mk"]);
 
 function categoryTitle(category) {
   return categoryLabels.get(category) || category;
@@ -159,6 +161,16 @@ function reportList(items, fromDir) {
       <p>${escapeHtml(report.excerpt)}</p>
     </article>`;
   }).join("\n")}</div>`;
+}
+
+function categoryIndexCard(category, items, fromDir) {
+  const title = categoryTitle(category);
+  const searchText = [title, category, ...items.flatMap((report) => [report.title, report.excerpt, ...report.tags])].join(" ");
+  const latest = items[0]?.dateText ? `最新：${items[0].dateText}` : "";
+  return `<div class="cards"><article class="card" data-search="${escapeHtml(searchText)}">
+      <a class="card-title" href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(title)}</a>
+      <p>${items.length} 篇文章。點進去後以主頁文章列表的方式瀏覽逐字稿。${latest ? ` ${escapeHtml(latest)}` : ""}</p>
+    </article></div>`;
 }
 
 function baseFrom(fromDir) {
@@ -255,7 +267,12 @@ const tagNav = [...tags.entries()]
 
 let listHtml = "";
 for (const [category, items] of [...categories.entries()].sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))) {
-  listHtml += `<section class="category"><h2>${escapeHtml(categoryTitle(category))}</h2>${reportList(items, indexDir)}</section>`;
+  const title = categoryTitle(category);
+  if (indexCollapsedCategories.has(category)) {
+    listHtml += `<section class="category"><h2><a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(title)}</a></h2>${categoryIndexCard(category, items, indexDir)}</section>`;
+  } else {
+    listHtml += `<section class="category"><h2>${escapeHtml(title)}</h2>${reportList(items, indexDir)}</section>`;
+  }
 }
 
 const indexHtml = renderTemplate(indexTemplate, {
