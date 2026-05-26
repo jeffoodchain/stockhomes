@@ -45,7 +45,7 @@ def yahoo_adjclose(ticker: str, start: dt.date, end: dt.date) -> pd.Series:
         p2 = int(dt.datetime.combine(end + dt.timedelta(days=1), dt.time(), tzinfo=dt.timezone.utc).timestamp())
         url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?period1={p1}&period2={p2}&interval=1d&events=history&includeAdjustedClose=true"
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=600) as resp:
             raw = json.loads(resp.read().decode("utf-8"))
         cache.write_text(json.dumps(raw))
         time.sleep(0.2)
