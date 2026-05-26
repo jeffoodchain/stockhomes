@@ -140,6 +140,7 @@ const categoryLabels = new Map([
   ["nvidia-architecture", "NVIDIA 架構"],
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
+  ["quant-research", "量化研究"],
 ]);
 
 function categoryTitle(category) {
