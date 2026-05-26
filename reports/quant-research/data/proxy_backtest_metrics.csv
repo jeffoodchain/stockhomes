@@ -1,5 +1,0 @@
-strategy,final_growth_x,total_return_pct,cagr_pct,ann_vol_pct,sharpe_0rf,max_drawdown_pct,worst_month_pct,positive_month_pct,avg_annual_turnover_x,rebalance_count
-SPY buy-and-hold,3.1504,215.0408,14.6694,19.2256,0.7630,-33.7173,-12.4871,67.0000,0.1193,1
-Monthly equal weight,2.2269,122.6930,10.0211,10.4197,0.9617,-18.7911,-6.2297,65.0000,0.4458,102
-Trend inverse-vol proxy,2.0447,104.4661,8.9061,7.5088,1.1861,-9.8620,-3.8271,68.0000,4.1226,97
-Sparse tangent proxy,2.1915,119.1487,9.8108,10.8562,0.9037,-19.3489,-8.8048,67.0000,5.2969,90
