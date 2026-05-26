@@ -25,14 +25,23 @@
       if (searchInput) {
         const cards = [...document.querySelectorAll('[data-search]')];
         const sections = [...document.querySelectorAll('.category')];
+        const noResults = document.querySelector('[data-no-results]');
         searchInput.addEventListener('input', () => {
-          const query = searchInput.value.trim().toLowerCase();
+          const terms = searchInput.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+          const isSearching = terms.length > 0;
+          let visibleCount = 0;
+          document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = isSearching; });
+          document.querySelectorAll('[data-search-expanded]').forEach((node) => { node.hidden = !isSearching; });
           for (const card of cards) {
-            card.hidden = query && !card.dataset.search.toLowerCase().includes(query);
+            const haystack = card.dataset.search.toLowerCase();
+            const matched = terms.every((term) => haystack.includes(term));
+            card.hidden = isSearching && !matched;
+            if (!card.hidden && !card.closest('[data-category-overview]')) visibleCount += 1;
           }
           for (const section of sections) {
-            section.hidden = !section.querySelector('[data-search]:not([hidden])');
+            section.hidden = isSearching && !section.querySelector('[data-search]:not([hidden])');
           }
+          if (noResults) noResults.hidden = !isSearching || visibleCount > 0;
         });
       }
     </script>

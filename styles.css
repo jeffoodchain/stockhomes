@@ -47,7 +47,12 @@ nav a:hover { color: var(--color-link); }
 
 .hero { margin-bottom: 2rem; }
 .search-panel {
-  margin: 0 0 3rem;
+  margin: 0 0 2rem;
+}
+.search-panel label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: .45rem;
 }
 .search-panel input {
   width: 100%;
@@ -80,17 +85,60 @@ nav a:hover { color: var(--color-link); }
 
 .category,
 .taxonomy { margin-bottom: 3rem; }
+.browse-panel {
+  display: grid;
+  gap: 1.5rem;
+  margin: 0 0 3rem;
+  padding: 1.1rem 0 1.35rem;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+.browse-panel h2 {
+  font-size: 1rem;
+  letter-spacing: .04em;
+  color: var(--color-muted);
+  margin-bottom: .7rem;
+}
 .category h2,
 .taxonomy h2 {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 1rem;
 }
-.taxonomy-links { display: flex; flex-wrap: wrap; gap: .75rem 1rem; }
-.taxonomy-links a { color: var(--color-text); font-weight: 600; }
+.taxonomy-links { display: flex; flex-wrap: wrap; gap: .55rem .75rem; }
+.taxonomy-links a {
+  color: var(--color-text);
+  font-weight: 600;
+  padding: .25rem .6rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: #fff;
+}
+.taxonomy-links a:hover { border-color: var(--color-link); color: var(--color-link); }
 .taxonomy-links span,
 .tags span { color: var(--color-muted); font-size: .82rem; }
+.topic-cloud { display: flex; flex-wrap: wrap; align-items: baseline; gap: .35rem .75rem; }
+.topic-chip {
+  color: var(--color-text);
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+.topic-chip:hover { color: var(--color-link); }
+.topic-chip span { color: var(--color-muted); font-size: .72em; font-weight: 500; }
+.topic-chip-w1 { font-size: .95rem; }
+.topic-chip-w2 { font-size: 1.05rem; }
+.topic-chip-w3 { font-size: 1.18rem; }
+.topic-chip-w4 { font-size: 1.32rem; }
 .cards { display: block; }
+.search-expanded {
+  margin-top: .25rem;
+}
+.search-expanded-label {
+  color: var(--color-muted);
+  font-size: .9rem;
+  margin-bottom: .35rem;
+}
 .card {
   padding: .5rem 0;
   border-bottom: 1px solid transparent;

@@ -113,6 +113,22 @@ function normalizeTags(tags) {
   return [...new Set(values.map((x) => String(x).trim()).filter(Boolean))];
 }
 
+function normalizeList(value) {
+  if (!value) return [];
+  const values = Array.isArray(value) ? value : String(value).split(",");
+  return [...new Set(values.map((x) => String(x).trim()).filter(Boolean))];
+}
+
+function plainText(body) {
+  return body
+    .replace(/^---[\s\S]*?---/, "")
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[#>*_`\[\]()+|:=~!{}.-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function excerpt(body) {
   return body
     .replace(/^---[\s\S]*?---/, "")
@@ -154,9 +170,10 @@ function categoryLink(category, fromDir) {
   return `<a href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(categoryTitle(category))}</a>`;
 }
 
-function reportList(items, fromDir) {
-  return `<div class="cards">${items.map((report) => {
-    const searchText = [report.title, report.excerpt, report.category, ...report.tags].join(" ");
+function reportList(items, fromDir, options = {}) {
+  const className = ["cards", options.className].filter(Boolean).join(" ");
+  return `<div class="${className}">${items.map((report) => {
+    const searchText = report.searchText || [report.title, report.excerpt, report.category, ...report.tags].join(" ");
     return `<article class="card" data-search="${escapeHtml(searchText)}">
       <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
       <p>${escapeHtml(report.excerpt)}</p>
@@ -166,12 +183,23 @@ function reportList(items, fromDir) {
 
 function categoryIndexCard(category, items, fromDir) {
   const title = categoryTitle(category);
-  const searchText = [title, category, ...items.flatMap((report) => [report.title, report.excerpt, ...report.tags])].join(" ");
+  const searchText = [title, category, ...items.flatMap((report) => [report.searchText || report.title, report.excerpt, ...report.tags])].join(" ");
   const latest = items[0]?.dateText ? `最新：${items[0].dateText}` : "";
   return `<div class="cards"><article class="card" data-search="${escapeHtml(searchText)}">
       <a class="card-title" href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(title)}</a>
-      <p>${items.length} 篇文章。點進去後以主頁文章列表的方式瀏覽逐字稿。${latest ? ` ${escapeHtml(latest)}` : ""}</p>
+      <p>${items.length} 篇文章。點進去後以分類頁瀏覽完整清單。${latest ? ` ${escapeHtml(latest)}` : ""}</p>
     </article></div>`;
+}
+
+function collapsedCategorySection(category, items, fromDir) {
+  const title = categoryTitle(category);
+  return `<section class="category category-collapsed"><h2><a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(title)}</a></h2>
+    <div data-category-overview>${categoryIndexCard(category, items, fromDir)}</div>
+    <div class="search-expanded" data-search-expanded hidden>
+      <p class="search-expanded-label">搜尋結果</p>
+      ${reportList(items, fromDir, { className: "search-result-cards" })}
+    </div>
+  </section>`;
 }
 
 function baseFrom(fromDir) {
@@ -216,6 +244,9 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
 
   const title = attributes.title || slug;
   const content = md.render(body);
+  const bodyText = plainText(body);
+  const keywords = normalizeList(attributes.keywords);
+  const aliases = normalizeList(attributes.aliases);
   const url = `reports/${encodeURIComponent(category)}/${encodeURIComponent(slug)}.html`;
   const meta = {
     title,
@@ -223,11 +254,23 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
     date: attributes.date || "",
     dateText: formatDate(attributes.date),
     tags,
+    keywords,
+    aliases,
     hackmd_url: attributes.hackmd_url || "",
     sourcePath: toPosix(path.relative(ROOT, file)),
     url,
     excerpt: attributes.description || excerpt(body),
   };
+  meta.searchText = [
+    title,
+    meta.excerpt,
+    category,
+    categoryTitle(category),
+    ...tags,
+    ...keywords,
+    ...aliases,
+    bodyText,
+  ].join(" ");
   reports.push(meta);
 
   const reportHtml = renderTemplate(reportTemplate, {
@@ -261,17 +304,24 @@ const categoryNav = [...categories.entries()]
   .sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))
   .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(categoryTitle(category))} <span>${items.length} 篇</span></a>`)
   .join("");
-const tagNav = [...tags.entries()]
-  .sort(([a], [b]) => a.localeCompare(b))
-  .map(([tag, items]) => `<a class="tag" href="tags/${slugify(tag)}.html">${escapeHtml(tag)} <span>${items.length} 篇</span></a>`)
+const hiddenTopicTags = new Set(["mk", "transcript", "股癌", "substack"]);
+const topicCloud = [...tags.entries()]
+  .filter(([tag]) => !hiddenTopicTags.has(tag.toLowerCase()))
+  .sort(([, aItems], [, bItems]) => bItems.length - aItems.length)
+  .slice(0, 24)
+  .sort(([a], [b]) => a.localeCompare(b, "zh-Hant"))
+  .map(([tag, items]) => {
+    const weight = items.length >= 10 ? 4 : items.length >= 5 ? 3 : items.length >= 2 ? 2 : 1;
+    return `<a class="topic-chip topic-chip-w${weight}" href="tags/${slugify(tag)}.html" data-topic="${escapeHtml(tag)}">${escapeHtml(tag)} <span>${items.length}</span></a>`;
+  })
   .join("");
 
 let listHtml = "";
 for (const [category, items] of [...categories.entries()].sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))) {
-  const title = categoryTitle(category);
   if (indexCollapsedCategories.has(category)) {
-    listHtml += `<section class="category"><h2><a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(title)}</a></h2>${categoryIndexCard(category, items, indexDir)}</section>`;
+    listHtml += collapsedCategorySection(category, items, indexDir);
   } else {
+    const title = categoryTitle(category);
     listHtml += `<section class="category"><h2>${escapeHtml(title)}</h2>${reportList(items, indexDir)}</section>`;
   }
 }
@@ -279,7 +329,7 @@ for (const [category, items] of [...categories.entries()].sort(([a], [b]) => cat
 const indexHtml = renderTemplate(indexTemplate, {
   reports: listHtml || `<p class="empty">目前沒有報告。請將 Markdown 檔案放到 <code>reports/</code>。</p>`,
   categories: categoryNav,
-  tags: tagNav,
+  topics: topicCloud,
   count: String(reports.length),
 });
 page(path.join(DIST_DIR, "index.html"), site.title, site.description, indexHtml);
