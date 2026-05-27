@@ -158,6 +158,7 @@ const categoryLabels = new Map([
   ["optical-cpo", "光通 / CPO"],
   ["quant-research", "量化研究"],
   ["stock-analysis", "個股分析"],
+  ["hermes-agent", "Hermes 教學"],
 ]);
 
 const indexCollapsedCategories = new Set(["mk"]);
