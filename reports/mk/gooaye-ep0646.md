@@ -3,8 +3,8 @@ title: 股癌 EP646 | 🦙
 date: '2026-03-21'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊投資聚會見聞、伊朗戰爭與 CTA 砍倉、AI 趨勢往光通訊與 CPU 移轉、記憶體報價走勢，並回答 RO 回鍋、特斯拉異音、育兒情緒管理等聽眾來信。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/967f3c90-a910-493a-a15e-826d2f0368ed

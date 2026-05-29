@@ -3,8 +3,8 @@ title: 股癌 EP587 | 🍯
 date: '2025-08-27'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 開場聊中年男子的身體與心態轉變，進入市場主題後圍繞PCB材料升級（CCL從M7→M9、銅箔、玻纖布→Q布）與高速傳輸（retimer、PCIe
   Switch）的投資機會，搭配Q&A回答槓桿操作、HVDC、正二ETF、人生財富累積與婚姻相處等話題。

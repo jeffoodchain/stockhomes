@@ -3,8 +3,8 @@ title: 股癌 EP614 | 🌻
 date: '2025-11-29'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: Dr.情趣贊助奧創未來智慧擬態飛機杯廣告；育兒心得分享放養式教育與老皮友情；AI變現難題、免費仔無忠誠度、企業DNA滲透論；川湖RVL、EMIB、NVIDIA成本壓力、Google
   TPU量能；Q&A談2344操作、記憶體持股、投資低潮與黃金哲學。

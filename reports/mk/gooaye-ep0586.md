@@ -3,8 +3,8 @@ title: 股癌 EP586 | 🐐
 date: '2025-08-23'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 謝孟恭分享帶大兒子洗腳、孩子面對換老師的成長，湘南資本股東會進展樂觀；市場討論美國政府入股台積電遭否認、轉向Intel，以及Apple用Gemini、Meta雲端需求、Google雲端領先、GPT-5評價不如預期；QA涵蓋指數投資超越市場、Meta眼鏡vs
   VR、波浪理論、婚姻吵架。

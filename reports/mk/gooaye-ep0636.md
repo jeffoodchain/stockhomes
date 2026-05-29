@@ -3,8 +3,8 @@ title: 股癌 EP636 | 🐚
 date: '2026-02-14'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊春節出遊寶格麗 Villa 體驗、Applied Materials 印財報確認無塵室是 bottleneck、Michael Burry
   放空 Palantir 的偏見，以及 Q&A 裝潢、結婚、車價、0050 等。

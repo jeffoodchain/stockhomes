@@ -3,8 +3,8 @@ title: 股癌 EP592 | 🍀
 date: '2025-09-13'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: MagEasy贊助；Radiohead門票搶票困境（台灣號碼無法驗證）；市場輪動健康，記憶體NAND/DRAM大潮啟動，美光暫停報價；NVIDIA
   Rubin CPX非取代HBM而是外加需求；國巨非合意收購茂達（PMIC＋大中MOSFET）；Q&A涵蓋投資、槓桿操作、生命意義。

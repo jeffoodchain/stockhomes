@@ -3,8 +3,8 @@ title: 股癌 EP644 | 🦇
 date: '2026-03-14'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集由君綺醫美贊助，聊戰鬥周心態調整與兒子下單趣事、記憶體旺宏獨強、GTC前的部位調節、Tesla底部觀察、軟體股不能一包論，以及 Q&A
   談不追賣飛、筆記整理、Apple 摺疊機與消費市場等。

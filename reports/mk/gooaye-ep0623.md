@@ -3,8 +3,8 @@ title: 股癌 EP623 | 🎆
 date: '2025-12-31'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 今年最後一個交易日的年終回顧：陪伴家人、林口開店、湘南遊戲資本投資現況，並展望 2026 年 Power、HVDC、光通訊、銅線、雷射等題材，以及
   Q&A 系列。

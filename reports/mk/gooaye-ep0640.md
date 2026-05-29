@@ -3,8 +3,8 @@ title: 股癌 EP640 | 🐈
 date: '2026-02-28'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊兒子被太太懲罰一週不能打電動的育兒心得、太陽能聽眾 feedback、Block 裁員與 AI doomsday porn、軟體工程師職缺結構性質變、被動元件
   K 型分化、以及 Q&A 高速傳輸光銅之爭、美股遺產稅、政府標案等。

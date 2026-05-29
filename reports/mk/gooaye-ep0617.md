@@ -3,8 +3,8 @@ title: 股癌 EP617 | 👾
 date: '2025-12-10'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊抗噪耳機是現代人必備、社群比較帶來的心理壓力，再深入裝置股、EMIB 封裝、Google TPU 與軟體股 Confluent 被
   IBM 收購心得，最後 Q&A 聊感情、家庭、詐騙。

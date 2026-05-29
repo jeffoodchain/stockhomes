@@ -3,8 +3,8 @@ title: 股癌 EP658 | 🪿
 date: '2026-05-02'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊四月暴力行情後可能的回檔、紅酒收藏心得、老黃對 AI 工作論的校正迴歸、Anthropic 財報意外亮眼、台積電大將跳槽聯發科與 TPU
   後段封裝走向，以及 Q&A 記憶體、發哥 ASIC、邊緣運算等。

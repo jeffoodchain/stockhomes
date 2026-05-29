@@ -3,8 +3,8 @@ title: 股癌 EP660 | 🍄‍🟫
 date: '2026-05-09'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 台股站上 42,000 點的瘋狂多頭，謝孟恭聊市場情緒、NVIDIA 散熱材料傳言、消費性復甦訊號、被動元件全面噴發，以及處置股機制、槓桿限制、Q&A
   感情育兒等話題。

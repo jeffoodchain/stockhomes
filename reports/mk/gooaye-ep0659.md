@@ -3,8 +3,8 @@ title: 股癌 EP659 | 🦤
 date: '2026-05-06'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊旅遊 eSIM 贊助、瘦瘦針與功能性訓練心得，接著進入市場：被動元件全面起動、AMD/CPU 法說重磅上修、ASIC（GUC/Lchip）輪動，以及軟體
   AI Slop 論，末段 Q&A 談稅務、伴侶溝通、長短線切換心得。

@@ -3,8 +3,8 @@ title: 股癌 EP632 | ❄️
 date: '2026-01-31'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊歐洲生活見聞、羅馬開車、西班牙占屋議題；解讀 ASML 與台積電產能、特斯拉停產 Model S/X 與自駕車展望、機器人元年的可能性，並回覆
   Q&A。

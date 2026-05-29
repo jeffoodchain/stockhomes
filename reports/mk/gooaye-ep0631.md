@@ -3,8 +3,8 @@ title: 股癌 EP631 | 🎁
 date: '2026-01-28'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊慕赫威士忌新年禮盒贊助、老婆育兒戰神基因、Alex Honnold 爬 101 的感想、關稅與韓國案例、原物料漲價、低軌道衛星 Amazon
   Leo / Terra Wave 與 Q&A。

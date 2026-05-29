@@ -3,8 +3,8 @@ title: 股癌 EP589 | 🦋
 date: '2025-09-03'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: Roichen贊助（好折燈、正脊坐墊、優雅椅）；聊姐姐小時候告狀、爺奶重男輕女、無愧於心的人生觀；市場輪動：台股軍工／無人機題材熱、Anduril進台灣；NVIDIA
   Rubin散熱新方案（MCL／SOCAMM）、Cordelia轉Bianca；Q&A：VOO/VTI、生日祝福、Moldova、Tesla放屁功能、算命。

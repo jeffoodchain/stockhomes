@@ -3,8 +3,8 @@ title: 股癌 EP585 | 🐊
 date: '2025-08-20'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 參加台灣米其林指南2025頒獎典禮有感；台股大回檔心情反而大好，切換部位布局處置股；解析Howard Marks最新memo《The Calculus
   of Value》價值與價格觀；Q&A含買房vs留股、湘南資本不對外募資、育兒與親子、活俠傳等話題。

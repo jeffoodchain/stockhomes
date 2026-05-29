@@ -3,8 +3,8 @@ title: 股癌 EP593 | 🐙
 date: '2025-09-17'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 安哥半夜送急診有驚無險；市場族群輪動至記憶體（NAND/DRAM/NOR）與碳化矽（SiC），詳述Wolfspeed、天岳、環球晶及台系廠現況；Q&A涵蓋出場策略、Trailing
   Stop、NIKKE、Elden Ring、旅宿業困境及多則生日祝福。

@@ -3,8 +3,8 @@ title: 股癌 EP595 | 🦘
 date: '2025-09-24'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 手遊競技場對決小屁仙後談無限賽局心態；市場輪動觀察台積電強勢帶動垃圾盤；美光財報解析、記憶體漲價與被動元件佈局；Anthropic遭馬斯克唱衰及Amazon供應鏈闢謠；QA涵蓋投資風控、育兒與職涯成長。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/1153ee14-2be6-41dd-8665-fc81b49cfa65

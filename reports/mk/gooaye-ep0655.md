@@ -3,8 +3,8 @@ title: 股癌 EP655 | 🐯
 date: '2026-04-22'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 2026 年 4 月的瘋狂行情、瘦瘦針成果、少年股神 MTD 績效焦慮、Marvel Carmel NPU 與 MTK Zebrafish
   用 Intel EMIB 的風險，以及 Q&A 心態調適、左側交易與感情建議。

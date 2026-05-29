@@ -3,8 +3,8 @@ title: 股癌 EP581 | 🫏
 date: '2025-08-06'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 慶祝曼報Pro大成功、分享Anduril創辦人Palmer Luckey台灣演講心得（去中化供應鏈、無人機現代戰爭、四項選品標準）、臺積電2奈米洩密案分析，以及Q&A聊個股期、廣撒策略、感情觀與林口生活。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/92bc6758-92b3-40ed-88db-08cf8c2d92b8

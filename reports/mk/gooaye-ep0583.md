@@ -3,8 +3,8 @@ title: 股癌 EP583 | 🌲
 date: '2025-08-13'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集宣布成立肖楠資本，以台灣遊戲為核心投資台獨立遊戲團隊，首批包含《紅眼露比》與《Night Rampage》；並聊台股櫃買上影線、軍工/CPO/交換器熱點、美股槓桿工具，及Q&A涵蓋財富自由心境與人生觀。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/ec2b2ad6-0e33-44b7-bd07-54796c7ff708

@@ -3,8 +3,8 @@ title: 股癌 EP653 | 🕊️
 date: '2026-04-15'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊善變個性與紅酒入坑故事、市場多頭行情與台積電估值、聯發科 AI 晶片 V8/V9 佈局、Marvel 加入 Google 供應鏈、被動元件漲價潮，以及
   Q&A 含育兒、技術面判讀、Token 定價等。

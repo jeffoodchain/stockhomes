@@ -211,6 +211,12 @@ code {
   border-radius: 4px;
   font-size: .9em;
 }
+.search-hit {
+  background: #fde68a;
+  color: var(--color-text);
+  padding: .05em .12em;
+  border-radius: 3px;
+}
 .content table {
   width: 100%;
   border-collapse: collapse;

@@ -3,8 +3,8 @@ title: 股癌 EP629 | ⏳
 date: '2026-01-21'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集分享羅馬行帶兩個孩子搭飛機的心得、岳母與廚神 Sierry 不再是朋友的家族劇情、馬斯克 Ryanair 互嗆 Starlink 事件，以及台股關稅後市場廣度開啟的看法。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/9fac46fa-8c5d-4573-9caf-4d48c8f92901

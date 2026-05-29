@@ -3,8 +3,8 @@ title: 股癌 EP656 | 🍇
 date: '2026-04-25'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 Ergotron 螢幕支架贊助、紅酒探險與 Costco 五大酒莊撿便宜、Ozempic 換 Monjaro 減肥心得，並深入分析金管會放寬投信持股上限後台積電的補部位行情、CPU
   與 TPU 趨勢，以及 Q&A 割喉案、Post Malone 演唱會、湘南育兒。

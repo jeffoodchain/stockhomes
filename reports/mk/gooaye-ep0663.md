@@ -3,8 +3,8 @@ title: 股癌 EP663 | 🦘
 date: '2026-05-20'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊減重心得與身體投資、被動元件被掃貨與漲價浪潮、Broadcom 少一條魚晶片分析，以及 Q&A 光通走勢、跟單比較心態、花錢哲學與直覺交易等話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/a3324cb1-b7be-4483-a739-d3ebfc534277

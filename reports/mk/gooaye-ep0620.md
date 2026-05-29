@@ -3,8 +3,8 @@ title: 股癌 EP620 | 🐥
 date: '2025-12-20'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集回應上集育兒爭議的網路炎上、推廣優勢資本徵才、聊 AI 軟體新方向 Lemonade × Tesla 保險合作，以及 Q&A 育兒、正二、定期定額、保險、結婚祝福等。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/ffb3795c-2a0c-473b-bf47-f05e69f8bb66

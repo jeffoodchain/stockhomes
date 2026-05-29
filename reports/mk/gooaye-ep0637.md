@@ -3,8 +3,8 @@ title: 股癌 EP637 | 🦖
 date: '2026-02-18'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊巴厘島度假心得、帶小孩出國的甘苦、美股軟體股錯殺與 Cloudflare/Microsoft/CrossStrike 看法，OpenCode
   自動化與蘋果 Apple Intelligence 的潛力，以及 Q&A。

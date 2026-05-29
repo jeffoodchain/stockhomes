@@ -3,8 +3,8 @@ title: 股癌 EP605 | 🪇😎 arigatouuu  😑🎸
 date: '2025-10-29'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 攜家帶眷赴東京看綠洲（Oasis）演唱會，爸爸偷買啤酒的名場面超暖心；市場進入糖豆人地板模式，太弱流強為操作核心；Skyworks 併 Qorvo、旺宏
   MLC NAND 轉單、Nexperia 轉單持續追蹤，Q&A 涵蓋游泳教育、裝潢業、遊戲投資與親子關係。

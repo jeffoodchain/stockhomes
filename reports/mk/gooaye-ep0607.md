@@ -3,8 +3,8 @@ title: 股癌 EP607 | 🌲
 date: '2025-11-05'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集宣布烏杉資本（Fund 2）成立，結合文策院與民間資金投資台灣遊戲；復盤美股假日後台股期貨開盤恐慌接刀策略；討論 Astera Labs、Palantir
   財報與高估值；Q&A 涵蓋匿名制、AI 淘汰就業、Intel 翻身、記憶體展望與個人投資心法。

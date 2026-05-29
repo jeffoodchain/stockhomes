@@ -3,8 +3,8 @@ title: 股癌 EP645 | 🎱
 date: '2026-03-18'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集從孩子睡著的感觸出發，回顧節目起源與投資哲學演化；接著評析 NVIDIA GTC、ASIC 陣營動態、Sudo SRAM 議題，以及
   LPU 量預估；最後 Q&A 涵蓋 OpenAI 投資方式、記憶體族群、水位調控、書單與職涯建議。

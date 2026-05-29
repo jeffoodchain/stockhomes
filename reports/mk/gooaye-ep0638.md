@@ -3,8 +3,8 @@ title: 股癌 EP638 | 🐈‍⬛
 date: '2026-02-21'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊春節 chill 假期、RO 與電動的回憶殺、伊朗戰爭風險、IEEPA 關稅被最高法院否決、Anthropic 推出 Cloud Code
   Security 對資安股的衝擊，以及 Q&A 標的會不會漲、AOI / SRLabs / Palantir / 美光等個股看法。

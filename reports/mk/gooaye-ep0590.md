@@ -3,8 +3,8 @@ title: 股癌 EP590 | 🫏
 date: '2025-09-06'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: NordVPN 贊助；謝孟恭分享與年長友人聚餐的人生感悟，再談記憶體族群啟動、Broadcom 法說 Hock Tan 確認第四大 AI
   客戶為 OpenAI，以及 NVIDIA Rubin 生產隱憂；Q&A 涵蓋感情、育兒、槓桿投資等主題。

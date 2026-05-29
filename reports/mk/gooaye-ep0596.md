@@ -3,8 +3,8 @@ title: 股癌 EP596 | 🧃
 date: '2025-09-27'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 花蓮賑災感謝聽眾響應；Apple Watch 血壓破鎖區攻略；Q3 盤勢回顧與四月股災後風控心得；Marvell Alaska DSP AEC
   放量傳言衝擊 Credo/Astera Labs/茂聯供應鏈分析；機器人、記憶體、BOXX ETF 等 Q&A。

@@ -3,8 +3,8 @@ title: 股癌 EP664 | 🐟
 date: '2026-05-23'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊處置股關到無法動彈的行情、紅酒餐廳省錢心得、Anthropic 轉獲利與 Google TPU 外銷對被動元件供應鏈的衝擊，以及 Q&A
   房市、育兒、選擇權等。

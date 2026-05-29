@@ -3,8 +3,8 @@ title: 股癌 EP608 | 🍭
 date: '2025-11-08'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 外資大哥聚餐啟發謝孟恭把部位降到七成、享受生活；討論 Apple 付 Google 10 億採購客製 Gemini 驅動 Siri；深談記憶體
   Super Cycle，HBM、NAND 全面供不應求，建議別追短線；Q&A 涵蓋停利策略、婚姻吵架、進擊的巨人。

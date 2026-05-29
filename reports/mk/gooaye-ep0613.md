@@ -3,8 +3,8 @@ title: 股癌 EP613 | 🦔
 date: '2025-11-26'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: Sony WH-1000XM6 耳機贊助開場；謝孟恭分享湘南資本遊戲投資進展與 MMEA 峰會心得；深度剖析 Google TPU 供應鏈（Broadcom
   vs MediaTek CoWoS 數量與單價差距）；討論 NVIDIA 被過度恐慌拋售的邏輯謬誤；Q&A 涵蓋槓桿心態、帳戶切割、合約白紙黑字等議題。

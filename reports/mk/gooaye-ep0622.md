@@ -3,8 +3,8 @@ title: 股癌 EP622 | 🕯️
 date: '2025-12-27'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集向 12 月 19 日事件中的英勇義士與受難者致敬，並聊華碩自建 DRAM 廠傳聞、NVIDIA 200 億美元收購 Groq、SRAM
   與打破記憶體牆的可能性，以及聽眾 Q&A。

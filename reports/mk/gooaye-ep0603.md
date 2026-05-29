@@ -3,8 +3,8 @@ title: 股癌 EP603 | 🐠
 date: '2025-10-22'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集以「各種缺」為主軸，討論被動元件（HVDC需求推升高階MLCC）及Nexperia荷蘭政府接管事件引發的離散元件轉單潮，另介紹PSMC矽中介層良率突破，以及Q&A涵蓋育兒、憂鬱症、理財等話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2e90c411-12f7-4b73-80a1-8d00dd31ed46

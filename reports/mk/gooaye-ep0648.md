@@ -3,8 +3,8 @@ title: 股癌 EP648 | 🦆
 date: '2026-03-28'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊修麗可新品業配、瘦肉針初體驗與健康管理，市場話題涵蓋 NASDAQ 破底感受、Apple AI 策略、玻璃基板 (GCS/TGV)
   產業時間軸，以及 KVCache 殺記憶體是否有料，Q&A 談職場八卦、all-in 一支股、孩子成長感悟等。

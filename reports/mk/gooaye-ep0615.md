@@ -3,8 +3,8 @@ title: 股癌 EP615 | 🌶️
 date: '2025-12-03'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 Tom Yorke 演唱會延期、AWS reinvent 後 AWS chain 反應、散熱 Coplay/QD 降價、BCI 散裝航運機會、Coplay/EMIB
   細節，以及 Q&A 槓桿、感情、Choco 學講話等。

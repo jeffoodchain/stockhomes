@@ -3,8 +3,8 @@ title: 股癌 EP599 | 🐦‍⬛
 date: '2025-10-08'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 開場聊膽固醇針劑 Leqvio 停藥實驗失敗，談林口幼兒園疑似虐嬰事件與選校心得；產業面討論 OpenAI 與 AMD 六 GW 合作震撼業界、記憶體報價飆漲，以及
   AI 泡泡越吹越大的觀察；Q&A 涵蓋情報來源、停損追回、育兒、動漫推薦與臺股選股。

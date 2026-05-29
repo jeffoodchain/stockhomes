@@ -3,8 +3,8 @@ title: 股癌 EP582 | 🍔
 date: '2025-08-09'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: NordVPN 贊助；謝孟恭帶老婆看 F1 電影感想、自玄學之旅找到「恐怖老師」心得；臺灣半導體關稅解析、Tesla Dojo 計畫裁撤與
   AI6 整合、ASIC vs GPGPU 白熱化、GPT-5 推出淺談；Q&A 涵蓋玄學、券商分散、技術分析、PropFirm 等話題。

@@ -3,8 +3,8 @@ title: 股癌 EP652 | 🐸
 date: '2026-04-11'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊戒菸心得（深呼吸替代法）、美股 CPU/光通族群回血、被動元件缺貨預警、Anthropic Mythos 算力限制、光通打件廠新趨勢，以及處置股操作、Tesla
   信仰者、親子與感情 Q&A。

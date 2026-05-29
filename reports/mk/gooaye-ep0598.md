@@ -3,8 +3,8 @@ title: 股癌 EP598 | 🥗
 date: '2025-10-04'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 中秋特集：聊逛夜市、臉書盈利開箱。產業面：緯創從 L6 升至 L10 的利多故事、NVIDIA 管控 ODM 供應鏈；MCCP 微通道冷板作為
   MCL 過渡方案；聯發科四面楚歌分析。Q&A 涵蓋記憶體/SSD 看法、操作心法與人生迷惘。

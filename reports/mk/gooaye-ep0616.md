@@ -3,8 +3,8 @@ title: 股癌 EP616 | 🥚
 date: '2025-12-06'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊社交白痴心得、散裝航運賭停戰、博通漲價、台積電產能不足外溢給 OSAT/Intel EMIB、MCL 建策噴新高，以及 Q&A 捏卵爸爸、新貴
   PCB、教養與 Credo/Astera Labs。

@@ -3,8 +3,8 @@ title: 股癌 EP602 | 🐈‍⬛
 date: '2025-10-18'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集討論育兒管教哲學、臺積電Q3法說會解析、記憶體（DRAM/NAND）超級需求與OpenAI開放色情內容的催化效應，並於Q&A分享算命觀、職涯低潮、路上糾紛等心態分享。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/ef1769de-07ea-44cd-9952-fe36df5c2cc5

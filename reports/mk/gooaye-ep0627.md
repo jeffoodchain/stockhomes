@@ -3,8 +3,8 @@ title: 股癌 EP627 | 🪸
 date: '2026-01-14'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊眠豆腐贊助、自身醫美初體驗心得、被動元件全面起漲、台積電法說與裝置產業強勁、CoWoP 概念股題材、市場情緒判斷，以及 Q&A 房地產、記憶體模組廠、孝順與親情、抗噪耳機、話語霸權等。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/f7d4cf06-84f4-42e2-aa88-a8aada4c209c

@@ -3,8 +3,8 @@ title: 股癌 EP628 | 🍑
 date: '2026-01-17'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊春節捏卵陣線、孩子個性差異、臺美關稅 15% + 232 最惠國、臺積電 CAPEX 上修到 52–56B 對裝置產物股的影響、被動元件漲價潮，以及
   Q&A 花錢與快樂、男女朋友打 LOL、儲存股、體驗 vs. 金錢等。

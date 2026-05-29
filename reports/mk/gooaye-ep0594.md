@@ -3,8 +3,8 @@ title: 股癌 EP594 | 🪸
 date: '2025-09-20'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: NVIDIA入股Intel約4.4%，謝孟恭解析對台積電是利多、對AMD與Astera Labs是利空；Google Chrome整合AI
   Agent；Apple Watch高血壓偵測與iPhone 17 Liquid Glass心得；Q&A談育兒、資產觀、老AI股看法。

@@ -3,8 +3,8 @@ title: 股癌 EP612 | 🍒
 date: '2025-11-22'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集由喬致庸國際贊助電暖器團購。謝孟恭聊聖誕節、遊戲投資心得、兩極化性格；市場話題討論 NVIDIA 應收帳款與庫存疑慮、CTA 賣盤、iChef
   被 91APP 收購爭議；Q&A 涵蓋 Tesla、光通族群、期貨槓桿、全職交易心態等。

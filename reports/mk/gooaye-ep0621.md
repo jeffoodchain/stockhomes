@@ -3,8 +3,8 @@ title: 股癌 EP621 | 🎄
 date: '2025-12-24'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 聖誕特集：分享兩個地方爸爸的感動時刻、今年績效檢討、四月事件後的風控與槓桿調整，以及 Q&A 育兒、竹科媽媽、見義勇為與 AP Memory
   矽電容話題。

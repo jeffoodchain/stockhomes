@@ -3,8 +3,8 @@ title: 股癌 EP639 | 🐗
 date: '2026-02-25'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊時間流逝感、台股與日股噴射 vs 美股弱勢、GTC 大會的 SRAM/Groq 想像題材、太陽能去中化新契機，以及 Q&A 的判讀方式、特斯拉、戀劇人推薦等。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/cf179ea7-36e0-467d-abca-8b10f191d4f3

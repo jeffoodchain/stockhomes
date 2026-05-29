@@ -26,8 +26,9 @@
         const cards = [...document.querySelectorAll('[data-search]')];
         const sections = [...document.querySelectorAll('.category')];
         const noResults = document.querySelector('[data-no-results]');
+        const currentQuery = () => searchInput.value.trim();
         searchInput.addEventListener('input', () => {
-          const terms = searchInput.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+          const terms = currentQuery().toLowerCase().split(/\s+/).filter(Boolean);
           const isSearching = terms.length > 0;
           let visibleCount = 0;
           document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = isSearching; });
@@ -43,6 +44,43 @@
           }
           if (noResults) noResults.hidden = !isSearching || visibleCount > 0;
         });
+        document.addEventListener('click', (event) => {
+          const link = event.target.closest('.card-title');
+          const query = currentQuery();
+          if (!link || !query || !link.closest('[data-search]')) return;
+          const url = new URL(link.href);
+          url.searchParams.set('q', query);
+          link.href = url.toString();
+        });
+      }
+
+      const reportQuery = new URLSearchParams(window.location.search).get('q');
+      const content = document.querySelector('.content');
+      if (reportQuery && content) {
+        const terms = [reportQuery.trim(), ...reportQuery.trim().split(/\s+/)].filter(Boolean);
+        const escaped = terms
+          .sort((a, b) => b.length - a.length)
+          .map((term) => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        const pattern = escaped.length ? new RegExp(escaped.join('|'), 'i') : null;
+        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+          acceptNode(node) {
+            if (!node.nodeValue.trim() || node.parentElement.closest('script, style, code, pre, mark')) {
+              return NodeFilter.FILTER_REJECT;
+            }
+            return pattern && pattern.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+          },
+        });
+        const textNode = walker.nextNode();
+        if (textNode) {
+          const match = textNode.nodeValue.match(pattern);
+          const range = document.createRange();
+          range.setStart(textNode, match.index);
+          range.setEnd(textNode, match.index + match[0].length);
+          const mark = document.createElement('mark');
+          mark.className = 'search-hit';
+          range.surroundContents(mark);
+          mark.scrollIntoView({ block: 'center' });
+        }
       }
     </script>
     <script type="module">

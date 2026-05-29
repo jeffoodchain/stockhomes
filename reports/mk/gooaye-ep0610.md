@@ -3,8 +3,8 @@ title: 股癌 EP610 | 🍅
 date: '2025-11-15'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊現金水位拉高後的生活品質改善、NASDAQ摸月線後小買策略、散熱MCL族群傳言辨偽、川湖是否在NV RVL/AVL榜單、記憶體資金匯聚現象，Q&A涵蓋人形機器人前景、遊戲投資長青資本思維及親子教養心得。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2fe89a3e-b4ee-490e-8111-3271a1fe9217

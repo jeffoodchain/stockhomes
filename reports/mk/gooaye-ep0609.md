@@ -3,8 +3,8 @@ title: 股癌 EP609 | 🌪️
 date: '2025-11-12'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: Saily eSIM 贊助；談上台通節目心得與人設；市場盤面健康度惡化、月線以上標的剩三成；記憶體漲價受害者：網通三雄、IPC、PCNB；策略轉向汰弱留強改找錯殺受害股；Q&A
   涵蓋水位管理、ESPP、求婚、Dyson、Faker、育兒。

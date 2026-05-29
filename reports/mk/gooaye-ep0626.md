@@ -3,8 +3,8 @@ title: 股癌 EP626 | 🕷️
 date: '2026-01-10'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊嘉義國際年菜業配、入坑紅酒的雜感、市場瘋狂但廣度窄、記憶體 super cycle、台積電擴廠帶動氣水電與無塵室、馬斯克 2 奈米廠的第一性原理、以及
   Q&A。

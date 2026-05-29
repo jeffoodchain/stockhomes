@@ -3,8 +3,8 @@ title: 股癌 EP618 | 🐟
 date: '2025-12-13'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集從柏林 Radiohead 演唱會、獨履心得聊到博通財報拆解、Google TPU 代數、矽光子、CoWoS 瓶頸與廠務裝置股動能；Q&A
   涵蓋土博歧視、車廂噪音、孕中性別、長輩 mansplaining、SpaceX IPO 與槓桿風控。

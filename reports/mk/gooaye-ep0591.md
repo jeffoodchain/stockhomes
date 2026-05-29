@@ -3,8 +3,8 @@ title: 股癌 EP591 | ♟️
 date: '2025-09-10'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集謝孟恭分享二兒子奇安因尿道感染入住台大醫院的驚險過程，感嘆健保定價過低；市場面討論NAND/DRAM齊漲、NVIDIA Rubin CPX新架構、微軟與Nebius簽194億美元算力大單，以及華碩轉股可能性，並回答多則Q&A與生日祝福。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/ec6ef62b-3894-4189-8a77-8137d8aa683a

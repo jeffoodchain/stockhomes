@@ -3,8 +3,8 @@ title: 股癌 EP601 | 🐜
 date: '2025-10-15'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊台美股震盪與孟恭的降槓桿決策；重點揭露 Anthropic 可能為 Broadcom 神秘 10B 客戶、並以 Google TPU
   V6（Hammer）授權晶片下單，開啟 Google 供應鏈新想像；另討論 OCP 大會 ESUN 乙太網聯盟、遊戲《Ghost of Yōtei》及《明末：淵虛之羽》；Q&A

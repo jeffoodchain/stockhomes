@@ -3,8 +3,8 @@ title: 股癌 EP600 | 🏕️
 date: '2025-10-11'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 中國宣布全面限制稀土出口，NASDAQ單日重挫逾4%，台股連假後預估開盤-6%。孟恭分析稀土影響有限、市場更怕聯準會降息預期受阻，建議維持汰弱留強策略；Q&A涵蓋全職投資、停損觀念與育兒話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/c6410d83-6e9b-4ead-a3cd-7428465487b5

@@ -3,8 +3,8 @@ title: 股癌 EP657 | 🐫
 date: '2026-04-29'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 Intel 後段封裝良率達 90%、台積電被外資壓制後中小輪動、OpenAI × 力訊原生 AI 手機、Meta × AWS Graviton5
   大單，以及被動元件 / 記憶體族群全面表態，加 Q&A 槓桿操作、育兒、投資紀律等。

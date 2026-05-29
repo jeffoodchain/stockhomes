@@ -152,7 +152,7 @@ function tagLinks(tags, fromDir) {
 }
 
 const categoryLabels = new Map([
-  ["mk", "MK 逐字稿"],
+  ["mk", "股癌逐字稿"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
@@ -174,7 +174,7 @@ function categoryLink(category, fromDir) {
 function reportList(items, fromDir, options = {}) {
   const className = ["cards", options.className].filter(Boolean).join(" ");
   return `<div class="${className}">${items.map((report) => {
-    const searchText = report.searchText || [report.title, report.excerpt, report.category, ...report.tags].join(" ");
+    const searchText = options.searchText ? options.searchText(report) : report.searchText || [report.title, report.excerpt, report.category, ...report.tags].join(" ");
     return `<article class="card" data-search="${escapeHtml(searchText)}">
       <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
       <p>${escapeHtml(report.excerpt)}</p>
@@ -261,6 +261,7 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
     sourcePath: toPosix(path.relative(ROOT, file)),
     url,
     excerpt: attributes.description || excerpt(body),
+    bodyText,
   };
   meta.searchText = [
     title,
@@ -340,7 +341,16 @@ for (const [category, items] of categories) {
     path.join(DIST_DIR, "categories", `${category}.html`),
     `分類：${categoryTitle(category)}`,
     `${items.length} 篇報告，分類為 ${categoryTitle(category)}`,
-    `<section class="hero"><p class="eyebrow">分類</p><h1>${escapeHtml(categoryTitle(category))}</h1><p class="stat">${items.length} 篇報告</p></section>${reportList(items, path.join(DIST_DIR, "categories"))}`,
+    `<section class="hero"><p class="eyebrow">分類</p><h1>${escapeHtml(categoryTitle(category))}</h1><p class="stat">${items.length} 篇報告</p></section>
+    <section class="search-panel" aria-label="搜尋${escapeHtml(categoryTitle(category))}">
+      <label for="report-search">搜尋${escapeHtml(categoryTitle(category))}</label>
+      <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到文章第一個命中位置" />
+      <p>搜尋會比對這個分類內的標題、摘要與文章內文。</p>
+    </section>
+    <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
+    ${reportList(items, path.join(DIST_DIR, "categories"), {
+      searchText: (report) => [report.title, report.excerpt, report.bodyText].join(" "),
+    })}`,
   );
 }
 

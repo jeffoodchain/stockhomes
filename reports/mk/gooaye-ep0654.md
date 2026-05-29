@@ -3,8 +3,8 @@ title: 股癌 EP654 | 🌵
 date: '2026-04-18'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊行情大噴後的市場觀察、被動元件與 CPU 缺貨、Anthropic 營收認定爭議、Token Maxing 值不值、Sam Altman
   職涯論，以及 Q&A 退休配置、成功定義、育兒等。

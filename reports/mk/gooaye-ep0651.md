@@ -3,8 +3,8 @@ title: 股癌 EP651 | One for all
 date: '2026-04-08'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 Saily eSIM 贊助、林哲瑄引退儀式心得、美伊停火與油價觀察、Tesla Terafab、蘋果搶市佔、CPU/被動元件題材，以及
   Q&A 多元興趣、槓桿使用、POGO PIN 故事、育兒社群討論等。

@@ -3,8 +3,8 @@ title: 股癌 EP584 | 🍅
 date: '2025-08-16'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: WOKY純鈦杯贊助；因湘南資本曝光新聽眾大增；解釋節目形態演變；台股進入白熱化，PCB板材族群（富喬/金居）飆漲，Anduril創辦人訪台，Applied
   Materials下修，Coherent財報剖析；Q&A涵蓋PS5遊戲推薦、五檔掛單玄機、造市商操作、PS5雙人遊戲、遠距離關係等。

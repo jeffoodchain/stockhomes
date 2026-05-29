@@ -3,8 +3,8 @@ title: 股癌 EP650 | 🦄
 date: '2026-04-04'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊瘦瘦針第二針體感、美伊戰事與Pizza Tracker、CPU 在 Agentic AI 時代的崛起（ARM/Intel/AMD）、鋁電容缺貨與鋁價上漲，以及
   Q&A 停損、換工作、育兒戒尿布等。

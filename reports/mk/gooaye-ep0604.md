@@ -3,8 +3,8 @@ title: 股癌 EP604 | 🦚
 date: '2025-10-25'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集以蓮花燈國民外交開場，轉述 Nexperia 內部員工心聲，更新記憶體報價、MLC NAND 面貌、Tesla Q3 財報亮點與 Optimus
   V3 預期，Q&A 涵蓋當兵、信仰、教育分眾化等多元話題。

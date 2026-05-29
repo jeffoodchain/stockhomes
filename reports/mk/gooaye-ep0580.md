@@ -3,8 +3,8 @@ title: 股癌 EP580 | 🦙
 date: '2025-08-02'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 暑假帶小孩苦樂、Confluent財報摔跤、Cloudflare四大策略與AI時代網路生態系重塑、台灣關稅20%分析、穩定幣看多、散戶籌碼洗盤原理，及聽眾Q&A。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/5f2f44a2-266d-4694-ab53-a538832044a8

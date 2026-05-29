@@ -3,8 +3,8 @@ title: 股癌 EP630 | ⭐
 date: '2026-01-24'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊歐洲過年生活、臺股廣度全面開啟、衛星供應鏈、聯發科漲停、記憶體漲價疑慮，並回答 Q&A 未上市股、AI 投資、孩子教育等。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/5fbff599-9897-422a-812f-479eb0d75bd1

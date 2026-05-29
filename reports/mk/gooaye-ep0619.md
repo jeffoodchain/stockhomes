@@ -3,8 +3,8 @@ title: 股癌 EP619 | 🛰️
 date: '2025-12-17'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊歐洲 long stay 心情、二兒子健康狀況與聽眾劉媽媽手寫信、盤面拾荒策略、OpenAI 與 AWS 臥底融資傳聞、低軌衛星題材爆發，以及
   Q&A 育兒、性別議題、捐款心法、矽光子原理等。

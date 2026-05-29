@@ -3,8 +3,8 @@ title: 股癌 EP588 | 🐦‍⬛
 date: '2025-08-30'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: NVIDIA 財報證實 Rubin 量產進程、Scale Across 光通訊成下個題材；Nano Banana 爆紅帶動儲存需求想像；孟恭分享育兒觀、阿姨恩師往事，並回覆技術分析、正二
   ETF、金字塔加碼等 Q&A。

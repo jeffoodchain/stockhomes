@@ -3,8 +3,8 @@ title: 股癌 EP606 | 🌙
 date: '2025-11-01'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 萬聖節前夕，謝孟恭從孩子校外教學講到林口富霸拱股帥氣，再聊 Amazon AWS 財報直接破解市場放的假消息，供應鏈全線反彈；也聊 Darden
   低收入消費者縮手、AI 通膨兩極，Q&A 談餐廳推薦、老婆溝通術、人生回力標。

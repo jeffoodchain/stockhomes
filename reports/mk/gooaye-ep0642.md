@@ -3,8 +3,8 @@ title: 股癌 EP642 | 🐧
 date: '2026-03-07'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊三月盤面輪動與軟體股反彈、光通與銅的估值差異、蘋果藉記憶體漲價搶市佔的策略，以及 Q&A 手遊育兒、物慾控管、配息稅務與工作換跑道等話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/54b77e39-53f2-47be-afae-e2f6162a8bb0

@@ -3,8 +3,8 @@ title: 股癌 EP643 | 🦊
 date: '2026-03-11'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊電腦拔風扇的生命頓悟、低點操作檢討、原油與VIX風險、記憶體漲價、NVIDIA LPU題材、伊朗局勢，以及英文名字、槓桿、蘋果折疊機等Q&A。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/788ff1ea-2513-4be6-8100-e57a4baf9bc3

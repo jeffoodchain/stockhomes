@@ -3,8 +3,8 @@ title: 股癌 EP611 | 🧱
 date: '2025-11-19'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集回顧謝孟恭上臺通podcast心得、澄清遊戲資本謠言，分析旺宏MLC NAND獨大、被動元件走勢、AWS Trainium 2遞延風波，並在Q&A聊槓桿心態、借東西問題、推薦臺北義式餐廳等生活話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/4c392bc0-0bac-4074-a0df-43ab8ce75fbd

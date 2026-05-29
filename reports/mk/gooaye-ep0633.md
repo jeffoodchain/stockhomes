@@ -3,8 +3,8 @@ title: 股癌 EP633 | 🪢
 date: '2026-02-04'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集從西班牙看房聊到小朋友教育的兩難，分享盤面警戒、低軌道衛星與散熱族群、軟體 A/B 劇本以及 Apple 財報，並大量回覆 Q&A。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/e511ab59-5e81-461a-896b-915a76e346e3

@@ -3,8 +3,8 @@ title: 股癌 EP634 | 👻
 date: '2026-02-07'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊小孩教育選擇與多元路線、台股盤中驚心動魄與抄底策略、四大 CSP 巨頭 CAPEX 噴上 7000 億美元、Google/Microsoft
   Maya 等供應鏈觀察，以及 Q&A 槓桿配置、婆媳同住、追劇分心等。

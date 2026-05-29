@@ -3,8 +3,8 @@ title: 股癌 EP597 | 🦔
 date: '2025-10-01'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊育兒感悟與幼教產業差別化定價、精品業困境、AI 影片詐騙隱憂、NAND 儲存大趨勢、無人機去中化 CIS 機會，以及 Q&A 含投資方法、iPhone
   17、空洞騎士 Silksong、膽固醇控制等。

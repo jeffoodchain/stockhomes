@@ -3,8 +3,8 @@ title: 股癌 EP647 | 🍬
 date: '2026-03-25'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊 AI 實際使用心得與過度恐慌的差距、SORA 喊停對儲存股影響、馬斯克 TerraFab 計畫的可行性分析，以及盤勢區間操作、光通
   CPU 佈局，並回答多則 Q&A。

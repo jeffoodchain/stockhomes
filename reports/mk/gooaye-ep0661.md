@@ -3,8 +3,8 @@ title: 股癌 EP661 | 🚲
 date: '2026-05-13'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集由HARU含春贊助，聊臺中皮諾可可之旅與紅酒興趣深化、盤面被動元件全面強勢、Legacy補庫存分析、漢唐財報觀察，以及Q&A涵蓋小作文判斷、刺青、感情、建廠股等話題。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/0dd4828f-6df5-48aa-8676-caca6024987f

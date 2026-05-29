@@ -3,8 +3,8 @@ title: 股癌 EP649 | 💌
 date: '2026-04-01'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊瘦瘦針心得與打網球新嗜好；市場分析伊朗地緣風險下的死貓跳與臺股強勢；解析 NVIDIA 投資 Marvell 的戰略意涵與 NVLink
   Fusion；並回覆聽眾 Q&A 含記憶體架構、育兒、選擇權與人生雜談。

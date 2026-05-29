@@ -3,8 +3,8 @@ title: 股癌 EP635 | 🌴
 date: '2026-02-11'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集分享回國前奇安生病送 Bambino Gesù 醫院的心路歷程、許願捐 200 萬、過年滿倉策略、美光/海力士驗證雜訊、Meco HDI
   PCB 上修 22% 漲停、Google DRAM Rack 與 Marvell MPU 拼圖，以及 Q&A 答覆。

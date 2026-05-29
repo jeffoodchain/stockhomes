@@ -3,8 +3,8 @@ title: 股癌 EP625 | 🧸
 date: '2026-01-07'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊開年臺股噴射行情、主流股轉折、NVIDIA VR Rubin 與 ICMS、群聯 Controller 進駐 NVIDIA Switch
   Tray，以及 Q&A 研究報告、981A 買 0050、信貸正二、外遇等。

@@ -3,8 +3,8 @@ title: 股癌 EP641 | 💥
 date: '2026-03-04'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊伊朗戰爭升溫的不確定性、亞股韓股崩跌教訓、減碼節奏與光通成為下一波主流的論述，並回答 Q&A 滿手南亞科萬宏的迷因、灰階思考、寶可夢卡、處置股與燒金紙等。
 source_url: https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/f6983297-4958-47c5-bc3c-990a9687ce2e

@@ -3,8 +3,8 @@ title: 股癌 EP624 | 🎥
 date: '2026-01-03'
 category: mk
 tags:
-- MK
 - 股癌
+- 逐字稿
 - transcript
 description: 本集聊如邑堂太陽餅、看 MR 公司後對 simulation 與 Apple/Meta AR 路線的想法、2026 開盤台積電摸 1585
   元、TPU/AWS 砍單鬼故事、SRAM 概念股華邦電與愛普、聯詠與翔碩，以及 Q&A 階級複製、捏軟陣線與爸媽生病等。
