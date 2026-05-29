@@ -167,6 +167,12 @@ function categoryTitle(category) {
   return categoryLabels.get(category) || category;
 }
 
+function compareCategories(a, b) {
+  if (a === "mk") return -1;
+  if (b === "mk") return 1;
+  return categoryTitle(a).localeCompare(categoryTitle(b));
+}
+
 function categoryLink(category, fromDir) {
   return `<a href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(categoryTitle(category))}</a>`;
 }
@@ -303,7 +309,7 @@ const tags = reports.reduce((m, r) => {
 
 const indexDir = DIST_DIR;
 const categoryNav = [...categories.entries()]
-  .sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))
+  .sort(([a], [b]) => compareCategories(a, b))
   .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(categoryTitle(category))} <span>${items.length} 篇</span></a>`)
   .join("");
 const hiddenTopicTags = new Set(["mk", "transcript", "股癌", "substack"]);
@@ -319,7 +325,7 @@ const topicCloud = [...tags.entries()]
   .join("");
 
 let listHtml = "";
-for (const [category, items] of [...categories.entries()].sort(([a], [b]) => categoryTitle(a).localeCompare(categoryTitle(b)))) {
+for (const [category, items] of [...categories.entries()].sort(([a], [b]) => compareCategories(a, b))) {
   if (indexCollapsedCategories.has(category)) {
     listHtml += collapsedCategorySection(category, items, indexDir);
   } else {
