@@ -372,4 +372,5 @@ for (const [tag, items] of tags) {
 fs.writeFileSync(path.join(DIST_DIR, "reports.json"), JSON.stringify(reports, null, 2));
 fs.copyFileSync(path.join(ROOT, "styles.css"), path.join(DIST_DIR, "styles.css"));
 copyDir(ASSETS_DIR, path.join(DIST_DIR, "assets"));
+if (fs.existsSync(path.join(ROOT, "CNAME"))) fs.copyFileSync(path.join(ROOT, "CNAME"), path.join(DIST_DIR, "CNAME"));
 console.log(`Build complete: ${reports.length} report(s), ${categories.size} categor${categories.size === 1 ? "y" : "ies"}, ${tags.size} tag(s).`);
