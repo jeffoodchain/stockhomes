@@ -6,6 +6,7 @@
   <label for="report-search">搜尋報告</label>
   <input id="report-search" data-report-search type="search" placeholder="輸入股票、公司、主題或關鍵字，例如 仁寶、Rubin、AI 伺服器、MLCC" />
   <p>搜尋會比對標題、摘要、分類、標籤、keywords / aliases 與文章內文，不只看 tag。</p>
+  <label class="hit-list-toggle"><input type="checkbox" data-list-toggle /> 逐條列出每個命中（同一篇多次提到會分列）</label>
 </section>
 <section class="browse-panel" aria-label="瀏覽入口">
   <div>
@@ -18,4 +19,5 @@
   </div>
 </section>
 <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
+<div class="hit-list" data-hit-list hidden></div>
 {{reports}}

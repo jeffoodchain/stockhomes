@@ -180,9 +180,10 @@ function categoryLink(category, fromDir) {
 function reportList(items, fromDir, options = {}) {
   const className = ["cards", options.className].filter(Boolean).join(" ");
   return `<div class="${className}">${items.map((report) => {
-    const searchText = options.searchText ? options.searchText(report) : report.searchText || [report.title, report.excerpt, report.category, ...report.tags].join(" ");
-    return `<article class="card" data-search="${escapeHtml(searchText)}">
-      <a class="card-title" href="${relFrom(fromDir, report.url)}">${escapeHtml(report.title)}</a>
+    const metaText = [report.title, report.excerpt, report.category, categoryTitle(report.category), ...report.tags, ...(report.keywords || []), ...(report.aliases || [])].join(" ");
+    const href = relFrom(fromDir, report.url);
+    return `<article class="card" data-search="${escapeHtml(metaText)}" data-body="${escapeHtml(report.bodyText || "")}" data-url="${escapeHtml(href)}" data-title="${escapeHtml(report.title)}">
+      <a class="card-title" href="${href}">${escapeHtml(report.title)}</a>
       <p>${escapeHtml(report.excerpt)}</p>
     </article>`;
   }).join("\n")}</div>`;
@@ -352,11 +353,11 @@ for (const [category, items] of categories) {
       <label for="report-search">搜尋${escapeHtml(categoryTitle(category))}</label>
       <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到文章第一個命中位置" />
       <p>搜尋會比對這個分類內的標題、摘要與文章內文。</p>
+      <label class="hit-list-toggle"><input type="checkbox" data-list-toggle /> 逐條列出每個命中（同一篇多次提到會分列）</label>
     </section>
     <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
-    ${reportList(items, path.join(DIST_DIR, "categories"), {
-      searchText: (report) => [report.title, report.excerpt, report.bodyText].join(" "),
-    })}`,
+    <div class="hit-list" data-hit-list hidden></div>
+    ${reportList(items, path.join(DIST_DIR, "categories"))}`,
   );
 }
 
