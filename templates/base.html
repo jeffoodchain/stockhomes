@@ -21,20 +21,72 @@
       <main>{{content}}</main>
     </div>
     <script>
+      const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (ch) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+      }[ch]));
+
       const searchInput = document.querySelector('[data-report-search]');
       if (searchInput) {
         const cards = [...document.querySelectorAll('[data-search]')];
         const sections = [...document.querySelectorAll('.category')];
         const noResults = document.querySelector('[data-no-results]');
+        const listToggle = document.querySelector('[data-list-toggle]');
+        const hitList = document.querySelector('[data-hit-list]');
         const currentQuery = () => searchInput.value.trim();
-        searchInput.addEventListener('input', () => {
-          const terms = currentQuery().toLowerCase().split(/\s+/).filter(Boolean);
+
+        // 逐條命中（KWIC）：同一篇多次提到 = 多列，點該列跳到第 n 次出現。
+        const renderHitList = (query) => {
+          const needle = query.toLowerCase().replace(/\s+/g, ' ').trim();
+          if (!needle) { hitList.innerHTML = ''; return; }
+          const rows = [];
+          let reportCount = 0;
+          for (const card of cards) {
+            if (card.closest('[data-category-overview]')) continue;
+            const body = card.dataset.body || '';
+            if (!body) continue;
+            const hay = body.toLowerCase();
+            let from = 0, n = 0, idx;
+            while ((idx = hay.indexOf(needle, from)) !== -1) {
+              const start = Math.max(0, idx - 40);
+              const end = Math.min(body.length, idx + needle.length + 40);
+              const before = (start > 0 ? '…' : '') + body.slice(start, idx);
+              const hit = body.slice(idx, idx + needle.length);
+              const after = body.slice(idx + needle.length, end) + (end < body.length ? '…' : '');
+              const url = card.dataset.url;
+              const sep = url.includes('?') ? '&' : '?';
+              const href = url + sep + 'q=' + encodeURIComponent(query) + '&n=' + n;
+              rows.push('<a class="hit-row" href="' + href + '">' +
+                '<span class="hit-source">' + escapeHtml(card.dataset.title) + ' · 第 ' + (n + 1) + ' 次</span>' +
+                '<span class="hit-snippet">' + escapeHtml(before) + '<mark>' + escapeHtml(hit) + '</mark>' + escapeHtml(after) + '</span>' +
+              '</a>');
+              n += 1; from = idx + needle.length;
+            }
+            if (n > 0) reportCount += 1;
+          }
+          hitList.innerHTML = rows.length
+            ? '<p class="hit-count">' + rows.length + ' 個命中，分布於 ' + reportCount + ' 篇</p>' + rows.join('')
+            : '<p class="empty">找不到任何命中。逐條模式比對的是整句出現的關鍵字。</p>';
+        };
+
+        const applySearch = () => {
+          const query = currentQuery();
+          const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
           const isSearching = terms.length > 0;
+          const listMode = !!(listToggle && listToggle.checked);
+
+          if (hitList) hitList.hidden = !(listMode && isSearching);
+          document.body.classList.toggle('list-search-active', listMode && isSearching);
+          if (listMode && isSearching) {
+            renderHitList(query);
+            if (noResults) noResults.hidden = true;
+            return;
+          }
+
           let visibleCount = 0;
           document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = isSearching; });
           document.querySelectorAll('[data-search-expanded]').forEach((node) => { node.hidden = !isSearching; });
           for (const card of cards) {
-            const haystack = card.dataset.search.toLowerCase();
+            const haystack = (card.dataset.search + ' ' + (card.dataset.body || '')).toLowerCase();
             const matched = terms.every((term) => haystack.includes(term));
             card.hidden = isSearching && !matched;
             if (!card.hidden && !card.closest('[data-category-overview]')) visibleCount += 1;
@@ -43,7 +95,10 @@
             section.hidden = isSearching && !section.querySelector('[data-search]:not([hidden])');
           }
           if (noResults) noResults.hidden = !isSearching || visibleCount > 0;
-        });
+        };
+
+        searchInput.addEventListener('input', applySearch);
+        if (listToggle) listToggle.addEventListener('change', applySearch);
         document.addEventListener('click', (event) => {
           const link = event.target.closest('.card-title');
           const query = currentQuery();
@@ -54,32 +109,50 @@
         });
       }
 
-      const reportQuery = new URLSearchParams(window.location.search).get('q');
+      const reportParams = new URLSearchParams(window.location.search);
+      const reportQuery = reportParams.get('q');
       const content = document.querySelector('.content');
       if (reportQuery && content) {
-        const terms = [reportQuery.trim(), ...reportQuery.trim().split(/\s+/)].filter(Boolean);
-        const escaped = terms
-          .sort((a, b) => b.length - a.length)
-          .map((term) => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-        const pattern = escaped.length ? new RegExp(escaped.join('|'), 'i') : null;
-        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
-          acceptNode(node) {
-            if (!node.nodeValue.trim() || node.parentElement.closest('script, style, code, pre, mark')) {
-              return NodeFilter.FILTER_REJECT;
+        const needle = reportQuery.trim().replace(/\s+/g, ' ').toLowerCase();
+        const hitIndex = parseInt(reportParams.get('n'), 10);
+        const marks = [];
+        if (needle) {
+          const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+            acceptNode(node) {
+              if (!node.nodeValue.trim() || node.parentElement.closest('script, style, code, pre, mark')) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              return NodeFilter.FILTER_ACCEPT;
+            },
+          });
+          const textNodes = [];
+          for (let tn = walker.nextNode(); tn; tn = walker.nextNode()) textNodes.push(tn);
+          for (const node of textNodes) {
+            const text = node.nodeValue;
+            const lower = text.toLowerCase();
+            const starts = [];
+            let from = 0, idx;
+            while ((idx = lower.indexOf(needle, from)) !== -1) { starts.push(idx); from = idx + needle.length; }
+            if (!starts.length) continue;
+            const frag = document.createDocumentFragment();
+            let cursor = 0;
+            for (const start of starts) {
+              if (start > cursor) frag.appendChild(document.createTextNode(text.slice(cursor, start)));
+              const mark = document.createElement('mark');
+              mark.className = 'search-hit';
+              mark.textContent = text.slice(start, start + needle.length);
+              frag.appendChild(mark);
+              marks.push(mark);
+              cursor = start + needle.length;
             }
-            return pattern && pattern.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
-          },
-        });
-        const textNode = walker.nextNode();
-        if (textNode) {
-          const match = textNode.nodeValue.match(pattern);
-          const range = document.createRange();
-          range.setStart(textNode, match.index);
-          range.setEnd(textNode, match.index + match[0].length);
-          const mark = document.createElement('mark');
-          mark.className = 'search-hit';
-          range.surroundContents(mark);
-          mark.scrollIntoView({ block: 'center' });
+            if (cursor < text.length) frag.appendChild(document.createTextNode(text.slice(cursor)));
+            node.parentNode.replaceChild(frag, node);
+          }
+        }
+        const target = marks[Number.isInteger(hitIndex) && hitIndex >= 0 && hitIndex < marks.length ? hitIndex : 0];
+        if (target) {
+          target.classList.add('search-hit-active');
+          target.scrollIntoView({ block: 'center' });
         }
       }
     </script>
