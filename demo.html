@@ -230,45 +230,90 @@ code {
   box-shadow: 0 0 0 2px #f59e0b;
 }
 
-.hit-list-toggle {
+/* 逐條命中模式切換 */
+.switch {
   display: inline-flex;
   align-items: center;
-  gap: .4rem;
-  margin-top: .6rem;
-  font-size: .92rem;
-  color: var(--color-muted);
+  gap: .6rem;
+  margin-top: .85rem;
   cursor: pointer;
+  user-select: none;
 }
-.hit-list-toggle input { cursor: pointer; }
-.hit-list { margin: 0 0 3rem; }
-.hit-count {
+.switch input { position: absolute; opacity: 0; width: 0; height: 0; }
+.switch-track {
+  position: relative;
+  flex: none;
+  width: 40px;
+  height: 23px;
+  border-radius: 999px;
+  background: #d4d4d4;
+  transition: background .15s ease;
+}
+.switch-knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 19px;
+  height: 19px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .25);
+  transition: transform .15s ease;
+}
+.switch input:checked + .switch-track { background: var(--color-link); }
+.switch input:checked + .switch-track .switch-knob { transform: translateX(17px); }
+.switch input:focus-visible + .switch-track { box-shadow: 0 0 0 3px rgba(37, 99, 235, .3); }
+.switch-text { font-weight: 600; line-height: 1.25; }
+.switch-hint { display: block; font-weight: 400; font-size: .8rem; color: var(--color-muted); }
+
+/* 逐條命中清單 */
+.hit-list { margin: .25rem 0 3rem; }
+.hit-summary {
   color: var(--color-muted);
   font-size: .9rem;
-  margin-bottom: .75rem;
+  margin-bottom: 1.25rem;
 }
-.hit-row {
-  display: block;
-  padding: .55rem 0;
-  border-bottom: 1px solid var(--color-border);
-  color: var(--color-text);
-}
-.hit-row:hover { color: var(--color-text); }
-.hit-row:hover .hit-snippet { color: var(--color-text); }
-.hit-source {
-  display: block;
+.hit-group { margin-bottom: 1.6rem; }
+.hit-group-title {
+  display: flex;
+  align-items: baseline;
+  gap: .55rem;
+  font-size: 1rem;
   font-weight: 600;
-  font-size: .9rem;
+  margin-bottom: .3rem;
 }
-.hit-snippet {
-  display: block;
+.hit-group-title a { color: var(--color-text); }
+.hit-group-title a:hover { color: var(--color-link); }
+.hit-group-count { color: var(--color-muted); font-size: .78rem; font-weight: 500; white-space: nowrap; }
+.hit-line {
+  display: flex;
+  gap: .6rem;
+  align-items: flex-start;
+  padding: .4rem .55rem;
+  border-radius: 8px;
+  color: var(--color-text);
+  transition: background .12s ease;
+}
+.hit-line:hover { background: #f1f1f0; color: var(--color-text); }
+.hit-idx {
+  flex: none;
+  min-width: 1.45rem;
+  height: 1.45rem;
+  margin-top: .1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .72rem;
+  font-family: var(--font-mono);
   color: var(--color-muted);
-  font-size: .92rem;
-  margin-top: .15rem;
+  background: #ececeb;
+  border-radius: 6px;
 }
-.hit-snippet mark {
+.hit-text { font-size: .95rem; line-height: 1.6; color: var(--color-muted); }
+.hit-text mark {
   background: #fde68a;
   color: var(--color-text);
-  padding: .02em .1em;
+  padding: .02em .12em;
   border-radius: 3px;
 }
 
@@ -315,13 +360,17 @@ tr:hover td { background: #f6f8fa; }
   <header class="site-header"><a class="brand" href="#">Stock Homes</a><nav><span style="color:var(--color-muted)">KWIC demo</span></nav></header>
   <main>
     <div data-results-view>
-      <div class="demo-banner">這是「逐條命中」功能的試用 demo（只內嵌了 8 篇報告，與正式站 stockhomes.org 無關）。試試輸入 <b>台積電</b>、<b>NVIDIA</b>、<b>輝達</b>、<b>財報</b> 等關鍵字，並打開下方的「逐條列出」開關。</div>
+      <div class="demo-banner">這是「逐條命中」功能的試用 demo（只內嵌 8 篇報告，與正式站 stockhomes.org 無關）。試試輸入 <b>台積電</b>、<b>NVIDIA</b>、<b>輝達</b>、<b>財報</b>，並打開下方的開關。</div>
       <section class="hero"><h1>股票 / 產業研究</h1><p class="stat">demo · 共 8 篇報告</p></section>
       <section class="search-panel">
         <label for="report-search">搜尋報告</label>
         <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，例如 台積電、NVIDIA、財報" />
         <p>一般模式比對標題/摘要/內文並過濾整篇；逐條模式把每一次命中各列一行。</p>
-        <label class="hit-list-toggle"><input type="checkbox" data-list-toggle /> 逐條列出每個命中（同一篇多次提到會分列）</label>
+        <label class="switch">
+          <input type="checkbox" data-list-toggle />
+          <span class="switch-track"><span class="switch-knob"></span></span>
+          <span class="switch-text">逐條列出命中<span class="switch-hint">同一篇多次提到會分行</span></span>
+        </label>
       </section>
       <p class="empty" data-no-results hidden>找不到符合的報告。</p>
       <div class="hit-list" data-hit-list hidden></div>
@@ -2386,29 +2435,29 @@ function renderHitList(query) {
   const needle = query.toLowerCase().replace(/\s+/g, " ").trim();
   activeNeedle = needle;
   if (!needle) { hitList.innerHTML = ""; return; }
-  const rows = []; let reportCount = 0;
+  const groups = []; let total = 0;
   for (const card of cards) {
     const body = card.dataset.body || ""; if (!body) continue;
-    const hay = body.toLowerCase(); let from = 0, n = 0, idx;
+    const hay = body.toLowerCase(); const docId = card.dataset.url.slice(1);
+    let from = 0, n = 0, idx; const lines = [];
     while ((idx = hay.indexOf(needle, from)) !== -1) {
-      const start = Math.max(0, idx - 40), end = Math.min(body.length, idx + needle.length + 40);
+      const start = Math.max(0, idx - 36), end = Math.min(body.length, idx + needle.length + 56);
       const before = (start > 0 ? "…" : "") + body.slice(start, idx);
       const hit = body.slice(idx, idx + needle.length);
       const after = body.slice(idx + needle.length, end) + (end < body.length ? "…" : "");
-      const docId = card.dataset.url.slice(1);
-      rows.push('<a class="hit-row" href="#" data-doc="' + docId + '" data-n="' + n + '">' +
-        '<span class="hit-source">' + escapeHtml(card.dataset.title) + " · 第 " + (n + 1) + " 次</span>" +
-        '<span class="hit-snippet">' + escapeHtml(before) + "<mark>" + escapeHtml(hit) + "</mark>" + escapeHtml(after) + "</span></a>");
+      lines.push('<a class="hit-line" href="#" data-doc="' + docId + '" data-n="' + n + '"><span class="hit-idx">' + (n + 1) + '</span><span class="hit-text">' + escapeHtml(before) + "<mark>" + escapeHtml(hit) + "</mark>" + escapeHtml(after) + "</span></a>");
       n += 1; from = idx + needle.length;
     }
-    if (n > 0) reportCount += 1;
+    if (n === 0) continue;
+    total += n;
+    groups.push('<section class="hit-group"><h3 class="hit-group-title"><a href="#" data-doc="' + docId + '" data-n="0">' + escapeHtml(card.dataset.title) + '</a><span class="hit-group-count">' + n + " 次</span></h3>" + lines.join("") + "</section>");
   }
-  hitList.innerHTML = rows.length ? '<p class="hit-count">' + rows.length + " 個命中，分布於 " + reportCount + " 篇</p>" + rows.join("") : '<p class="empty">找不到任何命中。</p>';
+  hitList.innerHTML = groups.length ? '<p class="hit-summary">' + total + " 個命中 · " + groups.length + " 篇</p>" + groups.join("") : '<p class="empty">找不到任何命中。</p>';
 }
 
 function applySearch() {
   const query = currentQuery();
-  const terms = query.toLowerCase().split(/s+/).filter(Boolean);
+  const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   const isSearching = terms.length > 0;
   const listMode = !!(listToggle && listToggle.checked);
   hitList.hidden = !(listMode && isSearching);
@@ -2422,8 +2471,8 @@ function applySearch() {
 searchInput.addEventListener("input", applySearch);
 listToggle.addEventListener("change", applySearch);
 document.addEventListener("click", (e) => {
-  const row = e.target.closest(".hit-row");
-  if (row) { e.preventDefault(); showDoc(row.dataset.doc, activeNeedle, parseInt(row.dataset.n, 10)); return; }
+  const hit = e.target.closest(".hit-line, .hit-group-title a");
+  if (hit) { e.preventDefault(); showDoc(hit.dataset.doc, activeNeedle, parseInt(hit.dataset.n, 10)); return; }
   const back = e.target.closest("[data-back]");
   if (back) { e.preventDefault(); showResults(); return; }
   const title = e.target.closest(".card-title");
