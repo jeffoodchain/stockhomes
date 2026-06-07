@@ -353,11 +353,11 @@ for (const [category, items] of categories) {
       <label for="report-search">搜尋${escapeHtml(categoryTitle(category))}</label>
       <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到文章第一個命中位置" />
       <p>搜尋會比對這個分類內的標題、摘要與文章內文。</p>
-      <label class="switch">
+      <label class="hit-toggle">
         <input type="checkbox" data-list-toggle />
-        <span class="switch-track"><span class="switch-knob"></span></span>
-        <span class="switch-text">逐條列出命中<span class="switch-hint">同一篇多次提到會分行</span></span>
+        <span class="hit-toggle-pill"><span class="hit-toggle-dot"></span>逐條列出命中</span>
       </label>
+      <p class="hit-toggle-hint">打開後，同一篇多次提到的關鍵字會分行列出。</p>
     </section>
     <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
     <div class="hit-list" data-hit-list hidden></div>
