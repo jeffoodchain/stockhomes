@@ -154,6 +154,7 @@ function tagLinks(tags, fromDir) {
 const categoryLabels = new Map([
   ["mk", "股癌逐字稿"],
   ["nvidia-architecture", "NVIDIA 架構"],
+  ["advanced-packaging", "先進封裝"],
   ["passive-components", "被動元件"],
   ["optical-cpo", "光通 / CPO"],
   ["quant-research", "量化研究"],
