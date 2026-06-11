@@ -1,102 +1,53 @@
 ---
-title: "AI 先進封裝真正解決的問題：從 CoWoS 到 CoPoS、CoWoP 與 CPO"
+title: "AI 先進封裝的真正分歧：CoWoS、CoPoS、CoWoP 與 CPO"
 date: 2026-06-11
 category: advanced-packaging
 tags: ["advanced packaging", "CoWoS", "CoPoS", "CoWoP", "CPO", "TSMC", "NVIDIA", "AI server"]
 hackmd_url: ""
-description: "不用名詞堆疊，而是從 AI 系統瓶頸出發，說清楚 CoWoS、CoPoS、CoWoP 與共同封裝光學 CPO 分別在解什麼問題，以及供應鏈真正該看哪裡。"
+description: "從 AI 系統瓶頸出發，說明 CoWoS、CoPoS、CoWoP 與共同封裝光學 CPO 各自代表的產業分歧：算力與記憶體、晶圓與面板、載板與 PCB、電訊號與光訊號。"
 keywords: ["CoWoS", "CoPoS", "CoWoP", "共同封裝光學", "Co-Packaged Optics", "玻璃核心基板", "TGV", "ABF", "AI 伺服器", "先進封裝"]
 ---
 
 > 版本：2026-06-11  
-> 定位：產業研究與供應鏈分析，不是買賣建議。X 貼文視為 market intelligence / 供應鏈線索；公開公司、媒體與技術資料為主要引用依據。  
-> 這篇文章的重點不是背名詞，而是理解：**AI 晶片為什麼需要這些封裝？每一種封裝到底在解哪一層瓶頸？**
-
----
-
-## 先用一張圖建立共同語言
+> 定位：產業研究與供應鏈分析，不是買賣建議。X 貼文視為 market intelligence / 供應鏈線索；公開公司、媒體與技術資料為主要引用依據。
 
 ![先進封裝路線對照：CoWoS、CoPoS、CoWoP](../../assets/reports/advanced-packaging/advanced_packaging_comparison_cn_v2.png)
 
----
+先進封裝這件事，如果只用名詞去看，很容易變成 CoWoS、CoPoS、CoWoP、CPO 的縮寫背誦。但它真正反映的，不是封裝技術突然變得花俏，而是 AI 系統已經大到傳統半導體分工開始失效。
 
-## 封裝為什麼突然變成 AI 產業的主戰場？
+過去的主線很單純：製程越先進，晶片越強，算力越高。但 AI accelerator 走到 HBM、chiplet、rack-scale networking 之後，問題不再只是「單顆 die 夠不夠快」，而是資料能不能被搬到運算單元旁邊、記憶體能不能塞進封裝裡、封裝面積能不能繼續放大、網路功耗會不會吃掉整座 AI factory 的效率。換句話說，封裝從後段製程變成系統架構本身；它決定的不只是晶片能不能做出來，而是整個 AI 基礎設施能不能擴張。
 
-過去談半導體競爭，最直覺的問題是「製程做到幾奈米」。但 AI accelerator 走到現在，單靠把一顆 logic die 做得更大、更先進，已經不能完整解釋效能提升。真正決定一台 AI 伺服器、甚至一座 AI factory 能不能有效運作的，是整個系統能不能把運算、記憶體、I/O、網路、供電與散熱接在一起，而且還要能量產、能維修、成本不能失控。
+**1. 算力敘事的失效（系統分歧）：** CoWoS 的出現，代表 AI 晶片競爭已經不能只看 GPU die 本身。GPU / ASIC 再強，如果 HBM 頻寬不夠、資料離運算單元太遠，算力就只是理論值。CoWoS（Chip-on-Wafer-on-Substrate，晶片-晶圓-基板）真正解決的是「GPU 與 HBM 如何在同一個封裝內高速溝通」：把 GPU / ASIC 與 HBM 放在矽中介層（Silicon Interposer）或高密度互連結構上，再接到 ABF 封裝載板與 PCB。這讓資料路徑變短、頻寬提高、延遲降低，也讓 NVIDIA H100 / H200 這類 AI accelerator 得以量產；Basler 對 CoWoP 的技術說明也把 CoWoS 視為已成熟並支撐現行 AI accelerator 的主流先進封裝。[^basler-cowop] 因此，CoWoS 不是一個普通封裝名詞，而是 AI 算力從「單晶片性能」轉向「記憶體與運算共封裝」後的第一個答案。
 
-AI GPU / ASIC 最需要的不是孤立的算力，而是能夠持續餵資料給運算單元的記憶體頻寬。這就是為什麼 HBM 變得這麼重要。但 HBM 不是插上去就好，它必須非常靠近 GPU / ASIC，才能提供足夠高的頻寬與足夠低的延遲。於是封裝不再只是後段製程，而變成 AI 晶片架構的一部分：封裝負責把 GPU、HBM、chiplet、I/O 與基板整合成可工作的高效能模組。
+但這個答案本身也製造了新的瓶頸。當 HBM 堆疊數增加、GPU / ASIC 面積擴大、package 變得越來越大，CoWoS 開始面臨矽中介層成本、ABF 載板供給、封裝翹曲與產能限制。也就是說，CoWoS 不是因為落後才被討論替代，而是因為它太成功，成功到所有下一代 AI GPU 都擠在這條產線上，逼迫產業去尋找更大尺寸、更好面積經濟性的封裝方式。
 
-問題是，AI package 一代比一代大。更多 HBM、更大的 GPU、更複雜的 chiplet、更高的功耗密度，都會把傳統封裝的成本、良率、翹曲與產能推到極限。這時候，CoWoS、CoPoS、CoWoP、CPO 這些名詞才會一起浮上檯面。它們不是一串炫技縮寫，而是產業在不同層級遇到瓶頸後，提出的不同解法。
+**2. 晶圓經濟性的失效（製造分歧）：** CoPoS 的核心不是「玻璃題材」，而是傳統晶圓式封裝在超大型 AI package 面前開始不夠經濟。當一個 package 要容納更多 HBM、更多 compute tile、更多 I/O chiplet，用圓形 wafer 處理超大型矩形封裝，面積利用率與成本曲線會越來越差。CoPoS（Chip-on-Panel-on-Substrate，晶片-面板-基板）代表的分歧是：先進封裝是否要從 wafer-level 的圓形生產邏輯，轉向 panel-level 的方形生產邏輯。
 
-可以把整件事濃縮成一句話：**CoWoS 解決今天 GPU 與 HBM 怎麼量產整合；CoPoS 解決下一代超大型 package 怎麼做得更大且更有經濟性；CoWoP 想挑戰 ABF 載板與 PCB 的邊界；CPO 則把封裝戰爭延伸到 AI data center 的網路交換器。**
+郭明錤在 X 上提到，CoPoS 目前預期 2H28 量產，目標是改善 9.5x reticle-size 以上超大型封裝的經濟性，並提到 310 × 310 mm temporary glass carrier、250 × 250 pilot / 510 × 515 mass production glass panel 等尺寸線索。[^kuo-copos] TrendForce 引述 Commercial Times 的報導也指出，TSMC CoPoS pilot line 已開始導入設備，市場預期 volume production 可能在 2028–2029 ramp；但同時也提醒，substrate size 放大後，warpage 會成為主要量產挑戰。[^trendforce-copos]
 
----
+這裡最容易被誤讀的是玻璃。玻璃核心基板（Glass Core Substrate）不是把晶片直接放在玻璃上，也不是用玻璃簡單取代 ABF。比較正確的理解是 ABF / Glass / ABF：玻璃提供平坦度、尺寸穩定性與機械支撐；上下兩側的 ABF build-up layers 仍負責細線路與 chip attach。Intel 在 glass substrate 資料中指出，相比 organic substrate，玻璃具備更好的平坦度、熱機械穩定性與尺寸穩定性，並可能支援更高 interconnect density，適合 data center、AI、graphics 等大型高效能封裝。[^intel-glass]
 
-## CoWoS 是現在的答案，但也是下一個瓶頸的起點
+因此，CoPoS 的投資重點不該停在「玻璃」兩字，而是要看誰能解玻璃通孔（Through Glass Via, TGV）、填銅 / 金屬化、面板級曝光、翹曲控制與檢測。Arvind Srinivas 的 X 貼文指出，CoPoS glass core substrate 是 ABF / Glass / ABF 三層堆疊，而 TGV 是關鍵瓶頸。[^arvind-copos] LPKF 的 LIDE 技術資料則提到，其玻璃加工可透過 ultrafast laser modification + wet etching 製作 through-glass vias，並標示 aspect ratio 可達 up to 1:50、sub-micron accuracy，以及 zero micro-cracks / chipping 等能力。[^lpkf-lide] 這意味著 CoPoS 若要成立，靠的不是玻璃材料敘事，而是整條 glass core substrate 製程能否被量產驗證。
 
-CoWoS（Chip-on-Wafer-on-Substrate，晶片-晶圓-基板）之所以成為 AI GPU 主流，是因為它很直接地解決了「GPU / ASIC 怎麼跟 HBM 高速溝通」這個問題。典型的 CoWoS 結構，是把 GPU / ASIC 與 HBM 放在矽中介層（Silicon Interposer）或類似高密度互連結構上，再接到 ABF 封裝載板，最後進入 PCB 與系統。這樣做的目的很單純：縮短訊號路徑，提高頻寬，降低延遲，讓 GPU 不會因為等資料而浪費算力。
+**3. 載板邊界的鬆動（供應鏈分歧）：** CoWoP 則更激進，它挑戰的是「封裝載板一定要存在嗎？」這個問題。CoPoS 還是在改善基板與面板製程；CoWoP（Chip-on-Wafer-on-PCB，晶片-晶圓-PCB）則試圖把傳統 ABF substrate 拿掉，讓高精度類載板 PCB（Substrate-Like PCB, SLP）直接承擔更多封裝任務。
 
-從產業角度看，CoWoS 的最大優勢不是概念新，而是它已經被量產驗證。Basler 的 CoWoP 技術文章也把 CoWoS 描述為已成熟並支撐 NVIDIA H100 / H200 等 AI accelerator 的主流先進封裝。[^basler-cowop] 對供應鏈而言，CoWoS 已經形成一整套生態：TSMC advanced packaging capacity、ABF substrate、HBM、OSAT、測試、散熱模組全部圍繞它運作。
+這個方向之所以有吸引力，是因為 ABF 載板已經成為成本、供給與尺寸放大的壓力點。如果能把 chip + interposer module 直接接到高階 SLP / PCB，理論上訊號路徑更短、結構更簡化、熱路徑更直接，也可能降低對 ABF substrate 的依賴。Basler 對 CoWoP 的描述是，它把 package substrate 與 PCB 整合成單一結構，使模組更薄、頻寬更高、熱性能更好；但同時也指出，整個 PCB supply chain 必須達到 semiconductor-grade accuracy。[^basler-cowop]
 
-但 CoWoS 的成功，也正是它開始吃緊的原因。AI GPU 的 package 越做越大，矽中介層面積越大，成本越高；ABF substrate 尺寸越大，良率與翹曲越難控制；CoWoS 產能越關鍵，任何擴產延遲都會影響 AI accelerator 交付。也就是說，CoWoS 不是要被立刻取代，而是它已經做到太核心、太滿載，因此產業必須為更大的下一代 package 找新方法。
+這句話決定了 CoWoP 不能被簡化成「PCB 股受惠」。普通 PCB 是系統板，不是先進封裝載板；CoWoP 要求 PCB / SLP 具備接近封裝級的線路精度、層間對位、低翹曲、材料穩定性與檢測能力。Basler 文中提到 CoWoP 可能需要 15–20 µm line / space 的能力，並面臨多層結構、翹曲、材料穩定性與半導體級檢測挑戰。[^basler-cowop] 這代表 PCB 產業會出現分化：能往 substrate-like precision 升級的廠商，可能被重新定價；仍停留在普通板材產能的公司，則很難真正吃到核心價值。
 
-這就是 CoPoS 出現的原因：不是因為 CoWoS 不行，而是因為下一代 AI package 可能大到需要新的製造邏輯。
+**4. 電訊號路徑的失效（網路分歧）：** CPO 與前面三者不同，它解的不是 GPU package 內部問題，而是 AI factory 網路問題。當 GPU cluster 擴大，rack 之間、switch 之間的資料交換變成主要瓶頸，傳統 pluggable transceiver 架構會讓高速電訊號從 switch ASIC 經過 PCB、connector，再到前面板光模組才轉成光訊號。速度越高，這段 electrical path 的 loss、功耗、散熱與故障點就越難接受。
 
----
+共同封裝光學（Co-Packaged Optics, CPO）的分歧在於：光學引擎是否必須從前面板移到 switch ASIC 旁邊。NVIDIA 的 CPO 技術文章指出，傳統 200 Gbps channel 的 electrical loss 可高達 22 dB；把 electro-optical conversion 放到 switch package 旁後，loss 可降到約 4 dB，每 interface 功耗可從常見 30W 降到 as low as 9W。NVIDIA 也宣稱其 CPO-based systems 可帶來 up to 3.5x power efficiency 與 10x resiliency improvement，Quantum-X / Spectrum-X Photonics 商用時間指向 2026。[^nvidia-cpo]
 
-## CoPoS 的重點不是玻璃題材，而是超大型封裝需要新的面積經濟性
+因此，CPO 不是 CoPoS 或 CoWoP 的同義詞。CoWoS、CoPoS、CoWoP 處理的是 AI accelerator package 如何承載更多 compute / memory；CPO 處理的是 AI data center network 如何用更低功耗搬更多資料。它的供應鏈重點也不同：laser source、silicon photonics / PIC、optical engine、fiber attach、FAU、optical testing、switch system integration 才是核心。這裡的錢不會平均灑到所有光通概念股，而會集中在 laser reliability、optical engine yield、fiber alignment 自動化、optical test throughput 與系統維修性這些瓶頸層。
 
-CoPoS（Chip-on-Panel-on-Substrate，晶片-面板-基板）常被簡化成玻璃基板題材，但這樣理解會偏掉。真正的重點是：當 AI package 變得非常大，用圓形 wafer 去做超大型矩形封裝，面積利用率與成本曲線會變得越來越不漂亮；如果能把製程推向 panel-level，用更大的方形面板處理更多封裝單元，理論上就能改善超大型 package 的產出效率與經濟性。
+**5. 估值敘事的分裂（投資分歧）：** 這一輪先進封裝最危險的地方，是市場會把技術分歧簡化成標籤交易：CoWoS 等於 ABF，CoPoS 等於玻璃，CoWoP 等於 PCB，CPO 等於光通。這種分法太粗，買到的常常是名詞，而不是財報。真正的研究應該反過來，先問瓶頸在哪，再問誰有資格解瓶頸。
 
-郭明錤在 X 上提到，CoPoS 目前預期 2H28 量產，目標是改善 9.5x reticle-size 以上超大型封裝的經濟性，並提到 310 × 310 mm temporary glass carrier，以及 250 × 250 pilot / 510 × 515 mass production glass panel 等尺寸線索。[^kuo-copos] TrendForce 引述 Commercial Times 的報導也指出，TSMC CoPoS pilot line 已開始導入設備，市場預期 volume production 可能在 2028–2029 ramp；但同時也提醒，substrate size 放大後，warpage 是主要量產挑戰。[^trendforce-copos]
+CoWoS 的瓶頸在 TSMC advanced packaging capacity、ABF substrate、HBM allocation、測試與散熱；CoPoS 的瓶頸在 glass core substrate、TGV / LIDE、Cu filling / metallization、panel-level lithography、warpage control 與 inspection；CoWoP 的瓶頸在高階 SLP / PCB、mSAP / SAP、超薄銅箔、半導體級 AOI、低翹曲與可靠性；CPO 的瓶頸在 laser source、silicon photonics / PIC、optical engine、fiber attach、optical testing 與 switch system integration。
 
-這裡的玻璃核心基板（Glass Core Substrate）重要，但它不是大家想像的「晶片直接放在玻璃上」。比較正確的理解是 ABF / Glass / ABF：玻璃在中間提供平坦度、尺寸穩定性與機械支撐；上下兩側的 ABF build-up layers 仍然負責細線路與 chip attach。Intel 在 glass substrate 資料中指出，相比 organic substrate，玻璃具備更好的平坦度、熱機械穩定性與尺寸穩定性，並可能支援更高 interconnect density，適合 data center、AI、graphics 等大型高效能封裝。[^intel-glass]
+這不再只是封裝技術路線圖，而是一場關於 AI 系統控制權的重新分配。誰能把下一個瓶頸變成客戶 qualification、出貨占比、ASP 或毛利率，誰才有機會把題材轉成估值；誰只是名字沾到概念，最後大概率只會停留在交易熱度。
 
-所以 CoPoS 的本質不是「玻璃取代 ABF」，也不是「玻璃 interposer」。它比較像是：**用 glass core 的穩定性，加上 ABF 的線路能力，再配合 panel-level 製程，去支撐更大、更複雜的 AI package。**
-
-真正困難的是 TGV（Through Glass Via，玻璃通孔）。玻璃本身不導電，訊號與電源要穿過 glass core，就必須在玻璃上形成大量微孔，並完成填銅 / 金屬化。Arvind Srinivas 的 X 貼文指出，CoPoS glass core substrate 是 ABF / Glass / ABF 三層堆疊，而 TGV 是關鍵瓶頸。[^arvind-copos] LPKF 的 LIDE 技術資料則提到，其玻璃加工可透過 ultrafast laser modification + wet etching 製作 through-glass vias，並標示 aspect ratio 可達 up to 1:50、sub-micron accuracy，以及 zero micro-cracks / chipping 等能力。[^lpkf-lide]
-
-這裡才是供應鏈研究的重點。CoPoS 不是看到「玻璃」兩個字就全部受惠，而是要看誰能通過客戶 qualification，解掉 TGV、玻璃加工、Cu filling / metallization、panel-level lithography、warpage control 與 inspection。若這些瓶頸解不掉，CoPoS 就只是漂亮 roadmap；若解得掉，它會把 TSMC 的先進封裝優勢從今天的 CoWoS 延伸到下一代 ultra-large AI package。
-
----
-
-## CoWoP 更激進：它問的是，封裝載板一定要存在嗎？
-
-如果說 CoPoS 是把封裝載板做得更大、更穩、更適合 panel-level，那 CoWoP（Chip-on-Wafer-on-PCB，晶片-晶圓-PCB）問的問題更激進：既然 ABF substrate 貴、供給緊、尺寸放大後又難做，那能不能把傳統封裝載板拿掉，讓高精度類載板 PCB（Substrate-Like PCB, SLP）直接承擔更多封裝功能？
-
-這個想法之所以吸引人，是因為它理論上可以讓訊號路徑更短、結構更簡化、熱路徑更直接，也可能減少對 ABF substrate 的依賴。Basler 對 CoWoP 的描述是，它把 package substrate 與 PCB 整合成單一結構，使模組更薄、頻寬更高、熱性能更好；但同時也指出，整個 PCB supply chain 必須達到 semiconductor-grade accuracy。[^basler-cowop]
-
-這句話其實已經點出 CoWoP 最大的風險：普通 PCB 不是封裝載板。CoWoP 要求 PCB / SLP 做到接近半導體封裝級的線路精度、層間對位、低翹曲、材料穩定性與檢測能力。Basler 文中提到 CoWoP 可能需要 15–20 µm line / space 的能力，並面臨多層結構、翹曲、材料穩定性與半導體級檢測挑戰。[^basler-cowop] 如果未來規格繼續往 <10 µm 靠近，普通 PCB 產能幾乎沒有意義，只有真正能做高階 SLP、mSAP / SAP、低翹曲與高良率檢測的廠商才可能進入核心供應鏈。
-
-所以 CoWoP 不是「PCB 股全部受惠」。它比較像是 PCB 產業的一場升級淘汰賽：成功者會從系統板供應商往封裝功能供應商靠近，價值量可能提高；失敗者則只是被市場題材短暫照到，財報不一定跟上。這也是為什麼 CoWoP 比 CoPoS 更不能只看概念，必須看客戶驗證、製程能力、良率責任與可靠性數據。
-
----
-
-## CPO 是另一層問題：不是封 GPU，而是讓 AI factory 網路不要被功耗拖垮
-
-共同封裝光學（Co-Packaged Optics, CPO）常被放在同一串名詞裡，但它跟 CoWoS / CoPoS / CoWoP 解的不是同一個問題。CoWoS、CoPoS、CoWoP 主要在討論 AI accelerator package：GPU / ASIC、HBM、interposer、substrate、PCB 怎麼整合。CPO 討論的是 data center networking：switch ASIC 要怎麼用更低功耗、更高可靠度連到光纖網路。
-
-AI cluster 越大，GPU 之間、rack 之間、switch 之間的資料交換越誇張。傳統 pluggable transceiver 架構下，訊號要從 switch ASIC 經過 PCB、connector，再到前面板光模組才轉成光訊號。速度越高，這段 electrical path 的 loss、功耗、熱與故障點就越難接受。NVIDIA 的 CPO 技術文章指出，傳統 200 Gbps channel 的 electrical loss 可高達 22 dB；把 electro-optical conversion 放到 switch package 旁後，loss 可降到約 4 dB，每 interface 功耗可從常見 30W 降到 as low as 9W。NVIDIA 也宣稱其 CPO-based systems 可帶來 up to 3.5x power efficiency 與 10x resiliency improvement，Quantum-X / Spectrum-X Photonics 商用時間指向 2026。[^nvidia-cpo]
-
-換句話說，CPO 的核心不是「把 AI GPU 封得更大」，而是「把光學引擎放到交換器 ASIC 旁邊，減少高速電訊號走太遠造成的損耗」。因此 CPO 的供應鏈也不同：它看的是 laser source、silicon photonics / PIC、optical engine、fiber attach、FAU、optical testing、switch system integration。真正的瓶頸會在 laser reliability、optical engine yield、fiber alignment 自動化、optical test throughput 與系統維修性，不會平均灑到所有光通概念股。
-
----
-
-## 投資研究的主線：不要買名詞，要找瓶頸
-
-這輪先進封裝最容易犯的錯，是把所有技術都變成一籃子概念股：CoWoS 等於 ABF，CoPoS 等於玻璃，CoWoP 等於 PCB，CPO 等於光通。這樣分類太粗，容易買到的是敘事，不是財報。
-
-更好的做法是回到瓶頸。CoWoS 的瓶頸在 TSMC advanced packaging capacity、ABF substrate、HBM allocation、測試與散熱；CoPoS 的瓶頸在 glass core substrate、TGV / LIDE、Cu filling / metallization、panel-level lithography、warpage control 與 inspection；CoWoP 的瓶頸在高階 SLP / PCB、mSAP / SAP、超薄銅箔、半導體級 AOI、低翹曲與可靠性；CPO 的瓶頸在 laser source、silicon photonics / PIC、optical engine、fiber attach、optical testing 與 switch system integration。
-
-投資上真正要問的，不是「這家公司有沒有沾到題材」，而是：它是否卡在不可替代的瓶頸？是否有客戶 qualification？是否有規格升級帶來 ASP 或毛利率改善？是否能從樣品走到量產？是否在財報上看得到 revenue mix 變化？如果答案都沒有，那就只是概念；如果答案逐步變成 yes，才可能從題材變成 alpha。
-
----
-
-## 最後用一句話收斂
-
-先進封裝不是半導體製程後面的附屬品，而是 AI 系統架構本身的一部分。CoWoS 讓今天的 GPU + HBM 能量產；CoPoS 是為下一代超大型 package 尋找更好的面積與成本曲線；CoWoP 嘗試把 PCB 推進封裝核心；CPO 則讓 AI factory 的網路層不被功耗與訊號損耗拖垮。
-
-所以，研究這個題材時不要從縮寫開始，而要從系統瓶頸開始。**AI 系統越大，資料越多，封裝就越像控制權。誰能在下一個瓶頸層被客戶驗證，誰才有機會把技術敘事變成營收、毛利率與估值重估。**
+先進封裝真正的結論不是「哪個技術最強」，而是 AI 系統已經大到必須重新切分半導體供應鏈的價值。CoWoS 讓今天的 GPU + HBM 能量產；CoPoS 嘗試讓下一代超大型 package 具備面積經濟性；CoWoP 逼 PCB 供應鏈向封裝載板升級；CPO 則把光學推進 switch package，避免 AI factory 被網路功耗拖垮。這些技術共同指向同一件事：**AI 時代的封裝，不是晶片做完之後的收尾，而是決定算力能不能被真正釋放的主戰場。**
 
 ---
 
