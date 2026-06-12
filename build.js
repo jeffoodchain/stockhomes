@@ -153,6 +153,7 @@ function tagLinks(tags, fromDir) {
 
 const categoryLabels = new Map([
   ["mk", "股癌逐字稿"],
+  ["yutinghao", "游庭皓逐字稿"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["advanced-packaging", "先進封裝"],
   ["passive-components", "被動元件"],
@@ -162,15 +163,21 @@ const categoryLabels = new Map([
   ["hermes-agent", "Hermes 教學"],
 ]);
 
-const indexCollapsedCategories = new Set(["mk"]);
+const indexCollapsedCategories = new Set(["mk", "yutinghao"]);
 
 function categoryTitle(category) {
   return categoryLabels.get(category) || category;
 }
 
+function categoryRank(category) {
+  if (category === "mk") return 0;
+  if (category === "yutinghao") return 1;
+  return 10;
+}
+
 function compareCategories(a, b) {
-  if (a === "mk") return -1;
-  if (b === "mk") return 1;
+  const rank = categoryRank(a) - categoryRank(b);
+  if (rank !== 0) return rank;
   return categoryTitle(a).localeCompare(categoryTitle(b));
 }
 
@@ -314,7 +321,7 @@ const categoryNav = [...categories.entries()]
   .sort(([a], [b]) => compareCategories(a, b))
   .map(([category, items]) => `<a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(categoryTitle(category))} <span>${items.length} 篇</span></a>`)
   .join("");
-const hiddenTopicTags = new Set(["mk", "transcript", "股癌", "substack"]);
+const hiddenTopicTags = new Set(["mk", "transcript", "股癌", "substack", "游庭皓", "早晨財經速解讀", "市場觀察"]);
 const topicCloud = [...tags.entries()]
   .filter(([tag]) => !hiddenTopicTags.has(tag.toLowerCase()))
   .sort(([, aItems], [, bItems]) => bItems.length - aItems.length)
