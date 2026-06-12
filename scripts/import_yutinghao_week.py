@@ -20,6 +20,102 @@ ROOT = Path(__file__).resolve().parents[1]
 REPORT_DIR = ROOT / "reports" / "yutinghao"
 RAW_DIR = ROOT / "tmp" / "yutinghao-captions"
 
+SECTION_TITLE_OVERRIDES = {
+    "khYmfQdjw7U": [
+        "開場：美股重挫與 AI 股修正",
+        "高槓桿循環與散戶停損壓力",
+        "輝達記憶體規格傳聞與 AI 需求判讀",
+        "部位過度集中與動能交易反轉",
+        "左側不悲觀，右側不追高",
+        "自然回檔與系統性風險的區分",
+        "就業數據與利率壓力",
+        "通膨、利率與股市估值承壓",
+        "下跌後找理由：誘空還是趨勢變化",
+        "槓桿是超車，不是飆車",
+        "AI 趨勢確認下的資金配置",
+        "均線乖離與左側布局邏輯",
+        "修正期更應思考如何投資",
+        "IPO 與股票供給增加",
+        "桃園機場設施與旅遊話題",
+        "成為股東的榮譽感與投資心態",
+    ],
+    "8H0D_RYS-zQ": [
+        "開場：美股反彈與修正是否結束",
+        "2022 庫存循環與本輪 AI 回檔差異",
+        "高 Beta 科技股波動與利率敘事",
+        "資金集中大型科技股與 AI 變現能力",
+        "健康牛市的急漲、沉澱與財報驗證",
+        "七巨頭今年表現與蘋果落後",
+        "蘋果財報、iPhone 與服務營收",
+        "蘋果 AI 策略與生態系補課",
+        "OpenAI 上市與超大型 IPO 的資金效應",
+        "發債、IPO 與既有股東權益稀釋",
+        "2027 年 AI 巨頭上市與市場資金競賽",
+        "OpenAI 商業模式與掛牌後風險",
+        "AI 的副作用：教育與內容品質",
+        "AI 財富主權基金與政策分配",
+        "AI 代理人與新文明想像",
+        "AI 詐騙、仿冒信件與企業風險",
+        "結論：AI 時代的安全與市場風險",
+    ],
+    "xnznLLQLnig": [
+        "開場：多空角力與台股接盤力道",
+        "三大法人、投信買超與散戶融資",
+        "台積電籌碼與融資餘額快速回補",
+        "AI 基建潮與美銀熊市警訊",
+        "市場寬度不足與權值股集中",
+        "泡沫訊號與估值回檔理由",
+        "能源補貼與需求型通膨壓力",
+        "科技通膨、記憶體缺貨與擴產",
+        "供給型通膨與需求型通膨的差異",
+        "AI 資料中心：泡沫破滅或預期調降",
+        "台韓出口亮麗與產業分化",
+        "台韓成為東亞出口領頭羊",
+        "台韓資本支出與高槓桿投資心態",
+        "台海風險與全球供應鏈損失",
+        "社群段子與投資情緒",
+        "AI 四大 CSP、利率成本與資本支出",
+        "結論：AI 需求通膨與台韓超級循環",
+    ],
+    "LO2G4LmHXVk": [
+        "開場：通膨創高、美股血染與市場恐慌",
+        "CPI 創三年新高與能源價格壓力",
+        "能源、機票與核心項目外溢",
+        "服務業薪資僵固與川普任內通膨",
+        "科技通膨與電子零組件價格",
+        "PCE 統計爭議與通膨指標失真",
+        "日本升息、日圓與政府干預",
+        "中國通縮、豬肉價格與石油進口",
+        "中國地煉利潤與全球降溫力量",
+        "台灣能源進口、現貨價格與成本壓力",
+        "屋頂光電計畫與能源供應調整",
+        "央行信用管制與房市貸款",
+        "房東資金轉向股市與龍頭股思維",
+        "寶佳敘事、房市信仰與股市回溫",
+        "看房經驗與重劃區話術",
+        "洗盤、槓桿與趨勢不確認",
+        "結論：通膨、房市政策與個人決策",
+    ],
+    "-uh6wdAmgHk": [
+        "開場：除了台積電，台灣還剩下什麼",
+        "台股市值結構與美國進口來源轉變",
+        "人均 GDP 超越韓國與台灣黃金年代",
+        "高 GDP、低薪資與分配落差",
+        "科技業磁吸人才與全台缺工",
+        "人才流向、教育體系與從政玩笑",
+        "護理師離職率與醫療體系壓力",
+        "公務員薪資落後與缺額率上升",
+        "餐飲業低薪、長工時與轉職潮",
+        "青年離家、性經驗下降與少子化",
+        "電子煙、大麻煙彈與毒品問題",
+        "福利政策擴張與政府加薪補貼",
+        "台電虧損、能源成本與勞動力鬆綁",
+        "機器人、醫療照護與人力替代",
+        "職場霸凌、公務體系與管理問題",
+        "結論：從宏觀數據到微觀社會觀察",
+    ],
+}
+
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
     "yt": "http://www.youtube.com/xml/schemas/2015",
@@ -208,6 +304,21 @@ def episode_kind(title: str) -> str:
     return "游庭皓"
 
 
+def section_title(video_id: str, title: str, index: int, bucket_lines: list[str]) -> str:
+    overrides = SECTION_TITLE_OVERRIDES.get(video_id, [])
+    if index < len(overrides):
+        return overrides[index]
+    joined = " ".join(bucket_lines)
+    joined = re.sub(r"\s+", " ", joined).strip()
+    joined = re.sub(r"^[，。！？、\s]+", "", joined)
+    if index == 0:
+        base = title.split("【", 1)[0].strip() or title
+        return f"開場：{base[:28]}"
+    if not joined:
+        return f"段落 {index + 1}"
+    return joined[:30].rstrip("，。！？、 ")
+
+
 def markdown_for(item: dict, lang: str, events: list[dict]) -> str:
     published_tw = item["published"].astimezone(dt.timezone(dt.timedelta(hours=8)))
     date_text = published_tw.date().isoformat()
@@ -251,23 +362,23 @@ def markdown_for(item: dict, lang: str, events: list[dict]) -> str:
     lines.append("")
     lines.append("[[toc]]")
     lines.append("")
-    lines.append("## 逐字稿")
-    lines.append("")
 
     current_bucket = None
     bucket_lines: list[str] = []
     bucket_start = None
+    section_index = 0
 
     def flush() -> None:
-        nonlocal bucket_lines, bucket_start
+        nonlocal bucket_lines, bucket_start, section_index
         if not bucket_lines:
             return
-        lines.append(f"### {fmt_ts(bucket_start or 0)}")
+        lines.append(f"## {section_title(video_id, title, section_index, bucket_lines)}")
         lines.append("")
         lines.extend(bucket_lines)
         lines.append("")
         bucket_lines = []
         bucket_start = None
+        section_index += 1
 
     for row in events:
         bucket = row["start_ms"] // 120_000
