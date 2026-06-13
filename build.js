@@ -152,8 +152,9 @@ function tagLinks(tags, fromDir) {
 }
 
 const categoryLabels = new Map([
-  ["mk", "股癌逐字稿"],
+  ["mk", "股癎逐字稿"],
   ["yutinghao", "游庭皓逐字稿"],
+  ["investanchors", "定錨產業筆記"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["advanced-packaging", "先進封裝"],
   ["passive-components", "被動元件"],
@@ -163,7 +164,7 @@ const categoryLabels = new Map([
   ["hermes-agent", "Hermes 教學"],
 ]);
 
-const indexCollapsedCategories = new Set(["mk", "yutinghao"]);
+const indexCollapsedCategories = new Set(["mk", "yutinghao", "investanchors"]);
 
 function categoryTitle(category) {
   return categoryLabels.get(category) || category;
