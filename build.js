@@ -360,9 +360,8 @@ for (const [category, items] of categories) {
     `<section class="hero"><p class="eyebrow">分類</p><h1>${escapeHtml(categoryTitle(category))}</h1><p class="stat">${items.length} 篇報告</p></section>
     <section class="search-panel" aria-label="搜尋${escapeHtml(categoryTitle(category))}">
       <label for="report-search">搜尋${escapeHtml(categoryTitle(category))}</label>
-      <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到文章第一個命中位置" />
-      <p>搜尋會比對這個分類內的標題、摘要與文章內文。</p>
-      <label class="hit-list-toggle"><input type="checkbox" data-list-toggle /> 逐條列出每個命中（同一篇多次提到會分列）</label>
+      <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到該次命中位置" />
+      <p>搜尋會逐條列出這個分類內的每個命中；同一篇多次提到會分列。</p>
     </section>
     <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
     <div class="hit-list" data-hit-list hidden></div>

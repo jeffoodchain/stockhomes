@@ -230,16 +230,6 @@ code {
   box-shadow: 0 0 0 2px #f59e0b;
 }
 
-.hit-list-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: .4rem;
-  margin-top: .6rem;
-  font-size: .92rem;
-  color: var(--color-muted);
-  cursor: pointer;
-}
-.hit-list-toggle input { cursor: pointer; }
 .hit-list { margin: 0 0 3rem; }
 .hit-count {
   color: var(--color-muted);
@@ -315,13 +305,12 @@ tr:hover td { background: #f6f8fa; }
   <header class="site-header"><a class="brand" href="#">Stock Homes</a><nav><span style="color:var(--color-muted)">KWIC demo</span></nav></header>
   <main>
     <div data-results-view>
-      <div class="demo-banner">這是「逐條命中」功能的試用 demo（只內嵌了 8 篇報告，與正式站 stockhomes.org 無關）。試試輸入 <b>台積電</b>、<b>NVIDIA</b>、<b>輝達</b>、<b>財報</b> 等關鍵字，並打開下方的「逐條列出」開關。</div>
+      <div class="demo-banner">這是「逐條命中」功能的試用 demo（只內嵌了 8 篇報告，與正式站 stockhomes.org 無關）。試試輸入 <b>台積電</b>、<b>NVIDIA</b>、<b>輝達</b>、<b>財報</b> 等關鍵字。</div>
       <section class="hero"><h1>股票 / 產業研究</h1><p class="stat">demo · 共 8 篇報告</p></section>
       <section class="search-panel">
         <label for="report-search">搜尋報告</label>
         <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，例如 台積電、NVIDIA、財報" />
-        <p>一般模式比對標題/摘要/內文並過濾整篇；逐條模式把每一次命中各列一行。</p>
-        <label class="hit-list-toggle"><input type="checkbox" data-list-toggle /> 逐條列出每個命中（同一篇多次提到會分列）</label>
+        <p>搜尋會逐條列出每個命中；同一篇多次提到會分列，點結果可跳到該次命中位置。</p>
       </section>
       <p class="empty" data-no-results hidden>找不到符合的報告。</p>
       <div class="hit-list" data-hit-list hidden></div>
@@ -2340,7 +2329,6 @@ const docsEls = [...document.querySelectorAll(".demo-doc")];
 const searchInput = document.querySelector("[data-report-search]");
 const cards = [...document.querySelectorAll("[data-search]")];
 const noResults = document.querySelector("[data-no-results]");
-const listToggle = document.querySelector("[data-list-toggle]");
 const hitList = document.querySelector("[data-hit-list]");
 const currentQuery = () => searchInput.value.trim();
 let activeNeedle = "";
@@ -2408,19 +2396,16 @@ function renderHitList(query) {
 
 function applySearch() {
   const query = currentQuery();
-  const terms = query.toLowerCase().split(/s+/).filter(Boolean);
+  const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   const isSearching = terms.length > 0;
-  const listMode = !!(listToggle && listToggle.checked);
-  hitList.hidden = !(listMode && isSearching);
-  document.body.classList.toggle("list-search-active", listMode && isSearching);
-  if (listMode && isSearching) { renderHitList(query); noResults.hidden = true; return; }
-  let visible = 0;
-  for (const card of cards) { const hay = (card.dataset.search + " " + (card.dataset.body || "")).toLowerCase(); const ok = terms.every((t) => hay.includes(t)); card.hidden = isSearching && !ok; if (!card.hidden) visible += 1; }
-  noResults.hidden = !isSearching || visible > 0;
+  hitList.hidden = !isSearching;
+  document.body.classList.toggle("list-search-active", isSearching);
+  if (isSearching) { renderHitList(query); noResults.hidden = true; return; }
+  for (const card of cards) card.hidden = false;
+  noResults.hidden = true;
 }
 
 searchInput.addEventListener("input", applySearch);
-listToggle.addEventListener("change", applySearch);
 document.addEventListener("click", (e) => {
   const row = e.target.closest(".hit-row");
   if (row) { e.preventDefault(); showDoc(row.dataset.doc, activeNeedle, parseInt(row.dataset.n, 10)); return; }

@@ -30,7 +30,6 @@
         const cards = [...document.querySelectorAll('[data-search]')];
         const sections = [...document.querySelectorAll('.category')];
         const noResults = document.querySelector('[data-no-results]');
-        const listToggle = document.querySelector('[data-list-toggle]');
         const hitList = document.querySelector('[data-hit-list]');
         const currentQuery = () => searchInput.value.trim();
 
@@ -65,40 +64,30 @@
           }
           hitList.innerHTML = rows.length
             ? '<p class="hit-count">' + rows.length + ' 個命中，分布於 ' + reportCount + ' 篇</p>' + rows.join('')
-            : '<p class="empty">找不到任何命中。逐條模式比對的是整句出現的關鍵字。</p>';
+            : '<p class="empty">找不到任何命中。逐條搜尋比對的是整句出現的關鍵字。</p>';
         };
 
         const applySearch = () => {
           const query = currentQuery();
           const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
           const isSearching = terms.length > 0;
-          const listMode = !!(listToggle && listToggle.checked);
 
-          if (hitList) hitList.hidden = !(listMode && isSearching);
-          document.body.classList.toggle('list-search-active', listMode && isSearching);
-          if (listMode && isSearching) {
+          if (hitList) hitList.hidden = !isSearching;
+          document.body.classList.toggle('list-search-active', isSearching);
+          if (isSearching) {
             renderHitList(query);
             if (noResults) noResults.hidden = true;
             return;
           }
 
-          let visibleCount = 0;
-          document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = isSearching; });
-          document.querySelectorAll('[data-search-expanded]').forEach((node) => { node.hidden = !isSearching; });
-          for (const card of cards) {
-            const haystack = (card.dataset.search + ' ' + (card.dataset.body || '')).toLowerCase();
-            const matched = terms.every((term) => haystack.includes(term));
-            card.hidden = isSearching && !matched;
-            if (!card.hidden && !card.closest('[data-category-overview]')) visibleCount += 1;
-          }
-          for (const section of sections) {
-            section.hidden = isSearching && !section.querySelector('[data-search]:not([hidden])');
-          }
-          if (noResults) noResults.hidden = !isSearching || visibleCount > 0;
+          document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = false; });
+          document.querySelectorAll('[data-search-expanded]').forEach((node) => { node.hidden = true; });
+          for (const card of cards) card.hidden = false;
+          for (const section of sections) section.hidden = false;
+          if (noResults) noResults.hidden = true;
         };
 
         searchInput.addEventListener('input', applySearch);
-        if (listToggle) listToggle.addEventListener('change', applySearch);
         document.addEventListener('click', (event) => {
           const link = event.target.closest('.card-title');
           const query = currentQuery();

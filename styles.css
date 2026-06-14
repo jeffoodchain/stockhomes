@@ -222,16 +222,6 @@ code {
   box-shadow: 0 0 0 2px #f59e0b;
 }
 
-.hit-list-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: .4rem;
-  margin-top: .6rem;
-  font-size: .92rem;
-  color: var(--color-muted);
-  cursor: pointer;
-}
-.hit-list-toggle input { cursor: pointer; }
 .hit-list { margin: 0 0 3rem; }
 .hit-count {
   color: var(--color-muted);
