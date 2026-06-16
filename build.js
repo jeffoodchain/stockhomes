@@ -152,9 +152,9 @@ function tagLinks(tags, fromDir) {
 }
 
 const categoryLabels = new Map([
-  ["mk", "股癎逐字稿"],
+  ["mk", "股癌逐字稿"],
   ["yutinghao", "游庭皓逐字稿"],
-  ["investanchors", "定錨產業筆記"],
+  ["investanchors", "定錨逐字稿"],
   ["nvidia-architecture", "NVIDIA 架構"],
   ["advanced-packaging", "先進封裝"],
   ["passive-components", "被動元件"],
@@ -173,6 +173,7 @@ function categoryTitle(category) {
 function categoryRank(category) {
   if (category === "mk") return 0;
   if (category === "yutinghao") return 1;
+  if (category === "investanchors") return 2;
   return 10;
 }
 
