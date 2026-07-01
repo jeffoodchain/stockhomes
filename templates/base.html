@@ -31,71 +31,111 @@
         const sections = [...document.querySelectorAll('.category')];
         const noResults = document.querySelector('[data-no-results]');
         const hitList = document.querySelector('[data-hit-list]');
-        const currentQuery = () => searchInput.value.trim();
+        let searchIndexPromise = null;
+        let debounceTimer = null;
 
-        // 逐條命中（KWIC）：同一篇多次提到 = 多列，點該列跳到第 n 次出現。
-        const renderHitList = (query) => {
-          const needle = query.toLowerCase().replace(/\s+/g, ' ').trim();
-          if (!needle) { hitList.innerHTML = ''; return; }
+        const currentQuery = () => searchInput.value.trim();
+        const searchIndexUrl = () => searchInput.dataset.searchIndex || './search-index.json';
+
+        const loadSearchIndex = async () => {
+          if (!searchIndexPromise) {
+            if (hitList) hitList.innerHTML = '<p class="empty">載入搜尋索引中…</p>';
+            searchIndexPromise = fetch(searchIndexUrl()).then((res) => {
+              if (!res.ok) throw new Error('Search index HTTP ' + res.status);
+              return res.json();
+            });
+          }
+          return searchIndexPromise;
+        };
+
+        const makeSnippet = (body, idx, len) => {
+          const start = Math.max(0, idx - 48);
+          const end = Math.min(body.length, idx + len + 72);
+          return {
+            before: (start > 0 ? '…' : '') + body.slice(start, idx),
+            hit: body.slice(idx, idx + len),
+            after: body.slice(idx + len, end) + (end < body.length ? '…' : ''),
+          };
+        };
+
+        const renderHitList = async (query) => {
+          const normalized = query.toLowerCase().replace(/\s+/g, ' ').trim();
+          const terms = normalized.split(/\s+/).filter(Boolean);
+          if (!terms.length || !hitList) { if (hitList) hitList.innerHTML = ''; return; }
+
+          let index;
+          try {
+            index = await loadSearchIndex();
+          } catch (err) {
+            hitList.innerHTML = '<p class="empty">搜尋索引載入失敗：' + escapeHtml(err.message) + '</p>';
+            return;
+          }
+
           const rows = [];
           let reportCount = 0;
-          for (const card of cards) {
-            if (card.closest('[data-category-overview]')) continue;
-            const body = card.dataset.body || '';
-            if (!body) continue;
-            const hay = body.toLowerCase();
-            let from = 0, n = 0, idx;
-            while ((idx = hay.indexOf(needle, from)) !== -1) {
-              const start = Math.max(0, idx - 40);
-              const end = Math.min(body.length, idx + needle.length + 40);
-              const before = (start > 0 ? '…' : '') + body.slice(start, idx);
-              const hit = body.slice(idx, idx + needle.length);
-              const after = body.slice(idx + needle.length, end) + (end < body.length ? '…' : '');
-              const url = card.dataset.url;
-              const sep = url.includes('?') ? '&' : '?';
-              const href = url + sep + 'q=' + encodeURIComponent(query) + '&n=' + n;
-              rows.push('<a class="hit-row" href="' + href + '">' +
-                '<span class="hit-source">' + escapeHtml(card.dataset.title) + ' · 第 ' + (n + 1) + ' 次</span>' +
-                '<span class="hit-snippet">' + escapeHtml(before) + '<mark>' + escapeHtml(hit) + '</mark>' + escapeHtml(after) + '</span>' +
-              '</a>');
-              n += 1; from = idx + needle.length;
+          const maxRows = 1500;
+          for (const report of index) {
+            const body = report.bodyText || '';
+            const hay = [report.title, report.excerpt, report.category, report.categoryTitle, ...(report.tags || []), ...(report.keywords || []), ...(report.aliases || []), body].join(' ').toLowerCase();
+            if (!terms.every((term) => hay.includes(term))) continue;
+            reportCount += 1;
+
+            let matches = [];
+            for (const term of terms) {
+              const bodyHay = body.toLowerCase();
+              let from = 0, idx;
+              while ((idx = bodyHay.indexOf(term, from)) !== -1) {
+                matches.push({ idx, term });
+                from = idx + Math.max(1, term.length);
+                if (matches.length >= 30) break;
+              }
             }
-            if (n > 0) reportCount += 1;
+            matches.sort((a, b) => a.idx - b.idx);
+            if (!matches.length) matches = [{ idx: 0, term: '' }];
+
+            let n = 0;
+            for (const match of matches) {
+              if (rows.length >= maxRows) break;
+              const idx = match.idx || 0;
+              const term = match.term || terms[0];
+              const snippet = term ? makeSnippet(body, idx, term.length) : { before: '', hit: report.excerpt || report.title, after: '' };
+              const url = report.url.startsWith('/') ? report.url : '/' + report.url;
+              const sep = url.includes('?') ? '&' : '?';
+              const href = url + sep + 'q=' + encodeURIComponent(term || query) + '&n=' + n;
+              rows.push('<a class="hit-row" href="' + href + '">' +
+                '<span class="hit-source">' + escapeHtml(report.title) + ' · 第 ' + (n + 1) + ' 次</span>' +
+                '<span class="hit-snippet">' + escapeHtml(snippet.before) + '<mark>' + escapeHtml(snippet.hit) + '</mark>' + escapeHtml(snippet.after) + '</span>' +
+              '</a>');
+              n += 1;
+            }
+            if (rows.length >= maxRows) break;
           }
+
           hitList.innerHTML = rows.length
-            ? '<p class="hit-count">' + rows.length + ' 個命中，分布於 ' + reportCount + ' 篇</p>' + rows.join('')
-            : '<p class="empty">找不到任何命中。逐條搜尋比對的是整句出現的關鍵字。</p>';
+            ? '<p class="hit-count">' + rows.length + ' 個命中，分布於 ' + reportCount + ' 篇' + (rows.length >= maxRows ? '（已截斷，請縮小關鍵字）' : '') + '</p>' + rows.join('')
+            : '<p class="empty">找不到任何命中。多個關鍵字會以 AND 搜尋，試試較短的公司名、股票代號、中文或英文關鍵字。</p>';
+        };
+
+        const resetBrowse = () => {
+          for (const card of cards) card.hidden = false;
+          for (const section of sections) section.hidden = false;
+          if (noResults) noResults.hidden = true;
+          if (hitList) { hitList.hidden = true; hitList.innerHTML = ''; }
+          document.body.classList.remove('list-search-active');
         };
 
         const applySearch = () => {
           const query = currentQuery();
-          const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
-          const isSearching = terms.length > 0;
-
-          if (hitList) hitList.hidden = !isSearching;
-          document.body.classList.toggle('list-search-active', isSearching);
-          if (isSearching) {
-            renderHitList(query);
-            if (noResults) noResults.hidden = true;
-            return;
-          }
-
-          document.querySelectorAll('[data-category-overview]').forEach((node) => { node.hidden = false; });
-          document.querySelectorAll('[data-search-expanded]').forEach((node) => { node.hidden = true; });
-          for (const card of cards) card.hidden = false;
-          for (const section of sections) section.hidden = false;
+          const isSearching = query.length > 0;
+          if (!isSearching) { resetBrowse(); return; }
+          if (hitList) hitList.hidden = false;
           if (noResults) noResults.hidden = true;
+          document.body.classList.add('list-search-active');
+          clearTimeout(debounceTimer);
+          debounceTimer = setTimeout(() => renderHitList(query), 180);
         };
 
         searchInput.addEventListener('input', applySearch);
-        document.addEventListener('click', (event) => {
-          const link = event.target.closest('.card-title');
-          const query = currentQuery();
-          if (!link || !query || !link.closest('[data-search]')) return;
-          const url = new URL(link.href);
-          url.searchParams.set('q', query);
-          link.href = url.toString();
-        });
       }
 
       const reportParams = new URLSearchParams(window.location.search);

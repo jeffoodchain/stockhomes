@@ -192,7 +192,7 @@ function reportList(items, fromDir, options = {}) {
   return `<div class="${className}">${items.map((report) => {
     const metaText = [report.title, report.excerpt, report.category, categoryTitle(report.category), ...report.tags, ...(report.keywords || []), ...(report.aliases || [])].join(" ");
     const href = relFrom(fromDir, report.url);
-    return `<article class="card" data-search="${escapeHtml(metaText)}" data-body="${escapeHtml(report.bodyText || "")}" data-url="${escapeHtml(href)}" data-title="${escapeHtml(report.title)}">
+    return `<article class="card" data-search="${escapeHtml(metaText)}" data-url="${escapeHtml(href)}" data-title="${escapeHtml(report.title)}">
       <a class="card-title" href="${href}">${escapeHtml(report.title)}</a>
       <p>${escapeHtml(report.excerpt)}</p>
     </article>`;
@@ -201,7 +201,7 @@ function reportList(items, fromDir, options = {}) {
 
 function categoryIndexCard(category, items, fromDir) {
   const title = categoryTitle(category);
-  const searchText = [title, category, ...items.flatMap((report) => [report.searchText || report.title, report.excerpt, ...report.tags])].join(" ");
+  const searchText = [title, category, ...items.flatMap((report) => [report.title, report.excerpt, ...report.tags, ...(report.keywords || []), ...(report.aliases || [])])].join(" ");
   const latest = items[0]?.dateText ? `最新：${items[0].dateText}` : "";
   return `<div class="cards"><article class="card" data-search="${escapeHtml(searchText)}">
       <a class="card-title" href="${relFrom(fromDir, `categories/${encodeURIComponent(category)}.html`)}">${escapeHtml(title)}</a>
@@ -213,10 +213,6 @@ function collapsedCategorySection(category, items, fromDir) {
   const title = categoryTitle(category);
   return `<section class="category category-collapsed"><h2><a href="categories/${encodeURIComponent(category)}.html">${escapeHtml(title)}</a></h2>
     <div data-category-overview>${categoryIndexCard(category, items, fromDir)}</div>
-    <div class="search-expanded" data-search-expanded hidden>
-      <p class="search-expanded-label">搜尋結果</p>
-      ${reportList(items, fromDir, { className: "search-result-cards" })}
-    </div>
   </section>`;
 }
 
@@ -361,7 +357,7 @@ for (const [category, items] of categories) {
     `<section class="hero"><p class="eyebrow">分類</p><h1>${escapeHtml(categoryTitle(category))}</h1><p class="stat">${items.length} 篇報告</p></section>
     <section class="search-panel" aria-label="搜尋${escapeHtml(categoryTitle(category))}">
       <label for="report-search">搜尋${escapeHtml(categoryTitle(category))}</label>
-      <input id="report-search" data-report-search type="search" placeholder="輸入關鍵字，點結果會跳到該次命中位置" />
+      <input id="report-search" data-report-search data-search-index="../search-index/${encodeURIComponent(category)}.json" type="search" placeholder="輸入關鍵字，點結果會跳到該次命中位置" />
       <p>搜尋會逐條列出這個分類內的每個命中；同一篇多次提到會分列。</p>
     </section>
     <p class="empty" data-no-results hidden>找不到符合的報告，試試較短的公司名、股票代號、中文或英文關鍵字。</p>
@@ -379,7 +375,39 @@ for (const [tag, items] of tags) {
   );
 }
 
-fs.writeFileSync(path.join(DIST_DIR, "reports.json"), JSON.stringify(reports, null, 2));
+const publicReports = reports.map(({ bodyText, searchText, ...report }) => report);
+const searchReports = reports.map((report) => ({
+  title: report.title,
+  category: report.category,
+  categoryTitle: categoryTitle(report.category),
+  date: report.date,
+  dateText: report.dateText,
+  tags: report.tags,
+  keywords: report.keywords,
+  aliases: report.aliases,
+  url: report.url,
+  excerpt: report.excerpt,
+  bodyText: report.bodyText,
+}));
+fs.writeFileSync(path.join(DIST_DIR, "reports.json"), JSON.stringify(publicReports));
+fs.writeFileSync(path.join(DIST_DIR, "search-index.json"), JSON.stringify(searchReports));
+ensureDir(path.join(DIST_DIR, "search-index"));
+for (const [category, items] of categories) {
+  const categorySearch = items.map((report) => ({
+    title: report.title,
+    category: report.category,
+    categoryTitle: categoryTitle(report.category),
+    date: report.date,
+    dateText: report.dateText,
+    tags: report.tags,
+    keywords: report.keywords,
+    aliases: report.aliases,
+    url: report.url,
+    excerpt: report.excerpt,
+    bodyText: report.bodyText,
+  }));
+  fs.writeFileSync(path.join(DIST_DIR, "search-index", `${category}.json`), JSON.stringify(categorySearch));
+}
 fs.copyFileSync(path.join(ROOT, "styles.css"), path.join(DIST_DIR, "styles.css"));
 copyDir(ASSETS_DIR, path.join(DIST_DIR, "assets"));
 if (fs.existsSync(path.join(ROOT, "CNAME"))) fs.copyFileSync(path.join(ROOT, "CNAME"), path.join(DIST_DIR, "CNAME"));
