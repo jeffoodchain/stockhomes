@@ -1,0 +1,93 @@
+{
+  "ep": 13,
+  "source": "auto-aligned from reports/mk/gooaye-ep0013.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0013.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/eddc79ef-78f9-490b-b3c1-1dffd89acdb5/rssFileVip.mp3?timestamp=1689439381144",
+  "duration": 1599.09,
+  "segments": [
+    {
+      "id": "ep0013-s01",
+      "heading": "開場 / 股癌衝上 Apple Podcast 第一名",
+      "start": 0.08,
+      "end": 145.29,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0013-s02",
+      "heading": "集體失智現象",
+      "start": 145.34,
+      "end": 197.93,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0013-s03",
+      "heading": "安屎之亂：搶衛生紙事件",
+      "start": 197.98,
+      "end": 352.63,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0013-s04",
+      "heading": "義美厚奶茶事件",
+      "start": 352.68,
+      "end": 390.39,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0013-s05",
+      "heading": "彩色路跑事件",
+      "start": 390.44,
+      "end": 601.69,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0013-s06",
+      "heading": "地平說信徒與反疫苗論者",
+      "start": 601.74,
+      "end": 744.73,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0013-s07",
+      "heading": "美國封城與實體經濟衝擊",
+      "start": 744.78,
+      "end": 834.37,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0013-s08",
+      "heading": "TWS 耳機供應鏈",
+      "start": 834.42,
+      "end": 924.93,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0013-s09",
+      "heading": "美債流動性問題",
+      "start": 924.98,
+      "end": 1037.37,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0013-s10",
+      "heading": "操作建議：不抄底、分批進場",
+      "start": 1037.42,
+      "end": 1332.63,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0013-s11",
+      "heading": "結論：旁觀瘋狂，不做擋門口的勇者",
+      "start": 1332.68,
+      "end": 1551.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0013-s12",
+      "heading": "結尾",
+      "start": 1551.72,
+      "end": 1599.09,
+      "confidence": 1.0
+    }
+  ]
+}

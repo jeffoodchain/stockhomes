@@ -1,0 +1,100 @@
+{
+  "ep": 430,
+  "source": "auto-aligned from reports/mk/gooaye-ep0430.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0430.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7a24f802-6a41-404d-9f78-d4be4c1967d7/rssFileVip.mp3?timestamp=1708761048505",
+  "duration": 3059.91,
+  "segments": [
+    {
+      "id": "ep0430-s01",
+      "heading": "開場 / 50惠養髮精華贊助",
+      "start": 0.0,
+      "end": 90.75,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0430-s02",
+      "heading": "回義大利與工作近況",
+      "start": 90.8,
+      "end": 181.65,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0430-s03",
+      "heading": "與父母的旅遊風格差異",
+      "start": 181.7,
+      "end": 217.47,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0430-s04",
+      "heading": "孩子教育與養育理念",
+      "start": 217.52,
+      "end": 442.06,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0430-s05",
+      "heading": "出國體驗與旅遊市場變化",
+      "start": 442.11,
+      "end": 511.24,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0430-s06",
+      "heading": "帶寵物出國",
+      "start": 511.29,
+      "end": 709.82,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0430-s07",
+      "heading": "盤勢與輝達財報分析",
+      "start": 709.87,
+      "end": 964.84,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0430-s08",
+      "heading": "輝達新產品線",
+      "start": 964.89,
+      "end": 1116.68,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0430-s09",
+      "heading": "輝達營收展望與市場特點",
+      "start": 1116.73,
+      "end": 1254.56,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0430-s10",
+      "heading": "輝達後續關注重點與資安股分析",
+      "start": 1254.61,
+      "end": 1567.6,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0430-s11",
+      "heading": "資安硬體發展與變化",
+      "start": 1567.65,
+      "end": 1699.5,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0430-s12",
+      "heading": "AI 時代安全威脅與資安股投資邏輯",
+      "start": 1699.55,
+      "end": 1926.26,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0430-s13",
+      "heading": "結尾與 Q&A 段落開始",
+      "start": 1926.31,
+      "end": 3059.91,
+      "confidence": 0.644
+    }
+  ]
+}

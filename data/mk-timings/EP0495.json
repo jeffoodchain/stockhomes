@@ -1,0 +1,86 @@
+{
+  "ep": 495,
+  "source": "auto-aligned from reports/mk/gooaye-ep0495.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0495.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/42469573-a21e-4a5f-874c-c30f9e96f75e/rssFileVip.mp3?timestamp=1728469689564",
+  "duration": 3003.43,
+  "segments": [
+    {
+      "id": "ep0495-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 79.45,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0495-s02",
+      "heading": "最近看劇的推薦",
+      "start": 79.5,
+      "end": 144.83,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0495-s03",
+      "heading": "近期市場與持股佈局",
+      "start": 144.88,
+      "end": 207.59,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0495-s04",
+      "heading": "Intel 的投資邏輯",
+      "start": 207.64,
+      "end": 398.35,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0495-s05",
+      "heading": "後續行情預期",
+      "start": 398.4,
+      "end": 571.85,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0495-s06",
+      "heading": "筆電產品發展",
+      "start": 571.9,
+      "end": 657.83,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0495-s07",
+      "heading": "Hindenburg Research 針對 Roblox 的放空報告分析",
+      "start": 657.88,
+      "end": 830.71,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0495-s08",
+      "heading": "Hindenburg 對 Roblox 的主要指控",
+      "start": 830.76,
+      "end": 963.65,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0495-s09",
+      "heading": "虛擬訊號與社群平臺的困境",
+      "start": 963.7,
+      "end": 1268.53,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0495-s10",
+      "heading": "Roblox 核心數據的討論",
+      "start": 1268.58,
+      "end": 1727.99,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0495-s11",
+      "heading": "Q&A 環節",
+      "start": 1728.04,
+      "end": 3003.43,
+      "confidence": 0.778
+    }
+  ]
+}

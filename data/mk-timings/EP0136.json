@@ -1,0 +1,58 @@
+{
+  "ep": 136,
+  "source": "auto-aligned from reports/mk/gooaye-ep0136.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0136.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c7d526fd-19f5-48d8-bf6b-4e2247897fc0/rssFileVip.mp3?timestamp=1689439407772",
+  "duration": 2664.59,
+  "segments": [
+    {
+      "id": "ep0136-s01",
+      "heading": "開場 / 贊助：樂天 Kobo 電子書",
+      "start": 0.05,
+      "end": 70.62,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0136-s02",
+      "heading": "聊電影：《靈魂急轉彎》與《真愛每一天》",
+      "start": 70.67,
+      "end": 355.94,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0136-s03",
+      "heading": "Economist 台灣報導與晶圓產業去中心化",
+      "start": 355.99,
+      "end": 878.24,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0136-s04",
+      "heading": "世芯-KY 事件與集中風險警示",
+      "start": 878.29,
+      "end": 1090.06,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0136-s05",
+      "heading": "財報季：台股電子回神、伺服器族群崛起",
+      "start": 1090.11,
+      "end": 1304.12,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0136-s06",
+      "heading": "美股財報：蘋果、Facebook、微軟、Twitter",
+      "start": 1304.17,
+      "end": 1541.62,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0136-s07",
+      "heading": "Q&A",
+      "start": 1541.67,
+      "end": 2664.59,
+      "confidence": 0.778
+    }
+  ]
+}

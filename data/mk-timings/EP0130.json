@@ -1,0 +1,93 @@
+{
+  "ep": 130,
+  "source": "auto-aligned from reports/mk/gooaye-ep0130.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0130.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/baf09d31-2385-456a-aade-3accfbbe9d13/rssFileVip.mp3?timestamp=1689439399897",
+  "duration": 2498.17,
+  "segments": [
+    {
+      "id": "ep0130-s01",
+      "heading": "開場 / 贊助：國泰產險",
+      "start": 0.0,
+      "end": 97.67,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0130-s02",
+      "heading": "廣告後記：意外的保險緣分",
+      "start": 97.72,
+      "end": 162.71,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0130-s03",
+      "heading": "臺股四月營收：創歷史新高",
+      "start": 162.76,
+      "end": 325.35,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0130-s04",
+      "heading": "標的觀察：世芯 KY 與朋程科技",
+      "start": 325.4,
+      "end": 629.75,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0130-s05",
+      "heading": "谷月涵與謝金河：巨獸對決",
+      "start": 629.8,
+      "end": 677.91,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0130-s06",
+      "heading": "基本面分析：客戶結構與制裁風險",
+      "start": 677.96,
+      "end": 806.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0130-s07",
+      "heading": "選股框架：體質、題材、客戶結構",
+      "start": 806.86,
+      "end": 963.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0130-s08",
+      "heading": "市場派系介紹：胡升鴻 Podcast 與 Archegos 啟示",
+      "start": 963.26,
+      "end": 1080.09,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0130-s09",
+      "heading": "技術派、K線、形態學、波浪理論",
+      "start": 1080.14,
+      "end": 1575.89,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0130-s10",
+      "heading": "動能交易派",
+      "start": 1575.94,
+      "end": 1841.49,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0130-s11",
+      "heading": "Q&A",
+      "start": 1841.54,
+      "end": 2487.66,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0130-s12",
+      "heading": "結尾",
+      "start": 2487.71,
+      "end": 2498.17,
+      "confidence": 0.88
+    }
+  ]
+}

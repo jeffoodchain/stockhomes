@@ -1,0 +1,58 @@
+{
+  "ep": 614,
+  "source": "auto-aligned from reports/mk/gooaye-ep0614.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0614.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9eaeb255-ce22-439c-a039-e9a958efa9b9/rssFileVip.mp3?timestamp=1764452366394",
+  "duration": 3021.24,
+  "segments": [
+    {
+      "id": "ep0614-s01",
+      "heading": "開場 / 贊助：Dr.情趣",
+      "start": 0.0,
+      "end": 75.11,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0614-s02",
+      "heading": "廣告後聊：Dr.情趣老皮與育兒",
+      "start": 75.16,
+      "end": 192.91,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0614-s03",
+      "heading": "育兒哲學：放養與反差",
+      "start": 192.96,
+      "end": 501.47,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0614-s04",
+      "heading": "AI 變現、免費仔與企業 DNA",
+      "start": 501.52,
+      "end": 953.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0614-s05",
+      "heading": "市場話題：川湖、NVIDIA 成本壓力與 Google TPU",
+      "start": 953.74,
+      "end": 1413.13,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0614-s06",
+      "heading": "Intel 大漲、EMIB 與 MTK 後年展望",
+      "start": 1413.18,
+      "end": 1642.37,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0614-s07",
+      "heading": "Q&A",
+      "start": 1642.42,
+      "end": 3021.24,
+      "confidence": 0.667
+    }
+  ]
+}

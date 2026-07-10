@@ -1,0 +1,65 @@
+{
+  "ep": 65,
+  "source": "auto-aligned from reports/mk/gooaye-ep0065.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0065.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/60ca96ad-3980-46dd-927b-b5bd908474f5/rssFileVip.mp3?timestamp=1689439382104",
+  "duration": 2615.56,
+  "segments": [
+    {
+      "id": "ep0065-s01",
+      "heading": "開場 / 贊助：GameToGo",
+      "start": 0.11,
+      "end": 116.58,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0065-s02",
+      "heading": "被教召啦",
+      "start": 116.63,
+      "end": 345.06,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0065-s03",
+      "heading": "國泰降手續費：衝擊與背後邏輯",
+      "start": 345.11,
+      "end": 550.84,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0065-s04",
+      "heading": "零手續費背後：Payment for Order Flow 與暗池",
+      "start": 550.89,
+      "end": 854.92,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0065-s05",
+      "heading": "我在國泰買什麼：網通族群",
+      "start": 854.97,
+      "end": 1224.4,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0065-s06",
+      "heading": "跟單奧義：資金控管才是核心",
+      "start": 1224.45,
+      "end": 1743.72,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0065-s07",
+      "heading": "Q&A",
+      "start": 1743.77,
+      "end": 2459.94,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0065-s08",
+      "heading": "反壟斷：大者恆大的趨勢",
+      "start": 2459.99,
+      "end": 2615.56,
+      "confidence": 0.589
+    }
+  ]
+}

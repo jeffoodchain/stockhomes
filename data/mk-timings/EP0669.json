@@ -1,0 +1,100 @@
+{
+  "ep": 669,
+  "source": "auto-aligned from reports/mk/gooaye-ep0669.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0669.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f208d558-a3a0-4812-a19a-777c69ac31bf/rssFileVip.mp3?timestamp=1781079367564",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0669-s01",
+      "heading": "開場 / 贊助：Dr.情趣",
+      "start": 0.0,
+      "end": 88.13,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0669-s02",
+      "heading": "34歲生日：健康、禮物與下一階段",
+      "start": 88.18,
+      "end": 498.53,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0669-s03",
+      "heading": "盤勢回檔：殺戮戰場、洗籌碼與下一波資金",
+      "start": 498.58,
+      "end": 675.73,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0669-s04",
+      "heading": "台積電漲價、SemiAnalysis 與 AI 供應鏈鬼故事",
+      "start": 675.78,
+      "end": 1501.69,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0669-s05",
+      "heading": "Apple WWDC：AI、螢幕感知與消費性資金",
+      "start": 1501.74,
+      "end": 1784.07,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0669-s06",
+      "heading": "Q&A：Cyberpunk、人機合一與 Neuralink",
+      "start": 1784.12,
+      "end": 1839.85,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0669-s07",
+      "heading": "Q&A：臺中大坪數、紅酒與音響坑",
+      "start": 1839.9,
+      "end": 2092.98,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0669-s08",
+      "heading": "Q&A：Steam 遊戲時數與大作偏好",
+      "start": 2093.03,
+      "end": 2143.8,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0669-s09",
+      "heading": "Q&A：信貸還卡債、戰鬥陀螺與衝動消費",
+      "start": 2143.85,
+      "end": 2374.1,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0669-s10",
+      "heading": "Q&A：小天使、觀音與重新出發",
+      "start": 2374.15,
+      "end": 2459.54,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0669-s11",
+      "heading": "Q&A：新家、交往千日與破釜沉舟",
+      "start": 2459.59,
+      "end": 2595.35,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0669-s12",
+      "heading": "Q&A：玻璃心、批評與曝露療法",
+      "start": 2595.4,
+      "end": 2904.31,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0669-s13",
+      "heading": "Q&A：髖發力與孩子學腳踏車",
+      "start": 2904.36,
+      "end": 3040.57,
+      "confidence": 0.656
+    }
+  ]
+}

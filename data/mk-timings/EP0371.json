@@ -1,0 +1,51 @@
+{
+  "ep": 371,
+  "source": "auto-aligned from reports/mk/gooaye-ep0371.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0371.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/51f75a68-eb84-42b1-92f4-afec6c059c0d/rssFileVip.mp3?timestamp=1690968422834",
+  "duration": 3039.09,
+  "segments": [
+    {
+      "id": "ep0371-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 64.25,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0371-s02",
+      "heading": "電影分享：《超難搞先生》與《經典老爺車》",
+      "start": 64.3,
+      "end": 185.43,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0371-s03",
+      "heading": "兒子生日派對",
+      "start": 185.48,
+      "end": 299.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0371-s04",
+      "heading": "市場回檔與投資思考",
+      "start": 299.8,
+      "end": 907.09,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0371-s05",
+      "heading": "散熱機會分析",
+      "start": 907.14,
+      "end": 1745.0,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0371-s06",
+      "heading": "Q&A",
+      "start": 1745.05,
+      "end": 3039.09,
+      "confidence": 0.733
+    }
+  ]
+}

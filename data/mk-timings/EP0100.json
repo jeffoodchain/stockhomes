@@ -1,0 +1,79 @@
+{
+  "ep": 100,
+  "source": "auto-aligned from reports/mk/gooaye-ep0100.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0100.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/27c42e40-64f1-465c-af21-74e21c115997/rssFileVip.mp3?timestamp=1689439379023",
+  "duration": 2499.66,
+  "segments": [
+    {
+      "id": "ep0100-s01",
+      "heading": "開場 / 贊助：趨勢科技",
+      "start": 0.02,
+      "end": 96.87,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0100-s02",
+      "heading": "資安類股：SolarWinds事件",
+      "start": 96.92,
+      "end": 259.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0100-s03",
+      "heading": "Zero Trust Network",
+      "start": 259.78,
+      "end": 410.97,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0100-s04",
+      "heading": "聖誕節假期",
+      "start": 411.02,
+      "end": 563.81,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0100-s05",
+      "heading": "馬雲與阿里巴巴",
+      "start": 563.86,
+      "end": 848.89,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0100-s06",
+      "heading": "在中國經商的本質",
+      "start": 848.94,
+      "end": 997.95,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0100-s07",
+      "heading": "阿里巴巴怎麼看？",
+      "start": 998.0,
+      "end": 1215.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0100-s08",
+      "heading": "多元配置的重要性",
+      "start": 1215.3,
+      "end": 1443.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0100-s09",
+      "heading": "Q&A",
+      "start": 1443.26,
+      "end": 2496.01,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0100-s10",
+      "heading": "結尾",
+      "start": 2496.06,
+      "end": 2499.66,
+      "confidence": 0.632
+    }
+  ]
+}

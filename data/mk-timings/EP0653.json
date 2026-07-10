@@ -1,0 +1,163 @@
+{
+  "ep": 653,
+  "source": "auto-aligned from reports/mk/gooaye-ep0653.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0653.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3239f800-b064-4ac4-bef6-e7f72021b49f/rssFileVip.mp3?timestamp=1776292498987",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0653-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 103.25,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0653-s02",
+      "heading": "開場：善變的個性是優點",
+      "start": 103.3,
+      "end": 166.57,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0653-s03",
+      "heading": "生活閒聊：紅酒入坑與酒櫃風波",
+      "start": 166.62,
+      "end": 699.59,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0653-s04",
+      "heading": "市場話題：多頭行情與台積電估值",
+      "start": 699.64,
+      "end": 822.57,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0653-s05",
+      "heading": "聯發科 AI 晶片：V8 / V9 佈局",
+      "start": 822.62,
+      "end": 1132.75,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0653-s06",
+      "heading": "Marvell 加入 Google 供應鏈",
+      "start": 1132.8,
+      "end": 1430.13,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0653-s07",
+      "heading": "被動元件漲價：全線啟動觀察",
+      "start": 1430.18,
+      "end": 1679.99,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0653-s08",
+      "heading": "Q&A：Andy 哥 4/15 生日快樂",
+      "start": 1680.04,
+      "end": 1712.67,
+      "confidence": 0.5
+    },
+    {
+      "id": "ep0653-s09",
+      "heading": "Q&A：育兒、孩子鬧情緒 & 美股持股",
+      "start": 1712.72,
+      "end": 1883.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0653-s10",
+      "heading": "Q&A：技術面判讀趨勢、時間軸怎麼選",
+      "start": 1883.26,
+      "end": 2158.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0653-s11",
+      "heading": "Q&A：動漫推薦 & 寵物公益",
+      "start": 2158.72,
+      "end": 2223.33,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0653-s12",
+      "heading": "Q&A：謝姓寶樹堂",
+      "start": 2223.38,
+      "end": 2266.09,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0653-s13",
+      "heading": "Q&A：祝福 Freddy & 川普口吻生日快樂",
+      "start": 2266.14,
+      "end": 2303.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0653-s14",
+      "heading": "Q&A：動漫歌曲喜好 & 福利連",
+      "start": 2303.88,
+      "end": 2355.29,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0653-s15",
+      "heading": "Q&A：行情太火爆 & Token 定價趨勢",
+      "start": 2355.34,
+      "end": 2528.32,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0653-s16",
+      "heading": "Q&A：開皮炎的留言（略）",
+      "start": 2528.37,
+      "end": 2550.64,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0653-s17",
+      "heading": "Q&A：露露公主生日快樂 & Covered Call 策略",
+      "start": 2550.69,
+      "end": 2621.66,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0653-s18",
+      "heading": "Q&A：大學生畢業致辭求金句",
+      "start": 2621.71,
+      "end": 2675.16,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0653-s19",
+      "heading": "Q&A：在天堂的媽媽",
+      "start": 2675.21,
+      "end": 2700.78,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0653-s20",
+      "heading": "Q&A：戒菸建議",
+      "start": 2700.83,
+      "end": 2787.64,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0653-s21",
+      "heading": "Q&A：被動元件趨勢確認 & 6285 奇鋐",
+      "start": 2787.69,
+      "end": 2939.34,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0653-s22",
+      "heading": "Q&A：公益捐款行動 & 結語",
+      "start": 2939.39,
+      "end": 2998.96,
+      "confidence": 0.678
+    }
+  ]
+}

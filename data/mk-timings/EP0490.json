@@ -1,0 +1,142 @@
+{
+  "ep": 490,
+  "source": "auto-aligned from reports/mk/gooaye-ep0490.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0490.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1b733282-8607-4dc2-a680-6fc8b8da8e23/rssFileVip.mp3?timestamp=1726905375983",
+  "duration": 3140.15,
+  "segments": [
+    {
+      "id": "ep0490-s01",
+      "heading": "開場／贊助：NordVPN",
+      "start": 0.0,
+      "end": 87.63,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0490-s02",
+      "heading": "教家人股票下單的契機",
+      "start": 87.68,
+      "end": 120.11,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0490-s03",
+      "heading": "不強推價值觀的教學哲學",
+      "start": 120.16,
+      "end": 153.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0490-s04",
+      "heading": "第一週的密集教學：五天十筆交易",
+      "start": 153.96,
+      "end": 237.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0490-s05",
+      "heading": "基本面與技術面的綜合教學",
+      "start": 237.74,
+      "end": 284.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0490-s06",
+      "heading": "教學中的自我矛盾與反思",
+      "start": 284.6,
+      "end": 422.85,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0490-s07",
+      "heading": "季線支撐與動能的權衡",
+      "start": 422.9,
+      "end": 521.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0490-s08",
+      "heading": "選股的主觀彈性與眼光的重要性",
+      "start": 521.28,
+      "end": 740.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0490-s09",
+      "heading": "運氣與選擇的角色",
+      "start": 740.32,
+      "end": 799.29,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0490-s10",
+      "heading": "盤中的技術面預測與當沖的教學",
+      "start": 799.34,
+      "end": 983.87,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0490-s11",
+      "heading": "教學的雙向收穫",
+      "start": 983.92,
+      "end": 1042.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0490-s12",
+      "heading": "美聯準降息與風險資產的佈局",
+      "start": 1042.06,
+      "end": 1097.03,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0490-s13",
+      "heading": "台灣央行的打房政策",
+      "start": 1097.08,
+      "end": 1128.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0490-s14",
+      "heading": "房地產政策的社會意義",
+      "start": 1128.3,
+      "end": 1357.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0490-s15",
+      "heading": "遊戲顯示卡的消費狀況",
+      "start": 1357.84,
+      "end": 1419.43,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0490-s16",
+      "heading": "功率半導體的復甦跡象",
+      "start": 1419.48,
+      "end": 1492.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0490-s17",
+      "heading": "導線架三雄的表現與英飛靈的訂單",
+      "start": 1492.32,
+      "end": 1793.43,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0490-s18",
+      "heading": "iPhone 16 Pro Max 的升級體驗",
+      "start": 1793.48,
+      "end": 2148.25,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0490-s19",
+      "heading": "Q&A 時間",
+      "start": 2148.3,
+      "end": 3140.15,
+      "confidence": 0.578
+    }
+  ]
+}

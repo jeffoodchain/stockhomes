@@ -1,0 +1,72 @@
+{
+  "ep": 545,
+  "source": "auto-aligned from reports/mk/gooaye-ep0545.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0545.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7144a806-a199-4db9-8c1a-f5fc4de34c9d/rssFileVip.mp3?timestamp=1743585809479",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0545-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 71.61,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0545-s02",
+      "heading": "二胎心路歷程",
+      "start": 71.66,
+      "end": 151.59,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0545-s03",
+      "heading": "二胎從韓國驗孕說起",
+      "start": 151.64,
+      "end": 223.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0545-s04",
+      "heading": "性別揭露、囊腫發現與心態調適",
+      "start": 223.78,
+      "end": 603.71,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0545-s05",
+      "heading": "話題：GPT-4o 生圖爆紅、算力需求暴增",
+      "start": 603.76,
+      "end": 696.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0545-s06",
+      "heading": "話題：市場情緒與「袋鼠式」橫盤格局",
+      "start": 696.94,
+      "end": 1000.19,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0545-s07",
+      "heading": "話題：關稅利空、盤面覆盤與操作方向",
+      "start": 1000.24,
+      "end": 1578.33,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0545-s08",
+      "heading": "Q&A",
+      "start": 1578.38,
+      "end": 3036.22,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0545-s09",
+      "heading": "結尾",
+      "start": 3036.27,
+      "end": 3040.57,
+      "confidence": 0.533
+    }
+  ]
+}

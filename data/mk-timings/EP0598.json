@@ -1,0 +1,58 @@
+{
+  "ep": 598,
+  "source": "auto-aligned from reports/mk/gooaye-ep0598.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0598.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/25b5d8d9-e25d-4d82-9580-8668ae881161/rssFileVip.mp3?timestamp=1759615053419",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0598-s01",
+      "heading": "開場 / 贊助：魔度台茶氣泡飲",
+      "start": 0.05,
+      "end": 84.14,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0598-s02",
+      "heading": "開場閒聊：中秋節快樂",
+      "start": 84.19,
+      "end": 233.66,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0598-s03",
+      "heading": "夜市體驗與臉書盈利開箱",
+      "start": 233.71,
+      "end": 526.9,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0598-s04",
+      "heading": "本週盤面回顧：緩和修正週",
+      "start": 526.95,
+      "end": 637.14,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0598-s05",
+      "heading": "緯創（3231）：L6 升至 L10 的新故事",
+      "start": 637.19,
+      "end": 908.74,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0598-s06",
+      "heading": "NVIDIA 散熱新方案：MCCP 微通道冷板與 MCL 遞延",
+      "start": 908.79,
+      "end": 1295.64,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0598-s07",
+      "heading": "Q&A",
+      "start": 1295.69,
+      "end": 3040.57,
+      "confidence": 0.6
+    }
+  ]
+}

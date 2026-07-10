@@ -1,0 +1,156 @@
+{
+  "ep": 676,
+  "source": "auto-aligned from reports/mk/gooaye-ep0676.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0676.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2d7b77d8-c828-43f9-b835-5a1a72aa2e38/rssFileVip.mp3?timestamp=1783151810360",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0676-s01",
+      "heading": "善存贊助開場",
+      "start": 0.0,
+      "end": 105.45,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0676-s02",
+      "heading": "暑假、夏令營與當爸後的換位思考",
+      "start": 105.5,
+      "end": 214.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0676-s03",
+      "heading": "宜蘭凱渡親子飯店體驗",
+      "start": 215.02,
+      "end": 413.85,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0676-s04",
+      "heading": "宜蘭買房想像與帶小孩出遊現實",
+      "start": 413.9,
+      "end": 515.95,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0676-s05",
+      "heading": "育兒的疲累與幸福：一天太長、一年太短",
+      "start": 516.0,
+      "end": 705.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0676-s06",
+      "heading": "市場話題：強勢股、解套賣壓與再攻新高條件",
+      "start": 705.94,
+      "end": 873.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0676-s07",
+      "heading": "功率元件缺貨與七月漲價信",
+      "start": 874.04,
+      "end": 1108.01,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0676-s08",
+      "heading": "封測、成熟製程與 AI 需求外溢",
+      "start": 1108.06,
+      "end": 1328.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0676-s09",
+      "heading": "Meta 進入 Neo Cloud：不是退出 AI，而是尋找算力出海口",
+      "start": 1328.72,
+      "end": 1742.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0676-s10",
+      "heading": "Q&A 開場",
+      "start": 1742.12,
+      "end": 1743.57,
+      "confidence": 0.526
+    },
+    {
+      "id": "ep0676-s11",
+      "heading": "Q&A：高雄許光漢他爸：育兒與親家梗",
+      "start": 1743.62,
+      "end": 1769.67,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0676-s12",
+      "heading": "Q&A：Lucky77：康復、家人陪伴與股癌聲音",
+      "start": 1769.72,
+      "end": 1865.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0676-s13",
+      "heading": "Q&A：Judy KK：男友生日祝福",
+      "start": 1865.56,
+      "end": 1894.25,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0676-s14",
+      "heading": "Q&A：謝孟恭老聽眾：轉職銀行與專職投資門檻",
+      "start": 1894.3,
+      "end": 2020.17,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0676-s15",
+      "heading": "Q&A：很持久：交易錯誤、凹單與專職特質",
+      "start": 2020.22,
+      "end": 2229.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0676-s16",
+      "heading": "Q&A：Tony Tsai：Perplexity Comet、Claude 與工具分工",
+      "start": 2229.54,
+      "end": 2340.87,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0676-s17",
+      "heading": "Q&A：Linda：質押利率、券商額度與被動風控",
+      "start": 2340.92,
+      "end": 2435.28,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0676-s18",
+      "heading": "Q&A：June：台股光通、資金流向與題材輪動",
+      "start": 2435.33,
+      "end": 2663.24,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0676-s19",
+      "heading": "Q&A：微格歐：生日祝福與大鳴大放",
+      "start": 2663.29,
+      "end": 2686.86,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0676-s20",
+      "heading": "Q&A：會辣的番茄醬是什麼醬：驅動 IC、成本轉嫁與補漲邏輯",
+      "start": 2686.91,
+      "end": 2957.19,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0676-s21",
+      "heading": "Q&A：來去菜區啊：太太求職與觀音祝福",
+      "start": 2957.24,
+      "end": 2998.96,
+      "confidence": 0.722
+    }
+  ]
+}

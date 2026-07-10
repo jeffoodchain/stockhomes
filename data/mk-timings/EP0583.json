@@ -1,0 +1,93 @@
+{
+  "ep": 583,
+  "source": "auto-aligned from reports/mk/gooaye-ep0583.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0583.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ec2b2ad6-0e33-44b7-bd07-54796c7ff708/rssFileVip.mp3?timestamp=1755079727692",
+  "duration": 3016.8,
+  "segments": [
+    {
+      "id": "ep0583-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 67.23,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0583-s02",
+      "heading": "肖楠資本成立宣布",
+      "start": 67.28,
+      "end": 156.85,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0583-s03",
+      "heading": "網路質疑與回應",
+      "start": 156.9,
+      "end": 239.01,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0583-s04",
+      "heading": "資金來源與成立初衷",
+      "start": 239.06,
+      "end": 408.69,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0583-s05",
+      "heading": "股東組成與公司架構",
+      "start": 408.74,
+      "end": 665.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0583-s06",
+      "heading": "資金目標與使命感",
+      "start": 665.68,
+      "end": 808.17,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0583-s07",
+      "heading": "首批投資團隊",
+      "start": 808.22,
+      "end": 1095.29,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0583-s08",
+      "heading": "台股盤面：上影線警戒、族群輪動",
+      "start": 1095.34,
+      "end": 1311.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0583-s09",
+      "heading": "軍工、PCB、CPO、交換器族群",
+      "start": 1311.14,
+      "end": 1480.07,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0583-s10",
+      "heading": "光通訊：血淚教訓與想像力",
+      "start": 1480.12,
+      "end": 1708.17,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0583-s11",
+      "heading": "Q&A",
+      "start": 1708.22,
+      "end": 2973.28,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0583-s12",
+      "heading": "結尾 / 生日祝福",
+      "start": 2973.33,
+      "end": 3016.8,
+      "confidence": 0.778
+    }
+  ]
+}

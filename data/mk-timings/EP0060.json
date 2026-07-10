@@ -1,0 +1,72 @@
+{
+  "ep": 60,
+  "source": "auto-aligned from reports/mk/gooaye-ep0060.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0060.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9e1c87d1-6921-48b0-86d2-cb90ce69d950/rssFileVip.mp3?timestamp=1689439403900",
+  "duration": 2099.88,
+  "segments": [
+    {
+      "id": "ep0060-s01",
+      "heading": "開場 / 贊助：Lalamove",
+      "start": 0.02,
+      "end": 120.69,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0060-s02",
+      "heading": "父親節感言",
+      "start": 120.74,
+      "end": 197.77,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0060-s03",
+      "heading": "視網膜空降 Podcast 事件",
+      "start": 197.82,
+      "end": 420.87,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0060-s04",
+      "heading": "美中資訊戰：TikTok、微信禁令",
+      "start": 420.92,
+      "end": 689.11,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0060-s05",
+      "heading": "騰訊轉投資風險分析",
+      "start": 689.16,
+      "end": 907.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0060-s06",
+      "heading": "騰訊是否值得逢低買進",
+      "start": 907.24,
+      "end": 1005.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0060-s07",
+      "heading": "左側 vs 右側交易",
+      "start": 1005.9,
+      "end": 1177.27,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0060-s08",
+      "heading": "Q&A",
+      "start": 1177.32,
+      "end": 2089.61,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0060-s09",
+      "heading": "結尾",
+      "start": 2089.66,
+      "end": 2099.88,
+      "confidence": 0.644
+    }
+  ]
+}

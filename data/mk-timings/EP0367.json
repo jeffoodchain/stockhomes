@@ -1,0 +1,65 @@
+{
+  "ep": 367,
+  "source": "auto-aligned from reports/mk/gooaye-ep0367.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0367.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2987e321-2da0-4453-b030-20ead8542cfa/rssFileVip.mp3?timestamp=1689757547026",
+  "duration": 3086.65,
+  "segments": [
+    {
+      "id": "ep0367-s01",
+      "heading": "開場 / 贊助：森歐黎漾",
+      "start": 0.0,
+      "end": 87.63,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0367-s02",
+      "heading": "健身房和老婆的故事",
+      "start": 87.68,
+      "end": 169.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0367-s03",
+      "heading": "橘色涮涮鍋的情懷",
+      "start": 169.4,
+      "end": 560.39,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0367-s04",
+      "heading": "富爸爸的故事和物質觀",
+      "start": 560.44,
+      "end": 760.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0367-s05",
+      "heading": "市場話題：昨天的急殺和 AI 股",
+      "start": 761.02,
+      "end": 1115.15,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0367-s06",
+      "heading": "AI 的長期價值",
+      "start": 1115.2,
+      "end": 1180.49,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0367-s07",
+      "heading": "特斯拉作為被低估的 AI 玩家",
+      "start": 1180.54,
+      "end": 1731.09,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0367-s08",
+      "heading": "Q&A 部分",
+      "start": 1731.14,
+      "end": 3086.65,
+      "confidence": 0.789
+    }
+  ]
+}

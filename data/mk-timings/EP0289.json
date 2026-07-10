@@ -1,0 +1,65 @@
+{
+  "ep": 289,
+  "source": "auto-aligned from reports/mk/gooaye-ep0289.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0289.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/74419e4f-696b-4c5c-9c88-eef506a33fae/rssFileVip.mp3?timestamp=1689439388515",
+  "duration": 2930.6,
+  "segments": [
+    {
+      "id": "ep0289-s01",
+      "heading": "開場 / 贊助：阿江營養師 300 億機能益生菌",
+      "start": 0.0,
+      "end": 78.01,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0289-s02",
+      "heading": "打疫苗、日本行機票費用",
+      "start": 78.06,
+      "end": 176.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0289-s03",
+      "heading": "航空股看空邏輯覆盤",
+      "start": 176.98,
+      "end": 648.55,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0289-s04",
+      "heading": "天然氣類股下一波機會",
+      "start": 648.6,
+      "end": 897.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0289-s05",
+      "heading": "台股盤勢觀察：結算日壓制",
+      "start": 897.14,
+      "end": 1099.97,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0289-s06",
+      "heading": "Netflix Q3 2022 財報分析",
+      "start": 1100.02,
+      "end": 1591.19,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0289-s07",
+      "heading": "Q&A",
+      "start": 1591.24,
+      "end": 2927.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0289-s08",
+      "heading": "結尾",
+      "start": 2927.76,
+      "end": 2930.6,
+      "confidence": 0.45
+    }
+  ]
+}

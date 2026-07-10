@@ -1,0 +1,114 @@
+{
+  "ep": 627,
+  "source": "auto-aligned from reports/mk/gooaye-ep0627.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0627.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f7d4cf06-84f4-42e2-aa88-a8aada4c209c/rssFileVip.mp3?timestamp=1768429059291",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0627-s01",
+      "heading": "開場 / 贊助：眠豆腐 3.0",
+      "start": 0.08,
+      "end": 65.55,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0627-s02",
+      "heading": "進入新階段：沒時間玩盜版了",
+      "start": 65.6,
+      "end": 122.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0627-s03",
+      "heading": "醫美初體驗：刮鬍子去打鳳凰電波",
+      "start": 122.84,
+      "end": 471.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0627-s04",
+      "heading": "花瓶也是專業：對醫美族群的新理解",
+      "start": 471.74,
+      "end": 616.71,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0627-s05",
+      "heading": "市場觀察：窄度的行情、被動元件再起漲",
+      "start": 616.76,
+      "end": 795.19,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0627-s06",
+      "heading": "裝置產業：擴前段、Backend 都有機會",
+      "start": 795.24,
+      "end": 874.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0627-s07",
+      "heading": "CoWoP 題材：NVIDIA 工程師外流的 PPT",
+      "start": 874.36,
+      "end": 1182.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0627-s08",
+      "heading": "市場情緒：最瘋狂的時間點還沒到？",
+      "start": 1183.02,
+      "end": 1700.71,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0627-s09",
+      "heading": "Q&A：祝從業生日快樂 & 節目風格",
+      "start": 1700.76,
+      "end": 1796.27,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0627-s10",
+      "heading": "Q&A：營建股、記憶體模組廠資訊",
+      "start": 1796.32,
+      "end": 2094.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0627-s11",
+      "heading": "Q&A：陪伴爸媽、母親炒股的回憶",
+      "start": 2095.02,
+      "end": 2490.95,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0627-s12",
+      "heading": "Q&A：許願碩班放榜",
+      "start": 2491.0,
+      "end": 2548.67,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0627-s13",
+      "heading": "Q&A：孝順 vs. 歐美的愛",
+      "start": 2548.72,
+      "end": 2822.77,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0627-s14",
+      "heading": "Q&A：生日快樂",
+      "start": 2822.82,
+      "end": 2830.65,
+      "confidence": 0.755
+    },
+    {
+      "id": "ep0627-s15",
+      "heading": "Q&A：老婆瘋狂買水晶 & 話語霸權",
+      "start": 2830.7,
+      "end": 2997.47,
+      "confidence": 0.644
+    }
+  ]
+}

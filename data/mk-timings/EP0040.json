@@ -1,0 +1,86 @@
+{
+  "ep": 40,
+  "source": "auto-aligned from reports/mk/gooaye-ep0040.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0040.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/afbc0d5e-bc0e-4aae-8f5f-26dfe42ea503/rssFileVip.mp3?timestamp=1761072699747",
+  "duration": 2324.3,
+  "segments": [
+    {
+      "id": "ep0040-s01",
+      "heading": "開場 / 贊助：富果帳戶（玉山證券）",
+      "start": 0.24,
+      "end": 194.13,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0040-s02",
+      "heading": "SpaceX 火箭發射",
+      "start": 194.18,
+      "end": 344.45,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0040-s03",
+      "heading": "香港的不可取代性",
+      "start": 344.5,
+      "end": 681.61,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0040-s04",
+      "heading": "誰能取代香港？台北、東京、新加坡",
+      "start": 681.66,
+      "end": 877.73,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0040-s05",
+      "heading": "GFCI 排名與市場反應",
+      "start": 877.78,
+      "end": 949.55,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0040-s06",
+      "heading": "攬炒論與香港局勢",
+      "start": 949.6,
+      "end": 1045.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0040-s07",
+      "heading": "美國退出WHO",
+      "start": 1045.46,
+      "end": 1237.19,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0040-s08",
+      "heading": "MSCI指數移港與市場不可測",
+      "start": 1237.24,
+      "end": 1383.91,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0040-s09",
+      "heading": "閒聊：電影推薦",
+      "start": 1383.96,
+      "end": 1488.17,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0040-s10",
+      "heading": "Q&A：Apple Podcast 評價",
+      "start": 1488.22,
+      "end": 2293.89,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0040-s11",
+      "heading": "結尾：冷知識笑話",
+      "start": 2293.94,
+      "end": 2324.3,
+      "confidence": 0.678
+    }
+  ]
+}

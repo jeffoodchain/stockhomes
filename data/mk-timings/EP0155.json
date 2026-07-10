@@ -1,0 +1,58 @@
+{
+  "ep": 155,
+  "source": "auto-aligned from reports/mk/gooaye-ep0155.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0155.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/585b1d9e-0b8f-4d8c-aa33-68ea22747ed5/rssFileVip.mp3?timestamp=1689439399445",
+  "duration": 2622.98,
+  "segments": [
+    {
+      "id": "ep0155-s01",
+      "heading": "開場 / 贊助：利捷維有酵維生素 D3",
+      "start": 0.0,
+      "end": 108.93,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0155-s02",
+      "heading": "美股市況：亞馬遜創新高、蘋果在洞口",
+      "start": 108.98,
+      "end": 271.91,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0155-s03",
+      "heading": "中國/中概股：滴滴、整改與抄底風險",
+      "start": 271.96,
+      "end": 428.63,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0155-s04",
+      "heading": "柏文（健身工廠，8462）：三級警戒衝擊與解封展望",
+      "start": 428.68,
+      "end": 652.03,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0155-s05",
+      "heading": "服務業復甦：台灣道德防疫 vs 歐美反脆弱",
+      "start": 652.08,
+      "end": 1347.41,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0155-s06",
+      "heading": "QA",
+      "start": 1347.46,
+      "end": 2613.88,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0155-s07",
+      "heading": "結尾",
+      "start": 2613.93,
+      "end": 2622.98,
+      "confidence": 0.681
+    }
+  ]
+}

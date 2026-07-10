@@ -1,0 +1,37 @@
+{
+  "ep": 382,
+  "source": "auto-aligned from reports/mk/gooaye-ep0382.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0382.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c5ab46f4-8770-4e06-a655-f3b27938b312/rssFileVip.mp3?timestamp=1694255608112",
+  "duration": 2978.17,
+  "segments": [
+    {
+      "id": "ep0382-s01",
+      "heading": "開場 / 贊助：拜耳力度生維他命 C",
+      "start": 0.0,
+      "end": 63.51,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0382-s02",
+      "heading": "Starfield：遊戲評鑑與長青潛力",
+      "start": 63.56,
+      "end": 763.39,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0382-s03",
+      "heading": "CoreWeave 與輝達謠言駁斥",
+      "start": 763.44,
+      "end": 1761.13,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0382-s04",
+      "heading": "Q&A 環節",
+      "start": 1761.18,
+      "end": 2978.17,
+      "confidence": 0.789
+    }
+  ]
+}

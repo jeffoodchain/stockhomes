@@ -1,0 +1,51 @@
+{
+  "ep": 357,
+  "source": "auto-aligned from reports/mk/gooaye-ep0357.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0357.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/27bdd428-467f-44d1-8762-f6dbec023a21/rssFileVip.mp3?timestamp=1689439386249",
+  "duration": 3077.72,
+  "segments": [
+    {
+      "id": "ep0357-s01",
+      "heading": "開場／贊助：Foodpanda",
+      "start": 0.0,
+      "end": 88.93,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0357-s02",
+      "heading": "開場碎碎念：停水住飯店，對老婆發脾氣的反省",
+      "start": 88.98,
+      "end": 728.79,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0357-s03",
+      "heading": "市場話題：AMD MI300 發表會解析",
+      "start": 728.84,
+      "end": 1189.95,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0357-s04",
+      "heading": "HBM3 供應鏈與後市展望",
+      "start": 1190.0,
+      "end": 1321.41,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0357-s05",
+      "heading": "下一波題材：車用、消費電子",
+      "start": 1321.46,
+      "end": 1504.93,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0357-s06",
+      "heading": "Q&A",
+      "start": 1504.98,
+      "end": 3077.72,
+      "confidence": 0.811
+    }
+  ]
+}

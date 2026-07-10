@@ -1,0 +1,58 @@
+{
+  "ep": 46,
+  "source": "auto-aligned from reports/mk/gooaye-ep0046.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0046.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/74ef4e1f-6197-4ad3-89ac-9ecf4c1cbd86/rssFileVip.mp3?timestamp=1689439384179",
+  "duration": 2362.93,
+  "segments": [
+    {
+      "id": "ep0046-s01",
+      "heading": "開場 / 贊助：樂天Kobo",
+      "start": 0.08,
+      "end": 170.71,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0046-s02",
+      "heading": "百萬主意分享：清涼知識媒體頻道",
+      "start": 170.76,
+      "end": 420.79,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0046-s03",
+      "heading": "風險特輯前言",
+      "start": 420.84,
+      "end": 552.49,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0046-s04",
+      "heading": "廣明光電事件：先知外資還是賭徒散戶？",
+      "start": 552.54,
+      "end": 914.46,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0046-s05",
+      "heading": "Robinhood散戶之死：Alexander Kearns事件",
+      "start": 914.51,
+      "end": 1315.15,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0046-s06",
+      "heading": "Q&A",
+      "start": 1315.2,
+      "end": 2355.06,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0046-s07",
+      "heading": "結尾",
+      "start": 2355.11,
+      "end": 2362.93,
+      "confidence": 1.0
+    }
+  ]
+}

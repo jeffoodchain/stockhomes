@@ -1,0 +1,114 @@
+{
+  "ep": 619,
+  "source": "auto-aligned from reports/mk/gooaye-ep0619.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0619.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bffcf889-3fd1-4c6c-b863-8093be54f2e7/rssFileVip.mp3?timestamp=1766008310034",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0619-s01",
+      "heading": "開場 / 贊助：Travel Blue 旅行 ALL-IN-ONE 組",
+      "start": 0.0,
+      "end": 57.89,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0619-s02",
+      "heading": "歐洲 long stay：每次去都生病",
+      "start": 57.94,
+      "end": 131.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0619-s03",
+      "heading": "兒子甜蜜的負擔：學會排休一週",
+      "start": 131.44,
+      "end": 227.49,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0619-s04",
+      "heading": "全家福照片：被兒子催著拍",
+      "start": 227.54,
+      "end": 363.45,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0619-s05",
+      "heading": "劉媽媽的手寫信：二兒子有驚無險",
+      "start": 363.5,
+      "end": 794.33,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0619-s06",
+      "heading": "盤面策略：拾荒組、人棄我取",
+      "start": 794.38,
+      "end": 954.13,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0619-s07",
+      "heading": "OpenAI 找 Amazon 融資：AI 臥底聯盟新成員",
+      "start": 954.18,
+      "end": 1235.53,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0619-s08",
+      "heading": "低軌衛星題材浮現：SpaceX IPO 帶動",
+      "start": 1235.58,
+      "end": 1741.29,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0619-s09",
+      "heading": "Q&A：女兒問為什麼弟弟有小雞雞",
+      "start": 1741.34,
+      "end": 1973.7,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0619-s10",
+      "heading": "Q&A：語言遲緩求孟公加持",
+      "start": 1973.75,
+      "end": 2036.52,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0619-s11",
+      "heading": "Q&A：男女平權與社會信任崩潰",
+      "start": 2036.57,
+      "end": 2270.62,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0619-s12",
+      "heading": "Q&A：四年聽眾的內化心得",
+      "start": 2270.67,
+      "end": 2373.24,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0619-s13",
+      "heading": "Q&A：非營利組織募款缺口、施比受更有福",
+      "start": 2373.29,
+      "end": 2495.32,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0619-s14",
+      "heading": "Q&A：抓週簡單辦、社群少看一點",
+      "start": 2495.37,
+      "end": 2824.78,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0619-s15",
+      "heading": "Q&A：矽光子原理科普（雷晶、雷射、光收發模組）",
+      "start": 2824.83,
+      "end": 2995.98,
+      "confidence": 0.689
+    }
+  ]
+}

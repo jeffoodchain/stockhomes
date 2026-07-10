@@ -1,0 +1,72 @@
+{
+  "ep": 120,
+  "source": "auto-aligned from reports/mk/gooaye-ep0120.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0120.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/28d2bf2a-03e5-4b3c-8599-7d301b3392ea/rssFileVip.mp3?timestamp=1689439381817",
+  "duration": 2685.41,
+  "segments": [
+    {
+      "id": "ep0120-s01",
+      "heading": "開場 / 贊助：統洋有機豆漿",
+      "start": 0.0,
+      "end": 97.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0120-s02",
+      "heading": "台股 vs 美股：兩極化的市場氣氛",
+      "start": 97.06,
+      "end": 229.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0120-s03",
+      "heading": "借鏡去年3月：先繃緊、先去槓桿",
+      "start": 229.1,
+      "end": 344.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0120-s04",
+      "heading": "槓桿風險：無套的比喻",
+      "start": 344.68,
+      "end": 570.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0120-s05",
+      "heading": "ARK 修正：不要怪乾媽，要反求諸己",
+      "start": 570.06,
+      "end": 1164.67,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0120-s06",
+      "heading": "Chamath Palihapitiya 的爭議",
+      "start": 1164.72,
+      "end": 1527.17,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0120-s07",
+      "heading": "This Too Shall Pass：迴圈中的情緒管理",
+      "start": 1527.22,
+      "end": 1768.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0120-s08",
+      "heading": "Q&A",
+      "start": 1768.76,
+      "end": 2677.31,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0120-s09",
+      "heading": "結尾",
+      "start": 2677.36,
+      "end": 2685.41,
+      "confidence": 0.738
+    }
+  ]
+}

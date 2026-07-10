@@ -1,0 +1,51 @@
+{
+  "ep": 63,
+  "source": "auto-aligned from reports/mk/gooaye-ep0063.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0063.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8aee0948-b32a-4536-8b52-ac673f020532/rssFileVip.mp3?timestamp=1689439389536",
+  "duration": 2425.34,
+  "segments": [
+    {
+      "id": "ep0063-s01",
+      "heading": "開場 / 贊助：Engoo 線上英文",
+      "start": 0.14,
+      "end": 123.61,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0063-s02",
+      "heading": "財富自由迷思與生活雜聊",
+      "start": 123.66,
+      "end": 701.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0063-s03",
+      "heading": "美股觀察：NVIDIA財報、SE財報亮眼、ARK操作",
+      "start": 701.4,
+      "end": 1043.75,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0063-s04",
+      "heading": "台股：華為制裁影響、聯發科、立積、供應鏈",
+      "start": 1043.8,
+      "end": 1555.17,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0063-s05",
+      "heading": "Q&A",
+      "start": 1555.22,
+      "end": 2384.14,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0063-s06",
+      "heading": "結尾",
+      "start": 2384.19,
+      "end": 2425.34,
+      "confidence": 0.756
+    }
+  ]
+}

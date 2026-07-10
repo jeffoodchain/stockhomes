@@ -1,0 +1,93 @@
+{
+  "ep": 459,
+  "source": "auto-aligned from reports/mk/gooaye-ep0459.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0459.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3ec2f985-fe0a-4468-8537-dbfe5f7c40b0/rssFileVip.mp3?timestamp=1717575772290",
+  "duration": 2969.23,
+  "segments": [
+    {
+      "id": "ep0459-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 53.69,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0459-s02",
+      "heading": "電腦展與黃仁勳風潮",
+      "start": 53.74,
+      "end": 133.39,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0459-s03",
+      "heading": "Keynote 與市場狂潮",
+      "start": 133.44,
+      "end": 396.07,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0459-s04",
+      "heading": "內容營銷與市場反應",
+      "start": 396.12,
+      "end": 514.29,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0459-s05",
+      "heading": "Rubin 與未來技術節點",
+      "start": 514.34,
+      "end": 704.33,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0459-s06",
+      "heading": "供應鏈題材與認知落差",
+      "start": 704.38,
+      "end": 813.73,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0459-s07",
+      "heading": "Computex 現場見聞",
+      "start": 813.78,
+      "end": 1011.51,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0459-s08",
+      "heading": "AI 與遊戲產業的未來",
+      "start": 1011.56,
+      "end": 1078.71,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0459-s09",
+      "heading": "伺服器端與技術細節",
+      "start": 1078.76,
+      "end": 1122.95,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0459-s10",
+      "heading": "華碩與電腦展探訪",
+      "start": 1123.0,
+      "end": 1306.77,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0459-s11",
+      "heading": "整體心得與台灣展望",
+      "start": 1306.82,
+      "end": 1507.89,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0459-s12",
+      "heading": "Q&A 與聽眾互動",
+      "start": 1507.94,
+      "end": 2969.23,
+      "confidence": 0.911
+    }
+  ]
+}

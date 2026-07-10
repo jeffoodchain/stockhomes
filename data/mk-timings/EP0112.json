@@ -1,0 +1,58 @@
+{
+  "ep": 112,
+  "source": "auto-aligned from reports/mk/gooaye-ep0112.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0112.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/71145bf1-d783-4608-ae4b-1f7c857b00f5/rssFileVip.mp3?timestamp=1689439400633",
+  "duration": 2426.83,
+  "segments": [
+    {
+      "id": "ep0112-s01",
+      "heading": "開場 / 贊助：茶樹莊園",
+      "start": 0.0,
+      "end": 104.89,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0112-s02",
+      "heading": "Clubhouse 心得總結",
+      "start": 104.94,
+      "end": 496.35,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0112-s03",
+      "heading": "Mark Cuban 的投資哲學",
+      "start": 496.4,
+      "end": 598.27,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0112-s04",
+      "heading": "Mark Cuban 其人與 Broadcast.com 傳奇",
+      "start": 598.32,
+      "end": 1101.37,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0112-s05",
+      "heading": "Cuban Collar：Costless Collar 選擇權策略",
+      "start": 1101.42,
+      "end": 1499.33,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0112-s06",
+      "heading": "Q&A",
+      "start": 1499.38,
+      "end": 2423.07,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0112-s07",
+      "heading": "結尾",
+      "start": 2423.12,
+      "end": 2426.83,
+      "confidence": 0.579
+    }
+  ]
+}

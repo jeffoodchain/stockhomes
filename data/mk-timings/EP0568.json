@@ -1,0 +1,65 @@
+{
+  "ep": 568,
+  "source": "auto-aligned from reports/mk/gooaye-ep0568.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0568.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/40e73f80-2b68-465f-b08e-95902c915673/rssFileVip.mp3?timestamp=1750491982879",
+  "duration": 3107.45,
+  "segments": [
+    {
+      "id": "ep0568-s01",
+      "heading": "開場 / 贊助：Saily",
+      "start": 0.0,
+      "end": 58.27,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0568-s02",
+      "heading": "算命這件事——人生主控權",
+      "start": 58.32,
+      "end": 362.01,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0568-s03",
+      "heading": "人生建議與意見輸出",
+      "start": 362.06,
+      "end": 531.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0568-s04",
+      "heading": "股票投資心法——路線選擇與期望值",
+      "start": 531.5,
+      "end": 679.79,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0568-s05",
+      "heading": "台指當沖 vs 中長線的路線討論",
+      "start": 679.84,
+      "end": 947.01,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0568-s06",
+      "heading": "市場效率與研究深度",
+      "start": 947.06,
+      "end": 1384.41,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0568-s07",
+      "heading": "巴菲特思維——全額收購視角",
+      "start": 1384.46,
+      "end": 1751.73,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0568-s08",
+      "heading": "Q&A",
+      "start": 1751.78,
+      "end": 3107.45,
+      "confidence": 0.533
+    }
+  ]
+}

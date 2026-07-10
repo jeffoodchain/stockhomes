@@ -1,0 +1,58 @@
+{
+  "ep": 468,
+  "source": "auto-aligned from reports/mk/gooaye-ep0468.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0468.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/150c8c2a-dc74-4b40-8a05-49574ed5f9c7/rssFileVip.mp3?timestamp=1720256331738",
+  "duration": 3034.64,
+  "segments": [
+    {
+      "id": "ep0468-s01",
+      "heading": "開場 / 贊助：國泰證券",
+      "start": 0.0,
+      "end": 83.39,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0468-s02",
+      "heading": "生活改變：斷捨離",
+      "start": 83.44,
+      "end": 341.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0468-s03",
+      "heading": "育兒與 YouTube、音樂發現",
+      "start": 341.22,
+      "end": 601.03,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0468-s04",
+      "heading": "音樂推薦：母親地球幻想曲",
+      "start": 601.08,
+      "end": 743.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0468-s05",
+      "heading": "遊戲產業經濟分析",
+      "start": 743.06,
+      "end": 1195.07,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0468-s06",
+      "heading": "矽谷投資人 Peter Thiel 的 AI 與硬體看法",
+      "start": 1195.12,
+      "end": 1844.71,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0468-s07",
+      "heading": "Q&A 環節",
+      "start": 1844.76,
+      "end": 3034.64,
+      "confidence": 0.8
+    }
+  ]
+}

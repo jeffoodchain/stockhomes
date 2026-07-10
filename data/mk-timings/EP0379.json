@@ -1,0 +1,51 @@
+{
+  "ep": 379,
+  "source": "auto-aligned from reports/mk/gooaye-ep0379.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0379.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/746ed6d8-92ad-4d79-8ef8-e0787d515ff0/rssFileVip.mp3?timestamp=1693393330645",
+  "duration": 3248.64,
+  "segments": [
+    {
+      "id": "ep0379-s01",
+      "heading": "開場 / 贊助：宮騰新醫心靈偵探事務所",
+      "start": 0.0,
+      "end": 97.35,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0379-s02",
+      "heading": "育兒心路與學校選擇",
+      "start": 97.4,
+      "end": 619.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0379-s03",
+      "heading": "投資組合與市場觀察",
+      "start": 619.88,
+      "end": 727.23,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0379-s04",
+      "heading": "高速傳輸材料與傳統伺服器",
+      "start": 727.28,
+      "end": 1130.67,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0379-s05",
+      "heading": "記憶體反彈機會",
+      "start": 1130.72,
+      "end": 1660.43,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0379-s06",
+      "heading": "聽眾提問與回答",
+      "start": 1660.48,
+      "end": 3248.64,
+      "confidence": 0.8
+    }
+  ]
+}

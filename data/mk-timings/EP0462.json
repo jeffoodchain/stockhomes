@@ -1,0 +1,135 @@
+{
+  "ep": 462,
+  "source": "auto-aligned from reports/mk/gooaye-ep0462.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0462.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6f8d147f-497a-469a-b632-e5438937a506/rssFileVip.mp3?timestamp=1718447609846",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0462-s01",
+      "heading": "開場 / 贊助：火星生技五倍魚油",
+      "start": 0.0,
+      "end": 63.13,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0462-s02",
+      "heading": "市場概況：槓桿波動與降檔",
+      "start": 63.18,
+      "end": 120.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0462-s03",
+      "heading": "臺股權值股與散熱反彈",
+      "start": 120.62,
+      "end": 172.51,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0462-s04",
+      "heading": "散熱與零元件領域的「小作文大戰」",
+      "start": 172.56,
+      "end": 238.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0462-s05",
+      "heading": "供應鏈架構與輝達的掌控力",
+      "start": 238.72,
+      "end": 343.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0462-s06",
+      "heading": "水冷散熱的短期前景",
+      "start": 343.16,
+      "end": 376.43,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0462-s07",
+      "heading": "Immersion 冷卻技術的長期展望",
+      "start": 376.48,
+      "end": 442.63,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0462-s08",
+      "heading": "新一代 CPU 芯片 TDP 分析",
+      "start": 442.68,
+      "end": 560.97,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0462-s09",
+      "heading": "特斯拉股東大會：馬斯克薪酬方案過關",
+      "start": 561.02,
+      "end": 646.85,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0462-s10",
+      "heading": "2018 年薪酬方案的邏輯",
+      "start": 646.9,
+      "end": 741.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0462-s11",
+      "heading": "Optimus 機器人：遙遠的未來",
+      "start": 741.24,
+      "end": 822.83,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0462-s12",
+      "heading": "Ark Invest 對特斯拉的估值",
+      "start": 822.88,
+      "end": 928.83,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0462-s13",
+      "heading": "Ark Invest 的投資分析方法論",
+      "start": 928.88,
+      "end": 1010.89,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0462-s14",
+      "heading": "自動駕駛實現下的估值情景",
+      "start": 1010.94,
+      "end": 1105.09,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0462-s15",
+      "heading": "特斯拉自動駕駛的數據優勢",
+      "start": 1105.14,
+      "end": 1237.09,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0462-s16",
+      "heading": "Autonomy 實現下的盈利展望",
+      "start": 1237.14,
+      "end": 1342.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0462-s17",
+      "heading": "Ark 報告的保守假設",
+      "start": 1342.44,
+      "end": 1447.13,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0462-s18",
+      "heading": "Q&A 時間",
+      "start": 1447.18,
+      "end": 3000.45,
+      "confidence": 0.767
+    }
+  ]
+}

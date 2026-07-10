@@ -1,0 +1,51 @@
+{
+  "ep": 122,
+  "source": "auto-aligned from reports/mk/gooaye-ep0122.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0122.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/01763db8-86d8-49a7-8f16-0ab375559e68/rssFileVip.mp3?timestamp=1689439382644",
+  "duration": 2511.54,
+  "segments": [
+    {
+      "id": "ep0122-s01",
+      "heading": "開場 / 贊助：Samsung Galaxy Tab S7 | S7+",
+      "start": 0.0,
+      "end": 78.99,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0122-s02",
+      "heading": "分享文章：面對批評與討厭",
+      "start": 79.04,
+      "end": 471.85,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0122-s03",
+      "heading": "金管會主委黃天牧談年輕人投資",
+      "start": 471.9,
+      "end": 596.49,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0122-s04",
+      "heading": "權證業配亂象與券商風險",
+      "start": 596.54,
+      "end": 1082.01,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0122-s05",
+      "heading": "書單推薦：Joel Greenblatt《你也可以成為股市天才》與 LEAPS 介紹",
+      "start": 1082.06,
+      "end": 1610.93,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0122-s06",
+      "heading": "Q&A",
+      "start": 1610.98,
+      "end": 2511.54,
+      "confidence": 0.789
+    }
+  ]
+}

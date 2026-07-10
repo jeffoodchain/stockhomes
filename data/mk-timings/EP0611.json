@@ -1,0 +1,72 @@
+{
+  "ep": 611,
+  "source": "auto-aligned from reports/mk/gooaye-ep0611.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0611.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4c392bc0-0bac-4074-a0df-43ab8ce75fbd/rssFileVip.mp3?timestamp=1763588661981",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0611-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 56.49,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0611-s02",
+      "heading": "上臺通 podcast 心得",
+      "start": 56.54,
+      "end": 402.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0611-s03",
+      "heading": "遊戲資本謠言澄清",
+      "start": 402.32,
+      "end": 631.47,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0611-s04",
+      "heading": "盤面分析：抄底進行式",
+      "start": 631.52,
+      "end": 728.61,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0611-s05",
+      "heading": "產業面：旺宏 MLC NAND、被動元件、記憶體",
+      "start": 728.66,
+      "end": 903.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0611-s06",
+      "heading": "市場觀察：櫃買轉負、融資壓力",
+      "start": 903.7,
+      "end": 1063.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0611-s07",
+      "heading": "AWS Trainium 2 遞延風波與 Broadcom 入場傳言",
+      "start": 1063.76,
+      "end": 1335.07,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0611-s08",
+      "heading": "交易策略：分批布局、臺指期與個股規劃",
+      "start": 1335.12,
+      "end": 1564.13,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0611-s09",
+      "heading": "Q&A",
+      "start": 1564.18,
+      "end": 2998.96,
+      "confidence": 0.611
+    }
+  ]
+}

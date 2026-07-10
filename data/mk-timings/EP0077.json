@@ -1,0 +1,58 @@
+{
+  "ep": 77,
+  "source": "auto-aligned from reports/mk/gooaye-ep0077.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0077.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cf8ced13-52df-475a-af1f-e810145399e8/rssFileVip.mp3?timestamp=1689439381419",
+  "duration": 2414.94,
+  "segments": [
+    {
+      "id": "ep0077-s01",
+      "heading": "開場 / 贊助：巴黎萊雅",
+      "start": 0.3,
+      "end": 101.87,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0077-s02",
+      "heading": "義大利與西班牙疫情現況",
+      "start": 101.92,
+      "end": 305.51,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0077-s03",
+      "heading": "川普確診、出院與紓困案",
+      "start": 305.56,
+      "end": 669.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0077-s04",
+      "heading": "美股市況與K型復甦",
+      "start": 670.02,
+      "end": 1074.67,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0077-s05",
+      "heading": "台股近況：MOSFET與二線晶圓廠",
+      "start": 1074.72,
+      "end": 1451.49,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0077-s06",
+      "heading": "Q&A",
+      "start": 1451.54,
+      "end": 2389.98,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0077-s07",
+      "heading": "結尾",
+      "start": 2390.03,
+      "end": 2414.94,
+      "confidence": 0.656
+    }
+  ]
+}

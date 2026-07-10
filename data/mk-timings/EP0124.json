@@ -1,0 +1,72 @@
+{
+  "ep": 124,
+  "source": "auto-aligned from reports/mk/gooaye-ep0124.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0124.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1ccb8a77-d1b6-4361-8dad-8a2324da1cb1/rssFileVip.mp3?timestamp=1689439406754",
+  "duration": 2672.04,
+  "segments": [
+    {
+      "id": "ep0124-s01",
+      "heading": "開場 / 贊助：L. Erickson",
+      "start": 0.0,
+      "end": 92.61,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0124-s02",
+      "heading": "聊聊：KKBOX 音樂祭、壓軸與大軸、降雨機率、Bill 與 William",
+      "start": 92.66,
+      "end": 255.17,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0124-s03",
+      "heading": "近況盤感：科技股修正與市場輪動",
+      "start": 255.22,
+      "end": 510.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0124-s04",
+      "heading": "台股觀察：IP廠、IC設計、NB族群與股匯雙殺",
+      "start": 510.26,
+      "end": 988.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0124-s05",
+      "heading": "聯準會、SLR、Valuation Reset",
+      "start": 988.72,
+      "end": 1197.31,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0124-s06",
+      "heading": "閒聊：AstraZeneca 疫苗、義大利抖音禁令",
+      "start": 1197.36,
+      "end": 1322.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0124-s07",
+      "heading": "港股 IPO 狂潮與恒生科技指數",
+      "start": 1322.88,
+      "end": 1937.27,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0124-s08",
+      "heading": "Q&A",
+      "start": 1937.32,
+      "end": 2664.88,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0124-s09",
+      "heading": "結尾",
+      "start": 2664.93,
+      "end": 2672.04,
+      "confidence": 0.633
+    }
+  ]
+}

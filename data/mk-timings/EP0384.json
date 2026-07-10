@@ -1,0 +1,65 @@
+{
+  "ep": 384,
+  "source": "auto-aligned from reports/mk/gooaye-ep0384.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0384.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2a3fa8cb-d849-4130-9935-c6df1c19617c/rssFileVip.mp3?timestamp=1694853353979",
+  "duration": 3186.21,
+  "segments": [
+    {
+      "id": "ep0384-s01",
+      "heading": "開場 / 贊助：喬致庸國際有限公司",
+      "start": 0.0,
+      "end": 59.63,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0384-s02",
+      "heading": "聽眾私訊分享",
+      "start": 59.68,
+      "end": 141.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0384-s03",
+      "heading": "聽眾心路歷程：照顧有障礙的孩子",
+      "start": 142.0,
+      "end": 314.5,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0384-s04",
+      "heading": "知足與同理心的自我修養",
+      "start": 314.55,
+      "end": 704.63,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0384-s05",
+      "heading": "消費性電子強勢，新 iPhone 帶來強心針",
+      "start": 704.68,
+      "end": 1070.47,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0384-s06",
+      "heading": "筆電與面板市場展望",
+      "start": 1070.52,
+      "end": 1263.99,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0384-s07",
+      "heading": "傳統伺服器與 AI 晶片動向",
+      "start": 1264.04,
+      "end": 1796.11,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0384-s08",
+      "heading": "聽眾 Q&A",
+      "start": 1796.16,
+      "end": 3186.21,
+      "confidence": 0.733
+    }
+  ]
+}

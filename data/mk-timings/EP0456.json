@@ -1,0 +1,58 @@
+{
+  "ep": 456,
+  "source": "auto-aligned from reports/mk/gooaye-ep0456.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0456.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6f12fb3f-3ab3-467c-8df6-7b3d0364928e/rssFileVip.mp3?timestamp=1716625396667",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0456-s01",
+      "heading": "開場 / 贊助：綿豆腐",
+      "start": 0.0,
+      "end": 69.61,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0456-s02",
+      "heading": "懷舊與成長",
+      "start": 69.66,
+      "end": 683.67,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0456-s03",
+      "heading": "市場話題：英偉達與拆股",
+      "start": 683.72,
+      "end": 1083.23,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0456-s04",
+      "heading": "英偉達供應鏈與晶片規劃",
+      "start": 1083.28,
+      "end": 1189.23,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0456-s05",
+      "heading": "AI 供應鏈與企業策略",
+      "start": 1189.28,
+      "end": 1441.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0456-s06",
+      "heading": "產業趨勢與投資策略",
+      "start": 1441.08,
+      "end": 1578.13,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0456-s07",
+      "heading": "Q&A",
+      "start": 1578.18,
+      "end": 2995.98,
+      "confidence": 0.844
+    }
+  ]
+}

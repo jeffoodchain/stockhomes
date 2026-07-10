@@ -1,0 +1,86 @@
+{
+  "ep": 33,
+  "source": "auto-aligned from reports/mk/gooaye-ep0033.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0033.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/acaa8bc4-bfc7-484f-96b4-ab7c021fc509/rssFileVip.mp3?timestamp=1761072699370",
+  "duration": 2211.29,
+  "segments": [
+    {
+      "id": "ep0033-s01",
+      "heading": "開場 / 抽書：信任邊際",
+      "start": 0.0,
+      "end": 98.69,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0033-s02",
+      "heading": "巴菲特股東會重點",
+      "start": 98.74,
+      "end": 268.57,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0033-s03",
+      "heading": "各國無限QE與紓困規模",
+      "start": 268.62,
+      "end": 376.53,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0033-s04",
+      "heading": "不要借錢買股",
+      "start": 376.58,
+      "end": 469.15,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0033-s05",
+      "heading": "巴菲特出清四大航空股",
+      "start": 469.2,
+      "end": 633.27,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0033-s06",
+      "heading": "黃國昌選大同獨立董事",
+      "start": 633.32,
+      "end": 747.21,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0033-s07",
+      "heading": "側翼粉絲團與王浩宇",
+      "start": 747.26,
+      "end": 891.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0033-s08",
+      "heading": "酬庸爭議與獨立董事制度解說",
+      "start": 891.28,
+      "end": 1133.23,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0033-s09",
+      "heading": "大同公司市場派vs公司派之爭",
+      "start": 1133.28,
+      "end": 1275.83,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0033-s10",
+      "heading": "Q&A",
+      "start": 1275.88,
+      "end": 2169.98,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0033-s11",
+      "heading": "結尾 / 求婚彩蛋",
+      "start": 2170.03,
+      "end": 2211.29,
+      "confidence": 1.0
+    }
+  ]
+}

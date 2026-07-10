@@ -1,0 +1,79 @@
+{
+  "ep": 118,
+  "source": "auto-aligned from reports/mk/gooaye-ep0118.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0118.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e97a84fc-d248-43cb-b669-fb2722de0b08/rssFileVip.mp3?timestamp=1689439403112",
+  "duration": 2489.23,
+  "segments": [
+    {
+      "id": "ep0118-s01",
+      "heading": "開場 / 贊助：VoiceTube Hero",
+      "start": 0.0,
+      "end": 70.35,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0118-s02",
+      "heading": "看房心得：屋主不願意低賣，將心比心",
+      "start": 70.4,
+      "end": 233.31,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0118-s03",
+      "heading": "26 個聽眾要賣我房子",
+      "start": 233.36,
+      "end": 330.87,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0118-s04",
+      "heading": "市場下修：台股外資賣超、匯率與 ARK 贖回潮",
+      "start": 330.92,
+      "end": 580.17,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0118-s05",
+      "heading": "全職交易的迷思：穩定本業收入很重要",
+      "start": 580.22,
+      "end": 684.41,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0118-s06",
+      "heading": "ARK 贖回潮：ETF 泡沫會不會發生？",
+      "start": 684.46,
+      "end": 1068.02,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0118-s07",
+      "heading": "NVIDIA（NVDA）財報解讀：自駕車板塊值得期待",
+      "start": 1068.07,
+      "end": 1419.28,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0118-s08",
+      "heading": "Square（SQ）財報解讀：Cash App 與比特幣",
+      "start": 1419.33,
+      "end": 1572.74,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0118-s09",
+      "heading": "Jack Dorsey 的 Twitter Super Follows 佈局",
+      "start": 1572.79,
+      "end": 1738.48,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0118-s10",
+      "heading": "Q&A",
+      "start": 1738.53,
+      "end": 2489.23,
+      "confidence": 0.589
+    }
+  ]
+}

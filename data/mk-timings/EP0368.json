@@ -1,0 +1,44 @@
+{
+  "ep": 368,
+  "source": "auto-aligned from reports/mk/gooaye-ep0368.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0368.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2fe5bb25-3a59-44e3-9d3e-f66ea46e5b29/rssFileVip.mp3?timestamp=1690018256336",
+  "duration": 3247.15,
+  "segments": [
+    {
+      "id": "ep0368-s01",
+      "heading": "開場 / 贊助：善存",
+      "start": 0.0,
+      "end": 58.29,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0368-s02",
+      "heading": "當爸爸第二年的心得",
+      "start": 58.34,
+      "end": 822.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0368-s03",
+      "heading": "臺積電法說會分析",
+      "start": 822.84,
+      "end": 1498.09,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0368-s04",
+      "heading": "特斯拉財報分析",
+      "start": 1498.14,
+      "end": 1803.89,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0368-s05",
+      "heading": "Q&A 聽眾互動",
+      "start": 1803.94,
+      "end": 3247.15,
+      "confidence": 0.733
+    }
+  ]
+}

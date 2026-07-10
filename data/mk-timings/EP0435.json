@@ -1,0 +1,44 @@
+{
+  "ep": 435,
+  "source": "auto-aligned from reports/mk/gooaye-ep0435.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0435.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ae7705a5-4aeb-4222-9203-0d5af9bef1b2/rssFileVip.mp3?timestamp=1710317818613",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0435-s01",
+      "heading": "開場 / 贊助：樂敦V葉黃素",
+      "start": 0.0,
+      "end": 83.73,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0435-s02",
+      "heading": "歐洲旅遊分享：挪威、瑞典、冰島",
+      "start": 83.78,
+      "end": 540.35,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0435-s03",
+      "heading": "市場熱度與高股息ETF風潮",
+      "start": 540.4,
+      "end": 856.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0435-s04",
+      "heading": "輝達AI伺服器產品線詳解",
+      "start": 856.08,
+      "end": 1728.84,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0435-s05",
+      "heading": "Q&A：聽眾提問與交流",
+      "start": 1728.89,
+      "end": 2998.96,
+      "confidence": 0.989
+    }
+  ]
+}

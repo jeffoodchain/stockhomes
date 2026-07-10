@@ -1,0 +1,58 @@
+{
+  "ep": 45,
+  "source": "auto-aligned from reports/mk/gooaye-ep0045.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0045.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a828b01f-f179-42bb-8baf-90bc281846cf/rssFileVip.mp3?timestamp=1689439405162",
+  "duration": 2126.63,
+  "segments": [
+    {
+      "id": "ep0045-s01",
+      "heading": "開場 / 贊助：ShopBack",
+      "start": 0.21,
+      "end": 115.92,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0045-s02",
+      "heading": "開場閒聊：認養米克斯狗",
+      "start": 115.97,
+      "end": 275.8,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0045-s03",
+      "heading": "ETF 泡沫論：Michael Burry 說法解析",
+      "start": 275.85,
+      "end": 649.18,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0045-s04",
+      "heading": "市況簡報：北京疫情、北韓、中印衝突",
+      "start": 649.23,
+      "end": 908.3,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0045-s05",
+      "heading": "市況：散戶 vs 機構，Robinhood、Hertz、房多多",
+      "start": 908.35,
+      "end": 1328.22,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0045-s06",
+      "heading": "Q&A",
+      "start": 1328.27,
+      "end": 2046.18,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0045-s07",
+      "heading": "結尾",
+      "start": 2046.23,
+      "end": 2126.63,
+      "confidence": 0.811
+    }
+  ]
+}

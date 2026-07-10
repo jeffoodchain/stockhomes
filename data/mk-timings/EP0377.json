@@ -1,0 +1,72 @@
+{
+  "ep": 377,
+  "source": "auto-aligned from reports/mk/gooaye-ep0377.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0377.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ac2cbf0e-ff77-4ece-aedc-3266fb0e0291/rssFileVip.mp3?timestamp=1692787416107",
+  "duration": 3052.46,
+  "segments": [
+    {
+      "id": "ep0377-s01",
+      "heading": "開場 / 贊助：舒酸定",
+      "start": 0.0,
+      "end": 56.47,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0377-s02",
+      "heading": "生活：機票降價與旅行規劃",
+      "start": 56.52,
+      "end": 168.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0377-s03",
+      "heading": "生活：家庭衝突與教養觀念",
+      "start": 168.72,
+      "end": 731.69,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0377-s04",
+      "heading": "科技：Meta SeamlessM4T 多語言模型",
+      "start": 731.74,
+      "end": 973.91,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0377-s05",
+      "heading": "科技：AI ASIC 晶片競賽",
+      "start": 973.96,
+      "end": 1230.26,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0377-s06",
+      "heading": "科技：Intel Habana 與 GPU 市場",
+      "start": 1230.31,
+      "end": 1295.08,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0377-s07",
+      "heading": "汽車：特斯拉 Model 3 Highland 成本下探版本",
+      "start": 1295.13,
+      "end": 1498.82,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0377-s08",
+      "heading": "台股：近期盤面觀察與族群漲幅",
+      "start": 1498.87,
+      "end": 1687.26,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0377-s09",
+      "heading": "Q&A：聽眾提問與主持人回應",
+      "start": 1687.31,
+      "end": 3052.46,
+      "confidence": 0.622
+    }
+  ]
+}

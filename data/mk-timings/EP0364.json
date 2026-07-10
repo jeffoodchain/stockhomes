@@ -1,0 +1,86 @@
+{
+  "ep": 364,
+  "source": "auto-aligned from reports/mk/gooaye-ep0364.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0364.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ffe69a02-03f9-42cc-a212-02c83288ab97/rssFileVip.mp3?timestamp=1689439407477",
+  "duration": 2951.42,
+  "segments": [
+    {
+      "id": "ep0364-s01",
+      "heading": "開場／贊助：台塑生技",
+      "start": 0.0,
+      "end": 50.79,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0364-s02",
+      "heading": "拳擊賽事心得",
+      "start": 50.84,
+      "end": 141.65,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0364-s03",
+      "heading": "比賽評析：武術家組與網紅組",
+      "start": 141.7,
+      "end": 355.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0364-s04",
+      "heading": "Toyz 與電競選手的啟發",
+      "start": 355.84,
+      "end": 517.84,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0364-s05",
+      "heading": "娛樂與人生價值觀",
+      "start": 517.89,
+      "end": 592.06,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0364-s06",
+      "heading": "Threads 平臺分析",
+      "start": 592.11,
+      "end": 742.1,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0364-s07",
+      "heading": "Threads 與 Twitter 的競爭分析",
+      "start": 742.15,
+      "end": 862.12,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0364-s08",
+      "heading": "對齊頭式公平的省思",
+      "start": 862.17,
+      "end": 983.64,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0364-s09",
+      "heading": "Threads 的技術優勢與劣勢",
+      "start": 983.69,
+      "end": 1222.2,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0364-s10",
+      "heading": "社群媒體的分眾化未來",
+      "start": 1222.25,
+      "end": 1643.29,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0364-s11",
+      "heading": "Q&A",
+      "start": 1643.34,
+      "end": 2951.42,
+      "confidence": 0.6
+    }
+  ]
+}

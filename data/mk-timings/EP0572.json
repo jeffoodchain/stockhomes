@@ -1,0 +1,51 @@
+{
+  "ep": 572,
+  "source": "auto-aligned from reports/mk/gooaye-ep0572.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0572.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/53a007f4-9f0c-4f92-88f8-6d2941b97250/rssFileVip.mp3?timestamp=1751704227825",
+  "duration": 3043.55,
+  "segments": [
+    {
+      "id": "ep0572-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 59.09,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0572-s02",
+      "heading": "生活分享：Glamping 體驗",
+      "start": 59.14,
+      "end": 261.45,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0572-s03",
+      "heading": "生活分享：開始打泰拳、高血壓",
+      "start": 261.5,
+      "end": 722.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0572-s04",
+      "heading": "2025 上半年總結",
+      "start": 722.5,
+      "end": 1553.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0572-s05",
+      "heading": "下半年展望：台幣、Tesla、非必需消費品",
+      "start": 1553.46,
+      "end": 2080.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0572-s06",
+      "heading": "QA",
+      "start": 2080.5,
+      "end": 3043.55,
+      "confidence": 0.733
+    }
+  ]
+}

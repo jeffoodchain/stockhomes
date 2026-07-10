@@ -1,0 +1,79 @@
+{
+  "ep": 69,
+  "source": "auto-aligned from reports/mk/gooaye-ep0069.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0069.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e892b6d6-110c-4015-8c15-31702233fdee/rssFileVip.mp3?timestamp=1689439401613",
+  "duration": 2469.93,
+  "segments": [
+    {
+      "id": "ep0069-s01",
+      "heading": "開場 / 贊助：營養師輕食300億機能益生菌",
+      "start": 0.24,
+      "end": 132.77,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0069-s02",
+      "heading": "開場閒聊：蛞蝓與蝸牛的人性觀察",
+      "start": 132.82,
+      "end": 307.11,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0069-s03",
+      "heading": "音樂推薦：Coldplay B-side 與 Radiohead 復刻版",
+      "start": 307.16,
+      "end": 557.51,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0069-s04",
+      "heading": "市場狀況：美股下殺、台股疲弱",
+      "start": 557.56,
+      "end": 596.69,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0069-s05",
+      "heading": "特斯拉：兄長賣股、50億發行新股",
+      "start": 596.74,
+      "end": 793.47,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0069-s06",
+      "heading": "特斯拉未被納入S&P 500：最大利空",
+      "start": 793.52,
+      "end": 1015.03,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0069-s07",
+      "heading": "電動車產業：GM入股Nikola、台廠供應鏈",
+      "start": 1015.08,
+      "end": 1212.75,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0069-s08",
+      "heading": "台股：美國制裁華為、中芯制裁效應",
+      "start": 1212.8,
+      "end": 1608.39,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0069-s09",
+      "heading": "Q&A",
+      "start": 1608.44,
+      "end": 2426.52,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0069-s10",
+      "heading": "結尾",
+      "start": 2426.57,
+      "end": 2469.93,
+      "confidence": 0.933
+    }
+  ]
+}

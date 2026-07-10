@@ -1,0 +1,44 @@
+{
+  "ep": 590,
+  "source": "auto-aligned from reports/mk/gooaye-ep0590.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0590.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7097945d-d088-4018-b105-4e6a3876b0a7/rssFileVip.mp3?timestamp=1757142248629",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0590-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 60.17,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0590-s02",
+      "heading": "人生感悟：年長的朋友如同一面鏡子",
+      "start": 60.22,
+      "end": 674.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0590-s03",
+      "heading": "近期市場：記憶體族群啟動、大盤走勢觀察",
+      "start": 674.38,
+      "end": 960.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0590-s04",
+      "heading": "Broadcom 法說：AI 業務強勁，第四大客戶確認為 OpenAI",
+      "start": 960.46,
+      "end": 1614.67,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0590-s05",
+      "heading": "Q&A",
+      "start": 1614.72,
+      "end": 3000.45,
+      "confidence": 0.622
+    }
+  ]
+}

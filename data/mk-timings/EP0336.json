@@ -1,0 +1,51 @@
+{
+  "ep": 336,
+  "source": "auto-aligned from reports/mk/gooaye-ep0336.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0336.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7db92dd3-9023-430c-baec-6d02075b011d/rssFileVip.mp3?timestamp=1689439404770",
+  "duration": 3018.29,
+  "segments": [
+    {
+      "id": "ep0336-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 50.05,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0336-s02",
+      "heading": "聊聊：羅馬遇扒手——歐洲旅遊詐騙手法分享",
+      "start": 50.1,
+      "end": 407.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0336-s03",
+      "heading": "聊聊：澳豐基金爆雷與詐騙預防",
+      "start": 407.42,
+      "end": 1047.43,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0336-s04",
+      "heading": "聊聊：美光（MU）財報解析與半導體底部訊號",
+      "start": 1047.48,
+      "end": 1322.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0336-s05",
+      "heading": "聊聊：第一季個股操作回顧與第二季佈局方向",
+      "start": 1322.18,
+      "end": 1672.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0336-s06",
+      "heading": "Q&A",
+      "start": 1672.38,
+      "end": 3018.29,
+      "confidence": 0.778
+    }
+  ]
+}

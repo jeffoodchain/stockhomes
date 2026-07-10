@@ -1,0 +1,58 @@
+{
+  "ep": 68,
+  "source": "auto-aligned from reports/mk/gooaye-ep0068.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0068.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e3414688-c762-41ff-bd63-fec53e57b91c/rssFileVip.mp3?timestamp=1689439399287",
+  "duration": 2391.17,
+  "segments": [
+    {
+      "id": "ep0068-s01",
+      "heading": "開場 / 贊助：Samsung Galaxy Note20 5G",
+      "start": 0.18,
+      "end": 104.53,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0068-s02",
+      "heading": "本週美股情緒：從大漲到大跌",
+      "start": 104.58,
+      "end": 367.43,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0068-s03",
+      "heading": "台股 8 月 20 後的操作邏輯",
+      "start": 367.48,
+      "end": 855.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0068-s04",
+      "heading": "孫正義與軟銀選擇權風暴",
+      "start": 855.8,
+      "end": 1354.79,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0068-s05",
+      "heading": "廣告：童顏有機",
+      "start": 1354.84,
+      "end": 1425.43,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0068-s06",
+      "heading": "Q&A",
+      "start": 1425.48,
+      "end": 2381.36,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0068-s07",
+      "heading": "結尾",
+      "start": 2381.41,
+      "end": 2391.17,
+      "confidence": 0.704
+    }
+  ]
+}

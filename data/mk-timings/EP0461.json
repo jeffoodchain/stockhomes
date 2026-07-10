@@ -1,0 +1,93 @@
+{
+  "ep": 461,
+  "source": "auto-aligned from reports/mk/gooaye-ep0461.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0461.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ad9d7aa9-ae60-44a1-89cc-db03e1a7092b/rssFileVip.mp3?timestamp=1718180566054",
+  "duration": 2894.94,
+  "segments": [
+    {
+      "id": "ep0461-s01",
+      "heading": "開場 / 贊助：森歐黎漾",
+      "start": 0.0,
+      "end": 91.51,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0461-s02",
+      "heading": "上期Q&A的反思與心路歷程",
+      "start": 91.56,
+      "end": 265.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0461-s03",
+      "heading": "網紅社會化的觀察",
+      "start": 265.8,
+      "end": 483.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0461-s04",
+      "heading": "網路神獸的隱退現象",
+      "start": 483.36,
+      "end": 663.15,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0461-s05",
+      "heading": "Apple發表會與市場反應",
+      "start": 663.2,
+      "end": 765.19,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0461-s06",
+      "heading": "Apple在AI時代的認知轉變",
+      "start": 765.24,
+      "end": 1007.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0461-s07",
+      "heading": "Apple Intelligence與達哥的架構對比",
+      "start": 1007.66,
+      "end": 1141.57,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0461-s08",
+      "heading": "前端架構：RAG與Plugin對比",
+      "start": 1141.62,
+      "end": 1426.63,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0461-s09",
+      "heading": "Apple Intelligence架構拆解",
+      "start": 1426.68,
+      "end": 1477.03,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0461-s10",
+      "heading": "AI市場的新思考",
+      "start": 1477.08,
+      "end": 1583.81,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0461-s11",
+      "heading": "軟體端投資機會",
+      "start": 1583.86,
+      "end": 1754.77,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0461-s12",
+      "heading": "Q&A：生日祝福與個人分享",
+      "start": 1754.82,
+      "end": 2894.94,
+      "confidence": 0.756
+    }
+  ]
+}

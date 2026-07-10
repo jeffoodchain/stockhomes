@@ -1,0 +1,51 @@
+{
+  "ep": 504,
+  "source": "auto-aligned from reports/mk/gooaye-ep0504.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0504.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/35a32ab9-0ddb-4272-abc5-eb7fb31d634d/rssFileVip.mp3?timestamp=1731142952009",
+  "duration": 2978.14,
+  "segments": [
+    {
+      "id": "ep0504-s01",
+      "heading": "開場 / 贊助：飛利浦電鬍刀",
+      "start": 0.0,
+      "end": 57.27,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0504-s02",
+      "heading": "紐約時差調適",
+      "start": 57.32,
+      "end": 637.07,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0504-s03",
+      "heading": "股市行情與策略調整",
+      "start": 637.12,
+      "end": 825.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0504-s04",
+      "heading": "中小股困局與策略反思",
+      "start": 825.88,
+      "end": 1153.29,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0504-s05",
+      "heading": "市場風格轉變與逆向策略",
+      "start": 1153.34,
+      "end": 1569.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0504-s06",
+      "heading": "聽眾來信朗誦",
+      "start": 1569.58,
+      "end": 2978.14,
+      "confidence": 0.722
+    }
+  ]
+}

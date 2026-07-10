@@ -1,0 +1,51 @@
+{
+  "ep": 270,
+  "source": "auto-aligned from reports/mk/gooaye-ep0270.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0270.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b61a059f-10e4-4a0a-8fbc-42d815bc1e96/rssFileVip.mp3?timestamp=1689439391833",
+  "duration": 3187.68,
+  "segments": [
+    {
+      "id": "ep0270-s01",
+      "heading": "開場 / 贊助：FJ豐傑生醫",
+      "start": 0.0,
+      "end": 96.43,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0270-s02",
+      "heading": "閒聊：臺北度假兩天、岳母來台",
+      "start": 96.48,
+      "end": 366.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0270-s03",
+      "heading": "市場觀察：反彈嘎空軍，曝險很重要",
+      "start": 366.2,
+      "end": 803.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0270-s04",
+      "heading": "網通補充：歐洲砍單、匯損隱憂",
+      "start": 803.8,
+      "end": 875.97,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0270-s05",
+      "heading": "車用半導體：安森美創新高、Stellantis / BMW隱憂",
+      "start": 876.02,
+      "end": 1516.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0270-s06",
+      "heading": "Q&A",
+      "start": 1516.98,
+      "end": 3187.68,
+      "confidence": 0.711
+    }
+  ]
+}

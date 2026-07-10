@@ -1,0 +1,156 @@
+{
+  "ep": 673,
+  "source": "auto-aligned from reports/mk/gooaye-ep0673.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0673.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/df09166b-22a7-4cc7-8610-ab2f6f812e92/rssFileVip.mp3?timestamp=1782327320204",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0673-s01",
+      "heading": "雨傘王贊助開場",
+      "start": 0.0,
+      "end": 88.81,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0673-s02",
+      "heading": "全聯找酒任務：平價酒挑選與預算帶",
+      "start": 88.86,
+      "end": 265.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0673-s03",
+      "heading": "波爾多、勃根地與新世界酒款偏好",
+      "start": 265.9,
+      "end": 442.25,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0673-s04",
+      "heading": "全聯酒款實測推薦：紅酒與白酒清單",
+      "start": 442.3,
+      "end": 760.77,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0673-s05",
+      "heading": "盤面回檔：新高後休息與韓國賭場效應",
+      "start": 760.82,
+      "end": 957.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0673-s06",
+      "heading": "台積電與中小型股：部位切換觀察",
+      "start": 957.74,
+      "end": 1065.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0673-s07",
+      "heading": "發哥漲價信、Google Triggerfish 與 Broadcom 新晶片",
+      "start": 1065.1,
+      "end": 1261.31,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0673-s08",
+      "heading": "被動元件新一波漲價：電阻開始轉緊",
+      "start": 1261.36,
+      "end": 1369.07,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0673-s09",
+      "heading": "功率元件產能與漲多拉回的操作心態",
+      "start": 1369.12,
+      "end": 1556.03,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0673-s10",
+      "heading": "Q&A：Ian Young：手搖飲與無糖茶",
+      "start": 1556.08,
+      "end": 1619.75,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0673-s11",
+      "heading": "Q&A：甲賀忍蛙：小朋友流行語、財富位數與槓桿心態",
+      "start": 1619.8,
+      "end": 2030.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0673-s12",
+      "heading": "Q&A：Hell：Lisa 與收容所黑狗",
+      "start": 2030.4,
+      "end": 2073.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0673-s13",
+      "heading": "Q&A：憑證留言密碼：祝太太生日快樂、新東西玩",
+      "start": 2073.72,
+      "end": 2106.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0673-s14",
+      "heading": "Q&A：我把你當兄弟你把我當菸蒂：潑屎心法與違法宣導",
+      "start": 2106.94,
+      "end": 2138.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0673-s15",
+      "heading": "Q&A：韓國旅遊體感、SK 海力士 ADR 與美光配置",
+      "start": 2138.3,
+      "end": 2369.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0673-s16",
+      "heading": "Q&A：爛教授、爛主管與不依附組織的自由",
+      "start": 2369.22,
+      "end": 2600.13,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0673-s17",
+      "heading": "Q&A：功能性訓練的實際幫助",
+      "start": 2600.18,
+      "end": 2739.07,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0673-s18",
+      "heading": "Q&A：芙莉蓮、辛梅爾、父愛與把話說出口",
+      "start": 2739.12,
+      "end": 2897.95,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0673-s19",
+      "heading": "Q&A：美股光通配置、Lumentum／Coherent／Marvell 與 Nokia",
+      "start": 2898.0,
+      "end": 2967.15,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0673-s20",
+      "heading": "Q&A：當兵前是否把短線部位換成 ETF",
+      "start": 2967.2,
+      "end": 2982.53,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0673-s21",
+      "heading": "Q&A：Cyberpunk 周邊、GTA6 廣告與 media blackout",
+      "start": 2982.58,
+      "end": 3056.93,
+      "confidence": 0.878
+    }
+  ]
+}

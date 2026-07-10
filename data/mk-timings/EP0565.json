@@ -1,0 +1,51 @@
+{
+  "ep": 565,
+  "source": "auto-aligned from reports/mk/gooaye-ep0565.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0565.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2c22f8cb-acc4-475f-9624-ee095f5b717c/rssFileVip.mp3?timestamp=1749637709043",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0565-s01",
+      "heading": "開場 / 贊助：SHARP 夏普",
+      "start": 0.0,
+      "end": 98.13,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0565-s02",
+      "heading": "生日晚餐與4月股災心路",
+      "start": 98.18,
+      "end": 441.31,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0565-s03",
+      "heading": "資本圈人的實業踩坑與反思",
+      "start": 441.36,
+      "end": 939.75,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0565-s04",
+      "heading": "市場展望：匯損、pull-in、日股布局",
+      "start": 939.8,
+      "end": 1175.85,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0565-s05",
+      "heading": "Apple WWDC 2025：Liquid Glass 與 AI 落隊",
+      "start": 1175.9,
+      "end": 1944.81,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0565-s06",
+      "heading": "Q&A",
+      "start": 1944.86,
+      "end": 3056.93,
+      "confidence": 0.733
+    }
+  ]
+}

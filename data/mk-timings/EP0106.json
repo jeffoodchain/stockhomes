@@ -1,0 +1,44 @@
+{
+  "ep": 106,
+  "source": "auto-aligned from reports/mk/gooaye-ep0106.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0106.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4f64b26f-30bb-41a4-a3ef-6056351c0fb3/rssFileVip.mp3?timestamp=1689439390650",
+  "duration": 2461.0,
+  "segments": [
+    {
+      "id": "ep0106-s01",
+      "heading": "開場 / 贊助：中國信託中華電信聯名卡",
+      "start": 0.0,
+      "end": 105.91,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0106-s02",
+      "heading": "富邦 VIX 即將下市：波動率 ETF 的風險",
+      "start": 105.96,
+      "end": 529.85,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0106-s03",
+      "heading": "半導體大局：台積電法說會解讀與 SMH、SOXX",
+      "start": 529.9,
+      "end": 1206.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0106-s04",
+      "heading": "Q&A",
+      "start": 1206.78,
+      "end": 2445.28,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0106-s05",
+      "heading": "結尾",
+      "start": 2445.33,
+      "end": 2461.0,
+      "confidence": 0.847
+    }
+  ]
+}

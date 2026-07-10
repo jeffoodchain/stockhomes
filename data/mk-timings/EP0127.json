@@ -1,0 +1,44 @@
+{
+  "ep": 127,
+  "source": "auto-aligned from reports/mk/gooaye-ep0127.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0127.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/89e8f5ab-b5fb-4f8c-a7b4-ad5377cb1ecc/rssFileVip.mp3?timestamp=1689439397565",
+  "duration": 2686.9,
+  "segments": [
+    {
+      "id": "ep0127-s01",
+      "heading": "開場 / 贊助：農純鄉",
+      "start": 0.02,
+      "end": 95.69,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0127-s02",
+      "heading": "台美股近況：原物料、基建題材與Overbooking風險",
+      "start": 95.74,
+      "end": 608.33,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0127-s03",
+      "heading": "Archegos爆倉事件：地表最大當日虧損",
+      "start": 608.38,
+      "end": 1745.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0127-s04",
+      "heading": "Q&A",
+      "start": 1745.88,
+      "end": 2684.29,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0127-s05",
+      "heading": "結尾",
+      "start": 2684.34,
+      "end": 2686.9,
+      "confidence": 0.941
+    }
+  ]
+}

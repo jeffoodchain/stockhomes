@@ -1,0 +1,72 @@
+{
+  "ep": 610,
+  "source": "auto-aligned from reports/mk/gooaye-ep0610.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0610.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2fe89a3e-b4ee-490e-8111-3271a1fe9217/rssFileVip.mp3?timestamp=1763244563811",
+  "duration": 3033.16,
+  "segments": [
+    {
+      "id": "ep0610-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.0,
+      "end": 75.27,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0610-s02",
+      "heading": "現金水位與生活品質",
+      "start": 75.32,
+      "end": 297.43,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0610-s03",
+      "heading": "操作策略：破低、現金配置與加碼紀律",
+      "start": 297.48,
+      "end": 461.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0610-s04",
+      "heading": "標的選擇：Google、AI、記憶體、高速傳輸",
+      "start": 461.7,
+      "end": 733.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0610-s05",
+      "heading": "後續策略：資金分批、假突破與大屠殺買法",
+      "start": 733.1,
+      "end": 1117.09,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0610-s06",
+      "heading": "市場觀察：台股族群輪動、記憶體資金",
+      "start": 1117.14,
+      "end": 1353.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0610-s07",
+      "heading": "健策（3653）與川湖 RVL/AVL 爭議",
+      "start": 1353.7,
+      "end": 1501.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0610-s08",
+      "heading": "記憶體資金與族群輪動展望",
+      "start": 1501.38,
+      "end": 1559.63,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0610-s09",
+      "heading": "Q&A",
+      "start": 1559.68,
+      "end": 3033.16,
+      "confidence": 0.644
+    }
+  ]
+}

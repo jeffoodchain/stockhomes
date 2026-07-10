@@ -1,0 +1,135 @@
+{
+  "ep": 536,
+  "source": "auto-aligned from reports/mk/gooaye-ep0536.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0536.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5910869a-588f-4562-ab56-d4c7f0c9f6cb/rssFileVip.mp3?timestamp=1740814375081",
+  "duration": 2991.54,
+  "segments": [
+    {
+      "id": "ep0536-s01",
+      "heading": "開場／贊助：NordVPN",
+      "start": 0.0,
+      "end": 76.63,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0536-s02",
+      "heading": "魔物獵人與親子時間",
+      "start": 76.68,
+      "end": 188.83,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0536-s03",
+      "heading": "小朋友成長的驚喜",
+      "start": 188.88,
+      "end": 275.29,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0536-s04",
+      "heading": "預期、開心與人生感悟",
+      "start": 275.34,
+      "end": 378.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0536-s05",
+      "heading": "台股下週展望",
+      "start": 378.2,
+      "end": 447.87,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0536-s06",
+      "heading": "市場傳言與資訊處理",
+      "start": 447.92,
+      "end": 627.07,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0536-s07",
+      "heading": "輝達砍單傳言分析",
+      "start": 627.12,
+      "end": 715.55,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0536-s08",
+      "heading": "CoWoS 與產能問題",
+      "start": 715.6,
+      "end": 822.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0536-s09",
+      "heading": "不同角度的砍單解讀",
+      "start": 822.96,
+      "end": 886.13,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0536-s10",
+      "heading": "市場反應與事件評估",
+      "start": 886.18,
+      "end": 986.99,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0536-s11",
+      "heading": "NVIDIA 財報與態度",
+      "start": 987.04,
+      "end": 1076.73,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0536-s12",
+      "heading": "實際數字分析",
+      "start": 1076.78,
+      "end": 1173.25,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0536-s13",
+      "heading": "Tesla 近況",
+      "start": 1173.3,
+      "end": 1248.13,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0536-s14",
+      "heading": "Tesla 政治參與討論",
+      "start": 1248.18,
+      "end": 1407.37,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0536-s15",
+      "heading": "Tesla 銷量下滑原因分析",
+      "start": 1407.42,
+      "end": 1534.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0536-s16",
+      "heading": "市場心理與投資策略",
+      "start": 1534.66,
+      "end": 1745.19,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0536-s17",
+      "heading": "Q&A 部分",
+      "start": 1745.24,
+      "end": 2110.79,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0536-s18",
+      "heading": "聽眾問答與回饋",
+      "start": 2110.84,
+      "end": 2991.54,
+      "confidence": 0.767
+    }
+  ]
+}

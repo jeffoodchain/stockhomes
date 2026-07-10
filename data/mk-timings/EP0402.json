@@ -1,0 +1,114 @@
+{
+  "ep": 402,
+  "source": "auto-aligned from reports/mk/gooaye-ep0402.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0402.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0457f707-c1d8-4530-a413-223fdb1962d1/rssFileVip.mp3?timestamp=1700297909749",
+  "duration": 3052.46,
+  "segments": [
+    {
+      "id": "ep0402-s01",
+      "heading": "開場 / 贊助：愛您溫暖家棉被",
+      "start": 0.0,
+      "end": 83.33,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0402-s02",
+      "heading": "自營投資家朋友的故事",
+      "start": 83.38,
+      "end": 306.15,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0402-s03",
+      "heading": "電商數據與市場信號",
+      "start": 306.2,
+      "end": 352.73,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0402-s04",
+      "heading": "動漫《葬送的芙莉蓮》推薦",
+      "start": 352.78,
+      "end": 649.73,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0402-s05",
+      "heading": "談起買手工作與陪孩子的時刻",
+      "start": 649.78,
+      "end": 689.86,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0402-s06",
+      "heading": "OpenAI CEO被踢出公司",
+      "start": 689.91,
+      "end": 859.72,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0402-s07",
+      "heading": "AI競爭格局與科技巨頭的策略",
+      "start": 859.77,
+      "end": 1024.02,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0402-s08",
+      "heading": "微軟自研芯片與AI晶片的競爭",
+      "start": 1024.07,
+      "end": 1229.98,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0402-s09",
+      "heading": "晶片產能與產業預測",
+      "start": 1230.03,
+      "end": 1299.88,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0402-s10",
+      "heading": "HBM供應與價格預測",
+      "start": 1299.93,
+      "end": 1542.72,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0402-s11",
+      "heading": "AI產業瓶頸轉移預測",
+      "start": 1542.77,
+      "end": 1567.26,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0402-s12",
+      "heading": "習近平訪美與中美關係",
+      "start": 1567.31,
+      "end": 1818.26,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0402-s13",
+      "heading": "LA流浪漢現象與政治反諷",
+      "start": 1818.31,
+      "end": 1909.04,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0402-s14",
+      "heading": "Q&A與PS5抽獎",
+      "start": 1909.09,
+      "end": 2987.26,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0402-s15",
+      "heading": "抽獎結果",
+      "start": 2987.31,
+      "end": 3052.46,
+      "confidence": 0.922
+    }
+  ]
+}

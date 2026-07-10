@@ -1,0 +1,149 @@
+{
+  "ep": 658,
+  "source": "auto-aligned from reports/mk/gooaye-ep0658.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0658.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/05d6fea4-c6a1-47f2-a57e-b2f4e8d82bc0/rssFileVip.mp3?timestamp=1777760777224",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0658-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 82.17,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0658-s02",
+      "heading": "五月開盤：四月太瘋狂，準備回檔",
+      "start": 82.22,
+      "end": 158.63,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0658-s03",
+      "heading": "紅酒櫃兩週裝滿：收集癖的快樂",
+      "start": 158.68,
+      "end": 390.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0658-s04",
+      "heading": "紅酒心得：價格不是絕對指標",
+      "start": 390.52,
+      "end": 706.25,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0658-s05",
+      "heading": "老黃訪談：AI 取代工作的校正迴歸",
+      "start": 706.3,
+      "end": 1014.33,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0658-s06",
+      "heading": "Anthropic 財報意外亮眼 & SaaS 不死",
+      "start": 1014.38,
+      "end": 1542.11,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0658-s07",
+      "heading": "台積大將跳槽聯發科：TPU 後段封裝走向",
+      "start": 1542.16,
+      "end": 1747.65,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0658-s08",
+      "heading": "Q&A：Google/Amazon 自研晶片威脅 NVIDIA？",
+      "start": 1747.7,
+      "end": 1847.63,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0658-s09",
+      "heading": "Q&A：記憶體模組基本面 vs. 股價反應",
+      "start": 1847.68,
+      "end": 1982.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0658-s10",
+      "heading": "Q&A：股票小白二寶爸的感謝",
+      "start": 1982.24,
+      "end": 2012.61,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0658-s11",
+      "heading": "Q&A：死亡擱淺生日彩蛋 & 結婚登記",
+      "start": 2012.66,
+      "end": 2075.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0658-s12",
+      "heading": "Q&A：歌曲與回憶",
+      "start": 2075.1,
+      "end": 2168.49,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0658-s13",
+      "heading": "Q&A：埃及金字塔與宇宙頻道 & 焦慮",
+      "start": 2168.54,
+      "end": 2253.81,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0658-s14",
+      "heading": "Q&A：出國留學 vs. 賣台積電（股票質押）",
+      "start": 2253.86,
+      "end": 2434.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0658-s15",
+      "heading": "Q&A：留言密碼 & 雨昕的耳朵",
+      "start": 2434.92,
+      "end": 2514.09,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0658-s16",
+      "heading": "Q&A：永康笑話 & 發哥 ASIC 法說",
+      "start": 2514.14,
+      "end": 2662.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0658-s17",
+      "heading": "Q&A：墨鏡看啦啦隊 & 女性機器人",
+      "start": 2662.62,
+      "end": 2751.0,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0658-s18",
+      "heading": "Q&A：周杰倫四聲歌詞",
+      "start": 2751.05,
+      "end": 2811.52,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0658-s19",
+      "heading": "Q&A：總資產還是淨資產 & 育兒與性生活",
+      "start": 2811.57,
+      "end": 2885.4,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0658-s20",
+      "heading": "Q&A：邊緣運算",
+      "start": 2885.45,
+      "end": 2995.98,
+      "confidence": 0.611
+    }
+  ]
+}

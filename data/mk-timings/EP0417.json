@@ -1,0 +1,93 @@
+{
+  "ep": 417,
+  "source": "auto-aligned from reports/mk/gooaye-ep0417.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0417.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c6a7bcb0-e816-4517-bf59-8da044e0f362/rssFileVip.mp3?timestamp=1704874945565",
+  "duration": 3111.92,
+  "segments": [
+    {
+      "id": "ep0417-s01",
+      "heading": "開場 / 贊助：ZZSleeper 忘憂枕",
+      "start": 0.0,
+      "end": 62.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0417-s02",
+      "heading": "生活分享：年末聚餐與免費仔的心態",
+      "start": 62.78,
+      "end": 162.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0417-s03",
+      "heading": "公開致歉：魚翅風波與反思",
+      "start": 162.56,
+      "end": 286.07,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0417-s04",
+      "heading": "減肥心得：飲食控制與身體改善",
+      "start": 286.12,
+      "end": 599.83,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0417-s05",
+      "heading": "市場分析：臺股與美股表現",
+      "start": 599.88,
+      "end": 669.95,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0417-s06",
+      "heading": "製造業復甦與 CoWoS 投片機會",
+      "start": 670.0,
+      "end": 808.95,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0417-s07",
+      "heading": "工具機與匯率風險",
+      "start": 809.0,
+      "end": 953.03,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0417-s08",
+      "heading": "消費品前景：手機與 PC",
+      "start": 953.08,
+      "end": 1111.91,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0417-s09",
+      "heading": "AI 硬體新趨勢：AI 螢幕與 AI 筆電",
+      "start": 1111.96,
+      "end": 1358.61,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0417-s10",
+      "heading": "總經分析：Fed 轉向與降息預期",
+      "start": 1358.66,
+      "end": 1549.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0417-s11",
+      "heading": "小型股與 SaaS 投資機會",
+      "start": 1549.94,
+      "end": 1772.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0417-s12",
+      "heading": "Q&A 環節",
+      "start": 1772.52,
+      "end": 3111.92,
+      "confidence": 0.789
+    }
+  ]
+}

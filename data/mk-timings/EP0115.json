@@ -1,0 +1,58 @@
+{
+  "ep": 115,
+  "source": "auto-aligned from reports/mk/gooaye-ep0115.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0115.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c88db5a5-b53e-4c45-84da-b7c7b0f5d3ba/rssFileVip.mp3?timestamp=1689439378706",
+  "duration": 2458.04,
+  "segments": [
+    {
+      "id": "ep0115-s01",
+      "heading": "開場 / 贊助：HH草本新境界",
+      "start": 0.0,
+      "end": 91.91,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0115-s02",
+      "heading": "開工大吉：牛年新春感想",
+      "start": 91.96,
+      "end": 142.13,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0115-s03",
+      "heading": "牛年新春開盤破歷史新高",
+      "start": 142.18,
+      "end": 236.33,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0115-s04",
+      "heading": "抱越久獲利越大：長期持有的觀念",
+      "start": 236.38,
+      "end": 301.21,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0115-s05",
+      "heading": "短期刺激的危害：從 Chamath 訪問說起",
+      "start": 301.26,
+      "end": 854.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0115-s06",
+      "heading": "Monish Pabrai 的 Spawner 理論",
+      "start": 854.48,
+      "end": 1575.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0115-s07",
+      "heading": "Q&A",
+      "start": 1575.5,
+      "end": 2458.04,
+      "confidence": 0.744
+    }
+  ]
+}

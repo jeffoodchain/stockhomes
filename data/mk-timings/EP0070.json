@@ -1,0 +1,58 @@
+{
+  "ep": 70,
+  "source": "auto-aligned from reports/mk/gooaye-ep0070.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0070.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f921018d-185d-4fca-92d5-681ea5063eda/rssFileVip.mp3?timestamp=1761072697873",
+  "duration": 2453.58,
+  "segments": [
+    {
+      "id": "ep0070-s01",
+      "heading": "開場 / 贊助：Decent Rossi 藥師羅西",
+      "start": 0.02,
+      "end": 122.51,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0070-s02",
+      "heading": "模擬飛行 2020 心得",
+      "start": 122.56,
+      "end": 288.75,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0070-s03",
+      "heading": "IPO 狂潮與波動風險",
+      "start": 288.8,
+      "end": 630.67,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0070-s04",
+      "heading": "台灣 IPO 狂潮：DR 股、生技股與汎德永業",
+      "start": 630.72,
+      "end": 968.03,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0070-s05",
+      "heading": "Nikola：Theranos 2.0？Hindenburg Research 打假始末",
+      "start": 968.08,
+      "end": 1715.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0070-s06",
+      "heading": "Q&A",
+      "start": 1715.78,
+      "end": 2436.26,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0070-s07",
+      "heading": "結尾",
+      "start": 2436.31,
+      "end": 2453.58,
+      "confidence": 0.756
+    }
+  ]
+}

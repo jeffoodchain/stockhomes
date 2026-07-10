@@ -1,0 +1,58 @@
+{
+  "ep": 48,
+  "source": "auto-aligned from reports/mk/gooaye-ep0048.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0048.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2c7b5a6e-ff9b-4de4-a7dd-d4fbf6d0054b/rssFileVip.mp3?timestamp=1689439387338",
+  "duration": 2495.19,
+  "segments": [
+    {
+      "id": "ep0048-s01",
+      "heading": "開場 / 贊助：信咚企業 UVCLEANER",
+      "start": 0.11,
+      "end": 103.3,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0048-s02",
+      "heading": "感謝聽眾 TBlack：贈送 Kobo Forma",
+      "start": 103.35,
+      "end": 203.72,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0048-s03",
+      "heading": "菜雞屠宰場：00672L、瑞幸咖啡、赫茲租車、健安喜",
+      "start": 203.77,
+      "end": 706.38,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0048-s04",
+      "heading": "反脆弱：不要做上檔有限、下檔無限的事情",
+      "start": 706.43,
+      "end": 817.84,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0048-s05",
+      "heading": "三個有效投資觀念：回測驗證的心得分享",
+      "start": 817.89,
+      "end": 1358.89,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0048-s06",
+      "heading": "Q&A",
+      "start": 1358.94,
+      "end": 2487.87,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0048-s07",
+      "heading": "結尾",
+      "start": 2487.92,
+      "end": 2495.19,
+      "confidence": 1.0
+    }
+  ]
+}

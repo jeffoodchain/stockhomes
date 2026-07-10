@@ -1,0 +1,72 @@
+{
+  "ep": 432,
+  "source": "auto-aligned from reports/mk/gooaye-ep0432.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0432.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f52243f0-5f82-4765-8889-b01e168ccebd/rssFileVip.mp3?timestamp=1709405829156",
+  "duration": 2984.1,
+  "segments": [
+    {
+      "id": "ep0432-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 55.45,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0432-s02",
+      "heading": "兒子拆線與歐洲的兒童友善文化",
+      "start": 55.5,
+      "end": 122.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0432-s03",
+      "heading": "熱水器故事與生活習性的思考",
+      "start": 122.42,
+      "end": 387.31,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0432-s04",
+      "heading": "家庭分工與自我認知",
+      "start": 387.36,
+      "end": 563.09,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0432-s05",
+      "heading": "股市與投資話題",
+      "start": 563.14,
+      "end": 903.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0432-s06",
+      "heading": "戴爾電腦財報分析",
+      "start": 903.26,
+      "end": 1079.83,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0432-s07",
+      "heading": "加密貨幣與板卡補充",
+      "start": 1079.88,
+      "end": 1213.77,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0432-s08",
+      "heading": "Apple 停止電動車計畫與產業影響",
+      "start": 1213.82,
+      "end": 1823.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0432-s09",
+      "heading": "聽眾留言與回應",
+      "start": 1823.8,
+      "end": 2984.1,
+      "confidence": 0.733
+    }
+  ]
+}

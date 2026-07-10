@@ -1,0 +1,58 @@
+{
+  "ep": 31,
+  "source": "auto-aligned from reports/mk/gooaye-ep0031.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0031.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d78bbe86-16d1-4636-9950-29e7a03cce2b/rssFileVip.mp3?timestamp=1761072695229",
+  "duration": 2244.0,
+  "segments": [
+    {
+      "id": "ep0031-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.14,
+      "end": 80.81,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0031-s02",
+      "heading": "中國原油寶事件",
+      "start": 80.86,
+      "end": 657.27,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0031-s03",
+      "heading": "時代力量基本薪資政策",
+      "start": 657.32,
+      "end": 875.41,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0031-s04",
+      "heading": "中國版 Steam：完美世界 Steam",
+      "start": 875.46,
+      "end": 1033.45,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0031-s05",
+      "heading": "GAP 流血出清與疫情下的股市邏輯",
+      "start": 1033.5,
+      "end": 1258.33,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0031-s06",
+      "heading": "Q&A",
+      "start": 1258.38,
+      "end": 2232.6,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0031-s07",
+      "heading": "結尾",
+      "start": 2232.65,
+      "end": 2244.0,
+      "confidence": 0.734
+    }
+  ]
+}

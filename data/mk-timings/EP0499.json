@@ -1,0 +1,58 @@
+{
+  "ep": 499,
+  "source": "auto-aligned from reports/mk/gooaye-ep0499.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0499.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/035384a0-8d93-4e17-ade7-94e7e1c1e94b/rssFileVip.mp3?timestamp=1729671958522",
+  "duration": 3092.58,
+  "segments": [
+    {
+      "id": "ep0499-s01",
+      "heading": "開場/贊助：NordVPN",
+      "start": 0.0,
+      "end": 78.13,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0499-s02",
+      "heading": "麥當勞獵人卡與公關品運作機制",
+      "start": 78.18,
+      "end": 376.03,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0499-s03",
+      "heading": "TCG Card Shop Simulator 遊戲推薦",
+      "start": 376.08,
+      "end": 540.65,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0499-s04",
+      "heading": "ARM 與高通授權爭議及 RISC-V 機遇",
+      "start": 540.7,
+      "end": 690.21,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0499-s05",
+      "heading": "伺服器標準化與 NVL2 的演變",
+      "start": 690.26,
+      "end": 1191.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0499-s06",
+      "heading": "台灣車用與消費電子產業復甦",
+      "start": 1191.64,
+      "end": 1462.25,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0499-s07",
+      "heading": "聽眾提問與回應",
+      "start": 1462.3,
+      "end": 3092.58,
+      "confidence": 0.911
+    }
+  ]
+}

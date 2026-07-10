@@ -1,0 +1,51 @@
+{
+  "ep": 67,
+  "source": "auto-aligned from reports/mk/gooaye-ep0067.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0067.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6c52dff3-83d1-4165-a40f-bbb25da3a678/rssFileVip.mp3?timestamp=1689439382332",
+  "duration": 2386.7,
+  "segments": [
+    {
+      "id": "ep0067-s01",
+      "heading": "開場 / 贊助：海尼根0.0零酒精",
+      "start": 0.3,
+      "end": 124.05,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0067-s02",
+      "heading": "開場閒聊：鑽戒廣告結案、台灣樂團推薦",
+      "start": 124.1,
+      "end": 389.41,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0067-s03",
+      "heading": "Zoom財報爆炸、空軍慘敗",
+      "start": 389.46,
+      "end": 925.81,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0067-s04",
+      "heading": "NVIDIA Ampere新卡分析",
+      "start": 925.86,
+      "end": 1294.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0067-s05",
+      "heading": "台股連動分析：概念股難抓",
+      "start": 1294.8,
+      "end": 1448.81,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0067-s06",
+      "heading": "Q&A",
+      "start": 1448.86,
+      "end": 2386.7,
+      "confidence": 0.944
+    }
+  ]
+}

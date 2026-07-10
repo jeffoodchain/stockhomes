@@ -1,0 +1,72 @@
+{
+  "ep": 109,
+  "source": "auto-aligned from reports/mk/gooaye-ep0109.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0109.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/db471b30-b7c9-43a4-bb36-a9fedb7d7c24/rssFileVip.mp3?timestamp=1761072702812",
+  "duration": 2285.66,
+  "segments": [
+    {
+      "id": "ep0109-s01",
+      "heading": "開場 / 贊助：曼黛瑪璉",
+      "start": 0.0,
+      "end": 94.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0109-s02",
+      "heading": "第一次直播回顧",
+      "start": 94.78,
+      "end": 142.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0109-s03",
+      "heading": "推薦書：《致富心態》（Psychology of Money）",
+      "start": 142.44,
+      "end": 264.93,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0109-s04",
+      "heading": "台積電修正與分批大法",
+      "start": 264.98,
+      "end": 571.45,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0109-s05",
+      "heading": "台積電熱潮與臺股健全化",
+      "start": 571.5,
+      "end": 681.59,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0109-s06",
+      "heading": "台灣 IC 產業鏈介紹",
+      "start": 681.64,
+      "end": 794.85,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0109-s07",
+      "heading": "彭博報導：過度依賴台灣，中芯車用晶片的可能",
+      "start": 794.9,
+      "end": 1139.29,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0109-s08",
+      "heading": "QA",
+      "start": 1139.34,
+      "end": 2280.77,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0109-s09",
+      "heading": "結尾",
+      "start": 2280.82,
+      "end": 2285.66,
+      "confidence": 1.0
+    }
+  ]
+}

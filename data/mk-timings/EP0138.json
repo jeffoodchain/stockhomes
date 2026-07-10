@@ -1,0 +1,58 @@
+{
+  "ep": 138,
+  "source": "auto-aligned from reports/mk/gooaye-ep0138.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0138.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a533df1c-069c-4151-8bde-9c2470aa61d6/rssFileVip.mp3?timestamp=1689439391762",
+  "duration": 2611.1,
+  "segments": [
+    {
+      "id": "ep0138-s01",
+      "heading": "開場 / 贊助：YAMAHA 電動機車 EC-05",
+      "start": 0.0,
+      "end": 104.19,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0138-s02",
+      "heading": "帶傷錄音：根管治療心得",
+      "start": 104.24,
+      "end": 262.57,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0138-s03",
+      "heading": "績效膨脹時代的真相",
+      "start": 262.62,
+      "end": 363.09,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0138-s04",
+      "heading": "Asset Allocation 才是最關鍵的因素",
+      "start": 363.14,
+      "end": 566.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0138-s05",
+      "heading": "槓桿是怪物績效的必要條件",
+      "start": 566.9,
+      "end": 849.97,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0138-s06",
+      "heading": "複製怪物績效的必要條件與風險",
+      "start": 850.02,
+      "end": 1568.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0138-s07",
+      "heading": "Q&A",
+      "start": 1568.26,
+      "end": 2611.1,
+      "confidence": 0.756
+    }
+  ]
+}

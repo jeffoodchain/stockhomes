@@ -1,0 +1,58 @@
+{
+  "ep": 607,
+  "source": "auto-aligned from reports/mk/gooaye-ep0607.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0607.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f1ac29db-d879-41a1-8283-d32e514a0aa5/rssFileVip.mp3?timestamp=1762525975373",
+  "duration": 3052.46,
+  "segments": [
+    {
+      "id": "ep0607-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.02,
+      "end": 57.53,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0607-s02",
+      "heading": "烏杉資本成立：台灣遊戲投資 Fund 2",
+      "start": 57.58,
+      "end": 698.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0607-s03",
+      "heading": "台股開盤策略：假日後恐慌接刀",
+      "start": 698.3,
+      "end": 1068.07,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0607-s04",
+      "heading": "盤面觀察：倉位控制與心態",
+      "start": 1068.12,
+      "end": 1320.63,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0607-s05",
+      "heading": "Astera Labs 財報解讀：中國叢集需求",
+      "start": 1320.68,
+      "end": 1514.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0607-s06",
+      "heading": "Palantir 高估值與 Michael Burry 放空",
+      "start": 1514.42,
+      "end": 1652.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0607-s07",
+      "heading": "Q&A",
+      "start": 1652.56,
+      "end": 3052.46,
+      "confidence": 0.744
+    }
+  ]
+}

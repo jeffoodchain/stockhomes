@@ -1,0 +1,58 @@
+{
+  "ep": 601,
+  "source": "auto-aligned from reports/mk/gooaye-ep0601.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0601.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f9d1dfdc-27b3-430b-b919-38cffe0ba9e9/rssFileVip.mp3?timestamp=1760567723295",
+  "duration": 3122.31,
+  "segments": [
+    {
+      "id": "ep0601-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 59.07,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0601-s02",
+      "heading": "開場閒聊：文藝氣質的一週",
+      "start": 59.12,
+      "end": 254.15,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0601-s03",
+      "heading": "台股走勢分析：反彈、震盪與降槓桿",
+      "start": 254.2,
+      "end": 565.37,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0601-s04",
+      "heading": "市場重點一：OpenAI × Broadcom 重申合作，26 GW 的天文數字",
+      "start": 565.42,
+      "end": 777.09,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0601-s05",
+      "heading": "市場重點二：Anthropic 疑為 Broadcom 神秘 10B 客戶，Google TPU 開始外賣",
+      "start": 777.14,
+      "end": 1463.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0601-s06",
+      "heading": "市場重點三：OCP 大會與 ESUN 乙太網聯盟",
+      "start": 1463.44,
+      "end": 1723.11,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0601-s07",
+      "heading": "Q&A",
+      "start": 1723.16,
+      "end": 3122.31,
+      "confidence": 0.756
+    }
+  ]
+}

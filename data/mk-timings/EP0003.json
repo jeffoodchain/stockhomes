@@ -1,0 +1,51 @@
+{
+  "ep": 3,
+  "source": "auto-aligned from reports/mk/gooaye-ep0003.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0003.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/147bdd6f-dfa3-46a0-8eec-3c1b95715551/rssFileVip.mp3?timestamp=1689439405686",
+  "duration": 1613.95,
+  "segments": [
+    {
+      "id": "ep0003-s01",
+      "heading": "開場",
+      "start": 0.34,
+      "end": 50.95,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0003-s02",
+      "heading": "Q&A：放空博智與倉和被嘎的案例",
+      "start": 51.0,
+      "end": 370.24,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0003-s03",
+      "heading": "Q&A：資金分配、加減碼與風險控管",
+      "start": 370.29,
+      "end": 898.67,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0003-s04",
+      "heading": "武漢肺炎：疫情擴散與美股下跌",
+      "start": 898.72,
+      "end": 1114.96,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0003-s05",
+      "heading": "中國 PMI 與市場效率",
+      "start": 1115.01,
+      "end": 1521.43,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0003-s06",
+      "heading": "結尾",
+      "start": 1521.48,
+      "end": 1613.95,
+      "confidence": 0.667
+    }
+  ]
+}

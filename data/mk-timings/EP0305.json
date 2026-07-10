@@ -1,0 +1,51 @@
+{
+  "ep": 305,
+  "source": "auto-aligned from reports/mk/gooaye-ep0305.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0305.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ca5abbe3-cd07-40d0-a9de-e3b2c5124613/rssFileVip.mp3?timestamp=1689439400714",
+  "duration": 3094.07,
+  "segments": [
+    {
+      "id": "ep0305-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 53.09,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0305-s02",
+      "heading": "新興趣：棒球打擊場",
+      "start": 53.14,
+      "end": 223.89,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0305-s03",
+      "heading": "為什麼喜歡棒球：紓壓、專注、健體",
+      "start": 223.94,
+      "end": 457.89,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0305-s04",
+      "heading": "CPI 低於預期：通膨轉衰退主軸",
+      "start": 457.94,
+      "end": 801.61,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0305-s05",
+      "heading": "巨大自行車：庫存、票期與現金流分析",
+      "start": 801.66,
+      "end": 1607.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0305-s06",
+      "heading": "Q&A",
+      "start": 1607.64,
+      "end": 3094.07,
+      "confidence": 0.622
+    }
+  ]
+}

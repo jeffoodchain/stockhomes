@@ -1,0 +1,93 @@
+{
+  "ep": 413,
+  "source": "auto-aligned from reports/mk/gooaye-ep0413.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0413.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8cfaafe7-6f92-4d5e-bf55-4fd9134b7ef7/rssFileVip.mp3?timestamp=1705042415768",
+  "duration": 3021.32,
+  "segments": [
+    {
+      "id": "ep0413-s01",
+      "heading": "開場 / 贊助：Dr.情趣",
+      "start": 0.0,
+      "end": 5.43,
+      "confidence": 0.812
+    },
+    {
+      "id": "ep0413-s02",
+      "heading": "金牌講師的爆火現象",
+      "start": 5.48,
+      "end": 166.07,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0413-s03",
+      "heading": "聖誕節的親子時光與家庭觀",
+      "start": 166.12,
+      "end": 393.65,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0413-s04",
+      "heading": "高股息產品與市場看法",
+      "start": 393.7,
+      "end": 485.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0413-s05",
+      "heading": "2023 年市場回顧",
+      "start": 485.38,
+      "end": 596.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0413-s06",
+      "heading": "小型股部位與槓桿策略",
+      "start": 596.68,
+      "end": 758.21,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0413-s07",
+      "heading": "大型權值股部位",
+      "start": 758.26,
+      "end": 873.81,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0413-s08",
+      "heading": "PMIC、MCU 與動能機會",
+      "start": 873.86,
+      "end": 1231.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0413-s09",
+      "heading": "美股大股部位",
+      "start": 1231.62,
+      "end": 1444.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0413-s10",
+      "heading": "年末寄語",
+      "start": 1444.48,
+      "end": 1500.03,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0413-s11",
+      "heading": "Q&A 部分",
+      "start": 1500.08,
+      "end": 3008.76,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0413-s12",
+      "heading": "結尾",
+      "start": 3008.81,
+      "end": 3021.32,
+      "confidence": 0.724
+    }
+  ]
+}

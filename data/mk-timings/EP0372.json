@@ -1,0 +1,93 @@
+{
+  "ep": 372,
+  "source": "auto-aligned from reports/mk/gooaye-ep0372.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0372.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/074fb9ef-e203-48a0-b359-1d69e9556975/rssFileVip.mp3?timestamp=1691225385930",
+  "duration": 3094.07,
+  "segments": [
+    {
+      "id": "ep0372-s01",
+      "heading": "開場 / 贊助：火星生技 5 倍對策",
+      "start": 0.0,
+      "end": 60.25,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0372-s02",
+      "heading": "市場回顧與融資風險管理",
+      "start": 60.3,
+      "end": 206.61,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0372-s03",
+      "heading": "快速致富的代價",
+      "start": 206.66,
+      "end": 355.73,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0372-s04",
+      "heading": "市場的理性與感性",
+      "start": 355.78,
+      "end": 490.57,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0372-s05",
+      "heading": "預期管理與容錯空間",
+      "start": 490.62,
+      "end": 563.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0372-s06",
+      "heading": "操作策略與投資邏輯",
+      "start": 563.98,
+      "end": 642.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0372-s07",
+      "heading": "電影心得：奧本海默",
+      "start": 642.4,
+      "end": 797.21,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0372-s08",
+      "heading": "AMD 財報分析",
+      "start": 797.26,
+      "end": 972.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0372-s09",
+      "heading": "特斯拉產線調整與 Model 3 改款",
+      "start": 972.1,
+      "end": 1245.93,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0372-s10",
+      "heading": "蘋果硬體現況與 Vision Pro",
+      "start": 1245.98,
+      "end": 1595.69,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0372-s11",
+      "heading": "總結與建議",
+      "start": 1595.74,
+      "end": 1659.65,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0372-s12",
+      "heading": "聽眾問答",
+      "start": 1659.7,
+      "end": 3094.07,
+      "confidence": 0.656
+    }
+  ]
+}

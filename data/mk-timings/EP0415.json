@@ -1,0 +1,128 @@
+{
+  "ep": 415,
+  "source": "auto-aligned from reports/mk/gooaye-ep0415.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0415.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b9d77168-7865-43ec-9b3b-ed7cd31baae2/rssFileVip.mp3?timestamp=1704270130810",
+  "duration": 3018.29,
+  "segments": [
+    {
+      "id": "ep0415-s01",
+      "heading": "開場 / 贊助：惠而浦",
+      "start": 0.0,
+      "end": 75.25,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0415-s02",
+      "heading": "新年開局與市場現況",
+      "start": 75.3,
+      "end": 154.51,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0415-s03",
+      "heading": "市場回檔與風險管理",
+      "start": 154.56,
+      "end": 233.23,
+      "confidence": 0.533
+    },
+    {
+      "id": "ep0415-s04",
+      "heading": "技術分析的本質與應用",
+      "start": 233.28,
+      "end": 312.15,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0415-s05",
+      "heading": "技術分析的定位",
+      "start": 312.2,
+      "end": 404.19,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0415-s06",
+      "heading": "市場效率與認知演進",
+      "start": 404.24,
+      "end": 505.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0415-s07",
+      "heading": "技術分析的價值與限制",
+      "start": 505.6,
+      "end": 571.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0415-s08",
+      "heading": "法人與業界對技術分析的態度",
+      "start": 571.82,
+      "end": 708.99,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0415-s09",
+      "heading": "不同交易派別與策略",
+      "start": 709.04,
+      "end": 773.33,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0415-s10",
+      "heading": "K 棒與技術指標的本質",
+      "start": 773.38,
+      "end": 930.55,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0415-s11",
+      "heading": "個人的交易風格與哲學",
+      "start": 930.6,
+      "end": 1070.15,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0415-s12",
+      "heading": "個人的初期部位策略",
+      "start": 1070.2,
+      "end": 1162.93,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0415-s13",
+      "heading": "槓桿與風險管理的演變",
+      "start": 1162.98,
+      "end": 1244.19,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0415-s14",
+      "heading": "主力操作與籌碼的視角",
+      "start": 1244.24,
+      "end": 1402.25,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0415-s15",
+      "heading": "技術分析的進階視角",
+      "start": 1402.3,
+      "end": 1477.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0415-s16",
+      "heading": "市場策略的認知層級",
+      "start": 1477.24,
+      "end": 1881.19,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0415-s17",
+      "heading": "聽眾 Q&A",
+      "start": 1881.24,
+      "end": 3018.29,
+      "confidence": 0.733
+    }
+  ]
+}

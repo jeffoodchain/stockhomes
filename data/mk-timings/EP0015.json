@@ -1,0 +1,58 @@
+{
+  "ep": 15,
+  "source": "auto-aligned from reports/mk/gooaye-ep0015.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0015.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6039f4a4-ceeb-45d9-bfad-015c1349952a/rssFileVip.mp3?timestamp=1689439407550",
+  "duration": 1361.32,
+  "segments": [
+    {
+      "id": "ep0015-s01",
+      "heading": "開場：聽眾評論與回應",
+      "start": 0.02,
+      "end": 71.77,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0015-s02",
+      "heading": "聊聊館長：偏見與貢獻",
+      "start": 71.82,
+      "end": 369.86,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0015-s03",
+      "heading": "主題：元大S&P原油正2（00672L）之亂",
+      "start": 369.91,
+      "end": 550.05,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0015-s04",
+      "heading": "金融秩序：台灣想成為金融中心卻開後門",
+      "start": 550.1,
+      "end": 640.49,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0015-s05",
+      "heading": "00672L事件詳述：清算公告與籌碼異常",
+      "start": 640.54,
+      "end": 1040.91,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0015-s06",
+      "heading": "引申：《大賣空》與2008金融海嘯",
+      "start": 1040.96,
+      "end": 1330.03,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0015-s07",
+      "heading": "結尾：預告下集庫藏股",
+      "start": 1330.08,
+      "end": 1361.32,
+      "confidence": 0.867
+    }
+  ]
+}

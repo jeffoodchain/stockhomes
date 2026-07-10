@@ -1,0 +1,51 @@
+{
+  "ep": 53,
+  "source": "auto-aligned from reports/mk/gooaye-ep0053.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0053.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/02762a8a-4335-48d5-a878-8fb627bcf058/rssFileVip.mp3?timestamp=1689439404311",
+  "duration": 2462.48,
+  "segments": [
+    {
+      "id": "ep0053-s01",
+      "heading": "開場 / 贊助：Backbone 椎座工學",
+      "start": 0.3,
+      "end": 116.58,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0053-s02",
+      "heading": "日常雜聊：天下出版社飯局與升級錄音設備",
+      "start": 116.63,
+      "end": 442.77,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0053-s03",
+      "heading": "eToro 事件解析",
+      "start": 442.82,
+      "end": 989.8,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0053-s04",
+      "heading": "市場觀察：這次修正的心理戰",
+      "start": 989.85,
+      "end": 1522.43,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0053-s05",
+      "heading": "Q&A",
+      "start": 1522.48,
+      "end": 2455.28,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0053-s06",
+      "heading": "結尾",
+      "start": 2455.33,
+      "end": 2462.48,
+      "confidence": 1.0
+    }
+  ]
+}

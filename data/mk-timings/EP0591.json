@@ -1,0 +1,79 @@
+{
+  "ep": 591,
+  "source": "auto-aligned from reports/mk/gooaye-ep0591.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0591.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ec6ef62b-3894-4189-8a77-8137d8aa683a/rssFileVip.mp3?timestamp=1757634286549",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0591-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 70.91,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0591-s02",
+      "heading": "生活分享：奇安住院記",
+      "start": 70.96,
+      "end": 158.19,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0591-s03",
+      "heading": "健保定價議題",
+      "start": 158.24,
+      "end": 271.01,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0591-s04",
+      "heading": "奇安住院經過與心得",
+      "start": 271.06,
+      "end": 761.63,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0591-s05",
+      "heading": "市場話題：記憶體 NAND/DRAM 齊漲",
+      "start": 761.68,
+      "end": 942.53,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0591-s06",
+      "heading": "Apple 發表會 / iPhone Air / AirPods 3 / Apple Watch",
+      "start": 942.58,
+      "end": 1099.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0591-s07",
+      "heading": "NVIDIA Rubin CPX 新架構解析",
+      "start": 1099.72,
+      "end": 1417.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0591-s08",
+      "heading": "微軟 × Nebius 194 億算力大單",
+      "start": 1417.42,
+      "end": 1675.07,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0591-s09",
+      "heading": "華碩有望轉股？牛皮股覺醒潮",
+      "start": 1675.12,
+      "end": 1787.41,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0591-s10",
+      "heading": "Q&A / 生日祝福",
+      "start": 1787.46,
+      "end": 2998.96,
+      "confidence": 0.722
+    }
+  ]
+}

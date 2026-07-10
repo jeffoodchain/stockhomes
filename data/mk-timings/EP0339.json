@@ -1,0 +1,51 @@
+{
+  "ep": 339,
+  "source": "auto-aligned from reports/mk/gooaye-ep0339.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0339.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8cae8957-4144-4fde-b9c6-b7b2151ad3b2/rssFileVip.mp3?timestamp=1689439396382",
+  "duration": 3053.95,
+  "segments": [
+    {
+      "id": "ep0339-s01",
+      "heading": "開場 / 贊助：日本名水13度C",
+      "start": 0.0,
+      "end": 86.59,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0339-s02",
+      "heading": "開場：從羅馬回來，歐洲租車陷阱",
+      "start": 86.64,
+      "end": 273.23,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0339-s03",
+      "heading": "俄烏戰爭：Roma的侄子的故事",
+      "start": 273.28,
+      "end": 637.06,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0339-s04",
+      "heading": "臺積電Q1成績單與年增月增季增使用準則",
+      "start": 637.11,
+      "end": 1043.27,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0339-s05",
+      "heading": "AI與記憶體佈局分析",
+      "start": 1043.32,
+      "end": 1469.25,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0339-s06",
+      "heading": "Q&A",
+      "start": 1469.3,
+      "end": 3053.95,
+      "confidence": 0.533
+    }
+  ]
+}

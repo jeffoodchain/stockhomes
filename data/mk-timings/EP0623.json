@@ -1,0 +1,212 @@
+{
+  "ep": 623,
+  "source": "auto-aligned from reports/mk/gooaye-ep0623.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0623.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ffd2fce6-176a-451f-9e31-7efd9f599bf1/rssFileVip.mp3?timestamp=1767217721606",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0623-s01",
+      "heading": "開場 / 贊助：大研生醫德國極品魚油",
+      "start": 0.0,
+      "end": 56.89,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0623-s02",
+      "heading": "年終回顧：陪伴家人是這一年的最大成就",
+      "start": 56.94,
+      "end": 164.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0623-s03",
+      "heading": "錢與陪伴：羨慕別人花園裡的東西",
+      "start": 164.8,
+      "end": 338.11,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0623-s04",
+      "heading": "林口開店與遊戲投資：肖楠、烏山資本",
+      "start": 338.16,
+      "end": 646.45,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0623-s05",
+      "heading": "今年部位總結：記憶體賣太早、裝置與建廠續強",
+      "start": 646.5,
+      "end": 709.67,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0623-s06",
+      "heading": "2026 展望（一）：Power、HVDC、被動元件升級",
+      "start": 709.72,
+      "end": 780.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0623-s07",
+      "heading": "2026 展望（二）：光通訊 vs. 銅線、雷射、特殊材料",
+      "start": 780.26,
+      "end": 935.23,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0623-s08",
+      "heading": "心態的轉變：耐心、從每月營收到季度視角",
+      "start": 935.28,
+      "end": 1075.33,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0623-s09",
+      "heading": "接下來的盤面節奏：動能敘事與部位輪動",
+      "start": 1075.38,
+      "end": 1346.23,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0623-s10",
+      "heading": "2026 展望（三）：Underdog 與記憶體外溢效應",
+      "start": 1346.28,
+      "end": 1543.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0623-s11",
+      "heading": "Q&A：資產位數成長的印象戰役",
+      "start": 1543.3,
+      "end": 1825.33,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0623-s12",
+      "heading": "Q&A：失業夫妻檔的祝福",
+      "start": 1825.38,
+      "end": 1875.25,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0623-s13",
+      "heading": "Q&A：OneRepublic 演唱會、生日祝福",
+      "start": 1875.3,
+      "end": 1917.31,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0623-s14",
+      "heading": "Q&A：再次被裁員的許願",
+      "start": 1917.36,
+      "end": 1952.99,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0623-s15",
+      "heading": "Q&A：房價下跌、SaaS 受惠",
+      "start": 1953.04,
+      "end": 2022.89,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0623-s16",
+      "heading": "Q&A：請觀音保佑朋友開刀順利",
+      "start": 2022.94,
+      "end": 2049.37,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0623-s17",
+      "heading": "Q&A：僵直性脊椎炎與真愛",
+      "start": 2049.42,
+      "end": 2119.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0623-s18",
+      "heading": "Q&A：南區創業者的壓力",
+      "start": 2119.58,
+      "end": 2208.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0623-s19",
+      "heading": "Q&A：女朋友生日 & GI Joe",
+      "start": 2208.54,
+      "end": 2232.31,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0623-s20",
+      "heading": "Q&A：職場性騷擾請直接報警",
+      "start": 2232.36,
+      "end": 2274.43,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0623-s21",
+      "heading": "Q&A：對自己沒自信、難找成就感",
+      "start": 2274.48,
+      "end": 2413.13,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0623-s22",
+      "heading": "Q&A：大盤 vs. 主動投資",
+      "start": 2413.18,
+      "end": 2463.49,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0623-s23",
+      "heading": "Q&A：吉娃娃女友生日",
+      "start": 2463.54,
+      "end": 2496.22,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0623-s24",
+      "heading": "Q&A：王博士的 bro love",
+      "start": 2496.27,
+      "end": 2558.36,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0623-s25",
+      "heading": "Q&A：流產 / 試管 / 利空出盡",
+      "start": 2558.41,
+      "end": 2634.23,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0623-s26",
+      "heading": "Q&A：聖誕節與英文名字",
+      "start": 2634.28,
+      "end": 2781.86,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0623-s27",
+      "heading": "Q&A：別欺負小孩、別欺負弱小",
+      "start": 2781.91,
+      "end": 2874.82,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0623-s28",
+      "heading": "Q&A：薦髂關節發炎與下背痛",
+      "start": 2874.87,
+      "end": 2955.94,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0623-s29",
+      "heading": "Q&A：三星留言跳過 & 結尾",
+      "start": 2955.99,
+      "end": 3000.45,
+      "confidence": 0.678
+    }
+  ]
+}

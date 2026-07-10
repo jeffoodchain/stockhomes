@@ -1,0 +1,58 @@
+{
+  "ep": 397,
+  "source": "auto-aligned from reports/mk/gooaye-ep0397.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0397.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d4036354-c60a-47a7-be6d-c2640ff7d509/rssFileVip.mp3?timestamp=1698831219430",
+  "duration": 2976.68,
+  "segments": [
+    {
+      "id": "ep0397-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.63,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0397-s02",
+      "heading": "X 平臺分潤與社群變現",
+      "start": 58.68,
+      "end": 406.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0397-s03",
+      "heading": "詐騙與保安矛盾",
+      "start": 406.84,
+      "end": 728.39,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0397-s04",
+      "heading": "市場狀況與技術分析",
+      "start": 728.44,
+      "end": 1022.49,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0397-s05",
+      "heading": "美股與車用晶片",
+      "start": 1022.54,
+      "end": 1604.01,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0397-s06",
+      "heading": "AMD 財報與 Server GPU",
+      "start": 1604.06,
+      "end": 1972.57,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0397-s07",
+      "heading": "Q&A",
+      "start": 1972.62,
+      "end": 2976.68,
+      "confidence": 0.767
+    }
+  ]
+}

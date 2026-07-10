@@ -1,0 +1,100 @@
+{
+  "ep": 663,
+  "source": "auto-aligned from reports/mk/gooaye-ep0663.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0663.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a3324cb1-b7be-4483-a739-d3ebfc534277/rssFileVip.mp3?timestamp=1779303293357",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0663-s01",
+      "heading": "開場 / 贊助：東璧堂珍珠薏仁紅豆粉",
+      "start": 0.0,
+      "end": 107.99,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0663-s02",
+      "heading": "個人近況：減重達標與身體投資",
+      "start": 108.04,
+      "end": 667.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0663-s03",
+      "heading": "市場話題：被動元件漲價浪潮",
+      "start": 667.1,
+      "end": 1133.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0663-s04",
+      "heading": "產業分析：Broadcom 少一條魚？",
+      "start": 1133.54,
+      "end": 1612.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0663-s05",
+      "heading": "Q&A：FO 培訓、萬磁王最帥",
+      "start": 1613.02,
+      "end": 1706.67,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0663-s06",
+      "heading": "Q&A：台積電論壇、光通走勢、X 帳號",
+      "start": 1706.72,
+      "end": 1912.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0663-s07",
+      "heading": "Q&A：婉逸 18 歲生日快樂、無痛生產",
+      "start": 1912.38,
+      "end": 2054.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0663-s08",
+      "heading": "Q&A：Radiohead、指數仔、花錢哲學",
+      "start": 2054.82,
+      "end": 2356.57,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0663-s09",
+      "heading": "Q&A：光通軟掉了嗎？",
+      "start": 2356.62,
+      "end": 2417.75,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0663-s10",
+      "heading": "Q&A：小資時期比較心態",
+      "start": 2417.8,
+      "end": 2582.27,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0663-s11",
+      "heading": "Q&A：量化交易、直覺感受",
+      "start": 2582.32,
+      "end": 2753.47,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0663-s12",
+      "heading": "Q&A：感恩分享、客家諧音梗",
+      "start": 2753.52,
+      "end": 2816.39,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0663-s13",
+      "heading": "Q&A：AI prompt 整理資訊",
+      "start": 2816.44,
+      "end": 2997.47,
+      "confidence": 0.589
+    }
+  ]
+}

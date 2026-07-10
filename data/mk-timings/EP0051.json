@@ -1,0 +1,44 @@
+{
+  "ep": 51,
+  "source": "auto-aligned from reports/mk/gooaye-ep0051.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0051.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/99fd0afe-c1c6-4d28-82ba-4b8b90ff99fe/rssFileVip.mp3?timestamp=1689439387873",
+  "duration": 2492.21,
+  "segments": [
+    {
+      "id": "ep0051-s01",
+      "heading": "開場 / 贊助：亞曼菲",
+      "start": 0.3,
+      "end": 133.59,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0051-s02",
+      "heading": "大同事件總結",
+      "start": 133.64,
+      "end": 545.09,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0051-s03",
+      "heading": "市況快報",
+      "start": 545.14,
+      "end": 911.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0051-s04",
+      "heading": "創作心得分享",
+      "start": 911.9,
+      "end": 1689.58,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0051-s05",
+      "heading": "Q&A",
+      "start": 1689.63,
+      "end": 2492.21,
+      "confidence": 0.711
+    }
+  ]
+}

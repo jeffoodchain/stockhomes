@@ -1,0 +1,65 @@
+{
+  "ep": 380,
+  "source": "auto-aligned from reports/mk/gooaye-ep0380.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0380.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/83cf5297-58ef-48de-8ee9-086ee4e64050/rssFileVip.mp3?timestamp=1693643921068",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0380-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.61,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0380-s02",
+      "heading": "義大利度假見聞",
+      "start": 58.66,
+      "end": 190.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0380-s03",
+      "heading": "給孩子的禮物",
+      "start": 190.36,
+      "end": 345.15,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0380-s04",
+      "heading": "親子關係與家庭觀察",
+      "start": 345.2,
+      "end": 638.34,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0380-s05",
+      "heading": "特斯拉 Model 3 Highland 分析",
+      "start": 638.39,
+      "end": 1304.66,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0380-s06",
+      "heading": "財報與市場動態",
+      "start": 1304.71,
+      "end": 1547.62,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0380-s07",
+      "heading": "博通與 Marvel 的潛力",
+      "start": 1547.67,
+      "end": 1749.62,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0380-s08",
+      "heading": "Q&A 篇",
+      "start": 1749.67,
+      "end": 3000.45,
+      "confidence": 1.0
+    }
+  ]
+}

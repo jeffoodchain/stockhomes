@@ -1,0 +1,79 @@
+{
+  "ep": 373,
+  "source": "auto-aligned from reports/mk/gooaye-ep0373.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0373.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8c524a1b-c3a5-4f32-8aad-f6eb98e0d473/rssFileVip.mp3?timestamp=1691578173814",
+  "duration": 3028.69,
+  "segments": [
+    {
+      "id": "ep0373-s01",
+      "heading": "開場／贊助：優式資本",
+      "start": 0.0,
+      "end": 110.57,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0373-s02",
+      "heading": "父親節趣事與善意悖論",
+      "start": 110.62,
+      "end": 673.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0373-s03",
+      "heading": "市場話題：Aletheia 輝達報告",
+      "start": 673.48,
+      "end": 830.21,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0373-s04",
+      "heading": "AI Server 單位出貨量與 ASP 分析",
+      "start": 830.26,
+      "end": 1104.53,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0373-s05",
+      "heading": "SuperMicro 財報與市場預期",
+      "start": 1104.58,
+      "end": 1169.27,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0373-s06",
+      "heading": "臺灣出口數字與 AI Server 佔比",
+      "start": 1169.32,
+      "end": 1254.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0373-s07",
+      "heading": "分享信息與交流",
+      "start": 1254.36,
+      "end": 1304.61,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0373-s08",
+      "heading": "微影進軍遊戲 AI 運算",
+      "start": 1304.66,
+      "end": 1454.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0373-s09",
+      "heading": "微影遊戲 AI 重點整理",
+      "start": 1454.36,
+      "end": 1566.89,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0373-s10",
+      "heading": "Q&A 環節",
+      "start": 1566.94,
+      "end": 3028.69,
+      "confidence": 0.8
+    }
+  ]
+}

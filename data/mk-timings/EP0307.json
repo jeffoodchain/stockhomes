@@ -1,0 +1,51 @@
+{
+  "ep": 307,
+  "source": "auto-aligned from reports/mk/gooaye-ep0307.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0307.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ae2b2118-e7f3-4409-b926-787b74dfa83c/rssFileVip.mp3?timestamp=1689439397914",
+  "duration": 3141.64,
+  "segments": [
+    {
+      "id": "ep0307-s01",
+      "heading": "開場 / 贊助：OVO 電視訂閱制",
+      "start": 0.0,
+      "end": 106.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0307-s02",
+      "heading": "出外靠朋友：看桃園永豐雲豹球賽",
+      "start": 106.5,
+      "end": 251.89,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0307-s03",
+      "heading": "飯局與冒牌者症候群",
+      "start": 251.94,
+      "end": 575.63,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0307-s04",
+      "heading": "飯局：冒牌者症候群",
+      "start": 575.68,
+      "end": 952.65,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0307-s05",
+      "heading": "Howard Marks「Sea Change」備忘錄：三個鉅變",
+      "start": 952.7,
+      "end": 2132.46,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0307-s06",
+      "heading": "QA",
+      "start": 2132.51,
+      "end": 3141.64,
+      "confidence": 0.644
+    }
+  ]
+}

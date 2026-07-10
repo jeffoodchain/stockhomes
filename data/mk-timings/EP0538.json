@@ -1,0 +1,121 @@
+{
+  "ep": 538,
+  "source": "auto-aligned from reports/mk/gooaye-ep0538.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0538.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/72994924-3799-4214-bdff-966cf26adc35/rssFileVip.mp3?timestamp=1741597348808",
+  "duration": 2987.08,
+  "segments": [
+    {
+      "id": "ep0538-s01",
+      "heading": "開場 / 贊助：易牙居",
+      "start": 0.0,
+      "end": 87.31,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0538-s02",
+      "heading": "市場現況：五年來最猛的跌幅",
+      "start": 87.36,
+      "end": 236.89,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0538-s03",
+      "heading": "槓桿與現金配置策略",
+      "start": 236.94,
+      "end": 393.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0538-s04",
+      "heading": "操作策略與現金騰挪",
+      "start": 393.6,
+      "end": 462.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0538-s05",
+      "heading": "Broadcom 深度分析：四大新客戶與 AI 晶片版圖",
+      "start": 462.18,
+      "end": 512.85,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0538-s06",
+      "heading": "Non-AI 業務困境",
+      "start": 512.9,
+      "end": 580.98,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0538-s07",
+      "heading": "供應鏈產能過剩假說",
+      "start": 581.03,
+      "end": 623.96,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0538-s08",
+      "heading": "Broadcom 的 AI 業務與三大客戶",
+      "start": 624.01,
+      "end": 744.88,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0538-s09",
+      "heading": "Broadcom 四大新客戶猜測",
+      "start": 744.93,
+      "end": 880.86,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0538-s10",
+      "heading": "富士通與日本市場機會",
+      "start": 880.91,
+      "end": 972.2,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0538-s11",
+      "heading": "AI 晶片版圖：客戶與產品規劃",
+      "start": 972.25,
+      "end": 1045.9,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0538-s12",
+      "heading": "ASIC vs GPU 的競爭與市場定位",
+      "start": 1045.95,
+      "end": 1143.7,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0538-s13",
+      "heading": "Marvell 與其他廠商的機會",
+      "start": 1143.75,
+      "end": 1276.18,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0538-s14",
+      "heading": "川普政治評析",
+      "start": 1276.23,
+      "end": 1424.84,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0538-s15",
+      "heading": "市場波動與長期思考",
+      "start": 1424.89,
+      "end": 1455.68,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0538-s16",
+      "heading": "Q&A 單元",
+      "start": 1455.73,
+      "end": 2987.08,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 328,
+  "source": "auto-aligned from reports/mk/gooaye-ep0328.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0328.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d1379253-c699-491e-b5aa-ed32f4a4731f/rssFileVip.mp3?timestamp=1689439395194",
+  "duration": 3172.83,
+  "segments": [
+    {
+      "id": "ep0328-s01",
+      "heading": "開場 / 贊助：HH 草本新淨界",
+      "start": 0.0,
+      "end": 90.01,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0328-s02",
+      "heading": "近況：下週出國、市場概況",
+      "start": 90.06,
+      "end": 183.77,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0328-s03",
+      "heading": "市場觀察：ASIC 股、被動元件",
+      "start": 183.82,
+      "end": 429.22,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0328-s04",
+      "heading": "佈局分享：資安與工業電腦",
+      "start": 429.27,
+      "end": 1019.87,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0328-s05",
+      "heading": "特斯拉 2023 Investor Day：碳化矽與稀土震撼彈",
+      "start": 1019.92,
+      "end": 1721.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0328-s06",
+      "heading": "Q&A",
+      "start": 1721.72,
+      "end": 3172.83,
+      "confidence": 0.811
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 578,
+  "source": "auto-aligned from reports/mk/gooaye-ep0578.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0578.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8147ed67-376e-41d2-8493-35cbe190fa09/rssFileVip.mp3?timestamp=1753515996662",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0578-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.0,
+      "end": 75.21,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0578-s02",
+      "heading": "課金手遊心得：買二手帳號策略",
+      "start": 75.26,
+      "end": 230.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0578-s03",
+      "heading": "老婆支持打手遊、知足常樂",
+      "start": 230.5,
+      "end": 284.69,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0578-s04",
+      "heading": "企業界飯局：財務分析框架與興趣差異",
+      "start": 284.74,
+      "end": 575.13,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0578-s05",
+      "heading": "財報分析：Google",
+      "start": 575.18,
+      "end": 766.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0578-s06",
+      "heading": "財報分析：Tesla — FSD、Robotaxi、Optimus",
+      "start": 766.94,
+      "end": 1450.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0578-s07",
+      "heading": "Q&A",
+      "start": 1450.58,
+      "end": 2997.47,
+      "confidence": 0.811
+    }
+  ]
+}

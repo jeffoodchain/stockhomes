@@ -1,0 +1,65 @@
+{
+  "ep": 24,
+  "source": "auto-aligned from reports/mk/gooaye-ep0024.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0024.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7c6adde3-b93a-4579-803d-ec8b36b1a338/rssFileVip.mp3?timestamp=1689439392098",
+  "duration": 1492.09,
+  "segments": [
+    {
+      "id": "ep0024-s01",
+      "heading": "開場 / 贊助：茄子青旅 Hostel Jiizu",
+      "start": 0.14,
+      "end": 35.44,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0024-s02",
+      "heading": "譚德塞事件與中國外交操作",
+      "start": 35.49,
+      "end": 334.49,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0024-s03",
+      "heading": "美股行情：OPEC減產與Fed無限QE",
+      "start": 334.54,
+      "end": 449.41,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0024-s04",
+      "heading": "Michael Burry 對封城的看法",
+      "start": 449.46,
+      "end": 666.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0024-s05",
+      "heading": "美女健身聯盟 VIP 插播",
+      "start": 666.46,
+      "end": 736.09,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0024-s06",
+      "heading": "Bernie Sanders 退選與美國大選",
+      "start": 736.14,
+      "end": 942.39,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0024-s07",
+      "heading": "投資界的文人相輕",
+      "start": 942.44,
+      "end": 1433.67,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0024-s08",
+      "heading": "結尾",
+      "start": 1433.72,
+      "end": 1492.09,
+      "confidence": 0.9
+    }
+  ]
+}

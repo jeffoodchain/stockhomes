@@ -1,0 +1,65 @@
+{
+  "ep": 66,
+  "source": "auto-aligned from reports/mk/gooaye-ep0066.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0066.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5d6ac279-5a5b-4cd0-8dc4-c7bee24fe393/rssFileVip.mp3?timestamp=1689439381531",
+  "duration": 2312.41,
+  "segments": [
+    {
+      "id": "ep0066-s01",
+      "heading": "開場 / 贊助：正官庄高麗蔘精 Everytime Plus",
+      "start": 0.14,
+      "end": 109.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0066-s02",
+      "heading": "館長被槍擊事件",
+      "start": 109.06,
+      "end": 289.65,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0066-s03",
+      "heading": "Neuralink 腦機介面 Demo",
+      "start": 289.7,
+      "end": 646.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0066-s04",
+      "heading": "台股 8/20 大殺後族群分析",
+      "start": 646.54,
+      "end": 898.31,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0066-s05",
+      "heading": "Forward PE 與成長股估值觀念",
+      "start": 898.36,
+      "end": 1141.95,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0066-s06",
+      "heading": "8/20 後強勢族群：網通、造紙、面板",
+      "start": 1142.0,
+      "end": 1438.67,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0066-s07",
+      "heading": "Q&A",
+      "start": 1438.72,
+      "end": 2258.17,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0066-s08",
+      "heading": "結尾",
+      "start": 2258.22,
+      "end": 2312.41,
+      "confidence": 0.944
+    }
+  ]
+}

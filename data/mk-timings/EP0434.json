@@ -1,0 +1,135 @@
+{
+  "ep": 434,
+  "source": "auto-aligned from reports/mk/gooaye-ep0434.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0434.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/107c2efe-1058-4706-b006-209b44d4a49c/rssFileVip.mp3?timestamp=1709972780095",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0434-s01",
+      "heading": "開場 / 贊助：米鴻生醫",
+      "start": 0.0,
+      "end": 94.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0434-s02",
+      "heading": "歐洲旅遊記 - 義大利到挪威",
+      "start": 94.82,
+      "end": 329.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0434-s03",
+      "heading": "挪威奧斯陸見聞",
+      "start": 329.88,
+      "end": 518.11,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0434-s04",
+      "heading": "美股臺股創高行情",
+      "start": 518.16,
+      "end": 584.61,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0434-s05",
+      "heading": "臺股技術面分析",
+      "start": 584.66,
+      "end": 631.63,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0434-s06",
+      "heading": "自身持股檢討",
+      "start": 631.68,
+      "end": 700.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0434-s07",
+      "heading": "臺股長線配置轉變",
+      "start": 700.44,
+      "end": 763.87,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0434-s08",
+      "heading": "配置策略討論",
+      "start": 763.92,
+      "end": 814.33,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0434-s09",
+      "heading": "美股表現 vs 臺股表現",
+      "start": 814.38,
+      "end": 860.91,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0434-s10",
+      "heading": "技術面操作邏輯",
+      "start": 860.96,
+      "end": 911.79,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0434-s11",
+      "heading": "Marvell 與 Broadcom 財報分析",
+      "start": 911.84,
+      "end": 1090.21,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0434-s12",
+      "heading": "Marvell vs AMD 部位調整",
+      "start": 1090.26,
+      "end": 1123.87,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0434-s13",
+      "heading": "Google ASIC 供應鏈",
+      "start": 1123.92,
+      "end": 1247.69,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0434-s14",
+      "heading": "Broadcom 財報分析",
+      "start": 1247.74,
+      "end": 1400.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0434-s15",
+      "heading": "Broadcom ASIC 客戶分析",
+      "start": 1400.36,
+      "end": 1551.89,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0434-s16",
+      "heading": "後續觀察重點",
+      "start": 1551.94,
+      "end": 1645.45,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0434-s17",
+      "heading": "聽眾 Q&A",
+      "start": 1645.5,
+      "end": 2964.62,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0434-s18",
+      "heading": "結尾",
+      "start": 2964.67,
+      "end": 2993.03,
+      "confidence": 0.711
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 107,
+  "source": "auto-aligned from reports/mk/gooaye-ep0107.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0107.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e026c27-80a9-4a5d-a00f-6692d58df160/rssFileVip.mp3?timestamp=1689439386081",
+  "duration": 2397.1,
+  "segments": [
+    {
+      "id": "ep0107-s01",
+      "heading": "開場 / 贊助：嵐 台灣男士造型",
+      "start": 0.0,
+      "end": 95.77,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0107-s02",
+      "heading": "馬雲復出與中概股觀察",
+      "start": 95.82,
+      "end": 244.41,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0107-s03",
+      "heading": "投資人往生後的資產繼承問題",
+      "start": 244.46,
+      "end": 659.67,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0107-s04",
+      "heading": "Netflix Q4 財報解析與展望",
+      "start": 659.72,
+      "end": 1299.81,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0107-s05",
+      "heading": "Q&A",
+      "start": 1299.86,
+      "end": 2397.1,
+      "confidence": 0.856
+    }
+  ]
+}

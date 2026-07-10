@@ -1,0 +1,58 @@
+{
+  "ep": 103,
+  "source": "auto-aligned from reports/mk/gooaye-ep0103.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0103.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/87400d9c-b11a-48fa-abaa-a1f71adafaf6/rssFileVip.mp3?timestamp=1689439396944",
+  "duration": 2398.59,
+  "segments": [
+    {
+      "id": "ep0103-s01",
+      "heading": "開場 / 贊助：簡單 JAN DAN",
+      "start": 0.0,
+      "end": 135.37,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0103-s02",
+      "heading": "節目開始：上集複習、感謝回饋",
+      "start": 135.42,
+      "end": 471.85,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0103-s03",
+      "heading": "主題：貨櫃輪航運股——機會財的歷史輪迴",
+      "start": 471.9,
+      "end": 920.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0103-s04",
+      "heading": "機會財輪迴：撼訊、國巨 MLCC、防疫、貨櫃",
+      "start": 920.62,
+      "end": 1364.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0103-s05",
+      "heading": "贊助：蝦皮書城",
+      "start": 1364.28,
+      "end": 1502.65,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0103-s06",
+      "heading": "Q&A",
+      "start": 1502.7,
+      "end": 2395.03,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0103-s07",
+      "heading": "結尾",
+      "start": 2395.08,
+      "end": 2398.59,
+      "confidence": 0.625
+    }
+  ]
+}

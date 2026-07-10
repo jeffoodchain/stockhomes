@@ -1,0 +1,107 @@
+{
+  "ep": 399,
+  "source": "auto-aligned from reports/mk/gooaye-ep0399.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0399.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/63d23594-f59d-4b42-bdbd-8f7f37d71814/rssFileVip.mp3?timestamp=1699431739759",
+  "duration": 2976.68,
+  "segments": [
+    {
+      "id": "ep0399-s01",
+      "heading": "開場／贊助：Alpecin",
+      "start": 0.0,
+      "end": 99.33,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0399-s02",
+      "heading": "近期分享活動與校正想法",
+      "start": 99.38,
+      "end": 171.69,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0399-s03",
+      "heading": "從 Apple Podcast 轉向 Spotify 留言",
+      "start": 171.74,
+      "end": 257.39,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0399-s04",
+      "heading": "Coldplay 演唱會與樂團世代",
+      "start": 257.44,
+      "end": 433.3,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0399-s05",
+      "heading": "Coldplay 東京場 Setlist 分析",
+      "start": 433.35,
+      "end": 619.06,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0399-s06",
+      "heading": "Text to Video 與邊緣運算商機",
+      "start": 619.11,
+      "end": 685.78,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0399-s07",
+      "heading": "Phison 潘建成發言與 NAND 供應",
+      "start": 685.83,
+      "end": 752.1,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0399-s08",
+      "heading": "NAND 與 Pure Storage",
+      "start": 752.15,
+      "end": 852.1,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0399-s09",
+      "heading": "DataDog 與 SaaS 市場回暖",
+      "start": 852.15,
+      "end": 961.12,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0399-s10",
+      "heading": "NVIDIA H20、L20 新產品與禁令風險",
+      "start": 961.17,
+      "end": 1093.36,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0399-s11",
+      "heading": "轉向保守策略：消費、高速傳輸、邊緣運算、記憶體",
+      "start": 1093.41,
+      "end": 1257.08,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0399-s12",
+      "heading": "Fortinet 與資安未來",
+      "start": 1257.13,
+      "end": 1392.46,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0399-s13",
+      "heading": "朋友閒聊與餐飲業人力問題",
+      "start": 1392.51,
+      "end": 1858.64,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0399-s14",
+      "heading": "Q&A 環節",
+      "start": 1858.69,
+      "end": 2976.68,
+      "confidence": 0.644
+    }
+  ]
+}

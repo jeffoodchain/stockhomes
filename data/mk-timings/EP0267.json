@@ -1,0 +1,51 @@
+{
+  "ep": 267,
+  "source": "auto-aligned from reports/mk/gooaye-ep0267.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0267.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4a167951-7f0f-485d-b290-429f48669418/rssFileVip.mp3?timestamp=1689439379333",
+  "duration": 3123.79,
+  "segments": [
+    {
+      "id": "ep0267-s01",
+      "heading": "開場 / 贊助：We Charming 唯睛品",
+      "start": 0.0,
+      "end": 96.83,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0267-s02",
+      "heading": "生活聊聊：爸爸金、劉老闆 Quant 拜訪",
+      "start": 96.88,
+      "end": 343.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0267-s03",
+      "heading": "拜訪自營 Quant：劉老闆的程式交易世界",
+      "start": 343.88,
+      "end": 1169.85,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0267-s04",
+      "heading": "市場快報：AMD 財報 + Nancy Pelosi 訪台",
+      "start": 1169.9,
+      "end": 1221.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0267-s05",
+      "heading": "Pelosi 訪台與兩岸情勢分析",
+      "start": 1221.54,
+      "end": 1836.49,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0267-s06",
+      "heading": "Q&A",
+      "start": 1836.54,
+      "end": 3123.79,
+      "confidence": 0.811
+    }
+  ]
+}

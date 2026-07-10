@@ -1,0 +1,58 @@
+{
+  "ep": 427,
+  "source": "auto-aligned from reports/mk/gooaye-ep0427.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0427.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fc915249-0f20-4f82-8c2d-dc0bdefcb60f/rssFileVip.mp3?timestamp=1707906349754",
+  "duration": 2979.66,
+  "segments": [
+    {
+      "id": "ep0427-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 51.05,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0427-s02",
+      "heading": "開年祝福與放假牢騷",
+      "start": 51.1,
+      "end": 180.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0427-s03",
+      "heading": "機場見聞：大谷翔平與旅遊觀念",
+      "start": 180.44,
+      "end": 292.03,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0427-s04",
+      "heading": "義大利旅遊的真實體驗",
+      "start": 292.08,
+      "end": 781.65,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0427-s05",
+      "heading": "Vision Pro 初體驗",
+      "start": 781.7,
+      "end": 1311.43,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0427-s06",
+      "heading": "Vision Pro 的功能介紹",
+      "start": 1311.48,
+      "end": 1943.75,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0427-s07",
+      "heading": "Q&A：聽眾留言",
+      "start": 1943.8,
+      "end": 2979.66,
+      "confidence": 0.622
+    }
+  ]
+}

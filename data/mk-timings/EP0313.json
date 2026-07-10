@@ -1,0 +1,44 @@
+{
+  "ep": 313,
+  "source": "auto-aligned from reports/mk/gooaye-ep0313.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0313.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/914cc1ce-9e24-4482-ba71-97960ae9c436/rssFileVip.mp3?timestamp=1689439378629",
+  "duration": 3015.31,
+  "segments": [
+    {
+      "id": "ep0313-s01",
+      "heading": "開場 / 贊助：善存",
+      "start": 0.0,
+      "end": 63.77,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0313-s02",
+      "heading": "薩泰爾活動、西裝訂製與新勉勵運動",
+      "start": 63.82,
+      "end": 559.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0313-s03",
+      "heading": "2023年市場展望：盤整格局與選股策略",
+      "start": 559.4,
+      "end": 848.87,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0313-s04",
+      "heading": "盤整盤選股：次族群策略",
+      "start": 848.92,
+      "end": 1565.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0313-s05",
+      "heading": "Q&A",
+      "start": 1565.1,
+      "end": 3015.31,
+      "confidence": 0.711
+    }
+  ]
+}

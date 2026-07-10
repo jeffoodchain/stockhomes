@@ -1,0 +1,93 @@
+{
+  "ep": 416,
+  "source": "auto-aligned from reports/mk/gooaye-ep0416.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0416.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1f0e5eca-93bf-42a8-b89c-00ae9a978f08/rssFileVip.mp3?timestamp=1704531501061",
+  "duration": 3207.03,
+  "segments": [
+    {
+      "id": "ep0416-s01",
+      "heading": "開場 / 贊助：知識衛星",
+      "start": 0.0,
+      "end": 69.43,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0416-s02",
+      "heading": "外出吃喝與過去一年績效回顧",
+      "start": 69.48,
+      "end": 252.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0416-s03",
+      "heading": "Vision Pro 與出貨展望",
+      "start": 252.22,
+      "end": 361.31,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0416-s04",
+      "heading": "ASIC 設計商與客戶分析",
+      "start": 361.36,
+      "end": 601.19,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0416-s05",
+      "heading": "海外 ASIC 廠商：Marvell 與 Broadcom",
+      "start": 601.24,
+      "end": 830.67,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0416-s06",
+      "heading": "ASIC 估值與防守特性",
+      "start": 830.72,
+      "end": 886.61,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0416-s07",
+      "heading": "雲端 ASIC 與終端 ASIC 的協作",
+      "start": 886.66,
+      "end": 979.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0416-s08",
+      "heading": "特斯拉 FSD 與自駕體驗",
+      "start": 980.0,
+      "end": 1284.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0416-s09",
+      "heading": "特斯拉自駕詳細分析",
+      "start": 1284.5,
+      "end": 1545.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0416-s10",
+      "heading": "AI 模型的過度聰明陷阱",
+      "start": 1545.3,
+      "end": 1720.01,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0416-s11",
+      "heading": "節目總結與進入 Q&A",
+      "start": 1720.06,
+      "end": 1778.85,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0416-s12",
+      "heading": "Q&A 部分",
+      "start": 1778.9,
+      "end": 3207.03,
+      "confidence": 0.722
+    }
+  ]
+}

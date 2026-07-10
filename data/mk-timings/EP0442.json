@@ -1,0 +1,72 @@
+{
+  "ep": 442,
+  "source": "auto-aligned from reports/mk/gooaye-ep0442.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0442.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6401533c-a90f-43a0-b54f-7f7c2e7ab05a/rssFileVip.mp3?timestamp=1712391802926",
+  "duration": 2991.54,
+  "segments": [
+    {
+      "id": "ep0442-s01",
+      "heading": "開場 / 贊助：飛利浦行動電源",
+      "start": 0.0,
+      "end": 50.29,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0442-s02",
+      "heading": "台灣地震事況與建築韌性",
+      "start": 50.34,
+      "end": 176.43,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0442-s03",
+      "heading": "地震國際反應與台灣韌性評估",
+      "start": 176.48,
+      "end": 224.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0442-s04",
+      "heading": "烏克蘭局勢與全球安全評估",
+      "start": 224.6,
+      "end": 267.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0442-s05",
+      "heading": "地震對台灣產業的影響分析",
+      "start": 267.9,
+      "end": 473.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0442-s06",
+      "heading": "美股大跌與市場故事分析",
+      "start": 473.72,
+      "end": 659.27,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0442-s07",
+      "heading": "機器人題材與供應鏈機會",
+      "start": 659.32,
+      "end": 1362.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0442-s08",
+      "heading": "近期投資組合調整與策略思考",
+      "start": 1362.62,
+      "end": 1493.25,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0442-s09",
+      "heading": "Q&A",
+      "start": 1493.3,
+      "end": 2991.54,
+      "confidence": 0.7
+    }
+  ]
+}

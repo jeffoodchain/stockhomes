@@ -1,0 +1,163 @@
+{
+  "ep": 626,
+  "source": "auto-aligned from reports/mk/gooaye-ep0626.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0626.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6eb11ce2-9ec6-449e-8bcf-ca8ce1f8ab34/rssFileVip.mp3?timestamp=1768083958668",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0626-s01",
+      "heading": "開場 / 贊助：嘉義國際 2026 全明星年菜大集合",
+      "start": 0.0,
+      "end": 105.81,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0626-s02",
+      "heading": "酒精成癮自白：入坑各式名酒",
+      "start": 105.86,
+      "end": 222.33,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0626-s03",
+      "heading": "酒的價格與口味：每個人有自己的口味",
+      "start": 222.38,
+      "end": 393.55,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0626-s04",
+      "heading": "不要被框架定義：擁護派 vs. 信仰派",
+      "start": 393.6,
+      "end": 602.39,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0626-s05",
+      "heading": "市場很瘋狂：車票不要亂丟、設停損",
+      "start": 602.44,
+      "end": 739.27,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0626-s06",
+      "heading": "市場廣度很窄：靠少數股票撐盤",
+      "start": 739.32,
+      "end": 905.99,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0626-s07",
+      "heading": "散戶可以見風轉舵：清掉表現差的標的",
+      "start": 906.04,
+      "end": 1094.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0626-s08",
+      "heading": "台積電擴廠：氣、水、電、無塵室的機會",
+      "start": 1094.88,
+      "end": 1288.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0626-s09",
+      "heading": "馬斯克的 2 奈米廠：第一性原理 vs. 精品",
+      "start": 1288.76,
+      "end": 1626.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0626-s10",
+      "heading": "市場主流：記憶體、面板、廠務裝置",
+      "start": 1626.92,
+      "end": 1820.19,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0626-s11",
+      "heading": "Q&A：聽不懂分號重點 & InP 光通類股",
+      "start": 1820.24,
+      "end": 1949.61,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0626-s12",
+      "heading": "Q&A 補充：為什麼節目不直接點名公司",
+      "start": 1949.66,
+      "end": 2093.57,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0626-s13",
+      "heading": "Q&A：雲林 173 眼睛、許願要有誠意",
+      "start": 2093.62,
+      "end": 2186.78,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0626-s14",
+      "heading": "Q&A：群聯為什麼不講競爭對手",
+      "start": 2186.83,
+      "end": 2278.18,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0626-s15",
+      "heading": "Q&A：Starbase 像葉城、ICMS 像儲思盆",
+      "start": 2278.23,
+      "end": 2419.85,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0626-s16",
+      "heading": "Q&A：恭喜新手爸爸、孩子出生的感動",
+      "start": 2419.9,
+      "end": 2479.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0626-s17",
+      "heading": "Q&A：義大利美食與南北義治安",
+      "start": 2479.66,
+      "end": 2606.19,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0626-s18",
+      "heading": "Q&A：面板廠轉型 FOPLP 玻璃基板的 Re-rate",
+      "start": 2606.24,
+      "end": 2719.53,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0626-s19",
+      "heading": "Q&A：地瓜球生日快樂、孟公的暱稱",
+      "start": 2719.58,
+      "end": 2756.67,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0626-s20",
+      "heading": "Q&A：跨年吃葡萄、洗碗打掃",
+      "start": 2756.72,
+      "end": 2800.0,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0626-s21",
+      "heading": "Q&A：推美股韭菜王 Alan",
+      "start": 2800.05,
+      "end": 2847.94,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0626-s22",
+      "heading": "Q&A：陪伴孩子洗澡的小調整",
+      "start": 2847.99,
+      "end": 2998.96,
+      "confidence": 0.711
+    }
+  ]
+}

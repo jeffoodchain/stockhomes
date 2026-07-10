@@ -1,0 +1,30 @@
+{
+  "ep": 552,
+  "source": "auto-aligned from reports/mk/gooaye-ep0552.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0552.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3d3a2c68-b7d1-426e-87b5-0a8beeb3c568/rssFileVip.mp3?timestamp=1745652182311",
+  "duration": 3001.94,
+  "segments": [
+    {
+      "id": "ep0552-s01",
+      "heading": "開場 / 贊助：悠活原力",
+      "start": 0.0,
+      "end": 903.25,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0552-s02",
+      "heading": "結論總結",
+      "start": 903.3,
+      "end": 959.65,
+      "confidence": 0.167
+    },
+    {
+      "id": "ep0552-s03",
+      "heading": "校正統計",
+      "start": 959.7,
+      "end": 3001.94,
+      "confidence": 0.254
+    }
+  ]
+}

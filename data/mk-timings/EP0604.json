@@ -1,0 +1,51 @@
+{
+  "ep": 604,
+  "source": "auto-aligned from reports/mk/gooaye-ep0604.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0604.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a004db3f-6021-41bc-9c07-080a066e5905/rssFileVip.mp3?timestamp=1761428365630",
+  "duration": 3196.6,
+  "segments": [
+    {
+      "id": "ep0604-s01",
+      "heading": "開場 / 贊助：悠活原力",
+      "start": 0.0,
+      "end": 102.97,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0604-s02",
+      "heading": "開場聊天：Hiatus Kaiyote 演唱會與林口朋友圈",
+      "start": 103.02,
+      "end": 681.07,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0604-s03",
+      "heading": "Nexperia 事件後續：員工心聲與市場判斷",
+      "start": 681.12,
+      "end": 1124.79,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0604-s04",
+      "heading": "記憶體：報價持續上漲、三星 MLC NAND 加速退場",
+      "start": 1124.84,
+      "end": 1235.8,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0604-s05",
+      "heading": "Tesla Q3 2025 財報：Megapack 創高、Optimus V3 期待",
+      "start": 1235.85,
+      "end": 1733.4,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0604-s06",
+      "heading": "Q&A",
+      "start": 1733.45,
+      "end": 3196.6,
+      "confidence": 0.7
+    }
+  ]
+}

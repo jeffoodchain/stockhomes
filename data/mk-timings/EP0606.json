@@ -1,0 +1,72 @@
+{
+  "ep": 606,
+  "source": "auto-aligned from reports/mk/gooaye-ep0606.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0606.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/76782fed-829d-485c-9deb-4e072a771bb8/rssFileVip.mp3?timestamp=1762230518987",
+  "duration": 3088.12,
+  "segments": [
+    {
+      "id": "ep0606-s01",
+      "heading": "開場 / 贊助：zZSLEEPER -2°C 涼感忘憂枕",
+      "start": 0.0,
+      "end": 91.65,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0606-s02",
+      "heading": "生活閒聊：11 月、感冒季、洋蔥式穿法",
+      "start": 91.7,
+      "end": 124.61,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0606-s03",
+      "heading": "林口富霸、校外教學、幫朋友開燈",
+      "start": 124.66,
+      "end": 509.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0606-s04",
+      "heading": "萬聖節：棉花糖小插曲",
+      "start": 509.56,
+      "end": 666.69,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0606-s05",
+      "heading": "市場話題：Darden 消費降溫、市場兩極化",
+      "start": 666.74,
+      "end": 851.31,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0606-s06",
+      "heading": "AWS 財報破假消息、供應鏈全線反彈",
+      "start": 851.36,
+      "end": 1407.39,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0606-s07",
+      "heading": "光通元件被掃貨、CoWoS 卡位、老黃訪韓",
+      "start": 1407.44,
+      "end": 1650.05,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0606-s08",
+      "heading": "AI 通膨、兩極化景氣",
+      "start": 1650.1,
+      "end": 1780.55,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0606-s09",
+      "heading": "Q&A",
+      "start": 1780.6,
+      "end": 3088.12,
+      "confidence": 0.611
+    }
+  ]
+}

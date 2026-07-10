@@ -1,0 +1,72 @@
+{
+  "ep": 84,
+  "source": "auto-aligned from reports/mk/gooaye-ep0084.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0084.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/742f4b84-ff01-4e06-84f7-09d8e34a92ec/rssFileVip.mp3?timestamp=1689439390982",
+  "duration": 2486.28,
+  "segments": [
+    {
+      "id": "ep0084-s01",
+      "heading": "開場 / 贊助：杜蕾斯",
+      "start": 0.18,
+      "end": 103.71,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0084-s02",
+      "heading": "閒聊：百靈果步道大會、近況與接受訪問",
+      "start": 103.76,
+      "end": 260.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0084-s03",
+      "heading": "音樂推薦：Kings of Leon",
+      "start": 261.04,
+      "end": 390.63,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0084-s04",
+      "heading": "市場分析：2016大選回顧與不確定性",
+      "start": 390.68,
+      "end": 864.09,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0084-s05",
+      "heading": "拜登稅改預期、美股基本面",
+      "start": 864.14,
+      "end": 1067.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0084-s06",
+      "heading": "科技巨頭財報與微軟XCloud看好",
+      "start": 1067.18,
+      "end": 1324.33,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0084-s07",
+      "heading": "估值是科學也是藝術：「性感」改變本益比",
+      "start": 1324.38,
+      "end": 1635.17,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0084-s08",
+      "heading": "市場修正與心態調整",
+      "start": 1635.22,
+      "end": 1794.87,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0084-s09",
+      "heading": "Q&A",
+      "start": 1794.92,
+      "end": 2486.28,
+      "confidence": 0.667
+    }
+  ]
+}

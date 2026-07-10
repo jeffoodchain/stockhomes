@@ -1,0 +1,72 @@
+{
+  "ep": 56,
+  "source": "auto-aligned from reports/mk/gooaye-ep0056.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0056.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a52a1e8d-7167-4f5f-9591-6ac9b0f5d98b/rssFileVip.mp3?timestamp=1689439386417",
+  "duration": 2356.98,
+  "segments": [
+    {
+      "id": "ep0056-s01",
+      "heading": "開場 / 贊助：綠藤生機",
+      "start": 0.02,
+      "end": 133.39,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0056-s02",
+      "heading": "開場閒聊：狗不能吃葡萄",
+      "start": 133.44,
+      "end": 234.94,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0056-s03",
+      "heading": "開場閒聊：Yahoo直播教育訓練",
+      "start": 234.99,
+      "end": 392.26,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0056-s04",
+      "heading": "大盤觀察：納斯達克與台股中小型修正",
+      "start": 392.31,
+      "end": 593.5,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0056-s05",
+      "heading": "遇到修正的規劃：對沖、減碼、逢低加碼",
+      "start": 593.55,
+      "end": 951.28,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0056-s06",
+      "heading": "Microsoft財報：不要替短線漲跌找理由",
+      "start": 951.33,
+      "end": 1386.36,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0056-s07",
+      "heading": "贊助：蝦皮閱讀節",
+      "start": 1386.41,
+      "end": 1498.86,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0056-s08",
+      "heading": "Q&A",
+      "start": 1498.91,
+      "end": 2347.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0056-s09",
+      "heading": "結尾",
+      "start": 2347.88,
+      "end": 2356.98,
+      "confidence": 0.714
+    }
+  ]
+}

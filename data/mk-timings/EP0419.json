@@ -1,0 +1,142 @@
+{
+  "ep": 419,
+  "source": "auto-aligned from reports/mk/gooaye-ep0419.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0419.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/40699e19-d20e-4e83-bb59-a8e2968adaae/rssFileVip.mp3?timestamp=1705479757173",
+  "duration": 3048.02,
+  "segments": [
+    {
+      "id": "ep0419-s01",
+      "heading": "開場 / 贊助：V-TEX 超技能防水休閒鞋",
+      "start": 0.0,
+      "end": 94.63,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0419-s02",
+      "heading": "Q&A 回顧：黑獸與親子共看影視作品",
+      "start": 94.68,
+      "end": 224.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0419-s03",
+      "heading": "岳母離婚案例與貴族婚姻",
+      "start": 224.4,
+      "end": 440.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0419-s04",
+      "heading": "婚姻、離婚與理性思考",
+      "start": 440.88,
+      "end": 608.93,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0419-s05",
+      "heading": "市場話題：美股與台股走勢",
+      "start": 608.98,
+      "end": 889.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0419-s06",
+      "heading": "市場分析：外資、期貨與未來展望",
+      "start": 889.26,
+      "end": 1070.37,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0419-s07",
+      "heading": "特斯拉持股分析",
+      "start": 1070.42,
+      "end": 1184.21,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0419-s08",
+      "heading": "Hertz 租車拋售特斯拉事件",
+      "start": 1184.26,
+      "end": 1503.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0419-s09",
+      "heading": "特斯拉 AI 助理與 FSD 晶片",
+      "start": 1503.16,
+      "end": 1785.73,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0419-s10",
+      "heading": "結尾與展望",
+      "start": 1785.78,
+      "end": 1789.49,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0419-s11",
+      "heading": "Q&A：心理健康與生活意義",
+      "start": 1789.54,
+      "end": 1957.87,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0419-s12",
+      "heading": "Q&A：投資教育與認知水準",
+      "start": 1957.92,
+      "end": 2081.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0419-s13",
+      "heading": "Q&A：車用芯片與產業機會",
+      "start": 2081.94,
+      "end": 2180.55,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0419-s14",
+      "heading": "Q&A：仇富情緒與經濟體制",
+      "start": 2180.6,
+      "end": 2517.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0419-s15",
+      "heading": "Q&A：雜項",
+      "start": 2517.88,
+      "end": 2692.37,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0419-s16",
+      "heading": "Q&A：家庭支持與健康祝福",
+      "start": 2692.42,
+      "end": 2744.29,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0419-s17",
+      "heading": "Q&A：台灣爛梗文化",
+      "start": 2744.34,
+      "end": 2850.19,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0419-s18",
+      "heading": "Q&A：聽眾致敬與反思",
+      "start": 2850.24,
+      "end": 2962.69,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0419-s19",
+      "heading": "Q&A：開車分享與知心朋友",
+      "start": 2962.74,
+      "end": 3048.02,
+      "confidence": 0.644
+    }
+  ]
+}

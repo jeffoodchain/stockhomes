@@ -1,0 +1,72 @@
+{
+  "ep": 478,
+  "source": "auto-aligned from reports/mk/gooaye-ep0478.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0478.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bb21c1cc-9fd9-470f-b5b6-823227b14aec/rssFileVip.mp3?timestamp=1723278185337",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0478-s01",
+      "heading": "開場 / 贊助：如意堂",
+      "start": 0.0,
+      "end": 88.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0478-s02",
+      "heading": "韓國出差與金浦機場排隊事件",
+      "start": 88.78,
+      "end": 456.53,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0478-s03",
+      "heading": "SPA糾紛事件",
+      "start": 456.58,
+      "end": 638.71,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0478-s04",
+      "heading": "股市分析：二三線題材與市場狀況",
+      "start": 638.76,
+      "end": 753.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0478-s05",
+      "heading": "任天堂Switch 2與供應鏈",
+      "start": 753.8,
+      "end": 1097.37,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0478-s06",
+      "heading": "DDR3與其他二三線題材",
+      "start": 1097.42,
+      "end": 1175.95,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0478-s07",
+      "heading": "文書（Mediatek代工）與網通股",
+      "start": 1176.0,
+      "end": 1368.25,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0478-s08",
+      "heading": "投資策略與大盤佈局",
+      "start": 1368.3,
+      "end": 1437.49,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0478-s09",
+      "heading": "聽眾Q&A",
+      "start": 1437.54,
+      "end": 2993.03,
+      "confidence": 0.589
+    }
+  ]
+}

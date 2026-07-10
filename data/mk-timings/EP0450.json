@@ -1,0 +1,44 @@
+{
+  "ep": 450,
+  "source": "auto-aligned from reports/mk/gooaye-ep0450.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0450.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b43a26ae-8394-41cb-9326-04e65e8a6000/rssFileVip.mp3?timestamp=1714810945937",
+  "duration": 3128.27,
+  "segments": [
+    {
+      "id": "ep0450-s01",
+      "heading": "開場 / 知識衛星贊助",
+      "start": 0.0,
+      "end": 81.73,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0450-s02",
+      "heading": "群聯苗栗廠房參訪心得",
+      "start": 81.78,
+      "end": 539.15,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0450-s03",
+      "heading": "Adaptive 方案解析",
+      "start": 539.2,
+      "end": 1109.35,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0450-s04",
+      "heading": "最近財報與市場觀察",
+      "start": 1109.4,
+      "end": 1563.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0450-s05",
+      "heading": "Q&A 互動",
+      "start": 1563.32,
+      "end": 3128.27,
+      "confidence": 0.689
+    }
+  ]
+}

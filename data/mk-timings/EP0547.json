@@ -1,0 +1,58 @@
+{
+  "ep": 547,
+  "source": "auto-aligned from reports/mk/gooaye-ep0547.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0547.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5d85561f-c32e-490f-a8d7-f67dba74017d/rssFileVip.mp3?timestamp=1744187534550",
+  "duration": 2981.12,
+  "segments": [
+    {
+      "id": "ep0547-s01",
+      "heading": "開場 / 贊助：Roichen優雅椅 & 正脊坐墊",
+      "start": 0.0,
+      "end": 56.65,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0547-s02",
+      "heading": "個人近況：二寶出生 & 健康檢查",
+      "start": 56.7,
+      "end": 453.95,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0547-s03",
+      "heading": "聽眾互動：林口謝夢宮 & 抽獎預告",
+      "start": 454.0,
+      "end": 548.79,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0547-s04",
+      "heading": "市場分析：川普關稅 & 台股崩盤",
+      "start": 548.84,
+      "end": 1239.53,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0547-s05",
+      "heading": "投資心得與反思",
+      "start": 1239.58,
+      "end": 1715.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0547-s06",
+      "heading": "Q&A",
+      "start": 1715.88,
+      "end": 2790.35,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0547-s07",
+      "heading": "Q&A（續）：市場話題",
+      "start": 2790.4,
+      "end": 2981.12,
+      "confidence": 0.956
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 571,
+  "source": "auto-aligned from reports/mk/gooaye-ep0571.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0571.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3082fb1a-8198-4dd5-bb57-b86f146eec30/rssFileVip.mp3?timestamp=1751449575374",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0571-s01",
+      "heading": "開場 / 贊助：Roichen",
+      "start": 0.0,
+      "end": 104.79,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0571-s02",
+      "heading": "小S女兒畫展：嫉妒、羨慕與人生態度",
+      "start": 104.84,
+      "end": 622.67,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0571-s03",
+      "heading": "Notebook LM 與 AI Overview 使用心得",
+      "start": 622.72,
+      "end": 926.41,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0571-s04",
+      "heading": "Marc Andreessen × Jason Calacanis 訪談：VC 廣撒哲學",
+      "start": 926.46,
+      "end": 1893.77,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0571-s05",
+      "heading": "Q&A",
+      "start": 1893.82,
+      "end": 2997.47,
+      "confidence": 0.789
+    }
+  ]
+}

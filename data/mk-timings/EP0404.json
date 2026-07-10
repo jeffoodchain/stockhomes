@@ -1,0 +1,58 @@
+{
+  "ep": 404,
+  "source": "auto-aligned from reports/mk/gooaye-ep0404.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0404.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bf6c8187-bb78-4519-a873-6ce969fa7525/rssFileVip.mp3?timestamp=1700904753557",
+  "duration": 3162.44,
+  "segments": [
+    {
+      "id": "ep0404-s01",
+      "heading": "開場 / 贊助：MIHONG®（米歐生醫）",
+      "start": 0.0,
+      "end": 96.05,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0404-s02",
+      "heading": "Manny電子報感謝季聚會",
+      "start": 96.1,
+      "end": 387.47,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0404-s03",
+      "heading": "創作的槓桿哲學",
+      "start": 387.52,
+      "end": 967.77,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0404-s04",
+      "heading": "市場話題：立端6245法說分析",
+      "start": 967.82,
+      "end": 1319.09,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0404-s05",
+      "heading": "AMD MI300 Rumor：CSP搶單",
+      "start": 1319.14,
+      "end": 1940.58,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0404-s06",
+      "heading": "整體盤勢觀察",
+      "start": 1940.63,
+      "end": 2098.44,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0404-s07",
+      "heading": "Q&A",
+      "start": 2098.49,
+      "end": 3162.44,
+      "confidence": 0.822
+    }
+  ]
+}

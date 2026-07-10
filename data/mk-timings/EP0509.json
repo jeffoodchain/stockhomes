@@ -1,0 +1,114 @@
+{
+  "ep": 509,
+  "source": "auto-aligned from reports/mk/gooaye-ep0509.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0509.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/41421cc3-09ea-47dd-8bff-2818c56060b6/rssFileVip.mp3?timestamp=1732705932129",
+  "duration": 3082.19,
+  "segments": [
+    {
+      "id": "ep0509-s01",
+      "heading": "開場 / 贊助：飛利浦放心充",
+      "start": 0.0,
+      "end": 65.95,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0509-s02",
+      "heading": "洛杉磯出差感悟",
+      "start": 66.0,
+      "end": 95.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0509-s03",
+      "heading": "LAX 機場體驗與交通",
+      "start": 95.76,
+      "end": 167.63,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0509-s04",
+      "heading": "聽眾推薦與無人機拍賣",
+      "start": 167.68,
+      "end": 319.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0509-s05",
+      "heading": "拍賣心理與未竟之心",
+      "start": 319.68,
+      "end": 409.07,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0509-s06",
+      "heading": "洛杉磯散步與消費體驗",
+      "start": 409.12,
+      "end": 491.69,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0509-s07",
+      "heading": "洛杉磯的宜居氛圍",
+      "start": 491.74,
+      "end": 619.55,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0509-s08",
+      "heading": "美國人的友善與秩序",
+      "start": 619.6,
+      "end": 670.05,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0509-s09",
+      "heading": "上期回應與 BPU 話題",
+      "start": 670.1,
+      "end": 858.77,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0509-s10",
+      "heading": "川普關稅新政與台系供應鏈",
+      "start": 858.82,
+      "end": 1022.61,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0509-s11",
+      "heading": "關稅衝擊評估",
+      "start": 1022.66,
+      "end": 1272.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0509-s12",
+      "heading": "台股困境與半導體隱憂",
+      "start": 1272.94,
+      "end": 1394.19,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0509-s13",
+      "heading": "GB200 規劃與矛盾估值",
+      "start": 1394.24,
+      "end": 1607.39,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0509-s14",
+      "heading": "謹慎樂觀與投資心態",
+      "start": 1607.44,
+      "end": 1649.07,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0509-s15",
+      "heading": "聽眾留言回應",
+      "start": 1649.12,
+      "end": 3082.19,
+      "confidence": 0.589
+    }
+  ]
+}

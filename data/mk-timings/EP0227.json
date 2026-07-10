@@ -1,0 +1,135 @@
+{
+  "ep": 227,
+  "source": "auto-aligned from reports/mk/gooaye-ep0227.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0227.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/99eede57-6b3e-4a45-8ee7-c45777656f53/rssFileVip.mp3?timestamp=1689439392190",
+  "duration": 3028.68,
+  "segments": [
+    {
+      "id": "ep0227-s01",
+      "heading": "開場 / 贊助",
+      "start": 0.0,
+      "end": 78.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0227-s02",
+      "heading": "生活與近況閒聊 1",
+      "start": 78.4,
+      "end": 263.29,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0227-s03",
+      "heading": "市場與投資討論 2",
+      "start": 263.34,
+      "end": 435.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0227-s04",
+      "heading": "生活與近況閒聊 3",
+      "start": 435.7,
+      "end": 602.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0227-s05",
+      "heading": "生活與近況閒聊 4",
+      "start": 602.76,
+      "end": 765.41,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0227-s06",
+      "heading": "市場與投資討論 5",
+      "start": 765.46,
+      "end": 937.64,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0227-s07",
+      "heading": "市場與投資討論 6",
+      "start": 937.69,
+      "end": 1139.2,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0227-s08",
+      "heading": "生活與近況閒聊 7",
+      "start": 1139.25,
+      "end": 1321.92,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0227-s09",
+      "heading": "市場與投資討論 8",
+      "start": 1321.97,
+      "end": 1509.36,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0227-s10",
+      "heading": "生活與近況閒聊 9",
+      "start": 1509.41,
+      "end": 1692.68,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0227-s11",
+      "heading": "市場與投資討論 10",
+      "start": 1692.73,
+      "end": 1875.16,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0227-s12",
+      "heading": "生活與近況閒聊 11",
+      "start": 1875.21,
+      "end": 2049.2,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0227-s13",
+      "heading": "生活與近況閒聊 12",
+      "start": 2049.25,
+      "end": 2204.22,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0227-s14",
+      "heading": "科技與產業話題 13",
+      "start": 2204.27,
+      "end": 2398.2,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0227-s15",
+      "heading": "市場與投資討論 14",
+      "start": 2398.25,
+      "end": 2573.2,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0227-s16",
+      "heading": "市場與投資討論 15",
+      "start": 2573.25,
+      "end": 2750.48,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0227-s17",
+      "heading": "市場與投資討論 16",
+      "start": 2750.53,
+      "end": 2924.02,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0227-s18",
+      "heading": "總經與政策觀察 17",
+      "start": 2924.07,
+      "end": 3028.68,
+      "confidence": 0.711
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "ep": 460,
+  "source": "auto-aligned from reports/mk/gooaye-ep0460.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0460.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/832759c6-bee7-47dd-b85b-c82de97a65ac/rssFileVip.mp3?timestamp=1717834974566",
+  "duration": 2988.56,
+  "segments": [
+    {
+      "id": "ep0460-s01",
+      "heading": "開場 / 贊助：Future Salad 全清高纖新沙拉飲",
+      "start": 0.0,
+      "end": 51.25,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0460-s02",
+      "heading": "生日感謝與身體健康",
+      "start": 51.3,
+      "end": 278.65,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0460-s03",
+      "heading": "聯發科展會分享",
+      "start": 278.7,
+      "end": 345.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0460-s04",
+      "heading": "DaVinci Agent 核心架構",
+      "start": 345.92,
+      "end": 452.35,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0460-s05",
+      "heading": "訂票 Demo",
+      "start": 452.4,
+      "end": 571.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0460-s06",
+      "heading": "Smart Home Demo",
+      "start": 571.5,
+      "end": 698.83,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0460-s07",
+      "heading": "多方聯絡 Demo",
+      "start": 698.88,
+      "end": 849.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0460-s08",
+      "heading": "Agent 與 LLM 的差異",
+      "start": 849.88,
+      "end": 943.97,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0460-s09",
+      "heading": "蘋果的位置重構",
+      "start": 944.02,
+      "end": 1071.47,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0460-s10",
+      "heading": "Siri Plus 商業假說",
+      "start": 1071.52,
+      "end": 1355.89,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0460-s11",
+      "heading": "蘋果應用商店策略",
+      "start": 1355.94,
+      "end": 1439.51,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0460-s12",
+      "heading": "供應鏈解析與小結",
+      "start": 1439.56,
+      "end": 1675.83,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0460-s13",
+      "heading": "Q&A：供應鏈資訊取得",
+      "start": 1675.88,
+      "end": 1889.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0460-s14",
+      "heading": "Q&A：聽眾生日與留言",
+      "start": 1889.88,
+      "end": 2294.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0460-s15",
+      "heading": "Q&A：生活與股票",
+      "start": 2294.56,
+      "end": 2622.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0460-s16",
+      "heading": "Q&A：投資建議與小型股",
+      "start": 2622.94,
+      "end": 2735.61,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0460-s17",
+      "heading": "Q&A：工具與行情",
+      "start": 2735.66,
+      "end": 2820.27,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0460-s18",
+      "heading": "Q&A：其他",
+      "start": 2820.32,
+      "end": 2988.56,
+      "confidence": 0.644
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 154,
+  "source": "auto-aligned from reports/mk/gooaye-ep0154.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0154.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ffc2ecda-5b38-456b-a4c7-14fbcb2a540d/rssFileVip.mp3?timestamp=1689439397735",
+  "duration": 2539.78,
+  "segments": [
+    {
+      "id": "ep0154-s01",
+      "heading": "開場 / 贊助：國票證券",
+      "start": 0.0,
+      "end": 99.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0154-s02",
+      "heading": "風險控管：兩點要下山",
+      "start": 99.78,
+      "end": 342.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0154-s03",
+      "heading": "迷因股狂潮與風險意識",
+      "start": 342.66,
+      "end": 654.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0154-s04",
+      "heading": "績效膨脹年與心態調適",
+      "start": 654.78,
+      "end": 952.27,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0154-s05",
+      "heading": "酸民文化與投資生態反思",
+      "start": 952.32,
+      "end": 1173.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0154-s06",
+      "heading": "Q&A",
+      "start": 1173.7,
+      "end": 2539.78,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 559,
+  "source": "auto-aligned from reports/mk/gooaye-ep0559.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0559.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7e0fb049-5344-4bb7-849e-767ab687707f/rssFileVip.mp3?timestamp=1747813482606",
+  "duration": 2990.05,
+  "segments": [
+    {
+      "id": "ep0559-s01",
+      "heading": "開場 / 贊助：EnergyLink 能充電錶帶",
+      "start": 0.0,
+      "end": 77.69,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0559-s02",
+      "heading": "NVIDIA GTC Keynote 心得",
+      "start": 77.74,
+      "end": 149.27,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0559-s03",
+      "heading": "NVIDIA 總部落址插曲：南港 vs. 士林",
+      "start": 149.32,
+      "end": 282.83,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0559-s04",
+      "heading": "NVIDIA 宣示進攻 ASIC 市場：NVLink Fusion",
+      "start": 282.88,
+      "end": 550.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0559-s05",
+      "heading": "NVLink Fusion 背板解讀：設計夥伴與潛在客戶",
+      "start": 551.04,
+      "end": 957.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0559-s06",
+      "heading": "Computex 2025：華碩攤位與私展心得",
+      "start": 957.1,
+      "end": 1130.27,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0559-s07",
+      "heading": "華碩機器狗與 AI Agent",
+      "start": 1130.32,
+      "end": 1270.05,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0559-s08",
+      "heading": "消費性電子與市場輪動思考",
+      "start": 1270.1,
+      "end": 1439.79,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0559-s09",
+      "heading": "Q&A",
+      "start": 1439.84,
+      "end": 2990.05,
+      "confidence": 0.622
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 411,
+  "source": "auto-aligned from reports/mk/gooaye-ep0411.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0411.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/589b0311-9d5a-486f-bd76-5d943f1c6593/rssFileVip.mp3?timestamp=1703060531459",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0411-s01",
+      "heading": "開場 / 贊助：Rhinoshield 犀牛盾 GRIP O",
+      "start": 0.0,
+      "end": 90.25,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0411-s02",
+      "heading": "在韓國的體驗",
+      "start": 90.3,
+      "end": 314.29,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0411-s03",
+      "heading": "市場謠言與交易策略",
+      "start": 314.34,
+      "end": 629.27,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0411-s04",
+      "heading": "盤面況與產業輪動",
+      "start": 629.32,
+      "end": 717.03,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0411-s05",
+      "heading": "關注中國市場的邏輯",
+      "start": 717.08,
+      "end": 902.32,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0411-s06",
+      "heading": "AI PC 與架構轉換",
+      "start": 902.37,
+      "end": 1067.9,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0411-s07",
+      "heading": "ARM 架構在消費端的未來",
+      "start": 1067.95,
+      "end": 1303.24,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0411-s08",
+      "heading": "筆電代工廠的潛在機會",
+      "start": 1303.29,
+      "end": 1409.48,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0411-s09",
+      "heading": "散熱、功耗與供應鏈思考",
+      "start": 1409.53,
+      "end": 1712.2,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0411-s10",
+      "heading": "Q&A：情緒管理、投信追蹤、Powerwall 與樂觀心態",
+      "start": 1712.25,
+      "end": 3054.63,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0411-s11",
+      "heading": "結尾",
+      "start": 3054.68,
+      "end": 3056.93,
+      "confidence": 0.452
+    }
+  ]
+}

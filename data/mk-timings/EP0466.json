@@ -1,0 +1,79 @@
+{
+  "ep": 466,
+  "source": "auto-aligned from reports/mk/gooaye-ep0466.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0466.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f6bb8a9d-a4fa-4787-b8cb-63be15891e1b/rssFileVip.mp3?timestamp=1719651534096",
+  "duration": 2994.52,
+  "segments": [
+    {
+      "id": "ep0466-s01",
+      "heading": "開場 / 贊助：雨傘王",
+      "start": 0.0,
+      "end": 75.71,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0466-s02",
+      "heading": "少罵人的目標與家庭故事",
+      "start": 75.76,
+      "end": 357.43,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0466-s03",
+      "heading": "上半年股市表現與投資調整",
+      "start": 357.48,
+      "end": 536.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0466-s04",
+      "heading": "科技股調整策略",
+      "start": 536.98,
+      "end": 743.83,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0466-s05",
+      "heading": "下半年景氣看法",
+      "start": 743.88,
+      "end": 928.37,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0466-s06",
+      "heading": "半導體話題與先進封裝",
+      "start": 928.42,
+      "end": 1178.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0466-s07",
+      "heading": "Chiplet 與產業動態",
+      "start": 1179.04,
+      "end": 1285.59,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0466-s08",
+      "heading": "軟體股與 AI 討論",
+      "start": 1285.64,
+      "end": 1932.05,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0466-s09",
+      "heading": "Q&A 時段",
+      "start": 1932.1,
+      "end": 2172.97,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0466-s10",
+      "heading": "聽眾投稿與祝福",
+      "start": 2173.02,
+      "end": 2994.52,
+      "confidence": 0.622
+    }
+  ]
+}

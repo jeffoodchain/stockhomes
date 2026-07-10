@@ -1,0 +1,65 @@
+{
+  "ep": 142,
+  "source": "auto-aligned from reports/mk/gooaye-ep0142.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0142.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9dc0621d-9d20-4cd8-ad64-f3a6dd8d1e4c/rssFileVip.mp3?timestamp=1689439391472",
+  "duration": 2620.03,
+  "segments": [
+    {
+      "id": "ep0142-s01",
+      "heading": "開場 / 贊助：State of Survival 全面失控",
+      "start": 0.0,
+      "end": 56.19,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0142-s02",
+      "heading": "疫情觀察與台股近況",
+      "start": 56.24,
+      "end": 204.41,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0142-s03",
+      "heading": "強勢族群與惜售標的",
+      "start": 204.46,
+      "end": 425.59,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0142-s04",
+      "heading": "打世紀帝國：投資個性各不同",
+      "start": 425.64,
+      "end": 550.97,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0142-s05",
+      "heading": "台股疫情觀察：宅經濟與缺電缺水",
+      "start": 551.02,
+      "end": 892.71,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0142-s06",
+      "heading": "Take-Two Interactive（TTWO）財報分析",
+      "start": 892.76,
+      "end": 1476.07,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0142-s07",
+      "heading": "CD Projekt Red（OTGRY）：波蘭蠢驢的困境",
+      "start": 1476.12,
+      "end": 1603.63,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0142-s08",
+      "heading": "Q&A",
+      "start": 1603.68,
+      "end": 2620.03,
+      "confidence": 0.667
+    }
+  ]
+}

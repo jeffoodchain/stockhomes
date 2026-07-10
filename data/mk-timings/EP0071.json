@@ -1,0 +1,58 @@
+{
+  "ep": 71,
+  "source": "auto-aligned from reports/mk/gooaye-ep0071.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0071.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/594c976d-91c2-4e62-bce4-ee6018d92275/rssFileVip.mp3?timestamp=1689439400894",
+  "duration": 2517.47,
+  "segments": [
+    {
+      "id": "ep0071-s01",
+      "heading": "開場 / 贊助：國泰證券",
+      "start": 0.14,
+      "end": 80.21,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0071-s02",
+      "heading": "蘋果發表會：iPad Air A14 與 Apple One",
+      "start": 80.26,
+      "end": 543.37,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0071-s03",
+      "heading": "生活聊聊：狗狗學按鈴鐺",
+      "start": 543.42,
+      "end": 634.83,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0071-s04",
+      "heading": "Spotify 言論審查與停止建倉",
+      "start": 634.88,
+      "end": 793.37,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0071-s05",
+      "heading": "言論審查與政治正確的亂象",
+      "start": 793.42,
+      "end": 1332.77,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0071-s06",
+      "heading": "NVIDIA 收購 ARM 與 RISC-V 機會",
+      "start": 1332.82,
+      "end": 1703.57,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0071-s07",
+      "heading": "Q&A",
+      "start": 1703.62,
+      "end": 2517.47,
+      "confidence": 0.567
+    }
+  ]
+}

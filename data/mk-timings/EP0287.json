@@ -1,0 +1,86 @@
+{
+  "ep": 287,
+  "source": "auto-aligned from reports/mk/gooaye-ep0287.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0287.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/98562819-27d3-43a9-ba22-a0b7d5b9e778/rssFileVip.mp3?timestamp=1689439388703",
+  "duration": 2987.08,
+  "segments": [
+    {
+      "id": "ep0287-s01",
+      "heading": "開場 / 贊助：V-TEX 防水鞋",
+      "start": 0.0,
+      "end": 67.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0287-s02",
+      "heading": "與地方賢達聚會：投資哲學分享",
+      "start": 67.34,
+      "end": 282.77,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0287-s03",
+      "heading": "三人的提升方式：培訓生、投資會議、懶鬼自幹",
+      "start": 282.82,
+      "end": 417.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0287-s04",
+      "heading": "fanboy 心態與長線思維",
+      "start": 417.58,
+      "end": 497.09,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0287-s05",
+      "heading": "前輩觀點：人多的地方千萬不要去",
+      "start": 497.14,
+      "end": 744.69,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0287-s06",
+      "heading": "有血性才有機會，但運氣也很重要",
+      "start": 744.74,
+      "end": 920.79,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0287-s07",
+      "heading": "前輩的結語：人性從未改變",
+      "start": 920.84,
+      "end": 1091.03,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0287-s08",
+      "heading": "市場話題：BIS 晶片禁令衝擊半導體設備股",
+      "start": 1091.08,
+      "end": 1304.09,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0287-s09",
+      "heading": "供應鏈去中化：蘋果、東南亞、李嘉誠",
+      "start": 1304.14,
+      "end": 1464.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0287-s10",
+      "heading": "QA",
+      "start": 1464.26,
+      "end": 2738.73,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0287-s11",
+      "heading": "聊聊：ETF 與元宇宙、手錶、身高體態",
+      "start": 2738.78,
+      "end": 2987.08,
+      "confidence": 0.611
+    }
+  ]
+}

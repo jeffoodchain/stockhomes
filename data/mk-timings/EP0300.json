@@ -1,0 +1,51 @@
+{
+  "ep": 300,
+  "source": "auto-aligned from reports/mk/gooaye-ep0300.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0300.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e526fc9b-4edd-47de-aa2c-7b49305448f5/rssFileVip.mp3?timestamp=1689439393897",
+  "duration": 3003.43,
+  "segments": [
+    {
+      "id": "ep0300-s01",
+      "heading": "開場 / 贊助：中華電信 5G",
+      "start": 0.0,
+      "end": 63.17,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0300-s02",
+      "heading": "300 集感言：三年回顧",
+      "start": 63.22,
+      "end": 668.05,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0300-s03",
+      "heading": "市場話題：通膨落幕，衰退接棒",
+      "start": 668.1,
+      "end": 832.27,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0300-s04",
+      "heading": "貨幣貶值國家的股市虛漲現象",
+      "start": 832.32,
+      "end": 1203.07,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0300-s05",
+      "heading": "通膨過後，指數更高？",
+      "start": 1203.12,
+      "end": 1656.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0300-s06",
+      "heading": "Q&A",
+      "start": 1656.42,
+      "end": 3003.43,
+      "confidence": 0.711
+    }
+  ]
+}

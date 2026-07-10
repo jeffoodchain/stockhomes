@@ -1,0 +1,93 @@
+{
+  "ep": 529,
+  "source": "auto-aligned from reports/mk/gooaye-ep0529.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0529.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2d46ce5e-6fe9-4940-bf97-7b17462dba6b/rssFileVip.mp3?timestamp=1738752492445",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0529-s01",
+      "heading": "開場 / 贊助：火星生技 5倍魚油",
+      "start": 0.0,
+      "end": 66.69,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0529-s02",
+      "heading": "生命的無常：大S過世的反思",
+      "start": 66.74,
+      "end": 126.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0529-s03",
+      "heading": "人生經歷與健康決策",
+      "start": 126.58,
+      "end": 242.17,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0529-s04",
+      "heading": "疫苗接種的選擇",
+      "start": 242.22,
+      "end": 381.53,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0529-s05",
+      "heading": "股票市場與交易策略",
+      "start": 381.58,
+      "end": 481.97,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0529-s06",
+      "heading": "關稅談判與供應鏈調動",
+      "start": 482.02,
+      "end": 749.25,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0529-s07",
+      "heading": "美股軟體股與估值泡沫",
+      "start": 749.3,
+      "end": 882.69,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0529-s08",
+      "heading": "Palantir 的估值與商業模式",
+      "start": 882.74,
+      "end": 1051.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0529-s09",
+      "heading": "軟體股的本質與模式",
+      "start": 1051.68,
+      "end": 1323.11,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0529-s10",
+      "heading": "軟體泡沫與風險警告",
+      "start": 1323.16,
+      "end": 1515.51,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0529-s11",
+      "heading": "光通與市場熱度",
+      "start": 1515.56,
+      "end": 1564.01,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0529-s12",
+      "heading": "Q&A 環節：聽眾來信",
+      "start": 1564.06,
+      "end": 2993.03,
+      "confidence": 0.4
+    }
+  ]
+}

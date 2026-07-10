@@ -1,0 +1,79 @@
+{
+  "ep": 438,
+  "source": "auto-aligned from reports/mk/gooaye-ep0438.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0438.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6eaa41c8-08e2-470a-8554-f3df667b1537/rssFileVip.mp3?timestamp=1711189495317",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0438-s01",
+      "heading": "開場 / 贊助：眠豆腐（Sleepy Tofu）",
+      "start": 0.0,
+      "end": 59.05,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0438-s02",
+      "heading": "理髮與個人護理的新體驗",
+      "start": 59.1,
+      "end": 131.09,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0438-s03",
+      "heading": "Vision Pro 重新把玩",
+      "start": 131.14,
+      "end": 208.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0438-s04",
+      "heading": "拿破崙電影評論",
+      "start": 208.36,
+      "end": 310.77,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0438-s05",
+      "heading": "Vision Pro 錄影測試與感受",
+      "start": 310.82,
+      "end": 489.55,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0438-s06",
+      "heading": "Vision Pro 後續訊息與展望",
+      "start": 489.6,
+      "end": 622.77,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0438-s07",
+      "heading": "群聯 Adaptive AI 方案分析",
+      "start": 622.82,
+      "end": 1193.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0438-s08",
+      "heading": "美光財報與記憶體市場分析",
+      "start": 1193.06,
+      "end": 1426.43,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0438-s09",
+      "heading": "國內重大議題：漲電價與升息",
+      "start": 1426.48,
+      "end": 1751.21,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0438-s10",
+      "heading": "Q&A 環節",
+      "start": 1751.26,
+      "end": 2993.03,
+      "confidence": 0.667
+    }
+  ]
+}

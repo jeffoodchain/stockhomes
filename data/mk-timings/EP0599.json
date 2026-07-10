@@ -1,0 +1,72 @@
+{
+  "ep": 599,
+  "source": "auto-aligned from reports/mk/gooaye-ep0599.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0599.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3d44d215-15ea-42fb-a552-c83a8cb8764b/rssFileVip.mp3?timestamp=1760038963568",
+  "duration": 3104.47,
+  "segments": [
+    {
+      "id": "ep0599-s01",
+      "heading": "開場 / 贊助：SHARP 夏普",
+      "start": 0.02,
+      "end": 86.45,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0599-s02",
+      "heading": "膽固醇治療實驗：停藥一個月後 LDL 爬回來了",
+      "start": 86.5,
+      "end": 200.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0599-s03",
+      "heading": "聲明：業配立場與情報透明度",
+      "start": 200.98,
+      "end": 301.97,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0599-s04",
+      "heading": "林口幼兒園疑似虐嬰事件",
+      "start": 302.02,
+      "end": 729.81,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0599-s05",
+      "heading": "市場觀察：輪動加快，去弱留強",
+      "start": 729.86,
+      "end": 841.75,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0599-s06",
+      "heading": "產業分析：OpenAI 與 AMD 六 GW 合作，超乎預期",
+      "start": 841.8,
+      "end": 1148.21,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0599-s07",
+      "heading": "NVIDIA Baseboard 供應鏈：緯創的角色",
+      "start": 1148.26,
+      "end": 1296.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0599-s08",
+      "heading": "記憶體報價飆漲",
+      "start": 1296.32,
+      "end": 1524.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0599-s09",
+      "heading": "Q&A",
+      "start": 1525.02,
+      "end": 3104.47,
+      "confidence": 0.578
+    }
+  ]
+}

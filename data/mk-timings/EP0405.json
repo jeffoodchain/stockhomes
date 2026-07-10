@@ -1,0 +1,100 @@
+{
+  "ep": 405,
+  "source": "auto-aligned from reports/mk/gooaye-ep0405.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0405.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0f569d20-da03-4232-b5ce-76b9af126ab3/rssFileVip.mp3?timestamp=1701246165688",
+  "duration": 2683.92,
+  "segments": [
+    {
+      "id": "ep0405-s01",
+      "heading": "開場 / 贊助：inyouso舒植養益菌",
+      "start": 0.0,
+      "end": 68.69,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0405-s02",
+      "heading": "新加坡出差見聞",
+      "start": 68.74,
+      "end": 117.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0405-s03",
+      "heading": "Maneskin 演唱會",
+      "start": 117.56,
+      "end": 279.29,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0405-s04",
+      "heading": "環球影城 VIP 體驗",
+      "start": 279.34,
+      "end": 578.45,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0405-s05",
+      "heading": "CSP 晶片策略轉變",
+      "start": 578.5,
+      "end": 686.25,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0405-s06",
+      "heading": "Amazon Tranium 2 晶片與代工生態",
+      "start": 686.3,
+      "end": 885.29,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0405-s07",
+      "heading": "產能瓶頸與臺灣硬體崛起",
+      "start": 885.34,
+      "end": 968.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0405-s08",
+      "heading": "查理蒙格逝世與智慧觀",
+      "start": 968.44,
+      "end": 1159.53,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0405-s09",
+      "heading": "產業聯誼法說會洞察",
+      "start": 1159.58,
+      "end": 1207.45,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0405-s10",
+      "heading": "籌碼與股價動向分析",
+      "start": 1207.5,
+      "end": 1331.17,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0405-s11",
+      "heading": "產業復甦與市場預期調整",
+      "start": 1331.22,
+      "end": 1750.51,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0405-s12",
+      "heading": "Q&A 聽眾留言",
+      "start": 1750.56,
+      "end": 2678.57,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0405-s13",
+      "heading": "結尾",
+      "start": 2678.62,
+      "end": 2683.92,
+      "confidence": 0.778
+    }
+  ]
+}

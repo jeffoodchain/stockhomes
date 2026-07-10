@@ -1,0 +1,184 @@
+{
+  "ep": 675,
+  "source": "auto-aligned from reports/mk/gooaye-ep0675.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0675.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/31e6121a-9d45-4204-aac1-f3a2cd7cd5fe/rssFileVip.mp3?timestamp=1782892942021",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0675-s01",
+      "heading": "綠藤生機贊助開場",
+      "start": 0.0,
+      "end": 103.03,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0675-s02",
+      "heading": "肖楠資本股東會與台灣遊戲創投近況",
+      "start": 103.08,
+      "end": 535.75,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0675-s03",
+      "heading": "台股上半年收官與 rebalance 影響淡化",
+      "start": 535.8,
+      "end": 604.21,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0675-s04",
+      "heading": "反彈後的族群輪動：功率元件、被動元件、載板、矽晶圓與 IC Design",
+      "start": 604.26,
+      "end": 825.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0675-s05",
+      "heading": "被動元件漲價信、供需外溢與行情階段判斷",
+      "start": 825.58,
+      "end": 1034.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0675-s06",
+      "heading": "追高風險與產業 coverage 聲明",
+      "start": 1034.1,
+      "end": 1079.47,
+      "confidence": 0.522
+    },
+    {
+      "id": "ep0675-s07",
+      "heading": "功率元件缺貨：MOSFET、IDM 與二線廠外溢",
+      "start": 1079.52,
+      "end": 1309.31,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0675-s08",
+      "heading": "七月漲價信、台積電法說與資金流向",
+      "start": 1309.36,
+      "end": 1548.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0675-s09",
+      "heading": "操作復盤：太早轉倉與停看聽",
+      "start": 1548.6,
+      "end": 1647.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0675-s10",
+      "heading": "Q&A 開場：Spotify / Apple 留言平台調整",
+      "start": 1647.72,
+      "end": 1655.55,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0675-s11",
+      "heading": "Q&A：Cola：網球練習與林口場地",
+      "start": 1655.6,
+      "end": 1753.71,
+      "confidence": 0.467
+    },
+    {
+      "id": "ep0675-s12",
+      "heading": "Q&A：5269：畢業後留補習班或創業",
+      "start": 1753.76,
+      "end": 1802.55,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0675-s13",
+      "heading": "Q&A：Choco：三千萬資金與中小型股鎖漲停",
+      "start": 1802.6,
+      "end": 1886.03,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0675-s14",
+      "heading": "Q&A：J Jack：跟單、社群資訊來源與投資判斷",
+      "start": 1886.08,
+      "end": 2065.47,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0675-s15",
+      "heading": "Q&A：Enzo Chen：台中港大B哥、交易室與室內高爾夫",
+      "start": 2065.52,
+      "end": 2155.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0675-s16",
+      "heading": "Q&A：Jia Wei：滿倉現股遇長期回檔，該如何汰弱留強",
+      "start": 2155.44,
+      "end": 2383.47,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0675-s17",
+      "heading": "Q&A：冬瓜騎士：純祝福喊話",
+      "start": 2383.52,
+      "end": 2388.11,
+      "confidence": 0.296
+    },
+    {
+      "id": "ep0675-s18",
+      "heading": "Q&A：星星：假日多人 PvP / PvE 遊戲推薦",
+      "start": 2388.16,
+      "end": 2466.17,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0675-s19",
+      "heading": "Q&A：Terence：擦鞋童指標、市場過熱與持續參與市場",
+      "start": 2466.22,
+      "end": 2613.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0675-s20",
+      "heading": "Q&A：Jay Cole Chen：Chika / Chigga、TGV 題材與機器人出裝",
+      "start": 2613.64,
+      "end": 2762.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0675-s21",
+      "heading": "Q&A：Black Chu：ON / 安森美併購大跌",
+      "start": 2762.4,
+      "end": 2833.47,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0675-s22",
+      "heading": "Q&A：John：AUM 達 A9 的時間",
+      "start": 2833.52,
+      "end": 2839.43,
+      "confidence": 0.703
+    },
+    {
+      "id": "ep0675-s23",
+      "heading": "Q&A：ABC23698：四字祝福",
+      "start": 2839.48,
+      "end": 2848.91,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0675-s24",
+      "heading": "Q&A：G：HYROX 與 10K 跑步挑戰",
+      "start": 2848.96,
+      "end": 2944.38,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0675-s25",
+      "heading": "Q&A：Nester Wu：女友子宮肌瘤健康祝福",
+      "start": 2944.43,
+      "end": 2997.47,
+      "confidence": 0.689
+    }
+  ]
+}

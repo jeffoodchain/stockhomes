@@ -1,0 +1,58 @@
+{
+  "ep": 277,
+  "source": "auto-aligned from reports/mk/gooaye-ep0277.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0277.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bc7a65bc-40c5-4689-abf6-e8bb231fd8c8/rssFileVip.mp3?timestamp=1689439404387",
+  "duration": 3266.44,
+  "segments": [
+    {
+      "id": "ep0277-s01",
+      "heading": "開場 / 贊助：拜維佳（Berocca）",
+      "start": 0.0,
+      "end": 55.13,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0277-s02",
+      "heading": "聊聊：帶兒子去收驚",
+      "start": 55.18,
+      "end": 570.51,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0277-s03",
+      "heading": "2022 Q4 ～ 2023 年展望：大環境分析",
+      "start": 570.56,
+      "end": 1231.55,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0277-s04",
+      "heading": "HPC 與車用：短線題材隱憂",
+      "start": 1231.6,
+      "end": 1431.33,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0277-s05",
+      "heading": "網通與工業電腦：庫存最後一棒",
+      "start": 1431.38,
+      "end": 1554.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0277-s06",
+      "heading": "蘋果發表會：瓶蓋股行情",
+      "start": 1554.24,
+      "end": 2098.67,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0277-s07",
+      "heading": "Q&A",
+      "start": 2098.72,
+      "end": 3266.44,
+      "confidence": 0.767
+    }
+  ]
+}

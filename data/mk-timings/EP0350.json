@@ -1,0 +1,58 @@
+{
+  "ep": 350,
+  "source": "auto-aligned from reports/mk/gooaye-ep0350.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0350.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/849e2efb-f1e3-48d8-97fe-b11f1a283419/rssFileVip.mp3?timestamp=1689439392858",
+  "duration": 3037.6,
+  "segments": [
+    {
+      "id": "ep0350-s01",
+      "heading": "開場 / 贊助：Zenyum 綻雅",
+      "start": 0.0,
+      "end": 96.37,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0350-s02",
+      "heading": "Coldplay 演唱會搶票記",
+      "start": 96.42,
+      "end": 295.63,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0350-s03",
+      "heading": "年紀與心態改變",
+      "start": 295.68,
+      "end": 492.37,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0350-s04",
+      "heading": "AI ASIC 與先進封裝：Meta MTIA 晶片",
+      "start": 492.42,
+      "end": 727.95,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0350-s05",
+      "heading": "特斯拉股東會重點",
+      "start": 728.0,
+      "end": 1025.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0350-s06",
+      "heading": "特斯拉新車與碳化矽（SiC）",
+      "start": 1025.5,
+      "end": 1357.59,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0350-s07",
+      "heading": "Q&A",
+      "start": 1357.64,
+      "end": 3037.6,
+      "confidence": 0.689
+    }
+  ]
+}

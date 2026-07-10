@@ -1,0 +1,51 @@
+{
+  "ep": 49,
+  "source": "auto-aligned from reports/mk/gooaye-ep0049.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0049.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/101e3862-4106-4b77-a80f-466a5c776c7b/rssFileVip.mp3?timestamp=1689439402349",
+  "duration": 2544.22,
+  "segments": [
+    {
+      "id": "ep0049-s01",
+      "heading": "開場 / 贊助：亞曼菲",
+      "start": 5.02,
+      "end": 156.91,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0049-s02",
+      "heading": "電影推薦：昆汀塔倫提諾",
+      "start": 156.96,
+      "end": 352.73,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0049-s03",
+      "heading": "資產股的坑：老股民的一廂情願",
+      "start": 352.78,
+      "end": 852.62,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0049-s04",
+      "heading": "大同股東會事件",
+      "start": 852.67,
+      "end": 1351.38,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0049-s05",
+      "heading": "公司治理與政治立場",
+      "start": 1351.43,
+      "end": 1716.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0049-s06",
+      "heading": "Q&A",
+      "start": 1716.72,
+      "end": 2544.22,
+      "confidence": 0.9
+    }
+  ]
+}

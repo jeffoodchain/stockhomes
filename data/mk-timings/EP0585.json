@@ -1,0 +1,44 @@
+{
+  "ep": 585,
+  "source": "auto-aligned from reports/mk/gooaye-ep0585.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0585.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/14aa4e3e-ae2b-4539-ac26-d5fda384ca58/rssFileVip.mp3?timestamp=1755765426455",
+  "duration": 3031.67,
+  "segments": [
+    {
+      "id": "ep0585-s01",
+      "heading": "開場 / 贊助：Easy Life 十月被",
+      "start": 0.02,
+      "end": 66.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0585-s02",
+      "heading": "聊聊：台灣米其林指南 2025 頒獎典禮",
+      "start": 66.64,
+      "end": 639.11,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0585-s03",
+      "heading": "台股大回檔：部位切換，接跳樓的人",
+      "start": 639.16,
+      "end": 827.17,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0585-s04",
+      "heading": "Howard Marks：《The Calculus of Value》價值與價格",
+      "start": 827.22,
+      "end": 1819.57,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0585-s05",
+      "heading": "Q&A",
+      "start": 1819.62,
+      "end": 3031.67,
+      "confidence": 0.644
+    }
+  ]
+}

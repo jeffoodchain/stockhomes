@@ -1,0 +1,37 @@
+{
+  "ep": 268,
+  "source": "auto-aligned from reports/mk/gooaye-ep0268.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0268.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6b05baa8-cc03-465d-bf6d-229ae5a187bf/rssFileVip.mp3?timestamp=1689439393100",
+  "duration": 2995.97,
+  "segments": [
+    {
+      "id": "ep0268-s01",
+      "heading": "開場 / 贊助：MIHONG 司令 B 群黑紅瑪卡",
+      "start": 0.0,
+      "end": 104.31,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0268-s02",
+      "heading": "Comedy Plus 喜劇俱樂部投資心得",
+      "start": 104.36,
+      "end": 301.71,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0268-s03",
+      "heading": "Howard Marks 備忘錄：I Beg to Differ",
+      "start": 301.76,
+      "end": 1678.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0268-s04",
+      "heading": "Q&A",
+      "start": 1678.44,
+      "end": 2995.97,
+      "confidence": 0.7
+    }
+  ]
+}

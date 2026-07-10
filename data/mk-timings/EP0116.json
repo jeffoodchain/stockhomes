@@ -1,0 +1,65 @@
+{
+  "ep": 116,
+  "source": "auto-aligned from reports/mk/gooaye-ep0116.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0116.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/de331ad5-c313-437b-aaef-984bc00a3752/rssFileVip.mp3?timestamp=1761072695608",
+  "duration": 2455.07,
+  "segments": [
+    {
+      "id": "ep0116-s01",
+      "heading": "開場 / 贊助：HP Taiwan",
+      "start": 0.0,
+      "end": 63.75,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0116-s02",
+      "heading": "推歌：郭頂",
+      "start": 63.8,
+      "end": 94.59,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0116-s03",
+      "heading": "防詐騙提醒",
+      "start": 94.64,
+      "end": 394.39,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0116-s04",
+      "heading": "GME 聽證會後續",
+      "start": 394.44,
+      "end": 755.75,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0116-s05",
+      "heading": "GME 後續媒體化",
+      "start": 755.8,
+      "end": 792.29,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0116-s06",
+      "heading": "13F 報告解析",
+      "start": 792.34,
+      "end": 1399.86,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0116-s07",
+      "heading": "高通：晶圓代工缺貨展望",
+      "start": 1399.91,
+      "end": 1562.7,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0116-s08",
+      "heading": "Q&A",
+      "start": 1562.75,
+      "end": 2455.07,
+      "confidence": 0.867
+    }
+  ]
+}

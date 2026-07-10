@@ -1,0 +1,51 @@
+{
+  "ep": 7,
+  "source": "auto-aligned from reports/mk/gooaye-ep0007.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0007.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0c330b09-f062-4105-becb-df8d7e13bd32/rssFileVip.mp3?timestamp=1689439383837",
+  "duration": 1306.33,
+  "segments": [
+    {
+      "id": "ep0007-s01",
+      "heading": "開場：看中醫的體悟",
+      "start": 0.0,
+      "end": 191.13,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0007-s02",
+      "heading": "中醫體悟類比：妙禪、邪教與投資",
+      "start": 191.18,
+      "end": 323.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0007-s03",
+      "heading": "ETF 基礎概念：股票型 vs 期貨型",
+      "start": 323.58,
+      "end": 445.34,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0007-s04",
+      "heading": "富邦 VIX：為何不適合操作",
+      "start": 445.39,
+      "end": 717.68,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0007-s05",
+      "heading": "元大 S&P 石油正二（00672L）之亂",
+      "start": 717.73,
+      "end": 1237.24,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0007-s06",
+      "heading": "結語",
+      "start": 1237.29,
+      "end": 1306.33,
+      "confidence": 0.656
+    }
+  ]
+}

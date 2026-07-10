@@ -1,0 +1,51 @@
+{
+  "ep": 359,
+  "source": "auto-aligned from reports/mk/gooaye-ep0359.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0359.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2ece2ce6-7fd4-4316-8284-39eae066e3d2/rssFileVip.mp3?timestamp=1689439406161",
+  "duration": 3052.46,
+  "segments": [
+    {
+      "id": "ep0359-s01",
+      "heading": "開場／贊助：鉑蜜肌",
+      "start": 0.0,
+      "end": 70.43,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0359-s02",
+      "heading": "開場碎碎念：假期交通與防疫叮嚀",
+      "start": 70.48,
+      "end": 138.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0359-s03",
+      "heading": "上集迴響：醫師聽眾的診斷",
+      "start": 138.2,
+      "end": 527.0,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0359-s04",
+      "heading": "中國618消費季分析",
+      "start": 527.05,
+      "end": 1496.76,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0359-s05",
+      "heading": "Q&A",
+      "start": 1496.81,
+      "end": 2753.06,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0359-s06",
+      "heading": "投資心態與市場認知",
+      "start": 2753.11,
+      "end": 3052.46,
+      "confidence": 0.656
+    }
+  ]
+}

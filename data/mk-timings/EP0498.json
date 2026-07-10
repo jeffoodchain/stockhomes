@@ -1,0 +1,128 @@
+{
+  "ep": 498,
+  "source": "auto-aligned from reports/mk/gooaye-ep0498.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0498.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7d9a356b-64ea-4a87-90b0-6970e354e3cb/rssFileVip.mp3?timestamp=1729326538690",
+  "duration": 3027.2,
+  "segments": [
+    {
+      "id": "ep0498-s01",
+      "heading": "開場 / 贊助：RayChain、優雅椅、正吉做店",
+      "start": 0.0,
+      "end": 84.45,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0498-s02",
+      "heading": "Detox 新生活運動第二彈",
+      "start": 84.5,
+      "end": 283.09,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0498-s03",
+      "heading": "股市困境與反思",
+      "start": 283.14,
+      "end": 385.37,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0498-s04",
+      "heading": "遊戲投資與團隊組建",
+      "start": 385.42,
+      "end": 506.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0498-s05",
+      "heading": "商業化的重要性",
+      "start": 506.42,
+      "end": 581.01,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0498-s06",
+      "heading": "AI 帶來的遊戲開發機遇",
+      "start": 581.06,
+      "end": 821.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0498-s07",
+      "heading": "臺積電法說會分析",
+      "start": 821.74,
+      "end": 899.07,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0498-s08",
+      "heading": "毛利率與營收預測",
+      "start": 899.12,
+      "end": 963.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0498-s09",
+      "heading": "投資公司的佈局分析",
+      "start": 963.18,
+      "end": 1053.59,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0498-s10",
+      "heading": "AI 的長期前景",
+      "start": 1053.64,
+      "end": 1135.11,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0498-s11",
+      "heading": "產業細節與相關個股",
+      "start": 1135.16,
+      "end": 1269.31,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0498-s12",
+      "heading": "展望與市場心態",
+      "start": 1269.36,
+      "end": 1323.19,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0498-s13",
+      "heading": "中小型股的投資邏輯",
+      "start": 1323.24,
+      "end": 1417.95,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0498-s14",
+      "heading": "股市心理與做多的優勢",
+      "start": 1418.0,
+      "end": 1644.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0498-s15",
+      "heading": "大盤與中小型股展望",
+      "start": 1644.62,
+      "end": 1730.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0498-s16",
+      "heading": "各產業展望總結",
+      "start": 1730.5,
+      "end": 1777.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0498-s17",
+      "heading": "聽眾留言與互動",
+      "start": 1777.36,
+      "end": 3027.2,
+      "confidence": 0.733
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 275,
+  "source": "auto-aligned from reports/mk/gooaye-ep0275.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0275.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/340cdd1b-5b7f-4a67-b738-7a6a4238cf07/rssFileVip.mp3?timestamp=1689439379687",
+  "duration": 3062.85,
+  "segments": [
+    {
+      "id": "ep0275-s01",
+      "heading": "開場 / 贊助：MIHONG 米鴻生醫（高效益生菌 Plus）",
+      "start": 0.0,
+      "end": 102.05,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0275-s02",
+      "heading": "按摩初體驗 / 上集好評回響",
+      "start": 102.1,
+      "end": 347.19,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0275-s03",
+      "heading": "期貨 vs. ETF：為何用臺指期存教育基金",
+      "start": 347.24,
+      "end": 468.57,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0275-s04",
+      "heading": "臺指期配置邏輯：分散度、稅費、所得稅三大優勢",
+      "start": 468.62,
+      "end": 1808.21,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0275-s05",
+      "heading": "Q&A",
+      "start": 1808.26,
+      "end": 3062.85,
+      "confidence": 0.967
+    }
+  ]
+}

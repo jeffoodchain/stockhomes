@@ -1,0 +1,65 @@
+{
+  "ep": 503,
+  "source": "auto-aligned from reports/mk/gooaye-ep0503.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0503.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8502b5c6-c4da-4434-8e7e-ff44a3150ede/rssFileVip.mp3?timestamp=1730866912446",
+  "duration": 2942.48,
+  "segments": [
+    {
+      "id": "ep0503-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 74.51,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0503-s02",
+      "heading": "個人近況：二寶性別揭露",
+      "start": 74.56,
+      "end": 298.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0503-s03",
+      "heading": "對上集「低端」言論的反思",
+      "start": 298.64,
+      "end": 507.91,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0503-s04",
+      "heading": "主題：任天堂第二季財報",
+      "start": 507.96,
+      "end": 765.95,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0503-s05",
+      "heading": "話題：Supermicro 美超微轉單",
+      "start": 766.0,
+      "end": 1015.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0503-s06",
+      "heading": "話題：Intel Lunar Lake 策略",
+      "start": 1015.22,
+      "end": 1408.89,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0503-s07",
+      "heading": "Q&A 環節",
+      "start": 1408.94,
+      "end": 2931.66,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0503-s08",
+      "heading": "結尾",
+      "start": 2931.71,
+      "end": 2942.48,
+      "confidence": 0.784
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 554,
+  "source": "auto-aligned from reports/mk/gooaye-ep0554.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0554.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2f7b3c2c-ee0a-411d-8314-7433551423be/rssFileVip.mp3?timestamp=1746260566859",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0554-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 78.33,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0554-s02",
+      "heading": "聽眾求救事件",
+      "start": 78.38,
+      "end": 140.84,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0554-s03",
+      "heading": "育兒的挑戰與成長",
+      "start": 140.89,
+      "end": 531.68,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0554-s04",
+      "heading": "股市反彈與風險管理",
+      "start": 531.73,
+      "end": 695.2,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0554-s05",
+      "heading": "台幣升值的衝擊",
+      "start": 695.25,
+      "end": 741.12,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0554-s06",
+      "heading": "AI數據中心與供需分析",
+      "start": 741.17,
+      "end": 964.32,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0554-s07",
+      "heading": "台股供應鏈與風險評估",
+      "start": 964.37,
+      "end": 1261.68,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0554-s08",
+      "heading": "AI伺服器出貨與台系供應鏈機會",
+      "start": 1261.73,
+      "end": 1460.82,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0554-s09",
+      "heading": "軟體與AI應用的未來",
+      "start": 1460.87,
+      "end": 1758.5,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0554-s10",
+      "heading": "Q&A 環節",
+      "start": 1758.55,
+      "end": 2998.96,
+      "confidence": 0.511
+    }
+  ]
+}

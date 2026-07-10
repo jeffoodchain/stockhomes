@@ -1,0 +1,163 @@
+{
+  "ep": 661,
+  "source": "auto-aligned from reports/mk/gooaye-ep0661.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0661.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0dd4828f-6df5-48aa-8676-caca6024987f/rssFileVip.mp3?timestamp=1778712036959",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0661-s01",
+      "heading": "開場 / 贊助：MIT 情愛精品 HARU 含春",
+      "start": 0.0,
+      "end": 73.05,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0661-s02",
+      "heading": "過去一週：臺中之旅、皮諾可可與聽眾同學會",
+      "start": 73.1,
+      "end": 274.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0661-s03",
+      "heading": "紅酒深化：從 price tag 切入、比較各產區",
+      "start": 274.92,
+      "end": 741.69,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0661-s04",
+      "heading": "盤面觀察：被動元件全面強勢、加權指數回調",
+      "start": 741.74,
+      "end": 861.81,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0661-s05",
+      "heading": "被動元件深度：MLCC 排擠效應、鋁電容",
+      "start": 861.86,
+      "end": 1225.43,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0661-s06",
+      "heading": "Legacy 補庫存：筆電、功率半導體、漲價分析",
+      "start": 1225.48,
+      "end": 1442.47,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0661-s07",
+      "heading": "漢唐財報、臺積電估值、防守性部位",
+      "start": 1442.52,
+      "end": 1630.65,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0661-s08",
+      "heading": "市場展望：訪中國、黃仁勳行程、高低配",
+      "start": 1630.7,
+      "end": 1718.93,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0661-s09",
+      "heading": "Q&A：觀音還是媽祖、小孩捏睪丸",
+      "start": 1718.98,
+      "end": 1766.99,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0661-s10",
+      "heading": "Q&A：小作文怎麼判斷真假、散熱族群",
+      "start": 1767.04,
+      "end": 2069.85,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0661-s11",
+      "heading": "Q&A：標題建議、腳踏車股",
+      "start": 2069.9,
+      "end": 2111.79,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0661-s12",
+      "heading": "Q&A：刺青、Baby Shark、Robocop Polly",
+      "start": 2111.84,
+      "end": 2201.89,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0661-s13",
+      "heading": "Q&A：阿利坎特西班牙買房、光通族群",
+      "start": 2201.94,
+      "end": 2330.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0661-s14",
+      "heading": "Q&A：德律 (6490) 單一標的不評論",
+      "start": 2330.42,
+      "end": 2425.37,
+      "confidence": 0.533
+    },
+    {
+      "id": "ep0661-s15",
+      "heading": "Q&A：KKBOX 歌手排名、數值、撥線布",
+      "start": 2425.42,
+      "end": 2468.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0661-s16",
+      "heading": "Q&A：臺股光通族群軟趴趴",
+      "start": 2468.8,
+      "end": 2507.35,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0661-s17",
+      "heading": "Q&A：雙寶媽感謝留言、家人生日快樂",
+      "start": 2507.4,
+      "end": 2545.33,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0661-s18",
+      "heading": "Q&A：感情、除了沒放進去其他都看了",
+      "start": 2545.38,
+      "end": 2620.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0661-s19",
+      "heading": "Q&A：大四生、法國交換、偶像",
+      "start": 2620.4,
+      "end": 2822.69,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0661-s20",
+      "heading": "Q&A：元大弟兄、腰斬後噴出",
+      "start": 2822.74,
+      "end": 2890.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0661-s21",
+      "heading": "Q&A：同居租房、觀音林口加持",
+      "start": 2890.36,
+      "end": 2910.73,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0661-s22",
+      "heading": "Q&A：高通這間公司到底有沒有料",
+      "start": 2910.78,
+      "end": 2998.96,
+      "confidence": 0.744
+    }
+  ]
+}

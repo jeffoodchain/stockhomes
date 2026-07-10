@@ -1,0 +1,51 @@
+{
+  "ep": 579,
+  "source": "auto-aligned from reports/mk/gooaye-ep0579.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0579.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e6b92a1b-0490-44e9-aa8c-13fb24b6a207/rssFileVip.mp3?timestamp=1753866296412",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0579-s01",
+      "heading": "開場 / 贊助：火星生技斬宿薑皇",
+      "start": 0.08,
+      "end": 102.97,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0579-s02",
+      "heading": "近況：泰拳訓練與體能改善",
+      "start": 103.02,
+      "end": 359.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0579-s03",
+      "heading": "與營業員聚餐感悟：掌握基本面，結果交給老天",
+      "start": 359.8,
+      "end": 634.05,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0579-s04",
+      "heading": "Tesla AI6 晶片轉單三星分析",
+      "start": 634.1,
+      "end": 1167.01,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0579-s05",
+      "heading": "Co-WoP 新封裝題材與 PCB 供應鏈",
+      "start": 1167.06,
+      "end": 1685.67,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0579-s06",
+      "heading": "Q&A",
+      "start": 1685.72,
+      "end": 3000.45,
+      "confidence": 0.967
+    }
+  ]
+}

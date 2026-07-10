@@ -1,0 +1,44 @@
+{
+  "ep": 446,
+  "source": "auto-aligned from reports/mk/gooaye-ep0446.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0446.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/255e4329-77c2-4d20-833a-6fbd34c6ccf3/rssFileVip.mp3?timestamp=1713603417811",
+  "duration": 2966.28,
+  "segments": [
+    {
+      "id": "ep0446-s01",
+      "heading": "開場 / 贊助：Roichen 優雅椅 & 正脊坐墊",
+      "start": 0.0,
+      "end": 80.75,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0446-s02",
+      "heading": "歐洲旅遊帶狗經驗",
+      "start": 80.8,
+      "end": 279.19,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0446-s03",
+      "heading": "臺股跌勢與投資心態",
+      "start": 279.24,
+      "end": 760.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0446-s04",
+      "heading": "臺積電財報解析",
+      "start": 760.9,
+      "end": 1627.71,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0446-s05",
+      "heading": "Q&A 部分",
+      "start": 1627.76,
+      "end": 2966.28,
+      "confidence": 0.678
+    }
+  ]
+}

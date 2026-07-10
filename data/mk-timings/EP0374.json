@@ -1,0 +1,240 @@
+{
+  "ep": 374,
+  "source": "auto-aligned from reports/mk/gooaye-ep0374.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0374.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/49027e47-a5f9-4853-b858-7f40e21e3388/rssFileVip.mp3?timestamp=1691830983029",
+  "duration": 2987.08,
+  "segments": [
+    {
+      "id": "ep0374-s01",
+      "heading": "開場 / 贊助：Easy Life 珊珊枕",
+      "start": 0.0,
+      "end": 85.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0374-s02",
+      "heading": "8月低潮與回吐分析",
+      "start": 85.78,
+      "end": 114.87,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0374-s03",
+      "heading": "AI估值變化與市場心態轉變",
+      "start": 114.92,
+      "end": 212.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0374-s04",
+      "heading": "SMCI財報與市場預期",
+      "start": 212.4,
+      "end": 300.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0374-s05",
+      "heading": "領先市場與保守心態",
+      "start": 300.1,
+      "end": 333.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0374-s06",
+      "heading": "GPU缺貨假說與銷價競爭",
+      "start": 333.32,
+      "end": 415.39,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0374-s07",
+      "heading": "市場波動與股價先行",
+      "start": 415.44,
+      "end": 493.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0374-s08",
+      "heading": "GPU缺貨解決時程",
+      "start": 493.82,
+      "end": 533.91,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0374-s09",
+      "heading": "與強者交流的學習心得",
+      "start": 533.96,
+      "end": 602.57,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0374-s10",
+      "heading": "觀念與操作的重要性",
+      "start": 602.62,
+      "end": 697.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0374-s11",
+      "heading": "長期修養與心態建設",
+      "start": 697.22,
+      "end": 814.44,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0374-s12",
+      "heading": "專注發展與收斂策略",
+      "start": 814.49,
+      "end": 961.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0374-s13",
+      "heading": "策略調整與觀念分享",
+      "start": 961.48,
+      "end": 1187.08,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0374-s14",
+      "heading": "廣達與華碩法說會分析",
+      "start": 1187.13,
+      "end": 1273.88,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0374-s15",
+      "heading": "市場低效與媒體洗腦",
+      "start": 1273.93,
+      "end": 1323.5,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0374-s16",
+      "heading": "AI Server毛利結構分析",
+      "start": 1323.55,
+      "end": 1400.6,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0374-s17",
+      "heading": "Buy and Sell模式的毛利影響",
+      "start": 1400.65,
+      "end": 1550.42,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0374-s18",
+      "heading": "廣達車用業務展望",
+      "start": 1550.47,
+      "end": 1647.54,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0374-s19",
+      "heading": "廣達PCNB與車用零件",
+      "start": 1647.59,
+      "end": 1713.12,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0374-s20",
+      "heading": "華碩AI受惠與L40S分析",
+      "start": 1713.17,
+      "end": 1817.04,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0374-s21",
+      "heading": "輝達產品線與推論市場",
+      "start": 1817.09,
+      "end": 1858.1,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0374-s22",
+      "heading": "Q&A 第一位：人生低潮",
+      "start": 1858.15,
+      "end": 1945.38,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0374-s23",
+      "heading": "Q&A 第二位：上市建議",
+      "start": 1945.43,
+      "end": 2092.42,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0374-s24",
+      "heading": "Q&A 第三位：名字建議與社會風氣",
+      "start": 2092.47,
+      "end": 2273.66,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0374-s25",
+      "heading": "Q&A 第四位：兒子取名",
+      "start": 2273.71,
+      "end": 2337.58,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0374-s26",
+      "heading": "Q&A 第五位：猛男認定",
+      "start": 2337.63,
+      "end": 2353.22,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0374-s27",
+      "heading": "Q&A 第六位：酸民語氣與聲音風格",
+      "start": 2353.27,
+      "end": 2455.5,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0374-s28",
+      "heading": "Q&A 第七位：渣男標籤",
+      "start": 2455.55,
+      "end": 2463.92,
+      "confidence": 0.618
+    },
+    {
+      "id": "ep0374-s29",
+      "heading": "Q&A 第八位：不當言論問題",
+      "start": 2463.97,
+      "end": 2502.22,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0374-s30",
+      "heading": "Q&A 第九位：媒體與影視推薦",
+      "start": 2502.27,
+      "end": 2532.78,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0374-s31",
+      "heading": "Q&A 第十位：估值計算方法",
+      "start": 2532.83,
+      "end": 2721.57,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0374-s32",
+      "heading": "Q&A 第十一位：打遊戲與生活",
+      "start": 2721.62,
+      "end": 2922.83,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0374-s33",
+      "heading": "Q&A 第十二位：西班牙旅遊推薦",
+      "start": 2922.88,
+      "end": 2987.08,
+      "confidence": 0.744
+    }
+  ]
+}

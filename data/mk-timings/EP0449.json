@@ -1,0 +1,114 @@
+{
+  "ep": 449,
+  "source": "auto-aligned from reports/mk/gooaye-ep0449.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0449.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f7806461-1b4a-424f-8d77-3c3625113d07/rssFileVip.mp3?timestamp=1714553908399",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0449-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 56.25,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0449-s02",
+      "heading": "煙花造訪分享",
+      "start": 56.3,
+      "end": 99.61,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0449-s03",
+      "heading": "煙花的企業特質",
+      "start": 99.66,
+      "end": 167.25,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0449-s04",
+      "heading": "投資心理與股市認知",
+      "start": 167.3,
+      "end": 235.81,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0449-s05",
+      "heading": "工業電腦產業分析",
+      "start": 235.86,
+      "end": 323.99,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0449-s06",
+      "heading": "IPC 商業模式",
+      "start": 324.04,
+      "end": 444.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0449-s07",
+      "heading": "邊緣運算與 AI 應用",
+      "start": 444.36,
+      "end": 609.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0449-s08",
+      "heading": "導入 AI 的挑戰",
+      "start": 610.02,
+      "end": 711.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0449-s09",
+      "heading": "投資哲學與行業選擇",
+      "start": 711.68,
+      "end": 915.07,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0449-s10",
+      "heading": "特斯拉與車用產業",
+      "start": 915.12,
+      "end": 1029.37,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0449-s11",
+      "heading": "特斯拉股價與投資策略",
+      "start": 1029.42,
+      "end": 1141.33,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0449-s12",
+      "heading": "中國汽車產業與地緣政治",
+      "start": 1141.38,
+      "end": 1462.47,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0449-s13",
+      "heading": "地緣政治觀察",
+      "start": 1462.52,
+      "end": 1789.81,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0449-s14",
+      "heading": "Q&A 區段",
+      "start": 1789.86,
+      "end": 2573.39,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0449-s15",
+      "heading": "快問快答",
+      "start": 2573.44,
+      "end": 3000.45,
+      "confidence": 0.989
+    }
+  ]
+}

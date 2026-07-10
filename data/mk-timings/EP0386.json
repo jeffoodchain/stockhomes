@@ -1,0 +1,135 @@
+{
+  "ep": 386,
+  "source": "auto-aligned from reports/mk/gooaye-ep0386.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0386.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/37571028-a940-487e-8dfc-5118f50b5648/rssFileVip.mp3?timestamp=1695465801484",
+  "duration": 3186.21,
+  "segments": [
+    {
+      "id": "ep0386-s01",
+      "heading": "開場 / 贊助：Zita Square 智慧感應垃圾桶",
+      "start": 0.0,
+      "end": 85.39,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0386-s02",
+      "heading": "Post Malone 演唱會體驗",
+      "start": 85.44,
+      "end": 141.15,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0386-s03",
+      "heading": "音樂表現分析",
+      "start": 141.2,
+      "end": 244.67,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0386-s04",
+      "heading": "音樂風格定義與藝術評論",
+      "start": 244.72,
+      "end": 325.45,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0386-s05",
+      "heading": "對他人評論的看法",
+      "start": 325.5,
+      "end": 370.37,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0386-s06",
+      "heading": "演唱會音場與觀眾體驗",
+      "start": 370.42,
+      "end": 465.23,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0386-s07",
+      "heading": "Tim 上臺助陣",
+      "start": 465.28,
+      "end": 601.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0386-s08",
+      "heading": "年紀與人生感悟",
+      "start": 601.1,
+      "end": 700.69,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0386-s09",
+      "heading": "市場現況分析",
+      "start": 700.74,
+      "end": 843.37,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0386-s10",
+      "heading": "消費性股票與基本面",
+      "start": 843.42,
+      "end": 983.37,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0386-s11",
+      "heading": "工業電腦與記憶體",
+      "start": 983.42,
+      "end": 1147.25,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0386-s12",
+      "heading": "選股困境",
+      "start": 1147.3,
+      "end": 1211.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0386-s13",
+      "heading": "總經面分析與利率通膨",
+      "start": 1211.54,
+      "end": 1394.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0386-s14",
+      "heading": "通膨與薪資",
+      "start": 1394.3,
+      "end": 1514.43,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0386-s15",
+      "heading": "投資對抗通膨",
+      "start": 1514.48,
+      "end": 1691.11,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0386-s16",
+      "heading": "通膨與供應鏈",
+      "start": 1691.16,
+      "end": 1891.01,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0386-s17",
+      "heading": "Q&A 環節",
+      "start": 1891.06,
+      "end": 3183.83,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0386-s18",
+      "heading": "結尾",
+      "start": 3183.88,
+      "end": 3186.21,
+      "confidence": 0.929
+    }
+  ]
+}

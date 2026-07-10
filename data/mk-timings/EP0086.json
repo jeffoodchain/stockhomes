@@ -1,0 +1,72 @@
+{
+  "ep": 86,
+  "source": "auto-aligned from reports/mk/gooaye-ep0086.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0086.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/48a75360-8a6f-4578-b6cb-7906f8905cfc/rssFileVip.mp3?timestamp=1689439397200",
+  "duration": 2492.21,
+  "segments": [
+    {
+      "id": "ep0086-s01",
+      "heading": "開場 / 贊助：Bayer 拜維佳",
+      "start": 0.05,
+      "end": 75.22,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0086-s02",
+      "heading": "開場閒聊：Spotify 歌單、夜店 DJ 往事",
+      "start": 75.27,
+      "end": 331.5,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0086-s03",
+      "heading": "市場大爆噴：選後行情解讀",
+      "start": 331.55,
+      "end": 504.06,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0086-s04",
+      "heading": "大麻股分析",
+      "start": 504.11,
+      "end": 744.1,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0086-s05",
+      "heading": "選後行情補充：科技股 Palantir、Cloudflare",
+      "start": 744.15,
+      "end": 987.42,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0086-s06",
+      "heading": "拜登劇本：企業稅、央行政策與貨幣寬鬆",
+      "start": 987.47,
+      "end": 1324.02,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0086-s07",
+      "heading": "解釋反一（00632R）：外資持有的真實目的",
+      "start": 1324.07,
+      "end": 1901.88,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0086-s08",
+      "heading": "Q&A",
+      "start": 1901.93,
+      "end": 2486.74,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0086-s09",
+      "heading": "結尾",
+      "start": 2486.79,
+      "end": 2492.21,
+      "confidence": 0.667
+    }
+  ]
+}

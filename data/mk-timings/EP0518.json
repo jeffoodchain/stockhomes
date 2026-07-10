@@ -1,0 +1,100 @@
+{
+  "ep": 518,
+  "source": "auto-aligned from reports/mk/gooaye-ep0518.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0518.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dddbacee-8f4d-49c0-bdf0-7909ecb7d5e4/rssFileVip.mp3?timestamp=1735371265751",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0518-s01",
+      "heading": "開場 / 贊助：Honeywell 太空人 RO 濾淨瞬熱飲水機",
+      "start": 0.0,
+      "end": 86.33,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0518-s02",
+      "heading": "龍與地下城電影與視覺想像力",
+      "start": 86.38,
+      "end": 229.97,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0518-s03",
+      "heading": "人類視覺想像力差異",
+      "start": 230.02,
+      "end": 462.01,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0518-s04",
+      "heading": "推薦回饋與 Spotify 歌單",
+      "start": 462.06,
+      "end": 505.15,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0518-s05",
+      "heading": "DeepSeek V3 模型與中國 AI 突破",
+      "start": 505.2,
+      "end": 568.41,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0518-s06",
+      "heading": "中國 AI 競爭的市場影響",
+      "start": 568.46,
+      "end": 711.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0518-s07",
+      "heading": "市場謹慎態度調整",
+      "start": 712.02,
+      "end": 801.45,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0518-s08",
+      "heading": "DeepSeek 技術細節與成本分析",
+      "start": 801.5,
+      "end": 882.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0518-s09",
+      "heading": "H800 晶片與中國禁令",
+      "start": 882.48,
+      "end": 1026.09,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0518-s10",
+      "heading": "價格戰與市場衝擊預測",
+      "start": 1026.14,
+      "end": 1086.73,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0518-s11",
+      "heading": "理性分析與現實世界影響",
+      "start": 1086.78,
+      "end": 1276.07,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0518-s12",
+      "heading": "Q&A 時間",
+      "start": 1276.12,
+      "end": 2310.87,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0518-s13",
+      "heading": "更多 Q&A",
+      "start": 2310.92,
+      "end": 2995.98,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 156,
+  "source": "auto-aligned from reports/mk/gooaye-ep0156.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0156.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/82b4f91b-bcfb-4e37-bdad-703449f8b519/rssFileVip.mp3?timestamp=1689439402572",
+  "duration": 2679.46,
+  "segments": [
+    {
+      "id": "ep0156-s01",
+      "heading": "開場 / 贊助：香爵酒精",
+      "start": 0.0,
+      "end": 106.53,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0156-s02",
+      "heading": "聊聊：《明日之戰》與訂閱費用管理",
+      "start": 106.58,
+      "end": 484.71,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0156-s03",
+      "heading": "主題：衍生金融品——避險、期貨、選擇權",
+      "start": 484.76,
+      "end": 1563.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0156-s04",
+      "heading": "美國選擇權：買方、賣方、Covered Call",
+      "start": 1563.74,
+      "end": 2074.71,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0156-s05",
+      "heading": "Q&A",
+      "start": 2074.76,
+      "end": 2679.46,
+      "confidence": 0.722
+    }
+  ]
+}

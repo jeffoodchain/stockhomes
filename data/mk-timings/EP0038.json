@@ -1,0 +1,149 @@
+{
+  "ep": 38,
+  "source": "auto-aligned from reports/mk/gooaye-ep0038.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0038.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6523661d-5392-4b85-8090-e0248a4db7cd/rssFileVip.mp3?timestamp=1689439399181",
+  "duration": 2394.12,
+  "segments": [
+    {
+      "id": "ep0038-s01",
+      "heading": "開場 / 贊助：Easy Life 十月被",
+      "start": 0.02,
+      "end": 77.43,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0038-s02",
+      "heading": "防詐騙宅與騷擾電話處理技巧",
+      "start": 77.48,
+      "end": 202.09,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0038-s03",
+      "heading": "香港國安法分析",
+      "start": 202.14,
+      "end": 466.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0038-s04",
+      "heading": "香港聯繫匯率制度的攻防",
+      "start": 466.28,
+      "end": 780.73,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0038-s05",
+      "heading": "可以放空香港嗎？歷史上的對沖基金攻港",
+      "start": 780.78,
+      "end": 996.27,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0038-s06",
+      "heading": "Q&A：人民幣匯率走勢",
+      "start": 996.32,
+      "end": 1072.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0038-s07",
+      "heading": "Q&A：訂閱頻道說明 + 補充上集訂閱經濟",
+      "start": 1072.46,
+      "end": 1187.85,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0038-s08",
+      "heading": "Q&A：技術分析的應用與盲點",
+      "start": 1187.9,
+      "end": 1383.26,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0038-s09",
+      "heading": "Q&A：相信市場還是堅信價值投資？",
+      "start": 1383.31,
+      "end": 1511.64,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0038-s10",
+      "heading": "Q&A：豆漿事件道歉與回應",
+      "start": 1511.69,
+      "end": 1640.09,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0038-s11",
+      "heading": "Q&A：Podcast 與 YouTube 哪個效益更大？",
+      "start": 1640.14,
+      "end": 1721.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0038-s12",
+      "heading": "Q&A：如何建立投資人脈",
+      "start": 1721.7,
+      "end": 1989.93,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0038-s13",
+      "heading": "Q&A：雜項留言",
+      "start": 1989.98,
+      "end": 2010.91,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0038-s14",
+      "heading": "Q&A：波浪理論有沒有參考價值？",
+      "start": 2010.96,
+      "end": 2049.59,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0038-s15",
+      "heading": "Q&A：臺灣申請專利的效力",
+      "start": 2049.64,
+      "end": 2112.71,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0038-s16",
+      "heading": "Q&A：穿著偏好",
+      "start": 2112.76,
+      "end": 2116.81,
+      "confidence": 0.655
+    },
+    {
+      "id": "ep0038-s17",
+      "heading": "Q&A：研究陌生產業的方法",
+      "start": 2116.86,
+      "end": 2178.28,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0038-s18",
+      "heading": "Q&A：何時該停利",
+      "start": 2178.33,
+      "end": 2189.83,
+      "confidence": 0.478
+    },
+    {
+      "id": "ep0038-s19",
+      "heading": "Q&A：IC 載板與華為禁令的衝擊",
+      "start": 2189.88,
+      "end": 2271.14,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0038-s20",
+      "heading": "Q&A：如何解讀籌碼面資訊",
+      "start": 2271.19,
+      "end": 2394.12,
+      "confidence": 0.944
+    }
+  ]
+}

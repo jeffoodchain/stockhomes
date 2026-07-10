@@ -1,0 +1,177 @@
+{
+  "ep": 491,
+  "source": "auto-aligned from reports/mk/gooaye-ep0491.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0491.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0068c6ee-f0c5-44d9-9946-ed3c8b42bbfe/rssFileVip.mp3?timestamp=1727259740332",
+  "duration": 3282.81,
+  "segments": [
+    {
+      "id": "ep0491-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 62.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0491-s02",
+      "heading": "Risk Count 時代來臨",
+      "start": 62.88,
+      "end": 124.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0491-s03",
+      "heading": "本週行情回顧",
+      "start": 124.96,
+      "end": 175.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0491-s04",
+      "heading": "不同的投資文化",
+      "start": 176.04,
+      "end": 221.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0491-s05",
+      "heading": "近期盤面分析：Tesla 與 NVIDIA",
+      "start": 221.4,
+      "end": 328.07,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0491-s06",
+      "heading": "Tesla 與電動車復甦",
+      "start": 328.12,
+      "end": 400.33,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0491-s07",
+      "heading": "對比產業輪動",
+      "start": 400.38,
+      "end": 454.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0491-s08",
+      "heading": "消費性與 HBM 產業分析",
+      "start": 455.02,
+      "end": 511.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0491-s09",
+      "heading": "訊息盤與基本面研究",
+      "start": 511.78,
+      "end": 602.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0491-s10",
+      "heading": "地緣政治與去中化",
+      "start": 602.58,
+      "end": 702.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0491-s11",
+      "heading": "看人出菜與經濟政策",
+      "start": 702.62,
+      "end": 821.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0491-s12",
+      "heading": "2021 年功率半導體盛況與案例",
+      "start": 821.24,
+      "end": 901.75,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0491-s13",
+      "heading": "訓練 A君與團隊建設",
+      "start": 901.8,
+      "end": 978.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0491-s14",
+      "heading": "從案例中學習",
+      "start": 978.92,
+      "end": 1026.17,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0491-s15",
+      "heading": "講解難題與 Mentor 關係",
+      "start": 1026.22,
+      "end": 1088.51,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0491-s16",
+      "heading": "AI 輔助與員工訓練",
+      "start": 1088.56,
+      "end": 1169.33,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0491-s17",
+      "heading": "PSU 產業研究案例",
+      "start": 1169.38,
+      "end": 1326.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0491-s18",
+      "heading": "向高手學習",
+      "start": 1326.92,
+      "end": 1456.93,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0491-s19",
+      "heading": "形態分析與經驗積累",
+      "start": 1456.98,
+      "end": 1557.93,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0491-s20",
+      "heading": "學習心態與未知的接納",
+      "start": 1557.98,
+      "end": 1637.65,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0491-s21",
+      "heading": "基本面與趨勢的平衡",
+      "start": 1637.7,
+      "end": 1782.38,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0491-s22",
+      "heading": "預期與動態世界",
+      "start": 1782.43,
+      "end": 2127.0,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0491-s23",
+      "heading": "各類內容的平衡",
+      "start": 2127.05,
+      "end": 2134.24,
+      "confidence": 0.65
+    },
+    {
+      "id": "ep0491-s24",
+      "heading": "Q&A 時段",
+      "start": 2134.29,
+      "end": 3282.81,
+      "confidence": 0.656
+    }
+  ]
+}

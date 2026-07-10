@@ -1,0 +1,100 @@
+{
+  "ep": 659,
+  "source": "auto-aligned from reports/mk/gooaye-ep0659.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0659.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0606f6c5-c531-454e-9714-19fa5f90e640/rssFileVip.mp3?timestamp=1778106555249",
+  "duration": 3104.47,
+  "segments": [
+    {
+      "id": "ep0659-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 113.79,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0659-s02",
+      "heading": "近況：瘦瘦針與功能性訓練",
+      "start": 113.84,
+      "end": 591.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0659-s03",
+      "heading": "市場：被動元件全面起動",
+      "start": 591.82,
+      "end": 731.99,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0659-s04",
+      "heading": "市場：AMD 法說重磅、CPU 成市場核心",
+      "start": 732.04,
+      "end": 887.11,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0659-s05",
+      "heading": "市場：聯發科大漲後的估值思考",
+      "start": 887.16,
+      "end": 1171.13,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0659-s06",
+      "heading": "市場：Palo Alto 財報與 AI Slop 論",
+      "start": 1171.18,
+      "end": 1797.31,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0659-s07",
+      "heading": "Q&A：大屌宣生日快樂 & 社會人士追大學生",
+      "start": 1797.36,
+      "end": 1999.13,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0659-s08",
+      "heading": "Q&A：英文名、稅務問題",
+      "start": 1999.18,
+      "end": 2151.79,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0659-s09",
+      "heading": "Q&A：孩子命名、台積電估值",
+      "start": 2151.84,
+      "end": 2324.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0659-s10",
+      "heading": "Q&A：勸世短片 & 市場狂飆",
+      "start": 2324.44,
+      "end": 2521.13,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0659-s11",
+      "heading": "Q&A：伴侶溝通 & 把時間線切開",
+      "start": 2521.18,
+      "end": 2746.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0659-s12",
+      "heading": "Q&A：羨慕自由生活、當下最快樂",
+      "start": 2746.94,
+      "end": 2921.59,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0659-s13",
+      "heading": "Q&A：如何從短線轉長線 & 處理暴富心態",
+      "start": 2921.64,
+      "end": 3104.47,
+      "confidence": 0.622
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ep": 562,
+  "source": "auto-aligned from reports/mk/gooaye-ep0562.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0562.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b43a07ab-581e-4061-ae25-208d4db5e534/rssFileVip.mp3?timestamp=1748677490814",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0562-s01",
+      "heading": "開場 / 贊助：TAIZAKU 火星生技【決醒 B 群】",
+      "start": 0.0,
+      "end": 85.21,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0562-s02",
+      "heading": "端午連假祝福與盤前觀察",
+      "start": 85.26,
+      "end": 148.83,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0562-s03",
+      "heading": "產業研究方向：硬體追蹤 vs. 軟體佈局",
+      "start": 148.88,
+      "end": 223.61,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0562-s04",
+      "heading": "NVIDIA 財報解讀：GB200/300 出貨量與 Earnings Call 討論",
+      "start": 223.66,
+      "end": 357.91,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0562-s05",
+      "heading": "H20 禁售後的中國市場策略：RTX PRO 6000D（B40）",
+      "start": 357.96,
+      "end": 426.25,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0562-s06",
+      "heading": "新加坡出貨爭議與 DeepSeek",
+      "start": 426.3,
+      "end": 552.85,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0562-s07",
+      "heading": "NVIDIA 估值討論與軟體 Re-rate 潮準備",
+      "start": 552.9,
+      "end": 682.61,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0562-s08",
+      "heading": "Anthropic CEO Dario 的 AI 取代論述",
+      "start": 682.66,
+      "end": 775.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0562-s09",
+      "heading": "矽谷同溫層效應與台灣軟體業實地訪查",
+      "start": 775.5,
+      "end": 1136.25,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0562-s10",
+      "heading": "AI 軟體匯入與 OPEX 收斂：軟體股投資邏輯",
+      "start": 1136.3,
+      "end": 1413.01,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0562-s11",
+      "heading": "台灣 CSP 與現觀科訪查紀錄",
+      "start": 1413.06,
+      "end": 1633.65,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0562-s12",
+      "heading": "Q&A",
+      "start": 1633.7,
+      "end": 2995.98,
+      "confidence": 0.867
+    }
+  ]
+}

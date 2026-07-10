@@ -1,0 +1,100 @@
+{
+  "ep": 541,
+  "source": "auto-aligned from reports/mk/gooaye-ep0541.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0541.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/28072f0d-ce73-4916-9007-02dfd4062964/rssFileVip.mp3?timestamp=1742374689311",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0541-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 57.75,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0541-s02",
+      "heading": "最近的心情和近況分享",
+      "start": 57.8,
+      "end": 76.27,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0541-s03",
+      "heading": "掉錢包的故事",
+      "start": 76.32,
+      "end": 281.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0541-s04",
+      "heading": "人生谷底與樂觀展望",
+      "start": 281.38,
+      "end": 392.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0541-s05",
+      "heading": "市場調整和投資心態",
+      "start": 393.02,
+      "end": 545.81,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0541-s06",
+      "heading": "NVIDIA GTC大會產品亮點",
+      "start": 545.86,
+      "end": 644.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0541-s07",
+      "heading": "產業基本面與定調",
+      "start": 645.02,
+      "end": 700.53,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0541-s08",
+      "heading": "CPO和互聯互通技術",
+      "start": 700.58,
+      "end": 807.19,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0541-s09",
+      "heading": "Deep Seek與推論算力的影響",
+      "start": 807.24,
+      "end": 936.83,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0541-s10",
+      "heading": "怪物Rack定義的重新解讀",
+      "start": 936.88,
+      "end": 1102.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0541-s11",
+      "heading": "機器人與自駕車應用",
+      "start": 1102.44,
+      "end": 1142.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0541-s12",
+      "heading": "GTC大會可能的隱憂",
+      "start": 1142.64,
+      "end": 1464.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0541-s13",
+      "heading": "Q&A部分",
+      "start": 1464.64,
+      "end": 2995.98,
+      "confidence": 0.7
+    }
+  ]
+}

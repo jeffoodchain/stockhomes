@@ -1,0 +1,51 @@
+{
+  "ep": 44,
+  "source": "auto-aligned from reports/mk/gooaye-ep0044.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0044.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/778324fc-e715-466c-b351-fb4323280a1d/rssFileVip.mp3?timestamp=1689439389819",
+  "duration": 2455.07,
+  "segments": [
+    {
+      "id": "ep0044-s01",
+      "heading": "開場 / 贊助：Klorane（蔻蘿蘭）",
+      "start": 0.21,
+      "end": 180.1,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0044-s02",
+      "heading": "中共同路人事件：屁眼不要太小",
+      "start": 180.15,
+      "end": 602.83,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0044-s03",
+      "heading": "Zoom事件：投資不能用政治眼光看世界",
+      "start": 602.88,
+      "end": 947.25,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0044-s04",
+      "heading": "抖音 / TikTok：你的臺灣腦不代表全世界",
+      "start": 947.3,
+      "end": 1072.83,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0044-s05",
+      "heading": "健保醫材價格上限：政府手伸太長",
+      "start": 1072.88,
+      "end": 1375.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0044-s06",
+      "heading": "Q&A",
+      "start": 1375.5,
+      "end": 2455.07,
+      "confidence": 0.678
+    }
+  ]
+}

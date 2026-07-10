@@ -1,0 +1,177 @@
+{
+  "ep": 625,
+  "source": "auto-aligned from reports/mk/gooaye-ep0625.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0625.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6cb85fec-a93a-40c6-8d38-1ce2d60b23c9/rssFileVip.mp3?timestamp=1767821980317",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0625-s01",
+      "heading": "開場 / 贊助：Backbone 十週年",
+      "start": 0.0,
+      "end": 87.13,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0625-s02",
+      "heading": "開年閒聊：手遊跨年、吃葡萄習俗",
+      "start": 87.18,
+      "end": 167.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0625-s03",
+      "heading": "開年盤勢：屌輸大盤、散戶都回來了",
+      "start": 167.2,
+      "end": 284.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0625-s04",
+      "heading": "盤面轉折：主流股集體重挫",
+      "start": 284.88,
+      "end": 482.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0625-s05",
+      "heading": "OCS、共封裝光學的反轉",
+      "start": 483.02,
+      "end": 569.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0625-s06",
+      "heading": "VR Rubin Full Production：摩爾定律掛掉，整 Rack 取勝",
+      "start": 569.32,
+      "end": 643.31,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0625-s07",
+      "heading": "ICMS：NVIDIA Inference Context Memory 平台",
+      "start": 643.36,
+      "end": 734.07,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0625-s08",
+      "heading": "群聯 Controller 進駐 NVIDIA Switch Tray",
+      "start": 734.12,
+      "end": 866.95,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0625-s09",
+      "heading": "KV Cache 下放 SSD：Agentic AI 時代的新解方",
+      "start": 867.0,
+      "end": 1212.13,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0625-s10",
+      "heading": "SSD 廠商的機會：Certified vs. 通用規格",
+      "start": 1212.18,
+      "end": 1324.77,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0625-s11",
+      "heading": "老黃的壓著 hold 水：CPX、Groq、ICMS 一氣呵成",
+      "start": 1324.82,
+      "end": 1438.59,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0625-s12",
+      "heading": "記憶體狂潮：KV Cache 下放新題材",
+      "start": 1438.64,
+      "end": 1539.63,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0625-s13",
+      "heading": "Q&A：活俠傳推薦 & 出軌經歷分享",
+      "start": 1539.68,
+      "end": 1661.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0625-s14",
+      "heading": "Q&A：研究報告怎麼寫才會被推薦",
+      "start": 1661.94,
+      "end": 1886.33,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0625-s15",
+      "heading": "Q&A：直覺與人生選擇",
+      "start": 1886.38,
+      "end": 2199.37,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0625-s16",
+      "heading": "Q&A：考研許願請加碼",
+      "start": 2199.42,
+      "end": 2267.59,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0625-s17",
+      "heading": "Q&A：00981A 買 0050 是什麼操作？",
+      "start": 2267.64,
+      "end": 2359.61,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0625-s18",
+      "heading": "Q&A：腰痛、披薩骨",
+      "start": 2359.66,
+      "end": 2389.12,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0625-s19",
+      "heading": "Q&A：軟體股、信貸正二",
+      "start": 2389.17,
+      "end": 2524.54,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0625-s20",
+      "heading": "Q&A：威斯汀天夢之床、睡眠裝置",
+      "start": 2524.59,
+      "end": 2603.86,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0625-s21",
+      "heading": "Q&A：紀念日跟細節：被老婆嫌不用心",
+      "start": 2603.91,
+      "end": 2738.41,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0625-s22",
+      "heading": "Q&A：沉默之丘 F & 男友生日",
+      "start": 2738.46,
+      "end": 2767.01,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0625-s23",
+      "heading": "Q&A：朋友外遇我該不該說？",
+      "start": 2767.06,
+      "end": 2890.6,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0625-s24",
+      "heading": "Q&A：光偶合器在光通技術中的位階",
+      "start": 2890.65,
+      "end": 3000.45,
+      "confidence": 0.667
+    }
+  ]
+}

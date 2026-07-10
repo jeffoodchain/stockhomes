@@ -1,0 +1,254 @@
+{
+  "ep": 537,
+  "source": "auto-aligned from reports/mk/gooaye-ep0537.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0537.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/33f4b3e7-5831-46ed-a2f1-a780e4c601ba/rssFileVip.mp3?timestamp=1741165247227",
+  "duration": 3003.43,
+  "segments": [
+    {
+      "id": "ep0537-s01",
+      "heading": "開場 / 贊助：善存",
+      "start": 0.0,
+      "end": 60.75,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0537-s02",
+      "heading": "少年股神與人生的各種岔路",
+      "start": 60.8,
+      "end": 126.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0537-s03",
+      "heading": "航空生涯與葵花寶典的迴圈",
+      "start": 126.72,
+      "end": 193.25,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0537-s04",
+      "heading": "職場摸索與後悔沒有",
+      "start": 193.3,
+      "end": 288.35,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0537-s05",
+      "heading": "職場矛盾與選擇斷捨離",
+      "start": 288.4,
+      "end": 397.71,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s06",
+      "heading": "人生選擇與難得體驗的價值",
+      "start": 397.76,
+      "end": 479.95,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0537-s07",
+      "heading": "選擇與現實的折衝",
+      "start": 480.0,
+      "end": 600.03,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0537-s08",
+      "heading": "台積電對美投資 1000 億的佈局",
+      "start": 600.08,
+      "end": 709.15,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0537-s09",
+      "heading": "對美投資承諾的現實查驗",
+      "start": 709.2,
+      "end": 825.03,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0537-s10",
+      "heading": "台積電的全球佈局與政治考量",
+      "start": 825.08,
+      "end": 917.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0537-s11",
+      "heading": "研發中心與技術流失的評估",
+      "start": 917.92,
+      "end": 997.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s12",
+      "heading": "Chip Act 移除的影響評估",
+      "start": 997.36,
+      "end": 1086.29,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0537-s13",
+      "heading": "台積電前景總體評估",
+      "start": 1086.34,
+      "end": 1174.79,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s14",
+      "heading": "CoreWeave 公司的困境與反思",
+      "start": 1174.84,
+      "end": 1243.73,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0537-s15",
+      "heading": "台灣算力租賃的不可行性",
+      "start": 1243.78,
+      "end": 1300.41,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0537-s16",
+      "heading": "CoreWeave IPO 的前景與風險",
+      "start": 1300.46,
+      "end": 1385.29,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0537-s17",
+      "heading": "H100 貶值與 CoreWeave 的債務壓力",
+      "start": 1385.34,
+      "end": 1458.97,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0537-s18",
+      "heading": "CoreWeave 前景的樂觀與悲觀",
+      "start": 1459.02,
+      "end": 1500.73,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s19",
+      "heading": "Q&A：傳送門",
+      "start": 1500.78,
+      "end": 1582.33,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0537-s20",
+      "heading": "聽眾提問與建議",
+      "start": 1582.38,
+      "end": 1675.53,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s21",
+      "heading": "特斯拉投資邏輯與部位管理",
+      "start": 1675.58,
+      "end": 1719.91,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0537-s22",
+      "heading": "特斯拉與電動車的長期投資觀",
+      "start": 1719.96,
+      "end": 1792.01,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0537-s23",
+      "heading": "投資心法與部位設定",
+      "start": 1792.06,
+      "end": 1866.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0537-s24",
+      "heading": "職場選擇與全球能見度",
+      "start": 1866.36,
+      "end": 1970.21,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0537-s25",
+      "heading": "半導體市場展望",
+      "start": 1970.26,
+      "end": 2003.55,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0537-s26",
+      "heading": "天橋下之故事與人生哲理",
+      "start": 2003.6,
+      "end": 2023.34,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0537-s27",
+      "heading": "職涯選擇與領導力發展",
+      "start": 2023.39,
+      "end": 2172.7,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0537-s28",
+      "heading": "投資心態與停損停利",
+      "start": 2172.75,
+      "end": 2270.8,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0537-s29",
+      "heading": "停利指標與太空投資",
+      "start": 2270.85,
+      "end": 2365.8,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0537-s30",
+      "heading": "工作選擇與實踐智慧",
+      "start": 2365.85,
+      "end": 2518.72,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0537-s31",
+      "heading": "生活分享與未來展望",
+      "start": 2518.77,
+      "end": 2579.02,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0537-s32",
+      "heading": "雲端朋友與人生感悟",
+      "start": 2579.07,
+      "end": 2750.36,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0537-s33",
+      "heading": "新聽眾與持續成長",
+      "start": 2750.41,
+      "end": 2771.14,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0537-s34",
+      "heading": "日常生活瑣事",
+      "start": 2771.19,
+      "end": 2836.08,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0537-s35",
+      "heading": "人際關係與自我完善",
+      "start": 2836.13,
+      "end": 3003.43,
+      "confidence": 1.0
+    }
+  ]
+}

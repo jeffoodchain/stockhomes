@@ -1,0 +1,114 @@
+{
+  "ep": 512,
+  "source": "auto-aligned from reports/mk/gooaye-ep0512.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0512.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a7448dbe-1776-4608-936c-de5e08735755/rssFileVip.mp3?timestamp=1733549637653",
+  "duration": 3037.6,
+  "segments": [
+    {
+      "id": "ep0512-s01",
+      "heading": "開場 / 贊助：米洪生醫",
+      "start": 0.0,
+      "end": 68.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0512-s02",
+      "heading": "Santa Monica見聞",
+      "start": 68.36,
+      "end": 125.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0512-s03",
+      "heading": "Zipin無人商店",
+      "start": 125.14,
+      "end": 189.07,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0512-s04",
+      "heading": "RFID技術與Impinj",
+      "start": 189.12,
+      "end": 232.83,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0512-s05",
+      "heading": "SpaceX參訪邀請",
+      "start": 232.88,
+      "end": 289.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0512-s06",
+      "heading": "Tesla FSD體驗",
+      "start": 289.38,
+      "end": 386.81,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0512-s07",
+      "heading": "Falcon 9火箭",
+      "start": 386.86,
+      "end": 444.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0512-s08",
+      "heading": "SpaceX公司參訪",
+      "start": 444.7,
+      "end": 541.63,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0512-s09",
+      "heading": "SpaceX的成本控制策略",
+      "start": 541.68,
+      "end": 703.63,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0512-s10",
+      "heading": "工廠環境與組織文化",
+      "start": 703.68,
+      "end": 985.75,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0512-s11",
+      "heading": "股市行情與市場節奏",
+      "start": 985.8,
+      "end": 1026.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0512-s12",
+      "heading": "投資心得：基本面vs市場認知",
+      "start": 1026.84,
+      "end": 1756.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0512-s13",
+      "heading": "美股vs臺股的策略差異",
+      "start": 1756.54,
+      "end": 1912.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0512-s14",
+      "heading": "美股軟體行情與臺股對比",
+      "start": 1912.58,
+      "end": 2057.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0512-s15",
+      "heading": "Q&A 聽眾提問",
+      "start": 2057.4,
+      "end": 3037.6,
+      "confidence": 0.644
+    }
+  ]
+}

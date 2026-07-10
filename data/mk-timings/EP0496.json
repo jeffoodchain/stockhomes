@@ -1,0 +1,51 @@
+{
+  "ep": 496,
+  "source": "auto-aligned from reports/mk/gooaye-ep0496.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0496.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5b794ebc-ba11-4b8e-8c7c-807f4e7639eb/rssFileVip.mp3?timestamp=1728721365239",
+  "duration": 3049.48,
+  "segments": [
+    {
+      "id": "ep0496-s01",
+      "heading": "開場 / 贊助：HafH 赫夫",
+      "start": 0.0,
+      "end": 87.07,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0496-s02",
+      "heading": "節目製作、聲音調整與錄製設備",
+      "start": 87.12,
+      "end": 630.85,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0496-s03",
+      "heading": "成長、決策權與市場影響力",
+      "start": 630.9,
+      "end": 949.73,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0496-s04",
+      "heading": "可轉債籌資策略分析",
+      "start": 949.78,
+      "end": 1452.25,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0496-s05",
+      "heading": "特斯拉 WeRobot 活動與無人駕駛前景",
+      "start": 1452.3,
+      "end": 2226.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0496-s06",
+      "heading": "Q&A：聽眾提問與祝福",
+      "start": 2226.4,
+      "end": 3049.48,
+      "confidence": 0.811
+    }
+  ]
+}

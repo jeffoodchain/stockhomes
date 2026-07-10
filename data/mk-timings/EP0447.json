@@ -1,0 +1,72 @@
+{
+  "ep": 447,
+  "source": "auto-aligned from reports/mk/gooaye-ep0447.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0447.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/eba1b127-155b-4452-b266-88da6e549d5b/rssFileVip.mp3?timestamp=1713946923716",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0447-s01",
+      "heading": "開場／贊助：V-TEX 超機能防水休閒鞋",
+      "start": 0.0,
+      "end": 70.23,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0447-s02",
+      "heading": "地震體驗與反思",
+      "start": 70.28,
+      "end": 236.77,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0447-s03",
+      "heading": "時差調整與股票波動",
+      "start": 236.82,
+      "end": 509.37,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0447-s04",
+      "heading": "特斯拉投資策略與風險管理",
+      "start": 509.42,
+      "end": 703.07,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0447-s05",
+      "heading": "特斯拉 Q1 財報分析",
+      "start": 703.12,
+      "end": 858.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0447-s06",
+      "heading": "特斯拉未來前景：Optimus、FSD、AI 訓練",
+      "start": 858.7,
+      "end": 1432.73,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0447-s07",
+      "heading": "特斯拉的整合願景",
+      "start": 1432.78,
+      "end": 1604.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0447-s08",
+      "heading": "特斯拉小車 Rumor 討論",
+      "start": 1604.56,
+      "end": 1814.15,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0447-s09",
+      "heading": "聽眾問答",
+      "start": 1814.2,
+      "end": 2997.47,
+      "confidence": 0.8
+    }
+  ]
+}

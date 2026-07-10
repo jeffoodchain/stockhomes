@@ -1,0 +1,72 @@
+{
+  "ep": 263,
+  "source": "auto-aligned from reports/mk/gooaye-ep0263.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0263.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1cd9f058-6a9d-4520-a34c-cf4930c15303/rssFileVip.mp3?timestamp=1689439386512",
+  "duration": 2932.08,
+  "segments": [
+    {
+      "id": "ep0263-s01",
+      "heading": "開場 / 贊助：OVO 智慧投影機 K3",
+      "start": 0.0,
+      "end": 54.93,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0263-s02",
+      "heading": "聯發科演講心得",
+      "start": 54.98,
+      "end": 166.61,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0263-s03",
+      "heading": "聯發科員工的投資建議：好好上班才是最大的投資",
+      "start": 166.66,
+      "end": 609.62,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0263-s04",
+      "heading": "目前盤勢分析：反彈來到壓力位置",
+      "start": 609.67,
+      "end": 870.58,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0263-s05",
+      "heading": "BofA 基金經理人調查（FMS）解析",
+      "start": 870.63,
+      "end": 1176.42,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0263-s06",
+      "heading": "半導體：晶片法案分析",
+      "start": 1176.47,
+      "end": 1376.7,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0263-s07",
+      "heading": "Netflix 財報分析",
+      "start": 1376.75,
+      "end": 1759.34,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0263-s08",
+      "heading": "Q&A",
+      "start": 1759.39,
+      "end": 2923.42,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0263-s09",
+      "heading": "結尾",
+      "start": 2923.47,
+      "end": 2932.08,
+      "confidence": 1.0
+    }
+  ]
+}

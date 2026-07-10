@@ -1,0 +1,198 @@
+{
+  "ep": 624,
+  "source": "auto-aligned from reports/mk/gooaye-ep0624.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0624.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4aa630cc-3488-4548-b79c-f2fe15e0ae79/rssFileVip.mp3?timestamp=1767477323186",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0624-s01",
+      "heading": "開場 / 贊助：如邑堂太陽餅",
+      "start": 0.0,
+      "end": 78.57,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0624-s02",
+      "heading": "投資 MR 公司：隱形冠軍 Hololens 體驗",
+      "start": 78.62,
+      "end": 205.59,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0624-s03",
+      "heading": "從 MR 想到 Simulation：科技讓虛實模糊",
+      "start": 205.64,
+      "end": 505.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0624-s04",
+      "heading": "2026 開盤：台積電摸 1585、未來軌跡看 2000",
+      "start": 505.22,
+      "end": 604.39,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0624-s05",
+      "heading": "鬼故事：TPU / AWS 砍單傳聞與市場 noise",
+      "start": 604.44,
+      "end": 762.07,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0624-s06",
+      "heading": "台積電 CAPEX 50B+ 與 1月強 2月修的歷史節奏",
+      "start": 762.12,
+      "end": 968.11,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0624-s07",
+      "heading": "壽險 IFRS17 與第一季噴爆的隱憂",
+      "start": 968.16,
+      "end": 1007.77,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0624-s08",
+      "heading": "SRAM 概念股：華邦電、愛普與「預判別人的預判」",
+      "start": 1007.82,
+      "end": 1138.11,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0624-s09",
+      "heading": "國巨案例：被動元件通路代理為何噴翻",
+      "start": 1138.16,
+      "end": 1345.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0624-s10",
+      "heading": "SRAM 案例延伸：Edge Device 還是 Data Center？",
+      "start": 1345.24,
+      "end": 1734.77,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0624-s11",
+      "heading": "Q&A：聯詠後續看法",
+      "start": 1734.82,
+      "end": 1893.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0624-s12",
+      "heading": "Q&A：祝小郭生日快樂",
+      "start": 1893.8,
+      "end": 1917.99,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0624-s13",
+      "heading": "Q&A：日本情雞伯與孟公族",
+      "start": 1918.04,
+      "end": 1949.03,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0624-s14",
+      "heading": "Q&A：兩寶爸祝生日",
+      "start": 1949.08,
+      "end": 1967.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0624-s15",
+      "heading": "Q&A：泰特拉老闆生日",
+      "start": 1967.72,
+      "end": 2001.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0624-s16",
+      "heading": "Q&A：離婚單親媽媽的勇敢",
+      "start": 2002.04,
+      "end": 2059.81,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0624-s17",
+      "heading": "Q&A：沉默迴圈與 Guns N' Roses",
+      "start": 2059.86,
+      "end": 2134.87,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0624-s18",
+      "heading": "Q&A：直男巧虎與兩性交流",
+      "start": 2134.92,
+      "end": 2167.03,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0624-s19",
+      "heading": "Q&A：技術面的時間區段與關鍵位置",
+      "start": 2167.08,
+      "end": 2369.33,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0624-s20",
+      "heading": "Q&A：捏軟二寶爸與蛋蛋感染",
+      "start": 2369.38,
+      "end": 2401.57,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0624-s21",
+      "heading": "Q&A：階級複製與爸媽生病",
+      "start": 2401.62,
+      "end": 2650.17,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0624-s22",
+      "heading": "Q&A：準新手爸爸與祁安祝福",
+      "start": 2650.22,
+      "end": 2826.71,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0624-s23",
+      "heading": "Q&A：女兒心臟超音波檢查",
+      "start": 2826.76,
+      "end": 2862.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0624-s24",
+      "heading": "Q&A：合作廠商欠款裝死",
+      "start": 2862.36,
+      "end": 2915.29,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0624-s25",
+      "heading": "Q&A：動畫 Clannad 推薦",
+      "start": 2915.34,
+      "end": 2950.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0624-s26",
+      "heading": "Q&A：統一布丁與舔蓋子",
+      "start": 2950.16,
+      "end": 2959.05,
+      "confidence": 0.706
+    },
+    {
+      "id": "ep0624-s27",
+      "heading": "Q&A：股癌簽書會與躲龜仔洞",
+      "start": 2959.1,
+      "end": 2993.03,
+      "confidence": 0.767
+    }
+  ]
+}

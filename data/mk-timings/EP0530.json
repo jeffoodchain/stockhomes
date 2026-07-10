@@ -1,0 +1,282 @@
+{
+  "ep": 530,
+  "source": "auto-aligned from reports/mk/gooaye-ep0530.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0530.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d959f21d-7790-4aa5-80f0-2220bfc7b6e8/rssFileVip.mp3?timestamp=1739002877556",
+  "duration": 3080.7,
+  "segments": [
+    {
+      "id": "ep0530-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 68.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0530-s02",
+      "heading": "最近的舒服行情與市場資金動向",
+      "start": 68.82,
+      "end": 113.31,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0530-s03",
+      "heading": "臺股軟體股的轉折點",
+      "start": 113.36,
+      "end": 163.51,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0530-s04",
+      "heading": "NVIDIA 5090 與液態金屬散熱",
+      "start": 163.56,
+      "end": 261.05,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0530-s05",
+      "heading": "被動式散熱的可能性",
+      "start": 261.1,
+      "end": 327.27,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0530-s06",
+      "heading": "股市開盤與硬體股反彈",
+      "start": 327.32,
+      "end": 381.97,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0530-s07",
+      "heading": "DeepSeek 的衝擊與 MOE、MLA",
+      "start": 382.02,
+      "end": 460.05,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0530-s08",
+      "heading": "Cloudflare 與 Apple 的策略地位",
+      "start": 460.1,
+      "end": 536.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0530-s09",
+      "heading": "IPC 與 Edge Computing 的深入分析",
+      "start": 537.0,
+      "end": 610.91,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0530-s10",
+      "heading": "OEM、ODM 與 IPC 的區隔",
+      "start": 610.96,
+      "end": 663.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0530-s11",
+      "heading": "Edge Computing 的定義與潛力",
+      "start": 663.74,
+      "end": 734.33,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0530-s12",
+      "heading": "IPC 的主要競爭對手",
+      "start": 734.38,
+      "end": 774.09,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0530-s13",
+      "heading": "消費級 GPU 也成為競爭者",
+      "start": 774.14,
+      "end": 849.05,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0530-s14",
+      "heading": "Edge Computing 趨勢的多重選項",
+      "start": 849.1,
+      "end": 887.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0530-s15",
+      "heading": "巨頭的龐大資本支出計畫",
+      "start": 887.44,
+      "end": 928.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0530-s16",
+      "heading": "硬體公司的短期前景與風險警示",
+      "start": 928.9,
+      "end": 995.57,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0530-s17",
+      "heading": "個人投資策略與風險管理",
+      "start": 995.62,
+      "end": 1046.27,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0530-s18",
+      "heading": "軟體股的投資方向與策略",
+      "start": 1046.32,
+      "end": 1091.35,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0530-s19",
+      "heading": "散戶流入與股價波動的觀察",
+      "start": 1091.4,
+      "end": 1180.03,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0530-s20",
+      "heading": "巨頭投資與獲利預期的矛盾",
+      "start": 1180.08,
+      "end": 1235.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0530-s21",
+      "heading": "軍備競賽的邏輯與股東的想法",
+      "start": 1235.48,
+      "end": 1277.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0530-s22",
+      "heading": "AI 模型商品化與毛利壓力",
+      "start": 1277.76,
+      "end": 1330.49,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0530-s23",
+      "heading": "長期信心與短期調整",
+      "start": 1330.54,
+      "end": 1376.53,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0530-s24",
+      "heading": "資金流向與個股調整策略",
+      "start": 1376.58,
+      "end": 1449.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0530-s25",
+      "heading": "收尾與聽眾建議",
+      "start": 1449.88,
+      "end": 1470.87,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0530-s26",
+      "heading": "Q&A：祝福與家庭分享",
+      "start": 1470.92,
+      "end": 1587.63,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0530-s27",
+      "heading": "Q&A：股票投資與公司分析",
+      "start": 1587.68,
+      "end": 1689.29,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0530-s28",
+      "heading": "Q&A：特斯拉與機器人",
+      "start": 1689.34,
+      "end": 1834.37,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0530-s29",
+      "heading": "特斯拉的多元技術資產",
+      "start": 1834.42,
+      "end": 1919.33,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0530-s30",
+      "heading": "市場判斷的邏輯與理解",
+      "start": 1919.38,
+      "end": 2028.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0530-s31",
+      "heading": "Q&A：家庭與健康",
+      "start": 2028.74,
+      "end": 2089.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0530-s32",
+      "heading": "Q&A：葷段子與調整",
+      "start": 2090.0,
+      "end": 2130.9,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0530-s33",
+      "heading": "Q&A：投資與人生感悟",
+      "start": 2130.95,
+      "end": 2216.68,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0530-s34",
+      "heading": "Q&A：家庭傳統與節日",
+      "start": 2216.73,
+      "end": 2416.48,
+      "confidence": 0.522
+    },
+    {
+      "id": "ep0530-s35",
+      "heading": "Q&A：推薦與祝福",
+      "start": 2416.53,
+      "end": 2610.71,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0530-s36",
+      "heading": "Q&A：英文發音與名字",
+      "start": 2610.76,
+      "end": 2715.22,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0530-s37",
+      "heading": "Q&A：迷茫與建議",
+      "start": 2715.27,
+      "end": 2872.32,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0530-s38",
+      "heading": "Q&A：人生與感悟",
+      "start": 2872.37,
+      "end": 2915.98,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0530-s39",
+      "heading": "Q&A：投資收益與建議",
+      "start": 2916.03,
+      "end": 3080.7,
+      "confidence": 0.756
+    }
+  ]
+}

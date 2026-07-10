@@ -1,0 +1,142 @@
+{
+  "ep": 633,
+  "source": "auto-aligned from reports/mk/gooaye-ep0633.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0633.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e511ab59-5e81-461a-896b-915a76e346e3/rssFileVip.mp3?timestamp=1770243509137",
+  "duration": 3244.17,
+  "segments": [
+    {
+      "id": "ep0633-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 92.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0633-s02",
+      "heading": "全家去西班牙：看房、小孩教育的兩難",
+      "start": 92.88,
+      "end": 472.91,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0633-s03",
+      "heading": "西班牙看房：高爾夫球村裡的別墅",
+      "start": 472.96,
+      "end": 789.87,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0633-s04",
+      "heading": "盤面警戒：大跌破出現先降槓桿",
+      "start": 789.92,
+      "end": 917.39,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0633-s05",
+      "heading": "低軌道衛星族群：避風港 vs. 提款機",
+      "start": 917.44,
+      "end": 1100.95,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0633-s06",
+      "heading": "散熱族群：突破新高的觀察",
+      "start": 1101.0,
+      "end": 1285.53,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0633-s07",
+      "heading": "軟體 A/B 劇本：Token 轉嫁與毛利提升",
+      "start": 1285.58,
+      "end": 1747.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0633-s08",
+      "heading": "Apple 法說：毛利 hold 住、iPhone 銷量",
+      "start": 1747.46,
+      "end": 1914.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0633-s09",
+      "heading": "Q&A：澳洲聽眾 Jason 留言",
+      "start": 1914.56,
+      "end": 1986.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0633-s10",
+      "heading": "Q&A：智盛漲停、緯創故事更新",
+      "start": 1986.44,
+      "end": 2278.63,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0633-s11",
+      "heading": "Q&A：底層邏輯這本書",
+      "start": 2278.68,
+      "end": 2414.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0633-s12",
+      "heading": "Q&A：純水英子的貓咪 & CNC 產業",
+      "start": 2414.1,
+      "end": 2522.09,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0633-s13",
+      "heading": "Q&A：生產過程，老公請站出來",
+      "start": 2522.14,
+      "end": 2706.57,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0633-s14",
+      "heading": "Q&A：Jerry 麥克風裝返聽眾",
+      "start": 2706.62,
+      "end": 2821.37,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0633-s15",
+      "heading": "Q&A：滴滴打人",
+      "start": 2821.42,
+      "end": 2827.43,
+      "confidence": 0.816
+    },
+    {
+      "id": "ep0633-s16",
+      "heading": "Q&A：大崩接下來怎麼上車",
+      "start": 2827.48,
+      "end": 2848.47,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0633-s17",
+      "heading": "Q&A：燕珠生日快樂",
+      "start": 2848.52,
+      "end": 2866.05,
+      "confidence": 0.793
+    },
+    {
+      "id": "ep0633-s18",
+      "heading": "Q&A：戒尿布心法",
+      "start": 2866.1,
+      "end": 2978.01,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0633-s19",
+      "heading": "Q&A：未來五到十年看好的產業",
+      "start": 2978.06,
+      "end": 3244.17,
+      "confidence": 0.689
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "ep": 615,
+  "source": "auto-aligned from reports/mk/gooaye-ep0615.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0615.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/277c6db2-b035-42ea-9168-86abf90d99c0/rssFileVip.mp3?timestamp=1764796896152",
+  "duration": 3125.29,
+  "segments": [
+    {
+      "id": "ep0615-s01",
+      "heading": "開場 / 贊助：Roichen 穩姿坐墊",
+      "start": 0.0,
+      "end": 113.31,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0615-s02",
+      "heading": "開場閒聊：天氣轉涼、流感與 Tom Yorke 演唱會延期",
+      "start": 113.36,
+      "end": 272.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0615-s03",
+      "heading": "部位調整：被動停利、塞回指數",
+      "start": 272.94,
+      "end": 326.47,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0615-s04",
+      "heading": "市場動態：AWS reinvent 沒加入 OpenAI 聯盟",
+      "start": 326.52,
+      "end": 481.95,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0615-s05",
+      "heading": "Credo × BizLink 案例：盤後跳拉、技術猛男",
+      "start": 482.0,
+      "end": 706.83,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0615-s06",
+      "heading": "散熱：Coplay、QD、Kinsley 降價",
+      "start": 706.88,
+      "end": 826.27,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0615-s07",
+      "heading": "操作心法：研究時間 > 交易時間",
+      "start": 826.32,
+      "end": 883.87,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0615-s08",
+      "heading": "散裝航運 BCI：烏俄停戰、Cape Size 機會",
+      "start": 883.92,
+      "end": 1202.53,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0615-s09",
+      "heading": "EMIB 裝置股：細選與蹲點",
+      "start": 1202.58,
+      "end": 1341.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0615-s10",
+      "heading": "Q&A：期貨槓桿計算",
+      "start": 1341.28,
+      "end": 1457.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0615-s11",
+      "heading": "Q&A：祝放榜順利 & Karina 生日",
+      "start": 1457.72,
+      "end": 1488.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0615-s12",
+      "heading": "Q&A：祝弟弟生日快樂",
+      "start": 1488.1,
+      "end": 1502.45,
+      "confidence": 0.784
+    },
+    {
+      "id": "ep0615-s13",
+      "heading": "Q&A：嘎到的空方",
+      "start": 1502.5,
+      "end": 1543.01,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0615-s14",
+      "heading": "Q&A：Flex TPU 訂單會被拆嗎",
+      "start": 1543.06,
+      "end": 1631.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0615-s15",
+      "heading": "Q&A：祝曹博士生日快樂",
+      "start": 1631.16,
+      "end": 1652.75,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0615-s16",
+      "heading": "Q&A：神默契、太太幫買名片夾",
+      "start": 1652.8,
+      "end": 1705.55,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0615-s17",
+      "heading": "Q&A：泰拳、In-N-Out、管理人",
+      "start": 1705.6,
+      "end": 1923.51,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0615-s18",
+      "heading": "Q&A：學測上牙醫系 & 樂天優格碳酸飲",
+      "start": 1923.56,
+      "end": 1977.32,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0615-s19",
+      "heading": "Q&A：祝新婚快樂",
+      "start": 1977.37,
+      "end": 2037.78,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0615-s20",
+      "heading": "Q&A：投顧總經理會是詐騙嗎",
+      "start": 2037.83,
+      "end": 2099.06,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0615-s21",
+      "heading": "Q&A：健身痠痛、投資影響家人",
+      "start": 2099.11,
+      "end": 2316.4,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0615-s22",
+      "heading": "Q&A：男友轉機構、男生壓力大",
+      "start": 2316.45,
+      "end": 2482.66,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0615-s23",
+      "heading": "Q&A：壽司坦丁釋通頓化推薦",
+      "start": 2482.71,
+      "end": 2502.24,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0615-s24",
+      "heading": "Q&A：00685L 鎮二要不要存",
+      "start": 2502.29,
+      "end": 2671.28,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0615-s25",
+      "heading": "Q&A：祝新婚快樂",
+      "start": 2671.33,
+      "end": 2692.82,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0615-s26",
+      "heading": "Q&A：祝 Rosie 38 歲生日快樂、髒話收斂",
+      "start": 2692.87,
+      "end": 2832.15,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0615-s27",
+      "heading": "Q&A：離婚後的體會",
+      "start": 2832.2,
+      "end": 2854.28,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0615-s28",
+      "heading": "Q&A：婚姻吵架、要不要改變自己",
+      "start": 2854.33,
+      "end": 3125.29,
+      "confidence": 0.722
+    }
+  ]
+}

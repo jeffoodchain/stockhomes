@@ -1,0 +1,121 @@
+{
+  "ep": 549,
+  "source": "auto-aligned from reports/mk/gooaye-ep0549.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0549.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a68b4dbf-7d30-435b-8980-11c05fb04b32/rssFileVip.mp3?timestamp=1744792246103",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0549-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 78.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0549-s02",
+      "heading": "股市回血與三道坎",
+      "start": 78.4,
+      "end": 153.89,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0549-s03",
+      "heading": "小兒子的成長與醫療挑戰",
+      "start": 153.94,
+      "end": 237.07,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0549-s04",
+      "heading": "理性 vs 情感的醫療抉擇",
+      "start": 237.12,
+      "end": 360.91,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0549-s05",
+      "heading": "檢查發現與醫生的故事",
+      "start": 360.96,
+      "end": 465.39,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0549-s06",
+      "heading": "生育心態的演變",
+      "start": 465.44,
+      "end": 624.89,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0549-s07",
+      "heading": "川普政策與市場影響",
+      "start": 624.94,
+      "end": 729.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0549-s08",
+      "heading": "原則性支持者 vs 盲目追隨者",
+      "start": 729.88,
+      "end": 872.07,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0549-s09",
+      "heading": "Bessent 的市場訊號與 VIX 峰值",
+      "start": 872.12,
+      "end": 927.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0549-s10",
+      "heading": "關稅豁免清單與鴻海分析",
+      "start": 927.2,
+      "end": 1032.81,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0549-s11",
+      "heading": "關稅詳細數據分析",
+      "start": 1032.86,
+      "end": 1226.17,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0549-s12",
+      "heading": "成品 vs 零組件的稅率複雜性",
+      "start": 1226.22,
+      "end": 1315.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0549-s13",
+      "heading": "市場信任與政策不確定性",
+      "start": 1315.82,
+      "end": 1388.03,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0549-s14",
+      "heading": "NVIDIA 與出口管制",
+      "start": 1388.08,
+      "end": 1568.75,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0549-s15",
+      "heading": "半導體與消費電子的需求前景",
+      "start": 1568.8,
+      "end": 1735.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0549-s16",
+      "heading": "Q & A 環節",
+      "start": 1735.4,
+      "end": 2994.49,
+      "confidence": 0.733
+    }
+  ]
+}

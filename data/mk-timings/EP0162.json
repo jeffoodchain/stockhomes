@@ -1,0 +1,51 @@
+{
+  "ep": 162,
+  "source": "auto-aligned from reports/mk/gooaye-ep0162.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0162.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b42e8b5a-5fe4-4ce4-b50f-12a9bd467d66/rssFileVip.mp3?timestamp=1761072702423",
+  "duration": 2825.09,
+  "segments": [
+    {
+      "id": "ep0162-s01",
+      "heading": "開場 / 贊助：OVO 量子電視",
+      "start": 0.0,
+      "end": 109.27,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0162-s02",
+      "heading": "電影推薦：Coldplay、《Changeling》、《Gone Baby Gone》",
+      "start": 109.32,
+      "end": 298.07,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0162-s03",
+      "heading": "台股動態：聯電集團、鋼鐵族群",
+      "start": 298.12,
+      "end": 724.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0162-s04",
+      "heading": "美股財報解讀：Amazon、Apple、特斯拉",
+      "start": 724.06,
+      "end": 1091.79,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0162-s05",
+      "heading": "選擇權策略：Sell Put",
+      "start": 1091.84,
+      "end": 1669.45,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0162-s06",
+      "heading": "Q&A",
+      "start": 1669.5,
+      "end": 2825.09,
+      "confidence": 0.689
+    }
+  ]
+}

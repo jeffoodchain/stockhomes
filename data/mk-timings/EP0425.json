@@ -1,0 +1,51 @@
+{
+  "ep": 425,
+  "source": "auto-aligned from reports/mk/gooaye-ep0425.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0425.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b305acd8-d716-4c05-ba1a-e75a53ab0b16/rssFileVip.mp3?timestamp=1707291922651",
+  "duration": 3104.47,
+  "segments": [
+    {
+      "id": "ep0425-s01",
+      "heading": "開場 / 贊助：征服之海海盜榮耀",
+      "start": 0.0,
+      "end": 93.91,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0425-s02",
+      "heading": "高雄演唱會體驗",
+      "start": 93.96,
+      "end": 155.19,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0425-s03",
+      "heading": "Ed Sheeran 演唱會",
+      "start": 155.24,
+      "end": 588.68,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0425-s04",
+      "heading": "Q&A 環節",
+      "start": 588.73,
+      "end": 1622.46,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0425-s05",
+      "heading": "AI伺服器發展",
+      "start": 1622.51,
+      "end": 1775.42,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0425-s06",
+      "heading": "Q&A 環節（續）",
+      "start": 1775.47,
+      "end": 3104.47,
+      "confidence": 0.7
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 321,
+  "source": "auto-aligned from reports/mk/gooaye-ep0321.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0321.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ba119e57-004d-4b24-8175-0bbba631914d/rssFileVip.mp3?timestamp=1689439384726",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0321-s01",
+      "heading": "開場 / 贊助：MOFT 磁吸行動電源",
+      "start": 0.0,
+      "end": 67.31,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0321-s02",
+      "heading": "大魯閣風波與操作倫理聲明",
+      "start": 67.36,
+      "end": 168.53,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0321-s03",
+      "heading": "這波反彈超預期，開始做減碼",
+      "start": 168.58,
+      "end": 284.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0321-s04",
+      "heading": "2020 年教訓：只有新手賺完整段",
+      "start": 284.32,
+      "end": 370.95,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0321-s05",
+      "heading": "脂肪相關藥物公司上新櫃：賣早了",
+      "start": 371.0,
+      "end": 466.61,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0321-s06",
+      "heading": "警員放空強勢股自殺事件",
+      "start": 466.66,
+      "end": 643.59,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0321-s07",
+      "heading": "奧利資本跑路信：史上最誠實的詐騙",
+      "start": 643.64,
+      "end": 1524.34,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0321-s08",
+      "heading": "Q&A",
+      "start": 1524.39,
+      "end": 3056.93,
+      "confidence": 0.733
+    }
+  ]
+}

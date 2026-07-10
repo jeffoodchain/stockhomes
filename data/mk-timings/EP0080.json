@@ -1,0 +1,65 @@
+{
+  "ep": 80,
+  "source": "auto-aligned from reports/mk/gooaye-ep0080.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0080.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3578697b-3f60-47c2-b598-879d954dcfdb/rssFileVip.mp3?timestamp=1689439385804",
+  "duration": 2505.59,
+  "segments": [
+    {
+      "id": "ep0080-s01",
+      "heading": "開場 / 贊助：BFFECT 好肌膚精華研究室",
+      "start": 0.24,
+      "end": 203.87,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0080-s02",
+      "heading": "美國大選前：台灣網紅互撕風波",
+      "start": 203.92,
+      "end": 632.73,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0080-s03",
+      "heading": "Hunter Biden 電腦門事件",
+      "start": 632.78,
+      "end": 883.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0080-s04",
+      "heading": "Twitter / Facebook 審查爭議",
+      "start": 883.78,
+      "end": 1371.57,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0080-s05",
+      "heading": "Post Malone 與 2020 BBMA",
+      "start": 1371.62,
+      "end": 1466.83,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0080-s06",
+      "heading": "台股盤面回顧：台積電、大立光、Fastly、Cloudflare",
+      "start": 1466.88,
+      "end": 1849.67,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0080-s07",
+      "heading": "Q&A",
+      "start": 1849.72,
+      "end": 2501.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0080-s08",
+      "heading": "結尾",
+      "start": 2501.78,
+      "end": 2505.59,
+      "confidence": 0.684
+    }
+  ]
+}

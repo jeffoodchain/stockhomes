@@ -1,0 +1,65 @@
+{
+  "ep": 315,
+  "source": "auto-aligned from reports/mk/gooaye-ep0315.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0315.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/be06aba0-15f5-4d75-bbc3-7c1c7c038ad8/rssFileVip.mp3?timestamp=1689439398124",
+  "duration": 3193.65,
+  "segments": [
+    {
+      "id": "ep0315-s01",
+      "heading": "開場 / 贊助：伊萊克斯",
+      "start": 0.0,
+      "end": 95.07,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0315-s02",
+      "heading": "快樂釣魚心得",
+      "start": 95.12,
+      "end": 536.69,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0315-s03",
+      "heading": "臺股封關前行情",
+      "start": 536.74,
+      "end": 749.91,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0315-s04",
+      "heading": "做多的數學優勢",
+      "start": 749.96,
+      "end": 898.66,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0315-s05",
+      "heading": "半導體期流動性問題",
+      "start": 898.71,
+      "end": 1104.56,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0315-s06",
+      "heading": "美股技術面觀察：再攻前高",
+      "start": 1104.61,
+      "end": 1380.58,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0315-s07",
+      "heading": "特斯拉降價被市場誤讀",
+      "start": 1380.63,
+      "end": 1504.58,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0315-s08",
+      "heading": "Q&A",
+      "start": 1504.63,
+      "end": 3193.65,
+      "confidence": 0.644
+    }
+  ]
+}

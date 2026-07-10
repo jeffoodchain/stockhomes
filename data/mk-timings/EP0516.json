@@ -1,0 +1,79 @@
+{
+  "ep": 516,
+  "source": "auto-aligned from reports/mk/gooaye-ep0516.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0516.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/07ae1a38-bc11-4183-bba4-15e48a7da5b8/rssFileVip.mp3?timestamp=1734769299051",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0516-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 78.03,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0516-s02",
+      "heading": "職場霸凌與心理創傷",
+      "start": 78.08,
+      "end": 293.33,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0516-s03",
+      "heading": "職場被脅迫時的應對建議",
+      "start": 293.38,
+      "end": 593.99,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0516-s04",
+      "heading": "美股與臺股市場動態",
+      "start": 594.04,
+      "end": 654.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0516-s05",
+      "heading": "ASIC 與網通題材",
+      "start": 654.6,
+      "end": 809.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0516-s06",
+      "heading": "TP-Link 遭制裁引發網通股行情",
+      "start": 809.66,
+      "end": 986.03,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0516-s07",
+      "heading": "WiFi Router 替代品分析",
+      "start": 986.08,
+      "end": 1201.51,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0516-s08",
+      "heading": "Starlink 與奇鋐 (Quectel)",
+      "start": 1201.56,
+      "end": 1444.79,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0516-s09",
+      "heading": "美光財報與消費性復甦展望",
+      "start": 1444.84,
+      "end": 1600.55,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0516-s10",
+      "heading": "Q&A 時段",
+      "start": 1600.6,
+      "end": 2998.96,
+      "confidence": 0.733
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ep": 558,
+  "source": "auto-aligned from reports/mk/gooaye-ep0558.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0558.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/41ef3f68-3c32-4d5a-9fed-0cacb9d8ca8e/rssFileVip.mp3?timestamp=1747472596160",
+  "duration": 3061.37,
+  "segments": [
+    {
+      "id": "ep0558-s01",
+      "heading": "開場 / 贊助：喬致庸國際有限公司（Lojel 行李箱）",
+      "start": 0.0,
+      "end": 72.49,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0558-s02",
+      "heading": "開場閒聊：煩惱返童",
+      "start": 72.54,
+      "end": 255.17,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0558-s03",
+      "heading": "Tizzy Bac 演唱會：重溫青春",
+      "start": 255.22,
+      "end": 436.27,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0558-s04",
+      "heading": "林口計畫：練團室、遊戲投資公司",
+      "start": 436.32,
+      "end": 601.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0558-s05",
+      "heading": "廣告：優勢資本 AI 量化實習生",
+      "start": 601.8,
+      "end": 707.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0558-s06",
+      "heading": "主話題：川普中東行與市場展望",
+      "start": 707.72,
+      "end": 810.23,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0558-s07",
+      "heading": "AI 供應鏈：GB200/GB300 換代與需求修正",
+      "start": 810.28,
+      "end": 1004.57,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0558-s08",
+      "heading": "波音與航空供應鏈",
+      "start": 1004.62,
+      "end": 1309.07,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0558-s09",
+      "heading": "關稅對紡織、製鞋業的影響",
+      "start": 1309.12,
+      "end": 1397.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0558-s10",
+      "heading": "SPS Technologies 火災與航空供應鏈影響",
+      "start": 1397.16,
+      "end": 1512.95,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0558-s11",
+      "heading": "AI 出口管制政策轉向",
+      "start": 1513.0,
+      "end": 1607.67,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0558-s12",
+      "heading": "Q&A",
+      "start": 1607.72,
+      "end": 3061.37,
+      "confidence": 0.711
+    }
+  ]
+}

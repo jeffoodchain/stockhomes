@@ -1,0 +1,72 @@
+{
+  "ep": 563,
+  "source": "auto-aligned from reports/mk/gooaye-ep0563.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0563.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e64deb8-758b-4b83-ab11-36b087a08c1a/rssFileVip.mp3?timestamp=1749023077509",
+  "duration": 2969.23,
+  "segments": [
+    {
+      "id": "ep0563-s01",
+      "heading": "開場 / 贊助：神州M × 活俠傳",
+      "start": 0.21,
+      "end": 81.94,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0563-s02",
+      "heading": "市場行情：全面射出，本人操作偏保守",
+      "start": 81.99,
+      "end": 185.18,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0563-s03",
+      "heading": "CCL、PCB、日系材料股：市場的想象題材",
+      "start": 185.23,
+      "end": 315.78,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0563-s04",
+      "heading": "市場邏輯：恰到好處的平衡，與當前大盤",
+      "start": 315.83,
+      "end": 502.04,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0563-s05",
+      "heading": "台積電法說、匯率影響與EPS展望",
+      "start": 502.09,
+      "end": 617.58,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0563-s06",
+      "heading": "無人機題材：烏克蘭「蜘蛛網行動」與台灣佈局",
+      "start": 617.63,
+      "end": 1134.5,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0563-s07",
+      "heading": "Credo（CRDO）財報亮眼，貿聯（3665）受惠",
+      "start": 1134.55,
+      "end": 1312.04,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0563-s08",
+      "heading": "CoreWeave（CRWV）：跟了好幾年，一張都沒買到",
+      "start": 1312.09,
+      "end": 1678.64,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0563-s09",
+      "heading": "Q&A",
+      "start": 1678.69,
+      "end": 2969.23,
+      "confidence": 0.733
+    }
+  ]
+}

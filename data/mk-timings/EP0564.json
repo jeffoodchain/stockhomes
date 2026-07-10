@@ -1,0 +1,65 @@
+{
+  "ep": 564,
+  "source": "auto-aligned from reports/mk/gooaye-ep0564.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0564.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e0129ef0-bea3-4485-9aae-d50f61c392bc/rssFileVip.mp3?timestamp=1749284640102",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0564-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 77.67,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0564-s02",
+      "heading": "生日回顧：吃雞、驚喜禮物與 PlayStation Portal",
+      "start": 77.72,
+      "end": 291.15,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0564-s03",
+      "heading": "生日禮物：氣球組、2B 畫像與聚餐",
+      "start": 291.2,
+      "end": 440.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0564-s04",
+      "heading": "生日願望：從自己到家人",
+      "start": 440.06,
+      "end": 501.11,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0564-s05",
+      "heading": "川普 vs. 馬斯克：OBB 法案決裂始末",
+      "start": 501.16,
+      "end": 849.69,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0564-s06",
+      "heading": "馬斯克的算計與損失",
+      "start": 849.74,
+      "end": 1253.65,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0564-s07",
+      "heading": "Broadcom 財報解析",
+      "start": 1253.7,
+      "end": 1553.73,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0564-s08",
+      "heading": "Q&A",
+      "start": 1553.78,
+      "end": 2995.98,
+      "confidence": 0.956
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "ep": 616,
+  "source": "auto-aligned from reports/mk/gooaye-ep0616.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0616.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/39afa2ae-e12b-4979-9a84-bc8518a48ea1/rssFileVip.mp3?timestamp=1765057197545",
+  "duration": 2976.68,
+  "segments": [
+    {
+      "id": "ep0616-s01",
+      "heading": "開場 / 贊助：米紅司令黑紅瑪卡",
+      "start": 0.0,
+      "end": 109.65,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0616-s02",
+      "heading": "社交白痴自述：包餐廳吃飯帶酒去",
+      "start": 109.7,
+      "end": 405.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0616-s03",
+      "heading": "德國馬拉松、咖哩香腸、把握當下",
+      "start": 405.88,
+      "end": 573.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0616-s04",
+      "heading": "散裝航運：賭烏俄停戰的短線題材",
+      "start": 573.88,
+      "end": 801.89,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0616-s05",
+      "heading": "博通漲價：Merchant 晶片有 upside",
+      "start": 801.94,
+      "end": 886.35,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0616-s06",
+      "heading": "後段封裝：台積電產能外溢到 OSAT",
+      "start": 886.4,
+      "end": 1056.63,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0616-s07",
+      "heading": "Intel EMIB vs. TSMC CoWoS：競爭與題材",
+      "start": 1056.68,
+      "end": 1321.03,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0616-s08",
+      "heading": "MCL 建策噴新高、JPM 上修引領",
+      "start": 1321.08,
+      "end": 1405.65,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0616-s09",
+      "heading": "行程規劃：德國、回娘家、減動能加小矽谷",
+      "start": 1405.7,
+      "end": 1545.71,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0616-s10",
+      "heading": "Q&A：祝中壢大谷翔平結婚順利",
+      "start": 1545.76,
+      "end": 1573.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0616-s11",
+      "heading": "Q&A：林口 ASML 帥哥生日 & 觀音庇佑",
+      "start": 1574.04,
+      "end": 1788.03,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0616-s12",
+      "heading": "Q&A：太豬一停感情歸零",
+      "start": 1788.08,
+      "end": 1810.79,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0616-s13",
+      "heading": "Q&A：天母楊又寧 & 看字看久不像字",
+      "start": 1810.84,
+      "end": 1842.06,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0616-s14",
+      "heading": "Q&A：12/6 巨根兄弟 & 小明漱口",
+      "start": 1842.11,
+      "end": 1874.01,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0616-s15",
+      "heading": "Q&A：實習捏卵爸爸 & 中榮醫療團隊",
+      "start": 1874.06,
+      "end": 2009.32,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0616-s16",
+      "heading": "Q&A：新貴 PCB 裝置股 & 小胡事件",
+      "start": 2009.37,
+      "end": 2321.84,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0616-s17",
+      "heading": "Q&A：中國黑幫滲透 & 區塊鏈 & 玩笑題",
+      "start": 2321.89,
+      "end": 2388.94,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0616-s18",
+      "heading": "Q&A：兔兔愛吃草加入捏卵陣線",
+      "start": 2388.99,
+      "end": 2418.6,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0616-s19",
+      "heading": "Q&A：擺攤創業申請補助",
+      "start": 2418.65,
+      "end": 2489.12,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0616-s20",
+      "heading": "Q&A：開車放 Oasis 小孩秒睡 & 五月天狂粉",
+      "start": 2489.17,
+      "end": 2602.36,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0616-s21",
+      "heading": "Q&A：基隆小華寶 Credo vs. Astera Labs",
+      "start": 2602.41,
+      "end": 2929.67,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0616-s22",
+      "heading": "Q&A：謝謝接送小孩、知足平安",
+      "start": 2929.72,
+      "end": 2976.68,
+      "confidence": 0.733
+    }
+  ]
+}

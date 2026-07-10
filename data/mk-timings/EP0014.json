@@ -1,0 +1,58 @@
+{
+  "ep": 14,
+  "source": "auto-aligned from reports/mk/gooaye-ep0014.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0014.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/108d9ad9-37c7-4fdc-835d-5b057b560151/rssFileVip.mp3?timestamp=1761072700491",
+  "duration": 1324.15,
+  "segments": [
+    {
+      "id": "ep0014-s01",
+      "heading": "開場：心理測驗——逆勢操作要不得",
+      "start": 0.37,
+      "end": 87.75,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0014-s02",
+      "heading": "回覆聽眾評論",
+      "start": 87.8,
+      "end": 392.81,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0014-s03",
+      "heading": "時事：市場干預與疫情衝擊",
+      "start": 392.86,
+      "end": 630.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0014-s04",
+      "heading": "國安基金：機制、歷史與護盤邏輯",
+      "start": 630.56,
+      "end": 1055.48,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0014-s05",
+      "heading": "趨勢判斷：Note7 砍價比喻",
+      "start": 1055.53,
+      "end": 1222.11,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0014-s06",
+      "heading": "00672L 元大原油正2 續命事件",
+      "start": 1222.16,
+      "end": 1272.07,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0014-s07",
+      "heading": "Q&A 與結語",
+      "start": 1272.12,
+      "end": 1324.15,
+      "confidence": 0.978
+    }
+  ]
+}

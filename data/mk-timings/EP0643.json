@@ -1,0 +1,58 @@
+{
+  "ep": 643,
+  "source": "auto-aligned from reports/mk/gooaye-ep0643.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0643.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/788ff1ea-2513-4be6-8100-e57a4baf9bc3/rssFileVip.mp3?timestamp=1773268390795",
+  "duration": 3091.1,
+  "segments": [
+    {
+      "id": "ep0643-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 81.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0643-s02",
+      "heading": "近況：拔掉電腦風扇，人生改變",
+      "start": 81.88,
+      "end": 500.43,
+      "confidence": 0.467
+    },
+    {
+      "id": "ep0643-s03",
+      "heading": "市場看法：低點操作檢討",
+      "start": 500.48,
+      "end": 957.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0643-s04",
+      "heading": "市場看點：原油、VIX、伊朗局勢",
+      "start": 957.58,
+      "end": 1198.51,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0643-s05",
+      "heading": "產業焦點：記憶體漲價、NVIDIA LPU 新題材",
+      "start": 1198.56,
+      "end": 1483.73,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0643-s06",
+      "heading": "盤勢分析：強弱分化，現金控管",
+      "start": 1483.78,
+      "end": 1675.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0643-s07",
+      "heading": "Q&A",
+      "start": 1676.02,
+      "end": 3091.1,
+      "confidence": 0.822
+    }
+  ]
+}

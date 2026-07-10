@@ -1,0 +1,44 @@
+{
+  "ep": 37,
+  "source": "auto-aligned from reports/mk/gooaye-ep0037.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0037.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1f3c8fa5-3ade-471c-94c4-83aa2924ff79/rssFileVip.mp3?timestamp=1761072694830",
+  "duration": 2627.4,
+  "segments": [
+    {
+      "id": "ep0037-s01",
+      "heading": "開場 / 贊助：樂天 Kobo 電子書",
+      "start": 0.3,
+      "end": 291.95,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0037-s02",
+      "heading": "錯誤筆記事件：PTT 上的豆漿風波",
+      "start": 292.0,
+      "end": 869.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0037-s03",
+      "heading": "訂閱經濟的看法",
+      "start": 869.5,
+      "end": 1573.46,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0037-s04",
+      "heading": "Q&A",
+      "start": 1573.51,
+      "end": 2558.95,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0037-s05",
+      "heading": "生技股分析",
+      "start": 2559.0,
+      "end": 2627.4,
+      "confidence": 0.833
+    }
+  ]
+}

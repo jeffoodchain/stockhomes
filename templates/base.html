@@ -141,6 +141,48 @@
       const reportParams = new URLSearchParams(window.location.search);
       const reportQuery = reportParams.get('q');
       const content = document.querySelector('.content');
+
+      const podcastPlayer = document.querySelector('[data-podcast-player]');
+      if (podcastPlayer) {
+        const audio = podcastPlayer.querySelector('audio');
+        const buttons = [...document.querySelectorAll('[data-podcast-play]')];
+        let stopAt = null;
+
+        const playSegment = (button) => {
+          if (!audio) return;
+          const start = Number(button.dataset.start || 0);
+          const end = Number(button.dataset.end || 0);
+          stopAt = Number.isFinite(end) && end > start ? end : null;
+          audio.currentTime = Math.max(0, start);
+          audio.play().catch(() => {});
+          for (const btn of buttons) btn.classList.toggle('podcast-play-active', btn === button);
+          if (button.dataset.segmentId) {
+            history.replaceState(null, '', '#' + encodeURIComponent(button.dataset.segmentId));
+          }
+        };
+
+        for (const button of buttons) {
+          button.addEventListener('click', () => playSegment(button));
+        }
+
+        if (audio) {
+          audio.addEventListener('timeupdate', () => {
+            if (stopAt !== null && audio.currentTime >= stopAt) {
+              audio.pause();
+              stopAt = null;
+            }
+          });
+        }
+
+        const hashId = decodeURIComponent(window.location.hash.replace(/^#/, ''));
+        if (hashId) {
+          const target = document.getElementById(hashId);
+          const button = target?.querySelector('[data-podcast-play]');
+          if (target) target.scrollIntoView({ block: 'center' });
+          if (button) button.classList.add('podcast-play-active');
+        }
+      }
+
       if (reportQuery && content) {
         const needle = reportQuery.trim().replace(/\s+/g, ' ').toLowerCase();
         const hitIndex = parseInt(reportParams.get('n'), 10);

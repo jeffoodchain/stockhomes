@@ -1,0 +1,107 @@
+{
+  "ep": 206,
+  "source": "auto-aligned from reports/mk/gooaye-ep0206.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0206.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/00beb560-79a7-43c1-a6a1-969e7d60fdd3/rssFileVip.mp3?timestamp=1689439381227",
+  "duration": 2646.77,
+  "segments": [
+    {
+      "id": "ep0206-s01",
+      "heading": "開場 / 贊助",
+      "start": 0.0,
+      "end": 105.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0206-s02",
+      "heading": "生活與近況閒聊 1",
+      "start": 105.4,
+      "end": 292.63,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0206-s03",
+      "heading": "市場與投資討論 2",
+      "start": 292.68,
+      "end": 489.79,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0206-s04",
+      "heading": "市場與投資討論 3",
+      "start": 489.84,
+      "end": 706.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0206-s05",
+      "heading": "生活與近況閒聊 4",
+      "start": 706.84,
+      "end": 878.15,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0206-s06",
+      "heading": "生活與近況閒聊 5",
+      "start": 878.2,
+      "end": 1086.95,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0206-s07",
+      "heading": "節目主題討論 6",
+      "start": 1087.0,
+      "end": 1293.87,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0206-s08",
+      "heading": "生活與近況閒聊 7",
+      "start": 1293.92,
+      "end": 1497.01,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0206-s09",
+      "heading": "市場與投資討論 8",
+      "start": 1497.06,
+      "end": 1678.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0206-s10",
+      "heading": "Q&A：聽眾問答",
+      "start": 1679.0,
+      "end": 1896.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0206-s11",
+      "heading": "Q&A：聽眾問答 2",
+      "start": 1896.64,
+      "end": 2110.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0206-s12",
+      "heading": "Q&A：聽眾問答 3",
+      "start": 2111.04,
+      "end": 2324.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0206-s13",
+      "heading": "Q&A：聽眾問答 4",
+      "start": 2324.26,
+      "end": 2532.25,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0206-s14",
+      "heading": "Q&A：聽眾問答 5",
+      "start": 2532.3,
+      "end": 2646.77,
+      "confidence": 0.789
+    }
+  ]
+}

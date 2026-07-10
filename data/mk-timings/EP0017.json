@@ -1,0 +1,58 @@
+{
+  "ep": 17,
+  "source": "auto-aligned from reports/mk/gooaye-ep0017.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0017.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/be3434b6-42d2-49c8-867c-a7f79e071696/rssFileVip.mp3?timestamp=1689439403302",
+  "duration": 661.37,
+  "segments": [
+    {
+      "id": "ep0017-s01",
+      "heading": "開場 / 贊助：異物梗色",
+      "start": 0.21,
+      "end": 67.56,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0017-s02",
+      "heading": "庫藏股是什麼",
+      "start": 67.61,
+      "end": 192.52,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0017-s03",
+      "heading": "庫藏股的眉眉角角",
+      "start": 192.57,
+      "end": 282.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0017-s04",
+      "heading": "遊戲橘子案例：天堂M炒股教科書",
+      "start": 282.3,
+      "end": 517.04,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0017-s05",
+      "heading": "庫藏股的誠信問題：橘子的前車之鑑",
+      "start": 517.09,
+      "end": 603.14,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0017-s06",
+      "heading": "結論：執行率才是真相",
+      "start": 603.19,
+      "end": 641.02,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0017-s07",
+      "heading": "結尾",
+      "start": 641.07,
+      "end": 661.37,
+      "confidence": 0.967
+    }
+  ]
+}

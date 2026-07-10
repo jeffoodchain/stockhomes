@@ -1,0 +1,282 @@
+{
+  "ep": 412,
+  "source": "auto-aligned from reports/mk/gooaye-ep0412.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0412.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/040377de-98b6-490e-b51d-22c1d64fb506/rssFileVip.mp3?timestamp=1703321892232",
+  "duration": 3064.35,
+  "segments": [
+    {
+      "id": "ep0412-s01",
+      "heading": "開場 / 贊助：火星生技武倍對策",
+      "start": 0.0,
+      "end": 47.49,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0412-s02",
+      "heading": "火星生技廣告與漫畫推薦",
+      "start": 47.54,
+      "end": 80.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0412-s03",
+      "heading": "卡牌收集與遊戲卡的價值",
+      "start": 80.66,
+      "end": 129.47,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0412-s04",
+      "heading": "卡牌與收藏品的定義",
+      "start": 129.52,
+      "end": 178.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0412-s05",
+      "heading": "童年回憶與消費心理",
+      "start": 178.88,
+      "end": 260.59,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0412-s06",
+      "heading": "感謝店家與卡牌的價值思考",
+      "start": 260.64,
+      "end": 352.43,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0412-s07",
+      "heading": "收藏的陷阱",
+      "start": 352.48,
+      "end": 414.93,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0412-s08",
+      "heading": "人生資源分配的思考",
+      "start": 414.98,
+      "end": 499.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0412-s09",
+      "heading": "快樂與金錢的對話",
+      "start": 500.04,
+      "end": 572.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0412-s10",
+      "heading": "經營權之爭：網銀與智冠",
+      "start": 572.86,
+      "end": 618.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0412-s11",
+      "heading": "台灣公司策略vs美國飛輪效應",
+      "start": 618.94,
+      "end": 670.29,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0412-s12",
+      "heading": "網銀對智冠的興趣：MyCard 與藍星",
+      "start": 670.34,
+      "end": 721.73,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0412-s13",
+      "heading": "搶股票的實務操作",
+      "start": 721.78,
+      "end": 810.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0412-s14",
+      "heading": "搶股票的策略與成本",
+      "start": 810.82,
+      "end": 874.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0412-s15",
+      "heading": "智冠與榮剛的換股案例",
+      "start": 875.04,
+      "end": 974.65,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0412-s16",
+      "heading": "換股定價的邏輯",
+      "start": 974.7,
+      "end": 1032.65,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0412-s17",
+      "heading": "事件評論與網銀集團介紹",
+      "start": 1032.7,
+      "end": 1081.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0412-s18",
+      "heading": "網紅與私德的觀點",
+      "start": 1081.54,
+      "end": 1153.99,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0412-s19",
+      "heading": "舉辦活動的責任考量",
+      "start": 1154.04,
+      "end": 1235.09,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0412-s20",
+      "heading": "網銀與閃電狼電競隊",
+      "start": 1235.14,
+      "end": 1323.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0412-s21",
+      "heading": "電競與網紅直播帶貨的商業模式問題",
+      "start": 1323.72,
+      "end": 1408.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0412-s22",
+      "heading": "網銀的本業：星城 Online",
+      "start": 1408.72,
+      "end": 1481.99,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0412-s23",
+      "heading": "博弈電玩的金流拆分與經營",
+      "start": 1482.04,
+      "end": 1574.2,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0412-s24",
+      "heading": "美光財報與 HBM 市場",
+      "start": 1574.25,
+      "end": 1635.6,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0412-s25",
+      "heading": "HBM 市佔與產能分析",
+      "start": 1635.65,
+      "end": 1740.7,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0412-s26",
+      "heading": "市場效率與投資決策",
+      "start": 1740.75,
+      "end": 1809.76,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0412-s27",
+      "heading": "Q&A 時間開始",
+      "start": 1809.81,
+      "end": 1904.22,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0412-s28",
+      "heading": "Q&A：期貨轉倉與選股困境",
+      "start": 1904.27,
+      "end": 1998.92,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0412-s29",
+      "heading": "Q&A：寵物與狗毛處理",
+      "start": 1998.97,
+      "end": 2137.94,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0412-s30",
+      "heading": "Q&A：被動投資與長期報酬",
+      "start": 2137.99,
+      "end": 2230.52,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0412-s31",
+      "heading": "Q&A：電影與投機者告白",
+      "start": 2230.57,
+      "end": 2290.95,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0412-s32",
+      "heading": "Q&A：外貌與讚美",
+      "start": 2291.0,
+      "end": 2328.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0412-s33",
+      "heading": "Q&A：選股困境與市場效率",
+      "start": 2328.58,
+      "end": 2472.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0412-s34",
+      "heading": "Q&A：房貸與資產配置",
+      "start": 2472.3,
+      "end": 2697.8,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0412-s35",
+      "heading": "Q&A：懷孕與祝福",
+      "start": 2697.85,
+      "end": 2731.06,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0412-s36",
+      "heading": "Q&A：電影推薦",
+      "start": 2731.11,
+      "end": 2766.48,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0412-s37",
+      "heading": "Q&A：虛偽朋友與人生抉擇",
+      "start": 2766.53,
+      "end": 2884.91,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0412-s38",
+      "heading": "Q&A：網紅話題與內梗",
+      "start": 2884.96,
+      "end": 2974.57,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0412-s39",
+      "heading": "Q&A：優質節目與感謝",
+      "start": 2974.62,
+      "end": 3064.35,
+      "confidence": 0.878
+    }
+  ]
+}

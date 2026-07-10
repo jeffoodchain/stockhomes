@@ -1,0 +1,282 @@
+{
+  "ep": 519,
+  "source": "auto-aligned from reports/mk/gooaye-ep0519.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0519.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/092169eb-38be-40d6-a574-0646b21ad644/rssFileVip.mp3?timestamp=1735721947890",
+  "duration": 3123.8,
+  "segments": [
+    {
+      "id": "ep0519-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 73.37,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0519-s02",
+      "heading": "新年開場與 2024 年回顧",
+      "start": 73.42,
+      "end": 151.27,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0519-s03",
+      "heading": "2025 年的目標與期待",
+      "start": 151.32,
+      "end": 220.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0519-s04",
+      "heading": "工作展望與風險管理",
+      "start": 220.58,
+      "end": 259.59,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0519-s05",
+      "heading": "打群架、自證預言與交易策略",
+      "start": 259.64,
+      "end": 414.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0519-s06",
+      "heading": "五年節目之路",
+      "start": 414.76,
+      "end": 474.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0519-s07",
+      "heading": "聽眾回饋與感謝",
+      "start": 474.1,
+      "end": 535.49,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0519-s08",
+      "heading": "投資理念與風險管理",
+      "start": 535.54,
+      "end": 586.41,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0519-s09",
+      "heading": "小矽谷選股策略",
+      "start": 586.46,
+      "end": 677.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0519-s10",
+      "heading": "具體個案分析",
+      "start": 677.94,
+      "end": 775.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0519-s11",
+      "heading": "買進策略與籌碼操作",
+      "start": 775.6,
+      "end": 807.05,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0519-s12",
+      "heading": "公司訪查與主動出擊",
+      "start": 807.1,
+      "end": 900.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0519-s13",
+      "heading": "小矽谷部位管理",
+      "start": 900.48,
+      "end": 948.09,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0519-s14",
+      "heading": "小矽谷的波動與機會",
+      "start": 948.14,
+      "end": 1036.81,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0519-s15",
+      "heading": "交易心理與策略突破",
+      "start": 1036.86,
+      "end": 1125.27,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0519-s16",
+      "heading": "情緒變化與出貨機制",
+      "start": 1125.32,
+      "end": 1181.09,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0519-s17",
+      "heading": "掛單策略與情緒交易",
+      "start": 1181.14,
+      "end": 1267.63,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0519-s18",
+      "heading": "短線機會與風險管理",
+      "start": 1267.68,
+      "end": 1412.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0519-s19",
+      "heading": "選股Know-How與量化困境",
+      "start": 1412.64,
+      "end": 1510.77,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0519-s20",
+      "heading": "風險回報比與決策哲學",
+      "start": 1510.82,
+      "end": 1583.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0519-s21",
+      "heading": "小矽谷vs大型股的競爭力",
+      "start": 1583.72,
+      "end": 1622.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0519-s22",
+      "heading": "類比遊戲與技巧通關",
+      "start": 1622.7,
+      "end": 1762.47,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0519-s23",
+      "heading": "小矽谷掌握度高的原因",
+      "start": 1762.52,
+      "end": 1843.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0519-s24",
+      "heading": "Q&A 時間 - AI Agent 與 Immersion",
+      "start": 1843.42,
+      "end": 1992.63,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0519-s25",
+      "heading": "Q&A 時間 - 生日祝福與人生感悟",
+      "start": 1992.68,
+      "end": 2138.91,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0519-s26",
+      "heading": "Q&A 時間 - 生日祝福與新事業",
+      "start": 2138.96,
+      "end": 2154.21,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0519-s27",
+      "heading": "Q&A 時間 - 兩性問題",
+      "start": 2154.26,
+      "end": 2177.57,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0519-s28",
+      "heading": "Q&A 時間 - 工作與生活平衡",
+      "start": 2177.62,
+      "end": 2193.21,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0519-s29",
+      "heading": "Q&A 時間 - AI與專業替代性",
+      "start": 2193.26,
+      "end": 2363.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0519-s30",
+      "heading": "Q&A 時間 - 曖昧成功案例",
+      "start": 2363.68,
+      "end": 2402.39,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0519-s31",
+      "heading": "Q&A 時間 - 音樂推薦",
+      "start": 2402.44,
+      "end": 2417.53,
+      "confidence": 0.775
+    },
+    {
+      "id": "ep0519-s32",
+      "heading": "Q&A 時間 - 創業困境",
+      "start": 2417.58,
+      "end": 2479.49,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0519-s33",
+      "heading": "Q&A 時間 - 威盛投資看法",
+      "start": 2479.54,
+      "end": 2683.89,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0519-s34",
+      "heading": "Q&A 時間 - 最後祝福",
+      "start": 2683.94,
+      "end": 2790.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0519-s35",
+      "heading": "Q&A 時間 - Vision Pro 評價",
+      "start": 2790.24,
+      "end": 2862.25,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0519-s36",
+      "heading": "Q&A 時間 - 醫療與健康",
+      "start": 2862.3,
+      "end": 2874.01,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0519-s37",
+      "heading": "Q&A 時間 - 生日祝福",
+      "start": 2874.06,
+      "end": 2890.51,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0519-s38",
+      "heading": "Q&A 時間 - 音樂與新聞評論",
+      "start": 2890.56,
+      "end": 2964.61,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0519-s39",
+      "heading": "Q&A 時間 - Inferentia 與 DSP 晶片",
+      "start": 2964.66,
+      "end": 3123.8,
+      "confidence": 0.844
+    }
+  ]
+}

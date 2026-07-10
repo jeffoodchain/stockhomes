@@ -1,0 +1,79 @@
+{
+  "ep": 62,
+  "source": "auto-aligned from reports/mk/gooaye-ep0062.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0062.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ea02d7c9-f4d8-4d82-acb6-27756fe70781/rssFileVip.mp3?timestamp=1689439385402",
+  "duration": 2477.35,
+  "segments": [
+    {
+      "id": "ep0062-s01",
+      "heading": "開場 / 贊助：Foodpanda",
+      "start": 0.02,
+      "end": 128.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0062-s02",
+      "heading": "香港壹傳媒事件",
+      "start": 128.78,
+      "end": 466.67,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0062-s03",
+      "heading": "台股漲價概念股總覽",
+      "start": 466.72,
+      "end": 632.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0062-s04",
+      "heading": "板卡之亂：挖礦潮",
+      "start": 632.4,
+      "end": 815.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0062-s05",
+      "heading": "MLCC之亂：國巨、禾伸堂",
+      "start": 815.72,
+      "end": 1067.93,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0062-s06",
+      "heading": "CCL、PCB到ABF載板：5G題材的資金輪動",
+      "start": 1067.98,
+      "end": 1376.41,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0062-s07",
+      "heading": "矽晶圓之亂",
+      "start": 1376.46,
+      "end": 1586.69,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0062-s08",
+      "heading": "贊助：天堂20週年月費服 REMASTERED",
+      "start": 1586.74,
+      "end": 1641.29,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0062-s09",
+      "heading": "Q&A",
+      "start": 1641.34,
+      "end": 2453.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0062-s10",
+      "heading": "結尾",
+      "start": 2453.44,
+      "end": 2477.35,
+      "confidence": 0.778
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 292,
+  "source": "auto-aligned from reports/mk/gooaye-ep0292.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0292.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/56ca6a34-89a9-4ea8-825f-d20ccc810155/rssFileVip.mp3?timestamp=1689439385575",
+  "duration": 3379.41,
+  "segments": [
+    {
+      "id": "ep0292-s01",
+      "heading": "開場 / 贊助：喜劇演員的幽默方程式",
+      "start": 0.0,
+      "end": 69.93,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0292-s02",
+      "heading": "台海局勢與備戰心態",
+      "start": 69.98,
+      "end": 113.01,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0292-s03",
+      "heading": "海外提款卡與緊急備用金",
+      "start": 113.06,
+      "end": 317.63,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0292-s04",
+      "heading": "爸媽故事：月光族與何不食肉糜",
+      "start": 317.68,
+      "end": 617.83,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0292-s05",
+      "heading": "財報季：大公司一次掃完",
+      "start": 617.88,
+      "end": 839.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0292-s06",
+      "heading": "Meta",
+      "start": 839.42,
+      "end": 1103.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0292-s07",
+      "heading": "Amazon",
+      "start": 1103.6,
+      "end": 1485.45,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0292-s08",
+      "heading": "Apple",
+      "start": 1485.5,
+      "end": 1636.67,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0292-s09",
+      "heading": "Tesla",
+      "start": 1636.72,
+      "end": 1985.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0292-s10",
+      "heading": "Q&A",
+      "start": 1985.1,
+      "end": 3379.41,
+      "confidence": 0.878
+    }
+  ]
+}

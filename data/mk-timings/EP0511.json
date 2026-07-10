@@ -1,0 +1,93 @@
+{
+  "ep": 511,
+  "source": "auto-aligned from reports/mk/gooaye-ep0511.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0511.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/95450e3e-b084-4326-87b1-b06a031e5867/rssFileVip.mp3?timestamp=1733297658689",
+  "duration": 2985.59,
+  "segments": [
+    {
+      "id": "ep0511-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 79.35,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0511-s02",
+      "heading": "臺股反彈 與 美股走勢",
+      "start": 79.4,
+      "end": 144.97,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0511-s03",
+      "heading": "LA 旅遊見聞",
+      "start": 145.02,
+      "end": 317.75,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0511-s04",
+      "heading": "比弗利山莊 與 餐飲體驗",
+      "start": 317.8,
+      "end": 471.83,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0511-s05",
+      "heading": "迪士尼樂園 體驗記",
+      "start": 471.88,
+      "end": 723.43,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0511-s06",
+      "heading": "股市技術面分析 與 美股半導體",
+      "start": 723.48,
+      "end": 793.95,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0511-s07",
+      "heading": "Marvell 與 AWS 合作",
+      "start": 794.0,
+      "end": 861.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0511-s08",
+      "heading": "Intel 與 Patrick Singer 離職",
+      "start": 862.02,
+      "end": 976.03,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0511-s09",
+      "heading": "Intel Foundry 與 Sam Altman 機會",
+      "start": 976.08,
+      "end": 1110.99,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0511-s10",
+      "heading": "Blackwell 供應鏈 與 市場預期",
+      "start": 1111.04,
+      "end": 1244.73,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0511-s11",
+      "heading": "微軟 GB200 訂單 與 市場動態",
+      "start": 1244.78,
+      "end": 1547.77,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0511-s12",
+      "heading": "Q&A 環節",
+      "start": 1547.82,
+      "end": 2985.59,
+      "confidence": 0.622
+    }
+  ]
+}

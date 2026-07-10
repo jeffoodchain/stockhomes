@@ -1,0 +1,72 @@
+{
+  "ep": 74,
+  "source": "auto-aligned from reports/mk/gooaye-ep0074.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0074.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2e90660e-9db7-4e13-a098-6beda5e587bb/rssFileVip.mp3?timestamp=1689439404834",
+  "duration": 2432.78,
+  "segments": [
+    {
+      "id": "ep0074-s01",
+      "heading": "開場 / 贊助：Eatgether",
+      "start": 0.08,
+      "end": 77.77,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0074-s02",
+      "heading": "開場閒聊：噪音、燒金紙、百靈果派對",
+      "start": 77.82,
+      "end": 367.99,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0074-s03",
+      "heading": "DR股：溢價亂象與證交所處置",
+      "start": 368.04,
+      "end": 728.79,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0074-s04",
+      "heading": "高收益債代操事件",
+      "start": 728.84,
+      "end": 1036.55,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0074-s05",
+      "heading": "台股操作要點：汰弱留強、以盤代跌",
+      "start": 1036.6,
+      "end": 1163.65,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0074-s06",
+      "heading": "美股話題：SPAC / QuantumScape、雲端遊戲、Tesla Battery Day",
+      "start": 1163.7,
+      "end": 1676.19,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0074-s07",
+      "heading": "贊助：國泰世華銀行亞洲萬里通聯名卡",
+      "start": 1676.24,
+      "end": 1728.19,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0074-s08",
+      "heading": "Q&A",
+      "start": 1728.24,
+      "end": 2417.43,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0074-s09",
+      "heading": "結語",
+      "start": 2417.48,
+      "end": 2432.78,
+      "confidence": 0.878
+    }
+  ]
+}

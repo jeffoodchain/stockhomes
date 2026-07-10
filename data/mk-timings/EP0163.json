@@ -1,0 +1,65 @@
+{
+  "ep": 163,
+  "source": "auto-aligned from reports/mk/gooaye-ep0163.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0163.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/da0520e4-aa4c-4666-9cec-657320fd947b/rssFileVip.mp3?timestamp=1689439384899",
+  "duration": 2844.42,
+  "segments": [
+    {
+      "id": "ep0163-s01",
+      "heading": "開場 / 贊助：白蘭氏雞精",
+      "start": 0.0,
+      "end": 79.33,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0163-s02",
+      "heading": "新生兒報到：當爸了",
+      "start": 79.38,
+      "end": 223.41,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0163-s03",
+      "heading": "選擇醫院：禾馨婦產科",
+      "start": 223.46,
+      "end": 320.65,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0163-s04",
+      "heading": "Square 財報與併購 Afterpay",
+      "start": 320.7,
+      "end": 631.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0163-s05",
+      "heading": "BNPL（先買後付）介紹",
+      "start": 631.18,
+      "end": 1189.05,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0163-s06",
+      "heading": "台灣 BNPL 市場：中租、AFTEE、慧智基因",
+      "start": 1189.1,
+      "end": 1424.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0163-s07",
+      "heading": "Q&A",
+      "start": 1424.74,
+      "end": 2836.35,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0163-s08",
+      "heading": "結尾",
+      "start": 2836.4,
+      "end": 2844.42,
+      "confidence": 0.755
+    }
+  ]
+}

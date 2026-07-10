@@ -1,0 +1,58 @@
+{
+  "ep": 82,
+  "source": "auto-aligned from reports/mk/gooaye-ep0082.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0082.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f84d093c-8d37-4973-9402-13ebaed0e5fa/rssFileVip.mp3?timestamp=1689439406323",
+  "duration": 2481.82,
+  "segments": [
+    {
+      "id": "ep0082-s01",
+      "heading": "開場 / 贊助：橘子工坊",
+      "start": 0.11,
+      "end": 96.04,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0082-s02",
+      "heading": "開場閒聊：哈拉瑞、書單與哈利波特",
+      "start": 96.09,
+      "end": 356.48,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0082-s03",
+      "heading": "臺股：零股交易上路注意事項",
+      "start": 356.53,
+      "end": 1020.8,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0082-s04",
+      "heading": "美股：SMDFK — Google 反壟斷、跟誰學、Tesla 財報",
+      "start": 1020.85,
+      "end": 1585.99,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0082-s05",
+      "heading": "Fracking 與美國第二次總統辯論",
+      "start": 1586.04,
+      "end": 1961.97,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0082-s06",
+      "heading": "贊助：Cyberpunk 電馭叛客 2077",
+      "start": 1962.02,
+      "end": 2079.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0082-s07",
+      "heading": "Q&A",
+      "start": 2079.94,
+      "end": 2481.82,
+      "confidence": 0.756
+    }
+  ]
+}

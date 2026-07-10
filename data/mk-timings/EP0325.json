@@ -1,0 +1,58 @@
+{
+  "ep": 325,
+  "source": "auto-aligned from reports/mk/gooaye-ep0325.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0325.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3d83ade3-a031-4ac8-813c-d5b8275a73e8/rssFileVip.mp3?timestamp=1689439406247",
+  "duration": 2976.68,
+  "segments": [
+    {
+      "id": "ep0325-s01",
+      "heading": "開場 / 贊助：白蘭氏雙認證雞精",
+      "start": 0.0,
+      "end": 88.29,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0325-s02",
+      "heading": "星宇航空籌碼分析與現增討論",
+      "start": 88.34,
+      "end": 457.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0325-s03",
+      "heading": "228連假出遊 / 台北股市盤勢",
+      "start": 457.32,
+      "end": 730.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0325-s04",
+      "heading": "權證異常對敲事件",
+      "start": 730.6,
+      "end": 883.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0325-s05",
+      "heading": "產業動態：Type-C 與蘋果供應鏈",
+      "start": 884.02,
+      "end": 1081.63,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0325-s06",
+      "heading": "產業動態：車用功率半導體與導線架受惠族群",
+      "start": 1081.68,
+      "end": 1329.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0325-s07",
+      "heading": "Q&A",
+      "start": 1329.54,
+      "end": 2976.68,
+      "confidence": 0.711
+    }
+  ]
+}

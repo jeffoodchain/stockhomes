@@ -1,0 +1,44 @@
+{
+  "ep": 527,
+  "source": "auto-aligned from reports/mk/gooaye-ep0527.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0527.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7a5b480b-75ba-4205-8a97-b4328c80721b/rssFileVip.mp3?timestamp=1738131698035",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0527-s01",
+      "heading": "開場 / 贊助：Morris V6 手持式電子衣櫥",
+      "start": 0.0,
+      "end": 104.83,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0527-s02",
+      "heading": "蛇年新年寄語",
+      "start": 104.88,
+      "end": 158.62,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0527-s03",
+      "heading": "新年開運：家庭衝突化解",
+      "start": 158.67,
+      "end": 411.68,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0527-s04",
+      "heading": "Deep Seek 與 AI 市場反思",
+      "start": 411.73,
+      "end": 1450.48,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0527-s05",
+      "heading": "聽眾 Q&A 與祝賀",
+      "start": 1450.53,
+      "end": 2995.98,
+      "confidence": 0.633
+    }
+  ]
+}

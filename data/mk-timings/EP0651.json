@@ -1,0 +1,149 @@
+{
+  "ep": 651,
+  "source": "auto-aligned from reports/mk/gooaye-ep0651.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0651.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b9af779d-9d07-437e-8291-d5f5772eaee0/rssFileVip.mp3?timestamp=1775688440240",
+  "duration": 2990.05,
+  "segments": [
+    {
+      "id": "ep0651-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 78.85,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0651-s02",
+      "heading": "林哲瑄引退儀式：富邦邀請、抓周回憶",
+      "start": 78.9,
+      "end": 282.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0651-s03",
+      "heading": "林哲瑄引退：自信、肯定與被需要",
+      "start": 282.94,
+      "end": 524.93,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0651-s04",
+      "heading": "富邦球場氛圍與林哲瑄的英雄命",
+      "start": 524.98,
+      "end": 718.69,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0651-s05",
+      "heading": "盤勢觀察：多軍噴爆、美伊停火與荷莫茲海峽",
+      "start": 718.74,
+      "end": 959.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0651-s06",
+      "heading": "Tesla Terafab、Intel、Samsung 軍火庫邏輯",
+      "start": 959.6,
+      "end": 1221.03,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0651-s07",
+      "heading": "手機砍單、Apple 趁勢拉市佔",
+      "start": 1221.08,
+      "end": 1400.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0651-s08",
+      "heading": "CPU、ASIC 自研、記憶體與被動元件",
+      "start": 1400.22,
+      "end": 1640.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0651-s09",
+      "heading": "Q&A：專精 vs. 多元興趣",
+      "start": 1640.22,
+      "end": 1727.73,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0651-s10",
+      "heading": "Q&A：高爾夫球與林口",
+      "start": 1727.78,
+      "end": 1788.03,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0651-s11",
+      "heading": "Q&A：京都計程車、女友等 62 公斤",
+      "start": 1788.08,
+      "end": 1816.59,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0651-s12",
+      "heading": "Q&A：槓桿使用時機",
+      "start": 1816.64,
+      "end": 2034.71,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0651-s13",
+      "heading": "Q&A：股票故事與 POGO PIN、中探針",
+      "start": 2034.76,
+      "end": 2352.05,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0651-s14",
+      "heading": "Q&A：光通訊各塊看好哪一塊",
+      "start": 2352.1,
+      "end": 2426.29,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0651-s15",
+      "heading": "Q&A：絕地戰兵 2 推薦",
+      "start": 2426.34,
+      "end": 2446.47,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0651-s16",
+      "heading": "Q&A：在歐洲留學想家",
+      "start": 2446.52,
+      "end": 2510.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0651-s17",
+      "heading": "Q&A：豬不噁心、老婆愛動物",
+      "start": 2510.58,
+      "end": 2551.61,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0651-s18",
+      "heading": "Q&A：育兒減工時、社群討論",
+      "start": 2551.66,
+      "end": 2871.03,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0651-s19",
+      "heading": "Q&A：超甲組與富邦現場",
+      "start": 2871.08,
+      "end": 2910.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0651-s20",
+      "heading": "Q&A：捏軟陣線、廖醫師與頻率",
+      "start": 2910.26,
+      "end": 2990.05,
+      "confidence": 0.711
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 381,
+  "source": "auto-aligned from reports/mk/gooaye-ep0381.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0381.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a957c264-eed9-4318-ae6e-82306fc62ad3/rssFileVip.mp3?timestamp=1693989489054",
+  "duration": 3019.78,
+  "segments": [
+    {
+      "id": "ep0381-s01",
+      "heading": "開場 / 贊助：森歐黎漾",
+      "start": 0.0,
+      "end": 107.09,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0381-s02",
+      "heading": "愛寧梗與社群反應",
+      "start": 107.14,
+      "end": 186.85,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0381-s03",
+      "heading": "自我改進與行為修正",
+      "start": 186.9,
+      "end": 442.77,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0381-s04",
+      "heading": "多巴胺國度書籍推薦",
+      "start": 442.82,
+      "end": 742.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0381-s05",
+      "heading": "消費性市場與股價動向",
+      "start": 743.02,
+      "end": 993.73,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0381-s06",
+      "heading": "華為 Mate 60 Pro 與麒麟 9000S 晶片分析",
+      "start": 993.78,
+      "end": 1625.36,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0381-s07",
+      "heading": "成熟製程與進口替代",
+      "start": 1625.41,
+      "end": 1772.5,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0381-s08",
+      "heading": "Q&A 環節",
+      "start": 1772.55,
+      "end": 3019.78,
+      "confidence": 0.644
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 595,
+  "source": "auto-aligned from reports/mk/gooaye-ep0595.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0595.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1153ee14-2be6-41dd-8665-fc81b49cfa65/rssFileVip.mp3?timestamp=1758750519920",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0595-s01",
+      "heading": "開場 / 贊助：長榮航空 EVA SkyShop 免稅預購網",
+      "start": 0.0,
+      "end": 57.15,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0595-s02",
+      "heading": "開場雜談：小屁仙 & 無限賽局心態",
+      "start": 57.2,
+      "end": 406.51,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0595-s03",
+      "heading": "花蓮颱風公益呼籲",
+      "start": 406.56,
+      "end": 470.99,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0595-s04",
+      "heading": "市場輪動：台積電強勢與垃圾盤觀察",
+      "start": 471.04,
+      "end": 601.51,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0595-s05",
+      "heading": "美光財報與記憶體漲價分析",
+      "start": 601.56,
+      "end": 748.13,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0595-s06",
+      "heading": "被動元件強勢：漲價訊號觀察",
+      "start": 748.18,
+      "end": 887.41,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0595-s07",
+      "heading": "市場雜訊：Anthropic、Annapurna、Amazon 相關傳言",
+      "start": 887.46,
+      "end": 1393.45,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0595-s08",
+      "heading": "Q&A",
+      "start": 1393.5,
+      "end": 3000.45,
+      "confidence": 0.733
+    }
+  ]
+}

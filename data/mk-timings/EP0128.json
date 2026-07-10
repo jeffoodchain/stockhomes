@@ -1,0 +1,65 @@
+{
+  "ep": 128,
+  "source": "auto-aligned from reports/mk/gooaye-ep0128.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0128.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ce17bf9c-9f3e-44c1-8b22-b80e8c9de022/rssFileVip.mp3?timestamp=1689439392351",
+  "duration": 2524.92,
+  "segments": [
+    {
+      "id": "ep0128-s01",
+      "heading": "開場 / 贊助：花旗現金回饋PLUS鈦金卡",
+      "start": 0.0,
+      "end": 95.51,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0128-s02",
+      "heading": "生活閒聊：出車禍、停車場晶片缺料、新書《灰街思考》",
+      "start": 95.56,
+      "end": 614.17,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0128-s03",
+      "heading": "特斯拉2021 Q1交車成績超預期",
+      "start": 614.22,
+      "end": 935.29,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0128-s04",
+      "heading": "美國非農就業數據爆射，但收水在即",
+      "start": 935.34,
+      "end": 1240.79,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0128-s05",
+      "heading": "拜登基建大撒幣：Caterpillar、原物料、電動車受惠股",
+      "start": 1240.84,
+      "end": 1561.83,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0128-s06",
+      "heading": "ARK：ARKX太空ETF與2021 Big Ideas延宕",
+      "start": 1561.88,
+      "end": 1646.43,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0128-s07",
+      "heading": "Q&A",
+      "start": 1646.48,
+      "end": 2520.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0128-s08",
+      "heading": "結尾",
+      "start": 2520.76,
+      "end": 2524.92,
+      "confidence": 0.562
+    }
+  ]
+}

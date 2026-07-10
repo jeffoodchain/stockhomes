@@ -1,0 +1,114 @@
+{
+  "ep": 502,
+  "source": "auto-aligned from reports/mk/gooaye-ep0502.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0502.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/79646d00-824c-4dc4-8d69-b1d3ad795b87/rssFileVip.mp3?timestamp=1730542918795",
+  "duration": 2972.21,
+  "segments": [
+    {
+      "id": "ep0502-s01",
+      "heading": "開場 / 贊助：火星生技",
+      "start": 0.0,
+      "end": 65.57,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0502-s02",
+      "heading": "廣告心得與人生平衡",
+      "start": 65.62,
+      "end": 88.11,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0502-s03",
+      "heading": "校外教學見聞：在股票暴跌中陪孩子",
+      "start": 88.16,
+      "end": 184.41,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0502-s04",
+      "heading": "保持微笑的成長",
+      "start": 184.46,
+      "end": 271.99,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0502-s05",
+      "heading": "籌碼端發現與流動性課題",
+      "start": 272.04,
+      "end": 331.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0502-s06",
+      "heading": "理解盤面波動與持倉風險",
+      "start": 331.88,
+      "end": 430.21,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0502-s07",
+      "heading": "大部位經營與流動性學習",
+      "start": 430.26,
+      "end": 525.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0502-s08",
+      "heading": "動能股的槓桿調整與風險管理",
+      "start": 525.44,
+      "end": 619.77,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0502-s09",
+      "heading": "持股重疊與踩踏風險",
+      "start": 619.82,
+      "end": 727.81,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0502-s10",
+      "heading": "市場盤面觀察：臺股領先修正",
+      "start": 727.86,
+      "end": 763.65,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0502-s11",
+      "heading": "川普選舉效應與市場定價",
+      "start": 763.7,
+      "end": 928.63,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0502-s12",
+      "heading": "2025 年市場展望與防守策略",
+      "start": 928.68,
+      "end": 1067.91,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0502-s13",
+      "heading": "科技巨頭財報評析",
+      "start": 1067.96,
+      "end": 1196.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0502-s14",
+      "heading": "AI 應用實踐與蘋果軟硬體佈局",
+      "start": 1196.9,
+      "end": 1567.53,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0502-s15",
+      "heading": "Q&A 部分",
+      "start": 1567.58,
+      "end": 2972.21,
+      "confidence": 0.967
+    }
+  ]
+}

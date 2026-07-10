@@ -1,0 +1,107 @@
+{
+  "ep": 288,
+  "source": "auto-aligned from reports/mk/gooaye-ep0288.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0288.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a2a6353c-b535-40fd-a734-6592d6ba8db8/rssFileVip.mp3?timestamp=1689439402708",
+  "duration": 2973.7,
+  "segments": [
+    {
+      "id": "ep0288-s01",
+      "heading": "開場 / 贊助：永豐金證券豐存股",
+      "start": 0.0,
+      "end": 90.89,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0288-s02",
+      "heading": "殺人誅心盤：市場震盪與 dead cat bounce",
+      "start": 90.94,
+      "end": 141.89,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0288-s03",
+      "heading": "聯準會政策批評：升息斜率與實體經濟",
+      "start": 141.94,
+      "end": 201.55,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0288-s04",
+      "heading": "Twitter 收購：馬斯克借高利率貸款買",
+      "start": 201.6,
+      "end": 264.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0288-s05",
+      "heading": "消費季展望：庫存去化、黑色星期五打折大戰",
+      "start": 264.44,
+      "end": 418.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0288-s06",
+      "heading": "NVIDIA 40 系列顯示卡銷售：歐洲出乎意料",
+      "start": 418.92,
+      "end": 519.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0288-s07",
+      "heading": "BIS 禁令更新：全面制裁中國半導體",
+      "start": 519.5,
+      "end": 653.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0288-s08",
+      "heading": "拜登 vs. 川普對中制裁力度比較",
+      "start": 653.82,
+      "end": 789.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0288-s09",
+      "heading": "兵役與抗中保台",
+      "start": 789.44,
+      "end": 837.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0288-s10",
+      "heading": "給中國聽眾的話",
+      "start": 837.58,
+      "end": 895.73,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0288-s11",
+      "heading": "台積電 Q3 2022 法說重點",
+      "start": 895.78,
+      "end": 1175.17,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0288-s12",
+      "heading": "台積電 CAPEX 下調、N7/N6 UTR 降載",
+      "start": 1175.22,
+      "end": 1349.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0288-s13",
+      "heading": "禮拜四大噴、不知道就說不知道",
+      "start": 1349.4,
+      "end": 1697.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0288-s14",
+      "heading": "Q&A",
+      "start": 1697.22,
+      "end": 2973.7,
+      "confidence": 0.744
+    }
+  ]
+}

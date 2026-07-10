@@ -1,0 +1,114 @@
+{
+  "ep": 137,
+  "source": "auto-aligned from reports/mk/gooaye-ep0137.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0137.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e5fa258-3352-440c-9208-2fc9a07734c4/rssFileVip.mp3?timestamp=1689439390489",
+  "duration": 2637.84,
+  "segments": [
+    {
+      "id": "ep0137-s01",
+      "heading": "開場 / 贊助：BFFECT 好肌膚精華研究室",
+      "start": 0.0,
+      "end": 105.87,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0137-s02",
+      "heading": "波克夏海瑟威股東會：基本介紹",
+      "start": 105.92,
+      "end": 244.11,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0137-s03",
+      "heading": "波克夏海瑟威的競爭力與批評",
+      "start": 244.16,
+      "end": 406.99,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0137-s04",
+      "heading": "股東會重點一：財報與長期格局",
+      "start": 407.04,
+      "end": 564.17,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0137-s05",
+      "heading": "股東會重點二：產業更迭與選股困難",
+      "start": 564.22,
+      "end": 707.49,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0137-s06",
+      "heading": "股東會重點三：航空股的去留",
+      "start": 707.54,
+      "end": 823.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0137-s07",
+      "heading": "股東會重點四：現金部位與聯準會搶生意",
+      "start": 823.28,
+      "end": 909.55,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0137-s08",
+      "heading": "股東會重點五：指數投資 vs 主動選股",
+      "start": 909.6,
+      "end": 1010.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0137-s09",
+      "heading": "股東會重點六：能源政策與去碳目標",
+      "start": 1010.18,
+      "end": 1196.29,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0137-s10",
+      "heading": "股東會重點七：蘋果持股",
+      "start": 1196.34,
+      "end": 1267.93,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0137-s11",
+      "heading": "股東會重點八：SPAC",
+      "start": 1267.98,
+      "end": 1338.01,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0137-s12",
+      "heading": "股東會重點九：政治問題、資本利得稅",
+      "start": 1338.06,
+      "end": 1414.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0137-s13",
+      "heading": "股東會重點十：加密貨幣與 Robinhood",
+      "start": 1414.74,
+      "end": 1624.81,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0137-s14",
+      "heading": "股東會重點十一：通膨與投資建議",
+      "start": 1624.86,
+      "end": 1816.65,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0137-s15",
+      "heading": "Q&A",
+      "start": 1816.7,
+      "end": 2637.84,
+      "confidence": 0.7
+    }
+  ]
+}

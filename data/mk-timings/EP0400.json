@@ -1,0 +1,44 @@
+{
+  "ep": 400,
+  "source": "auto-aligned from reports/mk/gooaye-ep0400.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0400.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6a50b01e-258c-4791-94a1-31079bcef76f/rssFileVip.mp3?timestamp=1699693067393",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0400-s01",
+      "heading": "開場 / 贊助：拜爾力度生",
+      "start": 0.0,
+      "end": 71.71,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0400-s02",
+      "heading": "聯發科參訪經驗與產業啟示",
+      "start": 71.76,
+      "end": 184.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0400-s03",
+      "heading": "資料中心冷卻方案深度解析",
+      "start": 184.74,
+      "end": 599.47,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0400-s04",
+      "heading": "美國 AI 晶片禁令最新動態",
+      "start": 599.52,
+      "end": 1167.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0400-s05",
+      "heading": "Spotify 聽眾留言 Q&A",
+      "start": 1167.1,
+      "end": 2993.03,
+      "confidence": 0.644
+    }
+  ]
+}

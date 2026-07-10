@@ -1,0 +1,44 @@
+{
+  "ep": 510,
+  "source": "auto-aligned from reports/mk/gooaye-ep0510.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0510.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d19002a1-1710-4c10-8fc1-52190489e1e9/rssFileVip.mp3?timestamp=1732951992925",
+  "duration": 2972.21,
+  "segments": [
+    {
+      "id": "ep0510-s01",
+      "heading": "開場 / 贊助：Paula's Choice 寶拉珍選",
+      "start": 0.0,
+      "end": 118.11,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0510-s02",
+      "heading": "爭寵與親子關係",
+      "start": 118.16,
+      "end": 628.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0510-s03",
+      "heading": "台股修正與交易反思",
+      "start": 628.48,
+      "end": 817.17,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0510-s04",
+      "heading": "Agentic AI 的崛起",
+      "start": 817.22,
+      "end": 1794.13,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0510-s05",
+      "heading": "Q&A",
+      "start": 1794.18,
+      "end": 2972.21,
+      "confidence": 0.756
+    }
+  ]
+}

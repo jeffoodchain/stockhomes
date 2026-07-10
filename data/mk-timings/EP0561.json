@@ -1,0 +1,51 @@
+{
+  "ep": 561,
+  "source": "auto-aligned from reports/mk/gooaye-ep0561.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0561.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6a1e0ca2-0ee6-45a8-b837-afb2fec16f07/rssFileVip.mp3?timestamp=1748423146997",
+  "duration": 3039.09,
+  "segments": [
+    {
+      "id": "ep0561-s01",
+      "heading": "開場 / 贊助：喬致庸國際 iGrass 隨身風扇",
+      "start": 0.0,
+      "end": 44.09,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0561-s02",
+      "heading": "簽名專輯、演唱會回憶與老朋友",
+      "start": 44.14,
+      "end": 261.43,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0561-s03",
+      "heading": "贊助商聊天：廣告的三贏局面",
+      "start": 261.48,
+      "end": 680.15,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0561-s04",
+      "heading": "市場看法：廉假、估值與操作策略",
+      "start": 680.2,
+      "end": 1504.35,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0561-s05",
+      "heading": "小型股持股心得：籌碼與大股東出貨",
+      "start": 1504.4,
+      "end": 1845.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0561-s06",
+      "heading": "Q&A",
+      "start": 1845.9,
+      "end": 3039.09,
+      "confidence": 0.767
+    }
+  ]
+}

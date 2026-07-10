@@ -1,0 +1,44 @@
+{
+  "ep": 151,
+  "source": "auto-aligned from reports/mk/gooaye-ep0151.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0151.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/02a4be19-cbdb-49c0-b259-dd628c0a2803/rssFileVip.mp3?timestamp=1689439396099",
+  "duration": 2495.19,
+  "segments": [
+    {
+      "id": "ep0151-s01",
+      "heading": "開場 / 贊助：MACKMYRA 麥格瑞瑞典威士忌",
+      "start": 0.0,
+      "end": 119.39,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0151-s02",
+      "heading": "三級封城該不該撐",
+      "start": 119.44,
+      "end": 563.23,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0151-s03",
+      "heading": "報告怎麼解讀：目標價沒你想的重要",
+      "start": 563.28,
+      "end": 1164.43,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0151-s04",
+      "heading": "外資喊多卻在賣？Buy Side vs. Sell Side 揭秘",
+      "start": 1164.48,
+      "end": 1428.71,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0151-s05",
+      "heading": "Q&A",
+      "start": 1428.76,
+      "end": 2495.19,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 392,
+  "source": "auto-aligned from reports/mk/gooaye-ep0392.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0392.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/59f83351-61c1-419e-b2df-3f00270cac50/rssFileVip.mp3?timestamp=1697271654589",
+  "duration": 3013.83,
+  "segments": [
+    {
+      "id": "ep0392-s01",
+      "heading": "開場 / 贊助：Amazon Global Selling（亞馬遜全球開店）",
+      "start": 0.0,
+      "end": 91.87,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0392-s02",
+      "heading": "人生感悟與洗澡哲學",
+      "start": 91.92,
+      "end": 389.26,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0392-s03",
+      "heading": "狗狗領養案例：梅亞",
+      "start": 389.31,
+      "end": 707.34,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0392-s04",
+      "heading": "地緣政治：以巴戰爭與地面戰",
+      "start": 707.39,
+      "end": 1018.66,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0392-s05",
+      "heading": "半導體期貨與正價差分析",
+      "start": 1018.71,
+      "end": 1339.76,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0392-s06",
+      "heading": "ODM 與半導體產業動態",
+      "start": 1339.81,
+      "end": 1845.98,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0392-s07",
+      "heading": "消費線與記憶體產業",
+      "start": 1846.03,
+      "end": 1873.84,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0392-s08",
+      "heading": "結語",
+      "start": 1873.89,
+      "end": 1877.96,
+      "confidence": 0.727
+    },
+    {
+      "id": "ep0392-s09",
+      "heading": "Q&A",
+      "start": 1878.01,
+      "end": 3013.83,
+      "confidence": 0.611
+    }
+  ]
+}

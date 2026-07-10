@@ -1,0 +1,149 @@
+{
+  "ep": 408,
+  "source": "auto-aligned from reports/mk/gooaye-ep0408.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0408.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ad4fe8bf-c8b5-4b38-8474-5963e313586d/rssFileVip.mp3?timestamp=1702112299020",
+  "duration": 3120.82,
+  "segments": [
+    {
+      "id": "ep0408-s01",
+      "heading": "開場 / 贊助：飛利浦電暖器",
+      "start": 0.0,
+      "end": 59.13,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0408-s02",
+      "heading": "開頭感謝 / 領養 Luna 與朋友三陰性乳癌",
+      "start": 59.18,
+      "end": 151.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0408-s03",
+      "heading": "三陰性乳癌就醫建議與心得分享",
+      "start": 152.02,
+      "end": 546.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0408-s04",
+      "heading": "AMD 大盤與行情心得",
+      "start": 546.9,
+      "end": 621.37,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0408-s05",
+      "heading": "AMD 市場佔有率與 MI300X 晶片",
+      "start": 621.42,
+      "end": 747.97,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0408-s06",
+      "heading": "MI300X 規格與競品分析",
+      "start": 748.02,
+      "end": 941.17,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0408-s07",
+      "heading": "AMD 供應鏈分析",
+      "start": 941.22,
+      "end": 1410.97,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0408-s08",
+      "heading": "AMD 公司前景評估",
+      "start": 1411.02,
+      "end": 1550.05,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0408-s09",
+      "heading": "HBM 供需展望",
+      "start": 1550.1,
+      "end": 1728.48,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0408-s10",
+      "heading": "週末心得與 Q&A 開場",
+      "start": 1728.53,
+      "end": 1753.06,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0408-s11",
+      "heading": "Q&A：學測生加油",
+      "start": 1753.11,
+      "end": 1766.6,
+      "confidence": 0.716
+    },
+    {
+      "id": "ep0408-s12",
+      "heading": "Q&A：侄子的感情問題",
+      "start": 1766.65,
+      "end": 1801.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0408-s13",
+      "heading": "Q&A：致敬股癌與預期養小孩",
+      "start": 1801.5,
+      "end": 1846.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0408-s14",
+      "heading": "Q&A：特斯拉自駕與軟體優勢",
+      "start": 1846.26,
+      "end": 2245.13,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0408-s15",
+      "heading": "Q&A：職場與轉職",
+      "start": 2245.18,
+      "end": 2317.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0408-s16",
+      "heading": "Q&A：GTA6 與遊戲趨勢",
+      "start": 2317.38,
+      "end": 2393.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0408-s17",
+      "heading": "Q&A：股票分析與投資策略",
+      "start": 2393.32,
+      "end": 2740.95,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0408-s18",
+      "heading": "Q&A：包皮笑話與首次留言",
+      "start": 2741.0,
+      "end": 2826.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0408-s19",
+      "heading": "Q&A：債券 ETF 評論",
+      "start": 2826.7,
+      "end": 2936.71,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0408-s20",
+      "heading": "Q&A：小孩教育與防身",
+      "start": 2936.76,
+      "end": 3120.82,
+      "confidence": 0.667
+    }
+  ]
+}

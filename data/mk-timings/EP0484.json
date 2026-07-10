@@ -1,0 +1,135 @@
+{
+  "ep": 484,
+  "source": "auto-aligned from reports/mk/gooaye-ep0484.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0484.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/32080760-9fce-4d5e-b6f8-47ebd8df05fb/rssFileVip.mp3?timestamp=1725092506649",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0484-s01",
+      "heading": "開場 / 贊助：Acer 行李箱",
+      "start": 0.0,
+      "end": 52.69,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0484-s02",
+      "heading": "灰犀牛風險與市場反應",
+      "start": 52.74,
+      "end": 105.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0484-s03",
+      "heading": "美國降息與企業破產危機",
+      "start": 105.22,
+      "end": 145.31,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0484-s04",
+      "heading": "Harris 競選與資本市場動盪",
+      "start": 145.36,
+      "end": 171.97,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0484-s05",
+      "heading": "Harris 的價格控管政策",
+      "start": 172.02,
+      "end": 225.27,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0484-s06",
+      "heading": "未實現資本利得稅",
+      "start": 225.32,
+      "end": 346.89,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0484-s07",
+      "heading": "台灣房地產泡沫",
+      "start": 346.94,
+      "end": 410.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0484-s08",
+      "heading": "房市交易量下滑",
+      "start": 411.04,
+      "end": 524.93,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0484-s09",
+      "heading": "房價上漲與潛在風險",
+      "start": 524.98,
+      "end": 628.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0484-s10",
+      "heading": "Intel Spin-off 案例",
+      "start": 628.94,
+      "end": 655.79,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0484-s11",
+      "heading": "個人房產投資與林口房市",
+      "start": 655.84,
+      "end": 800.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0484-s12",
+      "heading": "Supermicro 做空風波",
+      "start": 800.88,
+      "end": 1085.33,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0484-s13",
+      "heading": "Supermicro 的具體指控分析",
+      "start": 1085.38,
+      "end": 1237.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0484-s14",
+      "heading": "Supermicro 供應鏈影響評估",
+      "start": 1237.8,
+      "end": 1451.17,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0484-s15",
+      "heading": "Supermicro 供應鏈與風險評估",
+      "start": 1451.22,
+      "end": 1569.43,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0484-s16",
+      "heading": "Nvidia 財報分析",
+      "start": 1569.48,
+      "end": 1710.03,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0484-s17",
+      "heading": "估值與成長預期",
+      "start": 1710.08,
+      "end": 2044.49,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0484-s18",
+      "heading": "捐款與聽眾留言",
+      "start": 2044.54,
+      "end": 3040.57,
+      "confidence": 0.789
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 587,
+  "source": "auto-aligned from reports/mk/gooaye-ep0587.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0587.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a9675d79-34ce-4361-b21a-03a5c3525441/rssFileVip.mp3?timestamp=1756280569276",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0587-s01",
+      "heading": "開場 / 贊助：如意堂",
+      "start": 0.0,
+      "end": 74.85,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0587-s02",
+      "heading": "中年男子的身體與心態",
+      "start": 74.9,
+      "end": 580.87,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0587-s03",
+      "heading": "市場概況：槓桿與風險管理",
+      "start": 580.92,
+      "end": 752.75,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0587-s04",
+      "heading": "PCB 材料升級：銅箔、玻纖布、Q 布與 CCL 題材",
+      "start": 752.8,
+      "end": 1109.37,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0587-s05",
+      "heading": "高速傳輸：Retimer、PCIe Switch 與 NVIDIA 生態系",
+      "start": 1109.42,
+      "end": 1527.45,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0587-s06",
+      "heading": "Q&A",
+      "start": 1527.5,
+      "end": 3000.45,
+      "confidence": 0.667
+    }
+  ]
+}

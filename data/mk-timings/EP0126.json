@@ -1,0 +1,51 @@
+{
+  "ep": 126,
+  "source": "auto-aligned from reports/mk/gooaye-ep0126.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0126.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/09774a6e-4282-4864-aaf7-e0693154474f/rssFileVip.mp3?timestamp=1689439386792",
+  "duration": 2776.06,
+  "segments": [
+    {
+      "id": "ep0126-s01",
+      "heading": "開場 / 贊助：yoxi",
+      "start": 0.0,
+      "end": 76.75,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0126-s02",
+      "heading": "新疆棉花事件：藝人抵制與商業本質",
+      "start": 76.8,
+      "end": 232.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0126-s03",
+      "heading": "棉花事件的核心：強迫勞動",
+      "start": 232.78,
+      "end": 658.49,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0126-s04",
+      "heading": "聯準會鮑威爾打預防針：停止擴表、縮表、升息",
+      "start": 658.54,
+      "end": 1170.01,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0126-s05",
+      "heading": "估值是科學也是藝術：Peter Lynch 的故事",
+      "start": 1170.06,
+      "end": 1926.17,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0126-s06",
+      "heading": "Q&A",
+      "start": 1926.22,
+      "end": 2776.06,
+      "confidence": 0.7
+    }
+  ]
+}

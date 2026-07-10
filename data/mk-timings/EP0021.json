@@ -1,0 +1,93 @@
+{
+  "ep": 21,
+  "source": "auto-aligned from reports/mk/gooaye-ep0021.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0021.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/14e85d9a-8180-45c1-98e4-07bab3c58ec6/rssFileVip.mp3?timestamp=1689439394399",
+  "duration": 1616.93,
+  "segments": [
+    {
+      "id": "ep0021-s01",
+      "heading": "開場：上節目心得",
+      "start": 0.02,
+      "end": 104.77,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0021-s02",
+      "heading": "輿論操控與政治媒體觀察",
+      "start": 104.82,
+      "end": 319.89,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0021-s03",
+      "heading": "勞工罷工與高階勞工爭議",
+      "start": 319.94,
+      "end": 409.45,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0021-s04",
+      "heading": "威航遠東航空與「無償」宣傳批評",
+      "start": 409.5,
+      "end": 529.49,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0021-s05",
+      "heading": "Q&A：中國LPR浮動利率",
+      "start": 529.54,
+      "end": 726.57,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0021-s06",
+      "heading": "Q&A：EP19心得與左膠討論",
+      "start": 726.62,
+      "end": 806.2,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0021-s07",
+      "heading": "Q&A：套利是什麼",
+      "start": 806.25,
+      "end": 999.11,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0021-s08",
+      "heading": "Q&A：存股這件事",
+      "start": 999.16,
+      "end": 1120.35,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0021-s09",
+      "heading": "Q&A：航空業",
+      "start": 1120.4,
+      "end": 1148.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0021-s10",
+      "heading": "Q&A：KD與RSI指標",
+      "start": 1148.78,
+      "end": 1270.29,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0021-s11",
+      "heading": "尊重市場趨勢的投資哲學",
+      "start": 1270.34,
+      "end": 1539.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0021-s12",
+      "heading": "結尾：預告下集",
+      "start": 1539.68,
+      "end": 1616.93,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "ep": 662,
+  "source": "auto-aligned from reports/mk/gooaye-ep0662.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0662.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/33f8760f-b645-4463-bce9-18577f2db00a/rssFileVip.mp3?timestamp=1778970781783",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0662-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 82.35,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0662-s02",
+      "heading": "肖楠資本更新：暗花夜戰 Noah Bloom",
+      "start": 82.4,
+      "end": 316.31,
+      "confidence": 0.433
+    },
+    {
+      "id": "ep0662-s03",
+      "heading": "心急地方爸爸與安哥出生的驚險歷程",
+      "start": 316.36,
+      "end": 690.77,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0662-s04",
+      "heading": "市場話題：修正心態與泰弱留強",
+      "start": 690.82,
+      "end": 956.99,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0662-s05",
+      "heading": "盤面結構：老 AI 軟掉、資金輪動臺積電",
+      "start": 957.04,
+      "end": 1191.05,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0662-s06",
+      "heading": "美股：軟體股、資安股反彈；Figma 好結果",
+      "start": 1191.1,
+      "end": 1377.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0662-s07",
+      "heading": "被動元件：Panasonic SPCAT 漲價三成、信號升溫",
+      "start": 1377.62,
+      "end": 1685.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0662-s08",
+      "heading": "其他題材：光通、Power 元件、Legacy 成熟製程",
+      "start": 1685.6,
+      "end": 1793.51,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0662-s09",
+      "heading": "Q&A：遊戲推薦、尼姬、暗花夜戰",
+      "start": 1793.56,
+      "end": 1890.31,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0662-s10",
+      "heading": "Q&A：生日祝福、范冰冰梗",
+      "start": 1890.36,
+      "end": 1933.26,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0662-s11",
+      "heading": "Q&A：情報資訊 / 臺南魯魯蜜",
+      "start": 1933.31,
+      "end": 1961.33,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0662-s12",
+      "heading": "Q&A：百萬如何累積到千萬？",
+      "start": 1961.38,
+      "end": 1995.29,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0662-s13",
+      "heading": "Q&A：手遊女團推薦 / 阿狗生日快樂",
+      "start": 1995.34,
+      "end": 2102.97,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0662-s14",
+      "heading": "Q&A：邊緣人股票、啤酒心得",
+      "start": 2103.02,
+      "end": 2180.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0662-s15",
+      "heading": "Q&A：求婚驚喜與直男邏輯",
+      "start": 2181.04,
+      "end": 2516.47,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0662-s16",
+      "heading": "Q&A：朋友爛賭借錢怎麼辦",
+      "start": 2516.52,
+      "end": 2692.08,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0662-s17",
+      "heading": "Q&A：換工作迷惘、家人支持是安定劑",
+      "start": 2692.13,
+      "end": 2805.58,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0662-s18",
+      "heading": "Q&A：AI 時代下品味與創造力的價值",
+      "start": 2805.63,
+      "end": 2925.26,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0662-s19",
+      "heading": "Q&A：0050 FCN 衍生金融品",
+      "start": 2925.31,
+      "end": 2958.42,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0662-s20",
+      "heading": "Q&A：戰爭油價風險",
+      "start": 2958.47,
+      "end": 2998.96,
+      "confidence": 0.689
+    }
+  ]
+}

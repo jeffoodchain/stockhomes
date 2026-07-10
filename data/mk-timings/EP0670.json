@@ -1,0 +1,177 @@
+{
+  "ep": 670,
+  "source": "auto-aligned from reports/mk/gooaye-ep0670.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0670.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/685bc211-b7dc-478b-9463-53a160c20cdf/rssFileVip.mp3?timestamp=1781335050960",
+  "duration": 3126.78,
+  "segments": [
+    {
+      "id": "ep0670-s01",
+      "heading": "開場 / 贊助：RayChain 正脊坐墊 EX",
+      "start": 0.0,
+      "end": 86.79,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0670-s02",
+      "heading": "看說明書、瘦瘦針與劑量烏龍",
+      "start": 86.84,
+      "end": 401.21,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0670-s03",
+      "heading": "玻璃心補充：mute 掉負面聲音與禮貌教育",
+      "start": 401.26,
+      "end": 732.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0670-s04",
+      "heading": "SpaceX 上市：估值、夢想與衛星股出貨",
+      "start": 732.74,
+      "end": 1109.71,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0670-s05",
+      "heading": "台股盤面：修正是否結束與被動元件漲價",
+      "start": 1109.76,
+      "end": 1463.31,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0670-s06",
+      "heading": "Anthropic Claude、監管鐵拳與 Edge Computing",
+      "start": 1463.36,
+      "end": 1718.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0670-s07",
+      "heading": "Q&A：開場",
+      "start": 1719.0,
+      "end": 1719.69,
+      "confidence": 0.652
+    },
+    {
+      "id": "ep0670-s08",
+      "heading": "Q&A：商務艙、經濟艙與財富自在感",
+      "start": 1719.74,
+      "end": 1800.87,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0670-s09",
+      "heading": "Q&A：聽眾留言：好愛你",
+      "start": 1800.92,
+      "end": 1807.55,
+      "confidence": 0.812
+    },
+    {
+      "id": "ep0670-s10",
+      "heading": "Q&A：停播、陪伴感與人生路程",
+      "start": 1807.6,
+      "end": 1898.33,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0670-s11",
+      "heading": "Q&A：AI 的母體侷限",
+      "start": 1898.38,
+      "end": 1936.24,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0670-s12",
+      "heading": "Q&A：生日祝福與抽獎氣氛",
+      "start": 1936.29,
+      "end": 1960.36,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0670-s13",
+      "heading": "Q&A：秋狗梗與生日祝福",
+      "start": 1960.41,
+      "end": 1968.02,
+      "confidence": 0.804
+    },
+    {
+      "id": "ep0670-s14",
+      "heading": "Q&A：考上交大職工",
+      "start": 1968.07,
+      "end": 2020.51,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0670-s15",
+      "heading": "Q&A：二寶、焦慮與和自己比較",
+      "start": 2020.56,
+      "end": 2342.36,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0670-s16",
+      "heading": "Q&A：新手投資如何收集市場資訊",
+      "start": 2342.41,
+      "end": 2511.28,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0670-s17",
+      "heading": "Q&A：YouTube 留言與內容形式",
+      "start": 2511.33,
+      "end": 2591.24,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0670-s18",
+      "heading": "Q&A：冰鳥、鐵拳與童年回憶",
+      "start": 2591.29,
+      "end": 2620.53,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0670-s19",
+      "heading": "Q&A：損友、投資群組與股癌梗",
+      "start": 2620.58,
+      "end": 2685.33,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0670-s20",
+      "heading": "Q&A：知名度、楚門世界與街頭相遇",
+      "start": 2685.38,
+      "end": 2781.65,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0670-s21",
+      "heading": "Q&A：健康食品與保養品",
+      "start": 2781.7,
+      "end": 2866.52,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0670-s22",
+      "heading": "Q&A：老婆生日祝福",
+      "start": 2866.57,
+      "end": 2886.36,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0670-s23",
+      "heading": "Q&A：PIP、轉職與預售屋壓力",
+      "start": 2886.41,
+      "end": 2982.26,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0670-s24",
+      "heading": "Q&A：800V HVDC、台達電與 AI 電源族群",
+      "start": 2982.31,
+      "end": 3126.78,
+      "confidence": 0.9
+    }
+  ]
+}

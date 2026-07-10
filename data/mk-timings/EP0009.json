@@ -1,0 +1,93 @@
+{
+  "ep": 9,
+  "source": "auto-aligned from reports/mk/gooaye-ep0009.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0009.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b6855244-f418-4f76-9f2d-25212852fb86/rssFileVip.mp3?timestamp=1689439405455",
+  "duration": 1208.24,
+  "segments": [
+    {
+      "id": "ep0009-s01",
+      "heading": "開場 / 贊助：SoundOn 聲浪",
+      "start": 0.11,
+      "end": 52.37,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0009-s02",
+      "heading": "生活閒聊：銀杏與捲尺的悲劇",
+      "start": 52.42,
+      "end": 84.06,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0009-s03",
+      "heading": "中油史上最大降價 ＆ 元大原油正2風險提醒",
+      "start": 84.11,
+      "end": 250.61,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0009-s04",
+      "heading": "航空業：油價大跌卻沒甜頭，避險反成虧損來源",
+      "start": 250.66,
+      "end": 382.11,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0009-s05",
+      "heading": "歐洲航空業的寒冬：空飛與倒閉潮",
+      "start": 382.16,
+      "end": 511.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0009-s06",
+      "heading": "廉價航空機師待遇",
+      "start": 511.68,
+      "end": 571.24,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0009-s07",
+      "heading": "旅宿業：台北五星飯店住房率僅剩一兩成",
+      "start": 571.29,
+      "end": 670.54,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0009-s08",
+      "heading": "美國Fed緊急降息 ＆ 顧立雄可能祭出禁空令",
+      "start": 670.59,
+      "end": 835.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0009-s09",
+      "heading": "閃電降息的歷史回測",
+      "start": 835.62,
+      "end": 905.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0009-s10",
+      "heading": "台股觀察 ＆ 順勢交易心理測驗",
+      "start": 905.66,
+      "end": 998.31,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0009-s11",
+      "heading": "Howard Marks的加碼哲學 ＆ 生人勿近的市場",
+      "start": 998.36,
+      "end": 1075.83,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0009-s12",
+      "heading": "推薦資源 ＆ 結語",
+      "start": 1075.88,
+      "end": 1208.24,
+      "confidence": 0.667
+    }
+  ]
+}

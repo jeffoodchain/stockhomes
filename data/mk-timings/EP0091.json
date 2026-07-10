@@ -1,0 +1,44 @@
+{
+  "ep": 91,
+  "source": "auto-aligned from reports/mk/gooaye-ep0091.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0091.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3d51666a-89eb-4fc0-8bf0-d3d7ba09df6f/rssFileVip.mp3?timestamp=1689439384984",
+  "duration": 2547.2,
+  "segments": [
+    {
+      "id": "ep0091-s01",
+      "heading": "開場 / 贊助：VoiceTube Hero",
+      "start": 0.18,
+      "end": 84.15,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0091-s02",
+      "heading": "書單：Netflix文化《零規則》",
+      "start": 84.2,
+      "end": 341.71,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0091-s03",
+      "heading": "ARK Invest 奪權風波",
+      "start": 341.76,
+      "end": 1236.89,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0091-s04",
+      "heading": "新創股權設計注意事項",
+      "start": 1236.94,
+      "end": 1435.35,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0091-s05",
+      "heading": "Q&A",
+      "start": 1435.4,
+      "end": 2547.2,
+      "confidence": 0.744
+    }
+  ]
+}

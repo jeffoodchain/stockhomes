@@ -1,0 +1,44 @@
+{
+  "ep": 278,
+  "source": "auto-aligned from reports/mk/gooaye-ep0278.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0278.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f986f89c-477c-4906-8e7b-2de72974c6c6/rssFileVip.mp3?timestamp=1689439406970",
+  "duration": 3025.7,
+  "segments": [
+    {
+      "id": "ep0278-s01",
+      "heading": "開場 / 贊助：聯悅建設",
+      "start": 0.0,
+      "end": 96.47,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0278-s02",
+      "heading": "女富豪往事與富豪圈的本質",
+      "start": 96.52,
+      "end": 605.43,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0278-s03",
+      "heading": "訂 iPhone 14 與密碼統一夢",
+      "start": 605.48,
+      "end": 928.43,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0278-s04",
+      "heading": "蘋果供應鏈分析：衛星通訊、玉晶光、ABF 載板",
+      "start": 928.48,
+      "end": 1685.99,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0278-s05",
+      "heading": "Q&A",
+      "start": 1686.04,
+      "end": 3025.7,
+      "confidence": 0.7
+    }
+  ]
+}

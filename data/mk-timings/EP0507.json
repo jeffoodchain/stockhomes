@@ -1,0 +1,163 @@
+{
+  "ep": 507,
+  "source": "auto-aligned from reports/mk/gooaye-ep0507.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0507.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0836c7ef-538c-4ddd-8902-227e544d16e2/rssFileVip.mp3?timestamp=1732098118921",
+  "duration": 2972.21,
+  "segments": [
+    {
+      "id": "ep0507-s01",
+      "heading": "開場 / NordVPN 贊助",
+      "start": 0.0,
+      "end": 77.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0507-s02",
+      "heading": "身心療癒時刻與市況省思",
+      "start": 77.82,
+      "end": 137.41,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0507-s03",
+      "heading": "政策轉換下的買點困境",
+      "start": 137.46,
+      "end": 208.03,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0507-s04",
+      "heading": "騰景峰演唱會的療癒力",
+      "start": 208.08,
+      "end": 340.73,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0507-s05",
+      "heading": "騰景峰的世界觀與人生思考",
+      "start": 340.78,
+      "end": 444.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0507-s06",
+      "heading": "演唱會結束與電梯對話",
+      "start": 444.84,
+      "end": 540.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0507-s07",
+      "heading": "盤爛所引發的人生哲學",
+      "start": 540.08,
+      "end": 581.27,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0507-s08",
+      "heading": "Google 拆分議題深度分析",
+      "start": 581.32,
+      "end": 678.31,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0507-s09",
+      "heading": "大企業的兩面性",
+      "start": 678.36,
+      "end": 742.53,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0507-s10",
+      "heading": "反壟斷政策的邏輯差異",
+      "start": 742.58,
+      "end": 822.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0507-s11",
+      "heading": "民主黨與共和黨的拆分邏輯",
+      "start": 822.64,
+      "end": 989.57,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0507-s12",
+      "heading": "川普政府的去中心化思維",
+      "start": 989.62,
+      "end": 1097.87,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0507-s13",
+      "heading": "Google Search 的壟斷地位",
+      "start": 1097.92,
+      "end": 1175.79,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0507-s14",
+      "heading": "拆分的短期與長期影響",
+      "start": 1175.84,
+      "end": 1280.63,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0507-s15",
+      "heading": "短期獲利，長期失利",
+      "start": 1280.68,
+      "end": 1359.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0507-s16",
+      "heading": "搜尋引擎的未來遠景",
+      "start": 1359.1,
+      "end": 1451.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0507-s17",
+      "heading": "AI 時代的搜尋革命",
+      "start": 1451.06,
+      "end": 1576.73,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0507-s18",
+      "heading": "Google 面對的創新困境",
+      "start": 1576.78,
+      "end": 1624.67,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0507-s19",
+      "heading": "結語",
+      "start": 1624.72,
+      "end": 1657.63,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0507-s20",
+      "heading": "Q&A",
+      "start": 1657.68,
+      "end": 2216.88,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0507-s21",
+      "heading": "小舅子與小姨子話題",
+      "start": 2216.93,
+      "end": 2334.9,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0507-s22",
+      "heading": "生育與婚姻話題",
+      "start": 2334.95,
+      "end": 2972.21,
+      "confidence": 0.733
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 481,
+  "source": "auto-aligned from reports/mk/gooaye-ep0481.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0481.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8f515a2b-4d4a-464f-86cd-94230f54a02b/rssFileVip.mp3?timestamp=1724228637995",
+  "duration": 2990.05,
+  "segments": [
+    {
+      "id": "ep0481-s01",
+      "heading": "開場 / 贊助：凱基銀行",
+      "start": 0.0,
+      "end": 102.11,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0481-s02",
+      "heading": "直男巧虎",
+      "start": 102.16,
+      "end": 236.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0481-s03",
+      "heading": "黑神話悟空",
+      "start": 236.28,
+      "end": 716.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0481-s04",
+      "heading": "AMD收購ZT Systems",
+      "start": 716.1,
+      "end": 1528.09,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0481-s05",
+      "heading": "Q&A",
+      "start": 1528.14,
+      "end": 2990.05,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 608,
+  "source": "auto-aligned from reports/mk/gooaye-ep0608.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0608.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d4fb7bef-b084-478f-8367-e15bf182d4ed/rssFileVip.mp3?timestamp=1762637648781",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0608-s01",
+      "heading": "開場 / 贊助：火星生技 Green X 進化乳清蛋白",
+      "start": 0.0,
+      "end": 89.61,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0608-s02",
+      "heading": "聚餐感悟：外資大哥的點醒與降低部位",
+      "start": 89.66,
+      "end": 860.47,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0608-s03",
+      "heading": "Apple 付錢給 Google：Siri 採用客製 Gemini",
+      "start": 860.52,
+      "end": 1232.45,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0608-s04",
+      "heading": "記憶體 Super Cycle：HBM、NAND 全線供不應求",
+      "start": 1232.5,
+      "end": 1811.71,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0608-s05",
+      "heading": "Q&A",
+      "start": 1811.76,
+      "end": 2998.96,
+      "confidence": 0.7
+    }
+  ]
+}

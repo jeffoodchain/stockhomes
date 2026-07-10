@@ -1,0 +1,58 @@
+{
+  "ep": 104,
+  "source": "auto-aligned from reports/mk/gooaye-ep0104.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0104.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/66a6116d-8de5-4805-a6dc-568ea2eba2af/rssFileVip.mp3?timestamp=1689439388870",
+  "duration": 2452.09,
+  "segments": [
+    {
+      "id": "ep0104-s01",
+      "heading": "開場 / 贊助：給我5分鐘",
+      "start": 0.0,
+      "end": 121.05,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0104-s02",
+      "heading": "川普被封帳號：要把臉書和 Twitter 賣掉嗎？",
+      "start": 121.1,
+      "end": 317.83,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0104-s03",
+      "heading": "政治面：立場不同，審查就是這樣",
+      "start": 317.88,
+      "end": 526.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0104-s04",
+      "heading": "審查事件反而是買點？Spotify 的教訓",
+      "start": 526.68,
+      "end": 682.51,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0104-s05",
+      "heading": "市場角度：用商業面看社群媒體",
+      "start": 682.56,
+      "end": 1287.78,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0104-s06",
+      "heading": "Q&A",
+      "start": 1287.83,
+      "end": 2449.06,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0104-s07",
+      "heading": "結尾",
+      "start": 2449.11,
+      "end": 2452.09,
+      "confidence": 0.533
+    }
+  ]
+}

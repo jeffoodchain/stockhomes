@@ -1,0 +1,121 @@
+{
+  "ep": 649,
+  "source": "auto-aligned from reports/mk/gooaye-ep0649.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0649.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a02e82f5-cf5c-4af6-b76b-f6279ef50049/rssFileVip.mp3?timestamp=1775083406270",
+  "duration": 3037.6,
+  "segments": [
+    {
+      "id": "ep0649-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 92.67,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0649-s02",
+      "heading": "近況：瘦瘦針心得與打網球",
+      "start": 92.72,
+      "end": 575.35,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0649-s03",
+      "heading": "市場分析：伊朗局勢與死貓跳",
+      "start": 575.4,
+      "end": 799.65,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0649-s04",
+      "heading": "市場分析：NVIDIA 投資 Marvell 解析",
+      "start": 799.7,
+      "end": 1287.81,
+      "confidence": 0.456
+    },
+    {
+      "id": "ep0649-s05",
+      "heading": "臺股：玻璃題材跟進度更新",
+      "start": 1287.86,
+      "end": 1650.29,
+      "confidence": 0.533
+    },
+    {
+      "id": "ep0649-s06",
+      "heading": "Q&A：NVLink Fusion 對 Astera Labs 的衝擊",
+      "start": 1650.34,
+      "end": 1877.48,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0649-s07",
+      "heading": "Q&A：Jack Lee — 噩夢與 CD 問題",
+      "start": 1877.53,
+      "end": 1938.44,
+      "confidence": 0.411
+    },
+    {
+      "id": "ep0649-s08",
+      "heading": "Q&A：Charles — 周杰倫新專輯感想",
+      "start": 1938.49,
+      "end": 2081.67,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0649-s09",
+      "heading": "Q&A：淡水 Hanson — 醫美圈老婆與孩子投資",
+      "start": 2081.72,
+      "end": 2151.71,
+      "confidence": 0.467
+    },
+    {
+      "id": "ep0649-s10",
+      "heading": "Q&A：Chun — 年紀增長後的感性",
+      "start": 2151.76,
+      "end": 2285.69,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0649-s11",
+      "heading": "Q&A：Choco — 跟自己反向操作的勝率",
+      "start": 2285.74,
+      "end": 2423.63,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0649-s12",
+      "heading": "Q&A：育兒 — 寶可夢鑑定卡送禮物",
+      "start": 2423.68,
+      "end": 2844.97,
+      "confidence": 0.489
+    },
+    {
+      "id": "ep0649-s13",
+      "heading": "Q&A：Philip — 育兒睡不著 & 朋友生產",
+      "start": 2845.02,
+      "end": 2893.21,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0649-s14",
+      "heading": "Q&A：大理程冠希 — 二選一問答",
+      "start": 2893.26,
+      "end": 2918.23,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0649-s15",
+      "heading": "Q&A：Google TPU Roadmap — 發哥 Broadcom 解析",
+      "start": 2918.28,
+      "end": 2981.13,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0649-s16",
+      "heading": "Q&A：波波愛上夢工 — 瘦瘦針劑量問題",
+      "start": 2981.18,
+      "end": 3037.6,
+      "confidence": 0.856
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 90,
+  "source": "auto-aligned from reports/mk/gooaye-ep0090.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0090.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/14ba553c-3a6d-41e3-a62f-404564860fe1/rssFileVip.mp3?timestamp=1689439390923",
+  "duration": 2348.07,
+  "segments": [
+    {
+      "id": "ep0090-s01",
+      "heading": "開場 / 贊助：花旗銀行",
+      "start": 0.0,
+      "end": 108.03,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0090-s02",
+      "heading": "開場閒聊：PS5 到手、國中生的詞彙",
+      "start": 108.08,
+      "end": 374.81,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0090-s03",
+      "heading": "Bill Ackman 專幹直銷：賀寶福放空五年記",
+      "start": 374.86,
+      "end": 734.45,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0090-s04",
+      "heading": "道德與市場：以遠東集團與原神為例",
+      "start": 734.5,
+      "end": 901.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0090-s05",
+      "heading": "Ackman 認輸、人生無限賽局",
+      "start": 902.0,
+      "end": 1099.79,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0090-s06",
+      "heading": "Q&A",
+      "start": 1099.84,
+      "end": 2342.55,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0090-s07",
+      "heading": "結尾",
+      "start": 2342.6,
+      "end": 2348.07,
+      "confidence": 0.69
+    }
+  ]
+}

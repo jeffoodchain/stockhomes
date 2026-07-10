@@ -1,0 +1,51 @@
+{
+  "ep": 444,
+  "source": "auto-aligned from reports/mk/gooaye-ep0444.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0444.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bc6e61bc-8da7-40bf-b55f-da111b2a44b2/rssFileVip.mp3?timestamp=1712996558352",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0444-s01",
+      "heading": "開場 / 贊助：飛利浦 DC 塔式電扇",
+      "start": 0.0,
+      "end": 40.87,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0444-s02",
+      "heading": "人生新體驗：義大利甜點大師",
+      "start": 40.92,
+      "end": 659.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0444-s03",
+      "heading": "工業端 AI 應用緩慢",
+      "start": 659.4,
+      "end": 863.63,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0444-s04",
+      "heading": "地緣政治與市場風險",
+      "start": 863.68,
+      "end": 1163.61,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0444-s05",
+      "heading": "Marvell 與 Google Axion 發表",
+      "start": 1163.66,
+      "end": 1549.15,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0444-s06",
+      "heading": "Q&A",
+      "start": 1549.2,
+      "end": 3000.45,
+      "confidence": 0.789
+    }
+  ]
+}

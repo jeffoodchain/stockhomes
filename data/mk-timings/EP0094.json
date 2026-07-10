@@ -1,0 +1,58 @@
+{
+  "ep": 94,
+  "source": "auto-aligned from reports/mk/gooaye-ep0094.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0094.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/24197edf-49c0-4271-85f8-01cdee0a2fc3/rssFileVip.mp3?timestamp=1689439393745",
+  "duration": 2511.54,
+  "segments": [
+    {
+      "id": "ep0094-s01",
+      "heading": "開場 / 贊助：國泰世華銀行",
+      "start": 0.0,
+      "end": 136.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0094-s02",
+      "heading": "生活聊聊：林口天氣與保暖提醒",
+      "start": 136.9,
+      "end": 263.19,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0094-s03",
+      "heading": "Michael Burry 放空特斯拉：帶把的卡珊德拉",
+      "start": 263.24,
+      "end": 441.57,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0094-s04",
+      "heading": "ETF 泡沫論與特斯拉估值",
+      "start": 441.62,
+      "end": 784.49,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0094-s05",
+      "heading": "特斯拉空頭前輩：Jim Chanos、David Einhorn、Mark Spiegel",
+      "start": 784.54,
+      "end": 1185.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0094-s06",
+      "heading": "馬斯克致員工信：成本控管",
+      "start": 1185.86,
+      "end": 1339.85,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0094-s07",
+      "heading": "Q&A",
+      "start": 1339.9,
+      "end": 2511.54,
+      "confidence": 0.956
+    }
+  ]
+}

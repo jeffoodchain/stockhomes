@@ -1,0 +1,65 @@
+{
+  "ep": 2,
+  "source": "auto-aligned from reports/mk/gooaye-ep0002.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0002.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/21f74acc-05e2-4466-a414-9c4fb0b20d1e/rssFileVip.mp3?timestamp=1689439403420",
+  "duration": 1830.9,
+  "segments": [
+    {
+      "id": "ep0002-s01",
+      "heading": "開場",
+      "start": 0.46,
+      "end": 170.15,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0002-s02",
+      "heading": "疫情衝擊航空業 / 消費緊縮觀察",
+      "start": 170.2,
+      "end": 216.63,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0002-s03",
+      "heading": "道瓊崩跌 / 抄底迷思",
+      "start": 216.68,
+      "end": 453.62,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0002-s04",
+      "heading": "個股觀點 / 本益比評價陷阱",
+      "start": 453.67,
+      "end": 767.21,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0002-s05",
+      "heading": "特斯拉持股分析",
+      "start": 767.26,
+      "end": 1147.52,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0002-s06",
+      "heading": "迪士尼 / Disney+ 分析",
+      "start": 1147.57,
+      "end": 1610.0,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0002-s07",
+      "heading": "黃金與 VIX / 散戶沒有避險",
+      "start": 1610.05,
+      "end": 1793.51,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0002-s08",
+      "heading": "結尾",
+      "start": 1793.56,
+      "end": 1830.9,
+      "confidence": 0.711
+    }
+  ]
+}

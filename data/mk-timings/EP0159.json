@@ -1,0 +1,58 @@
+{
+  "ep": 159,
+  "source": "auto-aligned from reports/mk/gooaye-ep0159.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0159.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d2e590c2-4d07-4c97-883d-2625d7a1061a/rssFileVip.mp3?timestamp=1689439378784",
+  "duration": 2759.71,
+  "segments": [
+    {
+      "id": "ep0159-s01",
+      "heading": "開場 / 贊助：蝦皮閱讀節",
+      "start": 0.0,
+      "end": 77.29,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0159-s02",
+      "heading": "推書：費雪《非常潛力股》",
+      "start": 77.34,
+      "end": 541.81,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0159-s03",
+      "heading": "Jeff Bezos升空：Blue Origin New Shepard首次載人",
+      "start": 541.86,
+      "end": 904.97,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0159-s04",
+      "heading": "錄音說明：隔壁裝潢聲",
+      "start": 905.02,
+      "end": 1017.35,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0159-s05",
+      "heading": "市場觀察：修正應對與汰弱留強",
+      "start": 1017.4,
+      "end": 1811.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0159-s06",
+      "heading": "Q&A",
+      "start": 1811.4,
+      "end": 2756.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0159-s07",
+      "heading": "結尾",
+      "start": 2756.38,
+      "end": 2759.71,
+      "confidence": 0.938
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 41,
+  "source": "auto-aligned from reports/mk/gooaye-ep0041.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0041.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1382df23-3792-478d-8764-35f26282ced8/rssFileVip.mp3?timestamp=1689439387234",
+  "duration": 2483.3,
+  "segments": [
+    {
+      "id": "ep0041-s01",
+      "heading": "開場 / 贊助：迷走工作坊《做工的人》桌遊",
+      "start": 0.53,
+      "end": 133.82,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0041-s02",
+      "heading": "雜談：Podcast 前景、廣告效應與玉山複委託",
+      "start": 133.87,
+      "end": 339.28,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0041-s03",
+      "heading": "生技股的投資風險",
+      "start": 339.33,
+      "end": 549.54,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0041-s04",
+      "heading": "George Floyd 事件與美國暴動",
+      "start": 549.59,
+      "end": 771.1,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0041-s05",
+      "heading": "Derek Chauvin 的執法手段與警政問題",
+      "start": 771.15,
+      "end": 1028.57,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0041-s06",
+      "heading": "選情分析：暴動對美國大選的影響",
+      "start": 1028.62,
+      "end": 1253.83,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0041-s07",
+      "heading": "種族問題的深層結構",
+      "start": 1253.88,
+      "end": 1770.55,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0041-s08",
+      "heading": "Q&A",
+      "start": 1770.6,
+      "end": 2483.3,
+      "confidence": 0.967
+    }
+  ]
+}

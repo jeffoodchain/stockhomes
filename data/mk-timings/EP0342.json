@@ -1,0 +1,51 @@
+{
+  "ep": 342,
+  "source": "auto-aligned from reports/mk/gooaye-ep0342.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0342.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d0d14e8f-35ac-4fcd-b270-c845fa9f7744/rssFileVip.mp3?timestamp=1761072701322",
+  "duration": 3043.55,
+  "segments": [
+    {
+      "id": "ep0342-s01",
+      "heading": "開場 / 贊助：伊萊克斯 × 賞心樂事",
+      "start": 0.0,
+      "end": 103.37,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0342-s02",
+      "heading": "主委生病、在羅馬養病 & 股市大跌",
+      "start": 103.42,
+      "end": 300.13,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0342-s03",
+      "heading": "AQ（逆境商數）：比IQ、EQ更重要的能力",
+      "start": 300.18,
+      "end": 573.28,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0342-s04",
+      "heading": "台積電財報：復甦比預期再慢一兩季",
+      "start": 573.33,
+      "end": 1093.06,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0342-s05",
+      "heading": "特斯拉財報：毛利數字差強人意",
+      "start": 1093.11,
+      "end": 1577.18,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0342-s06",
+      "heading": "Q&A",
+      "start": 1577.23,
+      "end": 3043.55,
+      "confidence": 0.689
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "ep": 345,
+  "source": "auto-aligned from reports/mk/gooaye-ep0345.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0345.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2b901e00-6db0-4d9a-a5af-4e7e2b1ca7be/rssFileVip.mp3?timestamp=1689439398610",
+  "duration": 3186.21,
+  "segments": [
+    {
+      "id": "ep0345-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0345-s02",
+      "heading": "本集說明：整集回答 YouTube 留言",
+      "start": 58.82,
+      "end": 214.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0345-s03",
+      "heading": "Q&A：各聽眾問題回覆",
+      "start": 214.1,
+      "end": 474.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0345-s04",
+      "heading": "Q&A：槓桿指數操作",
+      "start": 474.16,
+      "end": 593.74,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0345-s05",
+      "heading": "Q&A：各聽眾生活留言",
+      "start": 593.79,
+      "end": 724.25,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0345-s06",
+      "heading": "Q&A：躁鬱症與 Papers, Please 遊戲",
+      "start": 724.3,
+      "end": 812.45,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0345-s07",
+      "heading": "Q&A：指數投資與主動研究的取捨",
+      "start": 812.5,
+      "end": 844.21,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0345-s08",
+      "heading": "Q&A：做短操作 SOP",
+      "start": 844.26,
+      "end": 926.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0345-s09",
+      "heading": "Q&A：興櫃（新貴）股",
+      "start": 927.02,
+      "end": 980.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0345-s10",
+      "heading": "Q&A：VOO 成分股與指數投資的特性",
+      "start": 980.4,
+      "end": 1104.72,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0345-s11",
+      "heading": "Q&A：幫小孩做股票投資規劃",
+      "start": 1104.77,
+      "end": 1194.08,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0345-s12",
+      "heading": "Q&A：學樂器對人生的啟發",
+      "start": 1194.13,
+      "end": 1296.75,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0345-s13",
+      "heading": "Q&A：指數投資、停損邏輯",
+      "start": 1296.8,
+      "end": 1422.99,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0345-s14",
+      "heading": "Q&A：交易孤獨感、一個月百萬獲利的自省",
+      "start": 1423.04,
+      "end": 1641.22,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0345-s15",
+      "heading": "Q&A：如何學習投資",
+      "start": 1641.27,
+      "end": 1769.0,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0345-s16",
+      "heading": "Q&A：高薪族稅務與期指逆價差",
+      "start": 1769.05,
+      "end": 1881.26,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0345-s17",
+      "heading": "Q&A：馬雲回阿里",
+      "start": 1881.31,
+      "end": 1927.64,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0345-s18",
+      "heading": "Q&A：創業想法與家人亂買基金",
+      "start": 1927.69,
+      "end": 2031.96,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0345-s19",
+      "heading": "Q&A：存股計劃的成效反思",
+      "start": 2032.01,
+      "end": 2158.38,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0345-s20",
+      "heading": "Q&A：再平衡與記憶體產業觀察",
+      "start": 2158.43,
+      "end": 2246.52,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0345-s21",
+      "heading": "Q&A：風險益酬、資產定價概念",
+      "start": 2246.57,
+      "end": 2379.09,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0345-s22",
+      "heading": "Q&A：如何抱住台積電不賣",
+      "start": 2379.14,
+      "end": 2498.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0345-s23",
+      "heading": "Q&A：投資股市對社會有無貢獻",
+      "start": 2498.44,
+      "end": 2595.71,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0345-s24",
+      "heading": "Q&A：保險規劃",
+      "start": 2595.76,
+      "end": 2726.25,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0345-s25",
+      "heading": "Q&A：中國數字人民幣、摩托車偏好、MBTI、漫畫",
+      "start": 2726.3,
+      "end": 2790.39,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0345-s26",
+      "heading": "Q&A：第三代半導體 Wolfspeed（WOLF）",
+      "start": 2790.44,
+      "end": 2880.19,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0345-s27",
+      "heading": "Q&A：Tesla FSD 自駕分級、Autopilot 評比",
+      "start": 2880.24,
+      "end": 3136.05,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0345-s28",
+      "heading": "結尾",
+      "start": 3136.1,
+      "end": 3186.21,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 508,
+  "source": "auto-aligned from reports/mk/gooaye-ep0508.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0508.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ea82d1ce-26dc-41c2-a08c-812c45c39ed2/rssFileVip.mp3?timestamp=1732352272676",
+  "duration": 3343.73,
+  "segments": [
+    {
+      "id": "ep0508-s01",
+      "heading": "開場 / 贊助：漁人生醫",
+      "start": 0.0,
+      "end": 69.23,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0508-s02",
+      "heading": "臺美股市近況與旅遊規劃",
+      "start": 69.28,
+      "end": 308.75,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0508-s03",
+      "heading": "LA 之旅行程規劃與婚姻管理智慧",
+      "start": 308.8,
+      "end": 596.07,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0508-s04",
+      "heading": "美國旅遊體驗與經濟觀察",
+      "start": 596.12,
+      "end": 653.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0508-s05",
+      "heading": "美股軟體股與估值策略",
+      "start": 653.38,
+      "end": 884.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0508-s06",
+      "heading": "臺股軟體股走勢",
+      "start": 884.86,
+      "end": 1000.85,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0508-s07",
+      "heading": "NVIDIA 財報與 AI 芯片前景",
+      "start": 1000.9,
+      "end": 1208.13,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0508-s08",
+      "heading": "NVIDIA 供應鏈機會與新產品線",
+      "start": 1208.18,
+      "end": 1337.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0508-s09",
+      "heading": "NVIDIA 產品線與散熱挑戰",
+      "start": 1337.54,
+      "end": 1525.33,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0508-s10",
+      "heading": "下一代 GPU 架構與冷卻挑戰",
+      "start": 1525.38,
+      "end": 1910.45,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0508-s11",
+      "heading": "Q&A 部分",
+      "start": 1910.5,
+      "end": 3343.73,
+      "confidence": 0.833
+    }
+  ]
+}

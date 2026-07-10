@@ -1,0 +1,72 @@
+{
+  "ep": 539,
+  "source": "auto-aligned from reports/mk/gooaye-ep0539.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0539.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/83754cfd-d719-48c2-85ce-f02b25455794/rssFileVip.mp3?timestamp=1741769843316",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0539-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 74.95,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0539-s02",
+      "heading": "個人心境與市場格局轉變",
+      "start": 75.0,
+      "end": 127.73,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0539-s03",
+      "heading": "盤面策略調整",
+      "start": 127.78,
+      "end": 194.17,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0539-s04",
+      "heading": "珍惜當下：Fernando的故事",
+      "start": 194.22,
+      "end": 556.61,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0539-s05",
+      "heading": "市場格局與持股調整策略",
+      "start": 556.66,
+      "end": 765.69,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0539-s06",
+      "heading": "AI相關題材與CoreWeave",
+      "start": 765.74,
+      "end": 879.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0539-s07",
+      "heading": "Intel與聯合JV新聞",
+      "start": 879.16,
+      "end": 1101.79,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0539-s08",
+      "heading": "川普政策對市場的影響",
+      "start": 1101.84,
+      "end": 1624.81,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0539-s09",
+      "heading": "Q&A 部分",
+      "start": 1624.86,
+      "end": 2998.96,
+      "confidence": 0.622
+    }
+  ]
+}

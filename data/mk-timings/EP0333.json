@@ -1,0 +1,51 @@
+{
+  "ep": 333,
+  "source": "auto-aligned from reports/mk/gooaye-ep0333.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0333.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8837b724-4bbc-447e-b3f8-00e60888fe24/rssFileVip.mp3?timestamp=1689439399692",
+  "duration": 3013.83,
+  "segments": [
+    {
+      "id": "ep0333-s01",
+      "heading": "開場 / 贊助：富邦證券",
+      "start": 0.0,
+      "end": 58.31,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0333-s02",
+      "heading": "宜蘭行 / 高雄拜訪",
+      "start": 58.36,
+      "end": 209.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0333-s03",
+      "heading": "高雄印象 / 城市格局比較",
+      "start": 209.68,
+      "end": 350.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0333-s04",
+      "heading": "猛男見面 / 執行力與贏家思維",
+      "start": 350.18,
+      "end": 1008.91,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0333-s05",
+      "heading": "NVIDIA 2023 GTC Keynote 解析",
+      "start": 1008.96,
+      "end": 1883.39,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0333-s06",
+      "heading": "Q&A",
+      "start": 1883.44,
+      "end": 3013.83,
+      "confidence": 0.8
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 569,
+  "source": "auto-aligned from reports/mk/gooaye-ep0569.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0569.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1d4dead1-e21c-4da2-8ee1-6e2978013a1d/rssFileVip.mp3?timestamp=1751454577629",
+  "duration": 3223.35,
+  "segments": [
+    {
+      "id": "ep0569-s01",
+      "heading": "開場 / 贊助：善存",
+      "start": 0.0,
+      "end": 70.31,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0569-s02",
+      "heading": "開場閒聊：卡米地股東會與 stand-up comedy 觀察",
+      "start": 70.36,
+      "end": 252.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0569-s03",
+      "heading": "投資喜劇俱樂部心得",
+      "start": 252.5,
+      "end": 444.59,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0569-s04",
+      "heading": "感情議題：勇於分手、避孕的重要性",
+      "start": 444.64,
+      "end": 851.55,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0569-s05",
+      "heading": "市場觀察：台股 HVDC 題材與 Power 族群",
+      "start": 851.6,
+      "end": 1329.95,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0569-s06",
+      "heading": "功率半導體：GaN、SiC 與 Infineon 的機會",
+      "start": 1330.0,
+      "end": 1516.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0569-s07",
+      "heading": "台股軟體族群：AI agent 與 Niche Market 機會",
+      "start": 1516.1,
+      "end": 1892.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0569-s08",
+      "heading": "Q&A",
+      "start": 1892.38,
+      "end": 3223.35,
+      "confidence": 0.678
+    }
+  ]
+}

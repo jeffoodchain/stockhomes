@@ -1,0 +1,65 @@
+{
+  "ep": 546,
+  "source": "auto-aligned from reports/mk/gooaye-ep0546.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0546.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c5f96b5a-af6f-4694-8fb1-b64a9f3ab883/rssFileVip.mp3?timestamp=1743829628520",
+  "duration": 2991.54,
+  "segments": [
+    {
+      "id": "ep0546-s01",
+      "heading": "開場 / 贊助：MIHONG®（米紅生醫）",
+      "start": 0.0,
+      "end": 81.39,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0546-s02",
+      "heading": "保持樂觀：市場起伏與心理調適",
+      "start": 81.44,
+      "end": 198.87,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0546-s03",
+      "heading": "生活聊聊：健身房、衝動消費與公仔",
+      "start": 198.92,
+      "end": 545.63,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0546-s04",
+      "heading": "川普對等關稅：指鹿為馬事件分析",
+      "start": 545.68,
+      "end": 727.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0546-s05",
+      "heading": "粉紅泡泡：川普支持圈的輿論分析",
+      "start": 727.5,
+      "end": 882.79,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0546-s06",
+      "heading": "投資人視角：台灣關稅的荒謬性",
+      "start": 882.84,
+      "end": 1003.69,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0546-s07",
+      "heading": "市場展望：VIX與操作心態",
+      "start": 1003.74,
+      "end": 1706.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0546-s08",
+      "heading": "Q&A",
+      "start": 1707.02,
+      "end": 2991.54,
+      "confidence": 0.656
+    }
+  ]
+}

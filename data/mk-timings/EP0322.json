@@ -1,0 +1,65 @@
+{
+  "ep": 322,
+  "source": "auto-aligned from reports/mk/gooaye-ep0322.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0322.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5667ed3e-7997-4d4e-9cc9-058bbbdea7a3/rssFileVip.mp3?timestamp=1689439382567",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0322-s01",
+      "heading": "開場 / 贊助：正成集團",
+      "start": 0.0,
+      "end": 111.85,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0322-s02",
+      "heading": "昨天行程：品酒會、聚會與社交疲勞",
+      "start": 111.9,
+      "end": 381.39,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0322-s03",
+      "heading": "交易室聚會：粉磚經營的心得",
+      "start": 381.44,
+      "end": 620.31,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0322-s04",
+      "heading": "外貌與能力的互補觀察",
+      "start": 620.36,
+      "end": 917.84,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0322-s05",
+      "heading": "市場話題：AI 競爭格局、搜尋引擎大戰",
+      "start": 917.89,
+      "end": 1283.51,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0322-s06",
+      "heading": "AI 趨勢：資安、Edge AI 與 Data Center",
+      "start": 1283.56,
+      "end": 1743.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0322-s07",
+      "heading": "Q&A",
+      "start": 1743.82,
+      "end": 3052.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0322-s08",
+      "heading": "結尾",
+      "start": 3052.8,
+      "end": 3056.93,
+      "confidence": 0.75
+    }
+  ]
+}

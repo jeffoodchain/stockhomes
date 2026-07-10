@@ -1,0 +1,72 @@
+{
+  "ep": 414,
+  "source": "auto-aligned from reports/mk/gooaye-ep0414.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0414.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2fbf9b57-d59e-4fdf-b6ef-1098bda576f9/rssFileVip.mp3?timestamp=1703928827018",
+  "duration": 3371.96,
+  "segments": [
+    {
+      "id": "ep0414-s01",
+      "heading": "開場 / 贊助：知識衛星房地產課程",
+      "start": 0.0,
+      "end": 66.69,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0414-s02",
+      "heading": "毛毛的生日派對與人生換地方的哲學",
+      "start": 66.74,
+      "end": 211.71,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0414-s03",
+      "heading": "與艾希克聚餐和市場觀察",
+      "start": 211.76,
+      "end": 350.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0414-s04",
+      "heading": "小型股籌碼與市場操作的洞察",
+      "start": 350.16,
+      "end": 571.11,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0414-s05",
+      "heading": "PMIC、車用與產業打底復甦",
+      "start": 571.16,
+      "end": 757.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0414-s06",
+      "heading": "2024年市場展望與產業打底",
+      "start": 757.36,
+      "end": 1042.57,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0414-s07",
+      "heading": "Apple Vision Pro 與 VR / MR 產業",
+      "start": 1042.62,
+      "end": 1457.45,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0414-s08",
+      "heading": "AI 筆電與 AI Server",
+      "start": 1457.5,
+      "end": 1831.07,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0414-s09",
+      "heading": "Q&A 段落",
+      "start": 1831.12,
+      "end": 3371.96,
+      "confidence": 0.744
+    }
+  ]
+}

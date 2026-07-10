@@ -1,0 +1,44 @@
+{
+  "ep": 524,
+  "source": "auto-aligned from reports/mk/gooaye-ep0524.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0524.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a1539aaf-e50e-4c13-8e81-0f8da3cb24ca/rssFileVip.mp3?timestamp=1737185681848",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0524-s01",
+      "heading": "開場 / 贊助：地標網通",
+      "start": 0.0,
+      "end": 93.29,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0524-s02",
+      "heading": "最近沉迷遊戲的日常",
+      "start": 93.34,
+      "end": 280.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0524-s03",
+      "heading": "與A君的股票投資旅程",
+      "start": 280.48,
+      "end": 860.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0524-s04",
+      "heading": "台積電財報分析",
+      "start": 860.76,
+      "end": 1744.73,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0524-s05",
+      "heading": "Q&A 部分",
+      "start": 1744.78,
+      "end": 2994.49,
+      "confidence": 0.767
+    }
+  ]
+}

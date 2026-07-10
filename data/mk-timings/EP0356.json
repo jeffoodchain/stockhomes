@@ -1,0 +1,44 @@
+{
+  "ep": 356,
+  "source": "auto-aligned from reports/mk/gooaye-ep0356.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0356.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7efad715-4406-4c6d-819c-8775c8780b5d/rssFileVip.mp3?timestamp=1689439383923",
+  "duration": 3134.2,
+  "segments": [
+    {
+      "id": "ep0356-s01",
+      "heading": "開場 / 贊助：Dr.情趣",
+      "start": 0.0,
+      "end": 81.19,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0356-s02",
+      "heading": "赴金士頓演講心得",
+      "start": 81.24,
+      "end": 583.93,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0356-s03",
+      "heading": "AI 股估值警示",
+      "start": 583.98,
+      "end": 1208.98,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0356-s04",
+      "heading": "Apple Vision Pro 供應鏈展望",
+      "start": 1209.03,
+      "end": 1957.02,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0356-s05",
+      "heading": "Q&A",
+      "start": 1957.07,
+      "end": 3134.2,
+      "confidence": 0.756
+    }
+  ]
+}

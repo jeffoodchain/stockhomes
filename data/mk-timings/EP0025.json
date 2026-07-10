@@ -1,0 +1,65 @@
+{
+  "ep": 25,
+  "source": "auto-aligned from reports/mk/gooaye-ep0025.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0025.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fee29039-55ff-460d-bff3-2aed3188dfa1/rssFileVip.mp3?timestamp=1689439388388",
+  "duration": 1498.02,
+  "segments": [
+    {
+      "id": "ep0025-s01",
+      "heading": "開場 / 贊助：SBD",
+      "start": 0.11,
+      "end": 152.96,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0025-s02",
+      "heading": "Q&A 聽眾留言",
+      "start": 153.01,
+      "end": 432.6,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0025-s03",
+      "heading": "今日主題：韭菜的故事",
+      "start": 432.65,
+      "end": 555.18,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0025-s04",
+      "heading": "華南永昌47億虧損事件",
+      "start": 555.23,
+      "end": 790.86,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0025-s05",
+      "heading": "1995年霸菱銀行倒閉案",
+      "start": 790.91,
+      "end": 967.34,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0025-s06",
+      "heading": "聊聊：何晶一個「兒」",
+      "start": 967.39,
+      "end": 1319.86,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0025-s07",
+      "heading": "投資心態：拱懶的氣質",
+      "start": 1319.91,
+      "end": 1449.76,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0025-s08",
+      "heading": "結語",
+      "start": 1449.81,
+      "end": 1498.02,
+      "confidence": 0.756
+    }
+  ]
+}

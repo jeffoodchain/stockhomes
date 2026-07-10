@@ -1,0 +1,268 @@
+{
+  "ep": 431,
+  "source": "auto-aligned from reports/mk/gooaye-ep0431.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0431.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/03bc716f-c666-4407-afa6-908793ec849b/rssFileVip.mp3?timestamp=1709106698435",
+  "duration": 3007.9,
+  "segments": [
+    {
+      "id": "ep0431-s01",
+      "heading": "開場 / 贊助：亞昕集團",
+      "start": 0.0,
+      "end": 77.21,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0431-s02",
+      "heading": "人要及時行樂",
+      "start": 77.26,
+      "end": 150.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0431-s03",
+      "heading": "人生規劃與旅遊安排",
+      "start": 150.94,
+      "end": 269.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0431-s04",
+      "heading": "Caleo 樂團演唱會",
+      "start": 269.76,
+      "end": 433.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0431-s05",
+      "heading": "歐洲消費文化觀察",
+      "start": 433.72,
+      "end": 513.59,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0431-s06",
+      "heading": "這次行程的收穫",
+      "start": 513.64,
+      "end": 598.53,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0431-s07",
+      "heading": "養小孩和養狗的意義",
+      "start": 598.58,
+      "end": 683.29,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0431-s08",
+      "heading": "上話題：台股市場修正",
+      "start": 683.34,
+      "end": 712.41,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0431-s09",
+      "heading": "新聞討論與被害妄想",
+      "start": 712.46,
+      "end": 789.77,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0431-s10",
+      "heading": "台積電與發哥估值",
+      "start": 789.82,
+      "end": 843.41,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0431-s11",
+      "heading": "15 分鐘的名氣",
+      "start": 843.46,
+      "end": 918.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0431-s12",
+      "heading": "台股大型股估值",
+      "start": 918.32,
+      "end": 958.09,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0431-s13",
+      "heading": "槓桿與資金控管",
+      "start": 958.14,
+      "end": 979.97,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0431-s14",
+      "heading": "Palantir 與內線交易追蹤",
+      "start": 980.02,
+      "end": 1025.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0431-s15",
+      "heading": "官方內線交易追蹤系統",
+      "start": 1025.3,
+      "end": 1066.23,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0431-s16",
+      "heading": "Palantir 股價飆升",
+      "start": 1066.28,
+      "end": 1090.55,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0431-s17",
+      "heading": "人對了什麼都對",
+      "start": 1090.6,
+      "end": 1141.03,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0431-s18",
+      "heading": "長期投資與變因控制",
+      "start": 1141.08,
+      "end": 1216.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0431-s19",
+      "heading": "手機與 PC 市場機會",
+      "start": 1216.74,
+      "end": 1322.63,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0431-s20",
+      "heading": "手機與 PC 晶片廠投資邏輯",
+      "start": 1322.68,
+      "end": 1371.39,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0431-s21",
+      "heading": "修正時的選股策略",
+      "start": 1371.44,
+      "end": 1444.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0431-s22",
+      "heading": "消費股與低估值機會",
+      "start": 1444.26,
+      "end": 1524.97,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0431-s23",
+      "heading": "手機與 PC 產業鏈聯動",
+      "start": 1525.02,
+      "end": 1543.91,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0431-s24",
+      "heading": "銳毅在 WiFi 7 時代的角色",
+      "start": 1543.96,
+      "end": 1623.17,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0431-s25",
+      "heading": "修正機會與觀察重點",
+      "start": 1623.22,
+      "end": 1659.57,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0431-s26",
+      "heading": "美股市場與風險偏好",
+      "start": 1659.62,
+      "end": 1765.19,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0431-s27",
+      "heading": "結尾與工作心得",
+      "start": 1765.24,
+      "end": 1771.49,
+      "confidence": 0.812
+    },
+    {
+      "id": "ep0431-s28",
+      "heading": "第一位：大麻煩 / 夢工的邀約",
+      "start": 1771.54,
+      "end": 1927.23,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0431-s29",
+      "heading": "第二位：Kai / 網紅的誘惑",
+      "start": 1927.28,
+      "end": 2020.69,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0431-s30",
+      "heading": "第三位：全家氣氛仔 / Neil 生日祝福",
+      "start": 2020.74,
+      "end": 2161.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0431-s31",
+      "heading": "第四位：MNODO235 / 孟平感謝",
+      "start": 2161.94,
+      "end": 2199.67,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0431-s32",
+      "heading": "第五位：四十小社處 / 職場與人生選擇",
+      "start": 2199.72,
+      "end": 2505.05,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0431-s33",
+      "heading": "第六位：宜蘭紅夢宮 / 節目長度與年終期待",
+      "start": 2505.1,
+      "end": 2544.64,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0431-s34",
+      "heading": "第七位：被當三顆的可悲頂大混血仔 / 匯率與美股投資",
+      "start": 2544.69,
+      "end": 2627.18,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0431-s35",
+      "heading": "第八位：POYYYRR / 玩世不恭的自我認識",
+      "start": 2627.23,
+      "end": 2651.88,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0431-s36",
+      "heading": "第九位：QAZWDXPLM / 西班牙旅遊建議",
+      "start": 2651.93,
+      "end": 2906.2,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0431-s37",
+      "heading": "第十位：海巡實在不方便 / 精神困擾諮詢",
+      "start": 2906.25,
+      "end": 3007.9,
+      "confidence": 0.644
+    }
+  ]
+}

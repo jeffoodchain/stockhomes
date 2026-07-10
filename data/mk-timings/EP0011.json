@@ -1,0 +1,51 @@
+{
+  "ep": 11,
+  "source": "auto-aligned from reports/mk/gooaye-ep0011.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0011.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d136e66b-1dab-4b67-8796-add2c2c99798/rssFileVip.mp3?timestamp=1689439395538",
+  "duration": 587.08,
+  "segments": [
+    {
+      "id": "ep0011-s01",
+      "heading": "開場：黑色一星期回顧",
+      "start": 0.11,
+      "end": 48.84,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0011-s02",
+      "heading": "2020崩盤 vs. 歷史空頭",
+      "start": 48.89,
+      "end": 144.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0011-s03",
+      "heading": "義大利疫情與封城狀況",
+      "start": 145.04,
+      "end": 232.29,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0011-s04",
+      "heading": "歐洲疫情為何失控：衛生習慣與反蒙面法",
+      "start": 232.34,
+      "end": 414.51,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0011-s05",
+      "heading": "看空 vs. 看多論點",
+      "start": 414.56,
+      "end": 544.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0011-s06",
+      "heading": "結尾：推薦《碳變》、冷靜面對反彈",
+      "start": 544.4,
+      "end": 587.08,
+      "confidence": 0.756
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 383,
+  "source": "auto-aligned from reports/mk/gooaye-ep0383.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0383.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f1d8a6f3-4526-4316-9bd9-da9bd42affcb/rssFileVip.mp3?timestamp=1694593883122",
+  "duration": 2973.7,
+  "segments": [
+    {
+      "id": "ep0383-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 74.83,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0383-s02",
+      "heading": "蘋果發表會概況",
+      "start": 74.88,
+      "end": 165.59,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0383-s03",
+      "heading": "蘋果發表會重點：鈦合金機殼",
+      "start": 165.64,
+      "end": 223.93,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0383-s04",
+      "heading": "蘋果發表會重點：USB Type-C",
+      "start": 223.98,
+      "end": 331.39,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0383-s05",
+      "heading": "蘋果發表會重點：潛望式鏡頭",
+      "start": 331.44,
+      "end": 478.45,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0383-s06",
+      "heading": "消費性族群與中國市場",
+      "start": 478.5,
+      "end": 652.73,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0383-s07",
+      "heading": "特斯拉與 Dojo 超級電腦",
+      "start": 652.78,
+      "end": 1127.23,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0383-s08",
+      "heading": "Morgan Stanley 報告分析",
+      "start": 1127.28,
+      "end": 1559.24,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0383-s09",
+      "heading": "Q&A 部分",
+      "start": 1559.29,
+      "end": 2967.41,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0383-s10",
+      "heading": "結語",
+      "start": 2967.46,
+      "end": 2973.7,
+      "confidence": 0.846
+    }
+  ]
+}

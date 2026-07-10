@@ -1,0 +1,135 @@
+{
+  "ep": 406,
+  "source": "auto-aligned from reports/mk/gooaye-ep0406.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0406.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/caa65463-45a3-45e8-8846-34ea55e329ea/rssFileVip.mp3?timestamp=1701505351625",
+  "duration": 3016.8,
+  "segments": [
+    {
+      "id": "ep0406-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 57.99,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0406-s02",
+      "heading": "新加坡之旅：機場攻略與在地觀察",
+      "start": 58.04,
+      "end": 279.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0406-s03",
+      "heading": "節目錄音技術調整",
+      "start": 280.02,
+      "end": 315.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0406-s04",
+      "heading": "股市表現與修正策略",
+      "start": 315.9,
+      "end": 377.93,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0406-s05",
+      "heading": "AI 持股調整策略",
+      "start": 377.98,
+      "end": 464.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0406-s06",
+      "heading": "手機生態：CIS 與基頻芯片前景",
+      "start": 464.2,
+      "end": 562.35,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0406-s07",
+      "heading": "GTA6 與消費電子新機會",
+      "start": 562.4,
+      "end": 607.11,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0406-s08",
+      "heading": "記憶體與 HBM 前景",
+      "start": 607.16,
+      "end": 733.83,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0406-s09",
+      "heading": "車用與經濟展望",
+      "start": 733.88,
+      "end": 832.75,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0406-s10",
+      "heading": "聯準會政策與實質利率分析",
+      "start": 832.8,
+      "end": 1044.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0406-s11",
+      "heading": "降息情境下的投資機會",
+      "start": 1044.82,
+      "end": 1176.25,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0406-s12",
+      "heading": "Tesla Cybertruck 與新車發展",
+      "start": 1176.3,
+      "end": 1414.93,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0406-s13",
+      "heading": "IDM 動向與芯片代工前景",
+      "start": 1414.98,
+      "end": 1550.33,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0406-s14",
+      "heading": "選股判斷邏輯與市場觀察",
+      "start": 1550.38,
+      "end": 1680.69,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0406-s15",
+      "heading": "本集結語與 QA 開場",
+      "start": 1680.74,
+      "end": 1771.29,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0406-s16",
+      "heading": "QA 環節第一部分",
+      "start": 1771.34,
+      "end": 2222.55,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0406-s17",
+      "heading": "QA 環節：房貸與投資風險",
+      "start": 2222.6,
+      "end": 2437.41,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0406-s18",
+      "heading": "QA 環節：飲食習慣與禮儀",
+      "start": 2437.46,
+      "end": 3016.8,
+      "confidence": 0.644
+    }
+  ]
+}

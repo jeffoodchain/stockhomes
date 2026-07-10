@@ -1,0 +1,58 @@
+{
+  "ep": 452,
+  "source": "auto-aligned from reports/mk/gooaye-ep0452.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0452.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/651929f8-d8d1-431d-9d58-59e7ff655eca/rssFileVip.mp3?timestamp=1715415765872",
+  "duration": 2982.61,
+  "segments": [
+    {
+      "id": "ep0452-s01",
+      "heading": "開場 / 贊助：ATEX 迷你筋膜槍",
+      "start": 0.0,
+      "end": 88.95,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0452-s02",
+      "heading": "市場表現與心態調整",
+      "start": 89.0,
+      "end": 133.99,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0452-s03",
+      "heading": "台股部位與小鬼股",
+      "start": 134.04,
+      "end": 337.53,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0452-s04",
+      "heading": "人生投資與多贏心態",
+      "start": 337.58,
+      "end": 875.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0452-s05",
+      "heading": "小鬼股與人脈經營",
+      "start": 875.78,
+      "end": 934.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0452-s06",
+      "heading": "美股焦點：Apple iPad 與軟體創新",
+      "start": 934.66,
+      "end": 1563.77,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0452-s07",
+      "heading": "Q&A 單元",
+      "start": 1563.82,
+      "end": 2982.61,
+      "confidence": 0.844
+    }
+  ]
+}

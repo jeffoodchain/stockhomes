@@ -1,0 +1,79 @@
+{
+  "ep": 311,
+  "source": "auto-aligned from reports/mk/gooaye-ep0311.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0311.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fbe1f96a-9a13-4e0d-b301-a456fa076638/rssFileVip.mp3?timestamp=1689439391910",
+  "duration": 2975.19,
+  "segments": [
+    {
+      "id": "ep0311-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 53.09,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0311-s02",
+      "heading": "新年快樂 / 長榮年終事件",
+      "start": 53.14,
+      "end": 264.68,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0311-s03",
+      "heading": "長榮集團結構分析",
+      "start": 264.73,
+      "end": 443.46,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0311-s04",
+      "heading": "薪資通膨與勞務工作展望",
+      "start": 443.51,
+      "end": 609.16,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0311-s05",
+      "heading": "台積電稼動率下修——已知資訊",
+      "start": 609.21,
+      "end": 734.18,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0311-s06",
+      "heading": "台積電2023展望",
+      "start": 734.23,
+      "end": 875.76,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0311-s07",
+      "heading": "訊息快慢與投資勝率的思考",
+      "start": 875.81,
+      "end": 1034.19,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0311-s08",
+      "heading": "自我認知與投資風格省思",
+      "start": 1034.24,
+      "end": 1735.02,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0311-s09",
+      "heading": "節目前半總結",
+      "start": 1735.07,
+      "end": 1844.12,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0311-s10",
+      "heading": "Q&A",
+      "start": 1844.17,
+      "end": 2975.19,
+      "confidence": 0.789
+    }
+  ]
+}

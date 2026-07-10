@@ -1,0 +1,79 @@
+{
+  "ep": 26,
+  "source": "auto-aligned from reports/mk/gooaye-ep0026.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0026.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e84ef93d-d4ba-401c-8650-bdc390712b5a/rssFileVip.mp3?timestamp=1689439379919",
+  "duration": 1658.51,
+  "segments": [
+    {
+      "id": "ep0026-s01",
+      "heading": "開場 / 贊助：SBD",
+      "start": 0.0,
+      "end": 45.57,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0026-s02",
+      "heading": "逆風觀點：不要自嗨，川普與WHO",
+      "start": 45.62,
+      "end": 317.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0026-s03",
+      "heading": "百靈果被攻擊事件、溝通困難的台派",
+      "start": 317.34,
+      "end": 606.05,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0026-s04",
+      "heading": "政治與經濟密不可分",
+      "start": 606.1,
+      "end": 683.28,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0026-s05",
+      "heading": "克蘇魯神話比喻：政府就是神",
+      "start": 683.33,
+      "end": 803.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0026-s06",
+      "heading": "無限QE：政府必須先救市",
+      "start": 803.4,
+      "end": 1055.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0026-s07",
+      "heading": "Q&A 時間",
+      "start": 1055.76,
+      "end": 1142.36,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0026-s08",
+      "heading": "修正式民主與安樂死辯論回應",
+      "start": 1142.41,
+      "end": 1413.71,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0026-s09",
+      "heading": "Q&A：美日撤出中國趨勢",
+      "start": 1413.76,
+      "end": 1592.34,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0026-s10",
+      "heading": "結尾：股癌社群介紹",
+      "start": 1592.39,
+      "end": 1658.51,
+      "confidence": 0.978
+    }
+  ]
+}

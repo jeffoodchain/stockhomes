@@ -1,0 +1,51 @@
+{
+  "ep": 52,
+  "source": "auto-aligned from reports/mk/gooaye-ep0052.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0052.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/af0a1504-d2fd-4402-87eb-1ccbe96eab8a/rssFileVip.mp3?timestamp=1761072701691",
+  "duration": 2518.96,
+  "segments": [
+    {
+      "id": "ep0052-s01",
+      "heading": "開場 / 贊助：富果帳戶（玉山證券）",
+      "start": 0.18,
+      "end": 150.15,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0052-s02",
+      "heading": "推薦音樂：The HU 與 John Mayer",
+      "start": 150.2,
+      "end": 286.95,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0052-s03",
+      "heading": "馬斯克成全球第六富豪",
+      "start": 287.0,
+      "end": 384.49,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0052-s04",
+      "heading": "特斯拉空頭遭火烤：道氏理論與投資心法",
+      "start": 384.54,
+      "end": 907.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0052-s05",
+      "heading": "Palantir IPO：菜雞別急著 all in",
+      "start": 908.04,
+      "end": 1190.99,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0052-s06",
+      "heading": "Q&A",
+      "start": 1191.04,
+      "end": 2518.96,
+      "confidence": 0.933
+    }
+  ]
+}

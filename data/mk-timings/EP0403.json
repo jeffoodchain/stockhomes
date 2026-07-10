@@ -1,0 +1,51 @@
+{
+  "ep": 403,
+  "source": "auto-aligned from reports/mk/gooaye-ep0403.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0403.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c869a835-b842-46d1-be0c-a5e8c6dd44ed/rssFileVip.mp3?timestamp=1700643491253",
+  "duration": 3101.52,
+  "segments": [
+    {
+      "id": "ep0403-s01",
+      "heading": "開場 / 贊助：羅氏大藥廠",
+      "start": 0.0,
+      "end": 68.91,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0403-s02",
+      "heading": "開場閒聊：PS5 抽獎、新加坡票買錯、Apple Today at Apple 活動",
+      "start": 68.96,
+      "end": 679.24,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0403-s03",
+      "heading": "市場話題：OpenAI 人事風波",
+      "start": 679.29,
+      "end": 1201.66,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0403-s04",
+      "heading": "輝達第三季財報解析",
+      "start": 1201.71,
+      "end": 1567.76,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0403-s05",
+      "heading": "供應鏈觀察：瓶頸邏輯、Gaming 與車用",
+      "start": 1567.81,
+      "end": 1975.9,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0403-s06",
+      "heading": "Q&A",
+      "start": 1975.95,
+      "end": 3101.52,
+      "confidence": 0.656
+    }
+  ]
+}

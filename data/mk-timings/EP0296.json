@@ -1,0 +1,58 @@
+{
+  "ep": 296,
+  "source": "auto-aligned from reports/mk/gooaye-ep0296.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0296.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/66c30ac4-6d53-4392-b83a-b644e8ba0d39/rssFileVip.mp3?timestamp=1689439380477",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0296-s01",
+      "heading": "開場 / 贊助：PlayStation《戰神諸神黃昏》",
+      "start": 0.0,
+      "end": 102.31,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0296-s02",
+      "heading": "狗來富：Ruby 成功送養",
+      "start": 102.36,
+      "end": 289.71,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0296-s03",
+      "heading": "Facebook Drama：FTX 謠言與詐騙仔",
+      "start": 289.76,
+      "end": 698.17,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0296-s04",
+      "heading": "美元轉弱與升息週期",
+      "start": 698.22,
+      "end": 934.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0296-s05",
+      "heading": "衰退預測：馬斯克 vs 聯準會",
+      "start": 934.32,
+      "end": 1126.73,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0296-s06",
+      "heading": "Twitter：馬斯克裁員與 Twitter Blue 佈局",
+      "start": 1126.78,
+      "end": 1660.36,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0296-s07",
+      "heading": "Q&A",
+      "start": 1660.41,
+      "end": 3000.45,
+      "confidence": 0.8
+    }
+  ]
+}

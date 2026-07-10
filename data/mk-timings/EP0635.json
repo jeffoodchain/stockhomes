@@ -1,0 +1,212 @@
+{
+  "ep": 635,
+  "source": "auto-aligned from reports/mk/gooaye-ep0635.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0635.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/516b39db-a2cf-4864-8c96-dd03387ef6d7/rssFileVip.mp3?timestamp=1770848384808",
+  "duration": 3073.28,
+  "segments": [
+    {
+      "id": "ep0635-s01",
+      "heading": "開場 / 贊助：善存益生菌",
+      "start": 0.0,
+      "end": 68.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0635-s02",
+      "heading": "回國前的 drama：兒子生病許願捐款",
+      "start": 68.46,
+      "end": 143.91,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0635-s03",
+      "heading": "奇安發燒：尿檢菌數爆表",
+      "start": 143.96,
+      "end": 207.49,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0635-s04",
+      "heading": "羅馬就醫：私立醫院吃軟釘子",
+      "start": 207.54,
+      "end": 275.69,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0635-s05",
+      "heading": "Bambino Gesù：耶穌是第一代 KOL",
+      "start": 275.74,
+      "end": 416.95,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0635-s06",
+      "heading": "回臺急診：白血球過低虛驚一場",
+      "start": 417.0,
+      "end": 703.89,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0635-s07",
+      "heading": "過年部位：A 君滿倉，我減槓桿",
+      "start": 703.94,
+      "end": 769.07,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0635-s08",
+      "heading": "記憶體傳言：美光 vs. 海力士 Rubin 驗證",
+      "start": 769.12,
+      "end": 974.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0635-s09",
+      "heading": "Meco HDI PCB 上修 22% 漲停：衛星題材印證",
+      "start": 974.88,
+      "end": 1167.03,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0635-s10",
+      "heading": "Google DRAM Rack 與 Marvell MPU：取代 HBM？",
+      "start": 1167.08,
+      "end": 1429.91,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0635-s11",
+      "heading": "過年部位實戰：減槓桿但接近滿倉",
+      "start": 1429.96,
+      "end": 1640.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0635-s12",
+      "heading": "Q&A：聽眾媽媽推薦、迷宮飯與黑獸",
+      "start": 1640.94,
+      "end": 1721.29,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0635-s13",
+      "heading": "Q&A：Bob 安卓終於有人權",
+      "start": 1721.34,
+      "end": 1741.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0635-s14",
+      "heading": "Q&A：二寶爸的感謝",
+      "start": 1742.04,
+      "end": 1780.79,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0635-s15",
+      "heading": "Q&A：Arista (ANET) 財報看法",
+      "start": 1780.84,
+      "end": 1822.27,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0635-s16",
+      "heading": "Q&A：男生在一起會變假假的嗎",
+      "start": 1822.32,
+      "end": 1897.01,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0635-s17",
+      "heading": "Q&A：技術面選股、A 君其實是我妹",
+      "start": 1897.06,
+      "end": 2226.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0635-s18",
+      "heading": "Q&A：林口高階牛排館的拖鞋富豪",
+      "start": 2227.04,
+      "end": 2457.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0635-s19",
+      "heading": "Q&A：日 K 週 K 頸線怎麼畫",
+      "start": 2457.56,
+      "end": 2514.85,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0635-s20",
+      "heading": "Q&A：兒子留言爆笑",
+      "start": 2514.9,
+      "end": 2536.86,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0635-s21",
+      "heading": "Q&A：收女貂的大人不會變壞",
+      "start": 2536.91,
+      "end": 2575.94,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0635-s22",
+      "heading": "Q&A：金錢觀、放閃、教小孩",
+      "start": 2575.99,
+      "end": 2667.64,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0635-s23",
+      "heading": "Q&A：Jackie Lee 喜歡的女角",
+      "start": 2667.69,
+      "end": 2727.14,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0635-s24",
+      "heading": "Q&A：莊義新年問候",
+      "start": 2727.19,
+      "end": 2737.52,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0635-s25",
+      "heading": "Q&A：006204 為什麼漲不動",
+      "start": 2737.57,
+      "end": 2871.96,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0635-s26",
+      "heading": "Q&A：留言密碼測試 & 大漢統一天下",
+      "start": 2872.01,
+      "end": 2898.52,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0635-s27",
+      "heading": "Q&A：特斯拉 2030 翻倍機率",
+      "start": 2898.57,
+      "end": 2941.28,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0635-s28",
+      "heading": "Q&A：歐氣與長期持有特斯拉",
+      "start": 2941.33,
+      "end": 2967.52,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0635-s29",
+      "heading": "Q&A：3653 散熱、二代接手 Delta",
+      "start": 2967.57,
+      "end": 3073.28,
+      "confidence": 0.8
+    }
+  ]
+}

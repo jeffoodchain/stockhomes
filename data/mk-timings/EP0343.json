@@ -1,0 +1,65 @@
+{
+  "ep": 343,
+  "source": "auto-aligned from reports/mk/gooaye-ep0343.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0343.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6debeb55-09c5-44e7-9825-a14ef9a2e47f/rssFileVip.mp3?timestamp=1689439402902",
+  "duration": 3140.15,
+  "segments": [
+    {
+      "id": "ep0343-s01",
+      "heading": "開場 / 贊助：Roichen 正脊坐墊",
+      "start": 0.0,
+      "end": 80.51,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0343-s02",
+      "heading": "聊聊：Twitter 訂閱功能與馬斯克",
+      "start": 80.56,
+      "end": 233.23,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0343-s03",
+      "heading": "聊聊：創作者訂閱的可能性與 Twitter 黃金盛世",
+      "start": 233.28,
+      "end": 599.54,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0343-s04",
+      "heading": "聊聊：臉書的衰退與多平台經營策略",
+      "start": 599.59,
+      "end": 1008.2,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0343-s05",
+      "heading": "市場觀察：回檔原因與倉位調整",
+      "start": 1008.25,
+      "end": 1234.48,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0343-s06",
+      "heading": "財報掃描：智源、旺宏、微軟、Google",
+      "start": 1234.53,
+      "end": 1454.9,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0343-s07",
+      "heading": "AI 趨勢觀察：Bing、GitHub Copilot、OpenAI",
+      "start": 1454.95,
+      "end": 1749.94,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0343-s08",
+      "heading": "Q&A",
+      "start": 1749.99,
+      "end": 3140.15,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ep": 390,
+  "source": "auto-aligned from reports/mk/gooaye-ep0390.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0390.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f96ce912-706c-46c6-99d8-9b27b424d2cb/rssFileVip.mp3?timestamp=1696667020007",
+  "duration": 3086.65,
+  "segments": [
+    {
+      "id": "ep0390-s01",
+      "heading": "開場 / 贊助：Varia VS3 嚐家磨豆機",
+      "start": 0.0,
+      "end": 93.25,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0390-s02",
+      "heading": "近期股票走勢與心態調整",
+      "start": 93.3,
+      "end": 844.47,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0390-s03",
+      "heading": "技嘉營收與供應鏈時程分析",
+      "start": 844.52,
+      "end": 1784.91,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0390-s04",
+      "heading": "聽眾問答",
+      "start": 1784.96,
+      "end": 3086.65,
+      "confidence": 0.667
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 312,
+  "source": "auto-aligned from reports/mk/gooaye-ep0312.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0312.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2b65cf8f-bb38-4384-ab1b-47fd71a023e6/rssFileVip.mp3?timestamp=1689439396022",
+  "duration": 3056.93,
+  "segments": [
+    {
+      "id": "ep0312-s01",
+      "heading": "開場 / 贊助：Oladance 開放式耳機",
+      "start": 0.0,
+      "end": 74.73,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0312-s02",
+      "heading": "生活雜談：重拾遊戲王卡與寶可夢卡",
+      "start": 74.78,
+      "end": 696.01,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0312-s03",
+      "heading": "盤勢觀察：台股攻 450、美股聯準會亂局",
+      "start": 696.06,
+      "end": 902.16,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0312-s04",
+      "heading": "主委部位調整：回補 Sell Call、偏向多方",
+      "start": 902.21,
+      "end": 1091.62,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0312-s05",
+      "heading": "市場謠言澄清：蘋果砍臺積電單是假消息",
+      "start": 1091.67,
+      "end": 1177.52,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0312-s06",
+      "heading": "記憶體廠八卦、產業觀察",
+      "start": 1177.57,
+      "end": 1326.46,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0312-s07",
+      "heading": "IC Design、AI 算力與半導體 ETF 佈局",
+      "start": 1326.51,
+      "end": 1663.62,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0312-s08",
+      "heading": "Q&A",
+      "start": 1663.67,
+      "end": 3056.93,
+      "confidence": 0.756
+    }
+  ]
+}

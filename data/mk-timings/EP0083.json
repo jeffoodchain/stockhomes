@@ -1,0 +1,79 @@
+{
+  "ep": 83,
+  "source": "auto-aligned from reports/mk/gooaye-ep0083.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0083.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/470f5786-af2e-4ceb-a887-f1ab91e0692d/rssFileVip.mp3?timestamp=1689439399087",
+  "duration": 2462.48,
+  "segments": [
+    {
+      "id": "ep0083-s01",
+      "heading": "開場 / 贊助：法國雅漾",
+      "start": 0.11,
+      "end": 180.3,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0083-s02",
+      "heading": "聊聊：天氣、音樂、Of Monsters and Men",
+      "start": 180.35,
+      "end": 272.86,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0083-s03",
+      "heading": "聽眾來信：路西恩談事實查核與Cofacts",
+      "start": 272.91,
+      "end": 561.96,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0083-s04",
+      "heading": "美國房市：新屋均價歷史新高、庫存歷史新低",
+      "start": 562.01,
+      "end": 705.16,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0083-s05",
+      "heading": "台灣房市與居住正義",
+      "start": 705.21,
+      "end": 936.1,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0083-s06",
+      "heading": "市場：死魚盤、選舉不確定性、台股匯損問題",
+      "start": 936.15,
+      "end": 1099.0,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0083-s07",
+      "heading": "螞蟻金服IPO：全球最大獨角獸上市",
+      "start": 1099.05,
+      "end": 1492.46,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0083-s08",
+      "heading": "反省：Spotify 操作失誤、以股價為準",
+      "start": 1492.51,
+      "end": 1620.1,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0083-s09",
+      "heading": "Q&A",
+      "start": 1620.15,
+      "end": 2431.41,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0083-s10",
+      "heading": "結尾",
+      "start": 2431.46,
+      "end": 2462.48,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ep": 396,
+  "source": "auto-aligned from reports/mk/gooaye-ep0396.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0396.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0c419ca5-4bd8-49b9-8412-6886450a537f/rssFileVip.mp3?timestamp=1698808652005",
+  "duration": 3003.43,
+  "segments": [
+    {
+      "id": "ep0396-s01",
+      "heading": "開場 / 贊助：火星生技武倍對策",
+      "start": 0.0,
+      "end": 62.39,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0396-s02",
+      "heading": "最近狀況：股市疲軟心態調整",
+      "start": 62.44,
+      "end": 136.67,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0396-s03",
+      "heading": "小孩的聰慧與教養反思",
+      "start": 136.72,
+      "end": 653.59,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0396-s04",
+      "heading": "十月投資操作回顧",
+      "start": 653.64,
+      "end": 1081.69,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0396-s05",
+      "heading": "亞洲股市與全球局勢",
+      "start": 1081.74,
+      "end": 1654.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0396-s06",
+      "heading": "末日預備與資金配置",
+      "start": 1654.78,
+      "end": 1800.01,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0396-s07",
+      "heading": "Q&A：上市公司與認股",
+      "start": 1800.06,
+      "end": 1967.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0396-s08",
+      "heading": "Q&A：性別平等與求婚儀式",
+      "start": 1967.7,
+      "end": 2130.27,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0396-s09",
+      "heading": "Q&A：福利與現金折衷",
+      "start": 2130.32,
+      "end": 2252.47,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0396-s10",
+      "heading": "Q&A：快速回應",
+      "start": 2252.52,
+      "end": 2321.23,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0396-s11",
+      "heading": "Q&A：末日準備與宜蘭房產",
+      "start": 2321.28,
+      "end": 2501.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0396-s12",
+      "heading": "Q&A：衝浪人生哲學",
+      "start": 2501.64,
+      "end": 2572.39,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0396-s13",
+      "heading": "Q&A：按摩椅風波與品牌誠實",
+      "start": 2572.44,
+      "end": 2741.75,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0396-s14",
+      "heading": "Q&A：感謝與祝福",
+      "start": 2741.8,
+      "end": 2949.81,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0396-s15",
+      "heading": "Q&A：紐西蘭旅遊建議",
+      "start": 2949.86,
+      "end": 3003.43,
+      "confidence": 0.656
+    }
+  ]
+}

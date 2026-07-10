@@ -1,0 +1,205 @@
+{
+  "ep": 463,
+  "source": "auto-aligned from reports/mk/gooaye-ep0463.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0463.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6160ebd2-284f-4295-8518-a2ebef6b447b/rssFileVip.mp3?timestamp=1718785378193",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0463-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 55.35,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0463-s02",
+      "heading": "多頭行情與心態調整",
+      "start": 55.4,
+      "end": 121.61,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0463-s03",
+      "heading": "大多頭下的痛苦",
+      "start": 121.66,
+      "end": 178.75,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0463-s04",
+      "heading": "社群比較心理",
+      "start": 178.8,
+      "end": 245.89,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0463-s05",
+      "heading": "情緒失控事件",
+      "start": 245.94,
+      "end": 343.37,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0463-s06",
+      "heading": "家庭內耗",
+      "start": 343.42,
+      "end": 550.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0463-s07",
+      "heading": "調整投資策略與部位",
+      "start": 550.18,
+      "end": 691.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0463-s08",
+      "heading": "部位調整詳解",
+      "start": 691.7,
+      "end": 776.83,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0463-s09",
+      "heading": "AI 相關硬體的投資邏輯",
+      "start": 776.88,
+      "end": 859.33,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0463-s10",
+      "heading": "博通的複合業務",
+      "start": 859.38,
+      "end": 929.49,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0463-s11",
+      "heading": "特斯拉與機器人",
+      "start": 929.54,
+      "end": 1029.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0463-s12",
+      "heading": "對林百里論點的推敲",
+      "start": 1029.26,
+      "end": 1154.77,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0463-s13",
+      "heading": "Omniverse 介紹",
+      "start": 1154.82,
+      "end": 1265.69,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0463-s14",
+      "heading": "Omniverse 的實際應用",
+      "start": 1265.74,
+      "end": 1441.37,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0463-s15",
+      "heading": "軟體轉型機會",
+      "start": 1441.42,
+      "end": 1581.47,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0463-s16",
+      "heading": "臺灣軟體機會",
+      "start": 1581.52,
+      "end": 1671.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0463-s17",
+      "heading": "Q&A 第一題：停利策略",
+      "start": 1671.44,
+      "end": 1842.51,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0463-s18",
+      "heading": "Q&A 第二題：反向操作與心態",
+      "start": 1842.56,
+      "end": 1876.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0463-s19",
+      "heading": "Q&A 第三題：房貸方案選擇",
+      "start": 1876.44,
+      "end": 1975.09,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0463-s20",
+      "heading": "Q&A 第四題：個人風格與魅力",
+      "start": 1975.14,
+      "end": 2029.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0463-s21",
+      "heading": "Q&A 第五題：個性與 MBTI",
+      "start": 2029.66,
+      "end": 2081.03,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0463-s22",
+      "heading": "Q&A 第六題：臺灣央行與匯率政策",
+      "start": 2081.08,
+      "end": 2145.57,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0463-s23",
+      "heading": "Q&A 第七題：加密貨幣與智慧合約",
+      "start": 2145.62,
+      "end": 2316.25,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0463-s24",
+      "heading": "Q&A 第八題：事件交易與停損停利",
+      "start": 2316.3,
+      "end": 2612.21,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0463-s25",
+      "heading": "Q&A 第九題：資產配置與風險分散",
+      "start": 2612.26,
+      "end": 2707.23,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0463-s26",
+      "heading": "Q&A 第十題：生日祝福與個人軼事",
+      "start": 2707.28,
+      "end": 2743.86,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0463-s27",
+      "heading": "Q&A 第十一題：軟體公司與 AI 威脅",
+      "start": 2743.91,
+      "end": 2883.42,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0463-s28",
+      "heading": "結尾",
+      "start": 2883.47,
+      "end": 2998.96,
+      "confidence": 0.711
+    }
+  ]
+}

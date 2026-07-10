@@ -1,0 +1,79 @@
+{
+  "ep": 522,
+  "source": "auto-aligned from reports/mk/gooaye-ep0522.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0522.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dfadb073-ee69-4221-8a25-c6aa4d66291c/rssFileVip.mp3?timestamp=1736583696200",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0522-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.0,
+      "end": 50.05,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0522-s02",
+      "heading": "加州野火：人性的光與影",
+      "start": 50.1,
+      "end": 123.35,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0522-s03",
+      "heading": "社會分化 vs 人性光輝",
+      "start": 123.4,
+      "end": 319.23,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0522-s04",
+      "heading": "災難中的反思與長期視角",
+      "start": 319.28,
+      "end": 520.11,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0522-s05",
+      "heading": "春節封關策略",
+      "start": 520.16,
+      "end": 731.99,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0522-s06",
+      "heading": "川普政策與企業應對",
+      "start": 732.04,
+      "end": 1105.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0522-s07",
+      "heading": "川普政策對綠能產業的衝擊",
+      "start": 1105.58,
+      "end": 1235.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0522-s08",
+      "heading": "盤面現況與市場困境",
+      "start": 1235.72,
+      "end": 1574.05,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0522-s09",
+      "heading": "風險警示與運營策略",
+      "start": 1574.1,
+      "end": 1693.17,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0522-s10",
+      "heading": "健康區域 (聽眾來信與互動)",
+      "start": 1693.22,
+      "end": 3040.57,
+      "confidence": 0.778
+    }
+  ]
+}

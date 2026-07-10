@@ -1,0 +1,58 @@
+{
+  "ep": 36,
+  "source": "auto-aligned from reports/mk/gooaye-ep0036.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0036.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/27cbe70f-681f-489a-8cd0-babfe101893c/rssFileVip.mp3?timestamp=1761072695989",
+  "duration": 2175.63,
+  "segments": [
+    {
+      "id": "ep0036-s01",
+      "heading": "開場 / 贊助：走走傢俱",
+      "start": 0.02,
+      "end": 72.83,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0036-s02",
+      "heading": "求婚仔回報 / 抽書公告",
+      "start": 72.88,
+      "end": 157.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0036-s03",
+      "heading": "台積電赴美設廠：我的看法（中性偏不好）",
+      "start": 157.18,
+      "end": 838.75,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0036-s04",
+      "heading": "台積電赴美設廠：也沒那麼差的理由",
+      "start": 838.8,
+      "end": 1029.07,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0036-s05",
+      "heading": "市場上的「反對意見」檢驗",
+      "start": 1029.12,
+      "end": 1428.15,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0036-s06",
+      "heading": "QA",
+      "start": 1428.2,
+      "end": 2130.24,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0036-s07",
+      "heading": "結尾",
+      "start": 2130.29,
+      "end": 2175.63,
+      "confidence": 0.667
+    }
+  ]
+}

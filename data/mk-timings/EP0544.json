@@ -1,0 +1,65 @@
+{
+  "ep": 544,
+  "source": "auto-aligned from reports/mk/gooaye-ep0544.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0544.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a08841c0-b0a2-4a7c-9f85-08c01fb65a91/rssFileVip.mp3?timestamp=1743386402755",
+  "duration": 3193.65,
+  "segments": [
+    {
+      "id": "ep0544-s01",
+      "heading": "開場 / 贊助：伊萊克斯 × 賞心樂事",
+      "start": 0.0,
+      "end": 86.79,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0544-s02",
+      "heading": "本週參訪台股軟體公司：AI 是硬體大年之後的下一棒",
+      "start": 86.84,
+      "end": 360.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0544-s03",
+      "heading": "軟體產業觀察：2C vs 2B，大型巨頭 vs 客製化小廠",
+      "start": 360.9,
+      "end": 732.99,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0544-s04",
+      "heading": "Palantir Bootcamp 模式與 2B 軟體的苦工本質",
+      "start": 733.04,
+      "end": 970.69,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0544-s05",
+      "heading": "雲端 vs 終端：模型部署與資安考量",
+      "start": 970.74,
+      "end": 1201.61,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0544-s06",
+      "heading": "推劇：Adolescence《混沌少年時》",
+      "start": 1201.66,
+      "end": 1259.53,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0544-s07",
+      "heading": "盤勢更新：台股與 NASDAQ 走勢，現金水位操作",
+      "start": 1259.58,
+      "end": 1646.09,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0544-s08",
+      "heading": "Q&A",
+      "start": 1646.14,
+      "end": 3193.65,
+      "confidence": 0.711
+    }
+  ]
+}

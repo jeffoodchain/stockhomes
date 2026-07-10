@@ -1,0 +1,44 @@
+{
+  "ep": 274,
+  "source": "auto-aligned from reports/mk/gooaye-ep0274.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0274.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/87eb0cda-7f57-4406-8f5a-c6e2a4899d15/rssFileVip.mp3?timestamp=1689439382259",
+  "duration": 3172.82,
+  "segments": [
+    {
+      "id": "ep0274-s01",
+      "heading": "開場 / 贊助：BFFECT 好肌膚精華研究室",
+      "start": 0.0,
+      "end": 89.07,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0274-s02",
+      "heading": "聊聊：土耳其機場小舅子走失驚魂",
+      "start": 89.12,
+      "end": 305.75,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0274-s03",
+      "heading": "聊聊：旅程心得與遠距婚姻",
+      "start": 305.8,
+      "end": 527.23,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0274-s04",
+      "heading": "市場話題：資金控管、風險管理與加減碼",
+      "start": 527.28,
+      "end": 2029.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0274-s05",
+      "heading": "Q&A",
+      "start": 2029.1,
+      "end": 3172.82,
+      "confidence": 0.689
+    }
+  ]
+}

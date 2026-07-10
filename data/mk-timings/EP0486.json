@@ -1,0 +1,93 @@
+{
+  "ep": 486,
+  "source": "auto-aligned from reports/mk/gooaye-ep0486.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0486.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5ef1fc92-e7d8-4d48-8ebe-191cb04f7776/rssFileVip.mp3?timestamp=1725704515237",
+  "duration": 2957.35,
+  "segments": [
+    {
+      "id": "ep0486-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 77.19,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0486-s02",
+      "heading": "岳母來訪的人生改變與選擇",
+      "start": 77.24,
+      "end": 176.85,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0486-s03",
+      "heading": "人生目標帶來的副作用",
+      "start": 176.9,
+      "end": 314.53,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0486-s04",
+      "heading": "溝通與界限：rank 與平臺差異",
+      "start": 314.58,
+      "end": 423.33,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0486-s05",
+      "heading": "創作者與輿論：超越負面評價",
+      "start": 423.38,
+      "end": 541.19,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0486-s06",
+      "heading": "詐騙與平臺責任",
+      "start": 541.24,
+      "end": 974.05,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0486-s07",
+      "heading": "市場動態與心態調整",
+      "start": 974.1,
+      "end": 1102.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0486-s08",
+      "heading": "iPhone 16 與 AI 手機概念股",
+      "start": 1102.72,
+      "end": 1188.79,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0486-s09",
+      "heading": "大立光營收警訊與庫存信號",
+      "start": 1188.84,
+      "end": 1412.93,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0486-s10",
+      "heading": "Broadcom CEO Huck 的指引與 ASIC 市場",
+      "start": 1412.98,
+      "end": 1728.53,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0486-s11",
+      "heading": "Broadcom 與 ASIC 戰略分化",
+      "start": 1728.58,
+      "end": 2042.83,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0486-s12",
+      "heading": "Q&A 時間",
+      "start": 2042.88,
+      "end": 2957.35,
+      "confidence": 0.633
+    }
+  ]
+}

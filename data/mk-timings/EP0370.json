@@ -1,0 +1,107 @@
+{
+  "ep": 370,
+  "source": "auto-aligned from reports/mk/gooaye-ep0370.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0370.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6fee7ea6-e2e2-4889-a7c6-b7607fdfa06b/rssFileVip.mp3?timestamp=1690621045526",
+  "duration": 3221.89,
+  "segments": [
+    {
+      "id": "ep0370-s01",
+      "heading": "開場 / 贊助：莫子行動電源",
+      "start": 0.0,
+      "end": 74.05,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0370-s02",
+      "heading": "超導體題材與概念股迷思",
+      "start": 74.1,
+      "end": 195.43,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0370-s03",
+      "heading": "投資決策與理性分析",
+      "start": 195.48,
+      "end": 313.01,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0370-s04",
+      "heading": "科技進展與商用化挑戰",
+      "start": 313.06,
+      "end": 452.65,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0370-s05",
+      "heading": "內線交易的真實與虛偽",
+      "start": 452.7,
+      "end": 604.95,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0370-s06",
+      "heading": "投資理性與聰明決策",
+      "start": 605.0,
+      "end": 722.46,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0370-s07",
+      "heading": "市場變化與 AI 時代",
+      "start": 722.51,
+      "end": 871.6,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0370-s08",
+      "heading": "CAPEX 戰略與供應鏈動態",
+      "start": 871.65,
+      "end": 1090.66,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0370-s09",
+      "heading": "聯發科、手機與消費市場回暖信號",
+      "start": 1090.71,
+      "end": 1213.28,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0370-s10",
+      "heading": "投資配置與 AI 估值反思",
+      "start": 1213.33,
+      "end": 1387.5,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0370-s11",
+      "heading": "Meta 的 VR 投資與新創戰略",
+      "start": 1387.55,
+      "end": 1465.12,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0370-s12",
+      "heading": "Facebook 廣告與平臺價值",
+      "start": 1465.17,
+      "end": 1676.2,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0370-s13",
+      "heading": "散熱與未來計畫",
+      "start": 1676.25,
+      "end": 1780.12,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0370-s14",
+      "heading": "Q&A 部分",
+      "start": 1780.17,
+      "end": 3221.89,
+      "confidence": 0.833
+    }
+  ]
+}

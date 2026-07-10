@@ -1,0 +1,51 @@
+{
+  "ep": 81,
+  "source": "auto-aligned from reports/mk/gooaye-ep0081.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0081.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fb5eb182-b923-4b33-985e-637cd56b93d2/rssFileVip.mp3?timestamp=1689439403827",
+  "duration": 2513.03,
+  "segments": [
+    {
+      "id": "ep0081-s01",
+      "heading": "開場 / 贊助：犀牛盾",
+      "start": 0.11,
+      "end": 176.84,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0081-s02",
+      "heading": "Howard Marks 最新備忘錄",
+      "start": 176.89,
+      "end": 736.68,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0081-s03",
+      "heading": "紓困方案與市場展望",
+      "start": 736.73,
+      "end": 1066.52,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0081-s04",
+      "heading": "電動車鬼故事：Hyliion 做空報告",
+      "start": 1066.57,
+      "end": 1589.08,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0081-s05",
+      "heading": "QA",
+      "start": 1589.13,
+      "end": 2504.77,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0081-s06",
+      "heading": "結尾",
+      "start": 2504.82,
+      "end": 2513.03,
+      "confidence": 0.667
+    }
+  ]
+}

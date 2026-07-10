@@ -1,0 +1,135 @@
+{
+  "ep": 475,
+  "source": "auto-aligned from reports/mk/gooaye-ep0475.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0475.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cd0a69a9-c7db-4691-a542-267f5df1494d/rssFileVip.mp3?timestamp=1722414119775",
+  "duration": 3071.79,
+  "segments": [
+    {
+      "id": "ep0475-s01",
+      "heading": "開場／贊助：NordVPN",
+      "start": 0.0,
+      "end": 75.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0475-s02",
+      "heading": "遊戲投資決定與人生思考",
+      "start": 75.82,
+      "end": 135.69,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0475-s03",
+      "heading": "遊戲投資機緣與善意表態",
+      "start": 135.74,
+      "end": 194.49,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0475-s04",
+      "heading": "遊戲產業投資策略",
+      "start": 194.54,
+      "end": 269.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0475-s05",
+      "heading": "人生風險承受與命盤解讀",
+      "start": 269.64,
+      "end": 480.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0475-s06",
+      "heading": "市場槓桿與降槓去槓桿階段",
+      "start": 480.92,
+      "end": 544.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0475-s07",
+      "heading": "調整槓桿倉位與接刀策略",
+      "start": 544.58,
+      "end": 628.05,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0475-s08",
+      "heading": "流動性收縮與估值調整",
+      "start": 628.1,
+      "end": 702.75,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0475-s09",
+      "heading": "波動風險警告",
+      "start": 702.8,
+      "end": 732.55,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0475-s10",
+      "heading": "市場謠言與訊息拼湊",
+      "start": 732.6,
+      "end": 876.41,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0475-s11",
+      "heading": "NVIDIA Blackwell 架構與產品線分析",
+      "start": 876.46,
+      "end": 991.57,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0475-s12",
+      "heading": "Blackwell GPU 晶片組合與架構細節",
+      "start": 991.62,
+      "end": 1099.39,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0475-s13",
+      "heading": "CoWoS 產能瓶頸與轉單現象",
+      "start": 1099.44,
+      "end": 1167.47,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0475-s14",
+      "heading": "B102 與消費級應用",
+      "start": 1167.52,
+      "end": 1281.59,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0475-s15",
+      "heading": "新產品線與市場機會",
+      "start": 1281.64,
+      "end": 1377.37,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0475-s16",
+      "heading": "需求與交付的落差",
+      "start": 1377.42,
+      "end": 1487.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0475-s17",
+      "heading": "綜合分析與投資觀察",
+      "start": 1487.52,
+      "end": 1621.47,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0475-s18",
+      "heading": "Q&A",
+      "start": 1621.52,
+      "end": 3071.79,
+      "confidence": 0.622
+    }
+  ]
+}

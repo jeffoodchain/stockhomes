@@ -1,0 +1,128 @@
+{
+  "ep": 506,
+  "source": "auto-aligned from reports/mk/gooaye-ep0506.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0506.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4935ff4c-e605-493d-8f36-9cce679ed93f/rssFileVip.mp3?timestamp=1731749428088",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0506-s01",
+      "heading": "開場 / 贊助：理膚寶水",
+      "start": 0.0,
+      "end": 50.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0506-s02",
+      "heading": "梅東之旅與大谷祥平50-50球",
+      "start": 50.36,
+      "end": 238.37,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0506-s03",
+      "heading": "拍賣球卡的價值與市場認知",
+      "start": 238.42,
+      "end": 311.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0506-s04",
+      "heading": "Ken Golding與拍賣行見聞",
+      "start": 311.74,
+      "end": 425.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0506-s05",
+      "heading": "Ken的收藏與業務風格",
+      "start": 425.94,
+      "end": 548.89,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0506-s06",
+      "heading": "直播與銷售話術的力量",
+      "start": 548.94,
+      "end": 689.81,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0506-s07",
+      "heading": "卡包開箱與珍藏",
+      "start": 689.86,
+      "end": 787.15,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0506-s08",
+      "heading": "市場話題：臺美股走勢",
+      "start": 787.2,
+      "end": 864.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0506-s09",
+      "heading": "盤底的判斷與進場點",
+      "start": 864.68,
+      "end": 947.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0506-s10",
+      "heading": "輝達財報與市場情緒",
+      "start": 947.84,
+      "end": 1084.09,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0506-s11",
+      "heading": "GB出貨與供應鏈變化",
+      "start": 1084.14,
+      "end": 1132.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0506-s12",
+      "heading": "SMCI風險評估",
+      "start": 1132.26,
+      "end": 1331.55,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0506-s13",
+      "heading": "Distressed投資與個人策略",
+      "start": 1331.6,
+      "end": 1447.75,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0506-s14",
+      "heading": "市場信息優勢與Alpha",
+      "start": 1447.8,
+      "end": 1546.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0506-s15",
+      "heading": "聯動產品與風險",
+      "start": 1546.12,
+      "end": 1719.77,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0506-s16",
+      "heading": "重申SMCI評估",
+      "start": 1719.82,
+      "end": 1785.57,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0506-s17",
+      "heading": "Q&A 環節",
+      "start": 1785.62,
+      "end": 2994.49,
+      "confidence": 0.789
+    }
+  ]
+}

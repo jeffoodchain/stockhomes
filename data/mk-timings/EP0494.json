@@ -1,0 +1,100 @@
+{
+  "ep": 494,
+  "source": "auto-aligned from reports/mk/gooaye-ep0494.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0494.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/96079f5f-c2b5-4b11-91f7-7c83fc35390b/rssFileVip.mp3?timestamp=1728119586529",
+  "duration": 2988.56,
+  "segments": [
+    {
+      "id": "ep0494-s01",
+      "heading": "開場 / 贊助：日本IRIS除塵機大拍6.0",
+      "start": 0.0,
+      "end": 77.61,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0494-s02",
+      "heading": "颱風後的日常",
+      "start": 77.66,
+      "end": 126.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0494-s03",
+      "heading": "Crime Scene Cleaner遊戲分享",
+      "start": 126.4,
+      "end": 169.95,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0494-s04",
+      "heading": "颱風災害與社會議論",
+      "start": 170.0,
+      "end": 381.37,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0494-s05",
+      "heading": "股市看法",
+      "start": 381.42,
+      "end": 405.33,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0494-s06",
+      "heading": "PIMIC與Memory on Package新技術",
+      "start": 405.38,
+      "end": 590.59,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0494-s07",
+      "heading": "NPS與臺廠業者分析",
+      "start": 590.64,
+      "end": 772.53,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0494-s08",
+      "heading": "Accenture與NVIDIA合作：硬轉軟",
+      "start": 772.58,
+      "end": 894.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0494-s09",
+      "heading": "NVIDIA最新Roadmap變化",
+      "start": 894.7,
+      "end": 1042.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0494-s10",
+      "heading": "B200A與CoWoS-S的調整",
+      "start": 1042.26,
+      "end": 1155.43,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0494-s11",
+      "heading": "NVLink 36與NVLink 72的戰略調整",
+      "start": 1155.48,
+      "end": 1254.45,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0494-s12",
+      "heading": "NVLink 36拉掉對供應鏈的衝擊",
+      "start": 1254.5,
+      "end": 1543.97,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0494-s13",
+      "heading": "Q&A",
+      "start": 1544.02,
+      "end": 2988.56,
+      "confidence": 0.678
+    }
+  ]
+}

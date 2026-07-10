@@ -1,0 +1,72 @@
+{
+  "ep": 64,
+  "source": "auto-aligned from reports/mk/gooaye-ep0064.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0064.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dac76287-724c-4e33-be1b-723dc80de826/rssFileVip.mp3?timestamp=1689439387567",
+  "duration": 2471.42,
+  "segments": [
+    {
+      "id": "ep0064-s01",
+      "heading": "開場 / 贊助：神來也德州撲克",
+      "start": 0.0,
+      "end": 110.15,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0064-s02",
+      "heading": "英文學習心得",
+      "start": 110.2,
+      "end": 315.41,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0064-s03",
+      "heading": "台股近況：8月20號大跌分析",
+      "start": 315.46,
+      "end": 589.53,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0064-s04",
+      "heading": "市場情緒與加減碼策略",
+      "start": 589.58,
+      "end": 996.89,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0064-s05",
+      "heading": "衛星通訊題材介紹",
+      "start": 996.94,
+      "end": 1348.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0064-s06",
+      "heading": "其他低軌道衛星公司",
+      "start": 1348.42,
+      "end": 1568.87,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0064-s07",
+      "heading": "台股衛星供應鏈觀察",
+      "start": 1568.92,
+      "end": 1623.09,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0064-s08",
+      "heading": "贊助廣告：亞曼菲內衣快閃",
+      "start": 1623.14,
+      "end": 1657.29,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0064-s09",
+      "heading": "Q&A 聽眾留言",
+      "start": 1657.34,
+      "end": 2471.42,
+      "confidence": 0.8
+    }
+  ]
+}

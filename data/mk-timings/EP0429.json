@@ -1,0 +1,107 @@
+{
+  "ep": 429,
+  "source": "auto-aligned from reports/mk/gooaye-ep0429.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0429.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7a773278-206f-497a-941f-81073f42bd90/rssFileVip.mp3?timestamp=1708511192157",
+  "duration": 2991.54,
+  "segments": [
+    {
+      "id": "ep0429-s01",
+      "heading": "開場／贊助：永豐金證券大戶頭APP",
+      "start": 0.0,
+      "end": 73.49,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0429-s02",
+      "heading": "兒子洗澡受傷",
+      "start": 73.54,
+      "end": 133.43,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0429-s03",
+      "heading": "意外發生與心理衝擊",
+      "start": 133.48,
+      "end": 237.87,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0429-s04",
+      "heading": "複雜的情感與自我反省",
+      "start": 237.92,
+      "end": 356.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0429-s05",
+      "heading": "孩子的勇敢與父子情誼",
+      "start": 356.06,
+      "end": 410.67,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0429-s06",
+      "heading": "教養與成長的思考",
+      "start": 410.72,
+      "end": 501.61,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0429-s07",
+      "heading": "市場現象：小作文滿天飛",
+      "start": 501.66,
+      "end": 630.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0429-s08",
+      "heading": "小作文的套路",
+      "start": 630.54,
+      "end": 677.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0429-s09",
+      "heading": "短線謠言與理性分析",
+      "start": 677.54,
+      "end": 762.85,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0429-s10",
+      "heading": "蘋果摺疊機的案例",
+      "start": 762.9,
+      "end": 902.23,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0429-s11",
+      "heading": "投資策略心得",
+      "start": 902.28,
+      "end": 1070.03,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0429-s12",
+      "heading": "日元匯率與市場展望",
+      "start": 1070.08,
+      "end": 1230.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0429-s13",
+      "heading": "中國與歐洲的復甦機會",
+      "start": 1230.3,
+      "end": 1587.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0429-s14",
+      "heading": "聽眾提問與回應",
+      "start": 1587.76,
+      "end": 2991.54,
+      "confidence": 0.711
+    }
+  ]
+}

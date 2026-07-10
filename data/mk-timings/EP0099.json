@@ -1,0 +1,51 @@
+{
+  "ep": 99,
+  "source": "auto-aligned from reports/mk/gooaye-ep0099.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0099.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e5c0adf3-989d-4737-a36c-eb921ed21044/rssFileVip.mp3?timestamp=1689439404246",
+  "duration": 2303.48,
+  "segments": [
+    {
+      "id": "ep0099-s01",
+      "heading": "開場 / 贊助：綠藤生技",
+      "start": 0.05,
+      "end": 83.84,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0099-s02",
+      "heading": "參加NMEA年會的見聞",
+      "start": 83.89,
+      "end": 281.12,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0099-s03",
+      "heading": "臉書演算法三個迷思",
+      "start": 281.17,
+      "end": 713.82,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0099-s04",
+      "heading": "本土確診事件 vs. 市場焦慮",
+      "start": 713.87,
+      "end": 970.8,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0099-s05",
+      "heading": "Q&A",
+      "start": 970.85,
+      "end": 2270.31,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0099-s06",
+      "heading": "結尾",
+      "start": 2270.36,
+      "end": 2303.48,
+      "confidence": 0.844
+    }
+  ]
+}

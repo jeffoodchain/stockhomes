@@ -1,0 +1,65 @@
+{
+  "ep": 72,
+  "source": "auto-aligned from reports/mk/gooaye-ep0072.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0072.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/56259d22-3264-40d6-a531-2eb50adefd27/rssFileVip.mp3?timestamp=1689439407200",
+  "duration": 2429.81,
+  "segments": [
+    {
+      "id": "ep0072-s01",
+      "heading": "開場 / 贊助：PONY EFFECT",
+      "start": 0.43,
+      "end": 122.98,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0072-s02",
+      "heading": "廣告主聊聊：友善廣告主的感想",
+      "start": 123.03,
+      "end": 334.18,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0072-s03",
+      "heading": "IPO狂潮：藏壽司與汎德永業",
+      "start": 334.23,
+      "end": 576.6,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0072-s04",
+      "heading": "護城河觀念",
+      "start": 576.65,
+      "end": 668.64,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0072-s05",
+      "heading": "Snowflake IPO分析",
+      "start": 668.69,
+      "end": 817.9,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0072-s06",
+      "heading": "Snowflake基本面分析與PS Ratio",
+      "start": 817.95,
+      "end": 1171.26,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0072-s07",
+      "heading": "科技股現況與操作策略",
+      "start": 1171.31,
+      "end": 1455.3,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0072-s08",
+      "heading": "Q&A",
+      "start": 1455.35,
+      "end": 2429.81,
+      "confidence": 0.789
+    }
+  ]
+}

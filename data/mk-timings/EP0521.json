@@ -1,0 +1,79 @@
+{
+  "ep": 521,
+  "source": "auto-aligned from reports/mk/gooaye-ep0521.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0521.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e0c7fd7d-50af-498b-9a10-9281cdb50a1c/rssFileVip.mp3?timestamp=1736326105365",
+  "duration": 2932.09,
+  "segments": [
+    {
+      "id": "ep0521-s01",
+      "heading": "開場 / 贊助：橘子工坊洗衣膠囊",
+      "start": 0.0,
+      "end": 70.69,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0521-s02",
+      "heading": "新麥克風：Shure MV7 Plus",
+      "start": 70.74,
+      "end": 138.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0521-s03",
+      "heading": "夜間興趣：歷史人物八卦",
+      "start": 138.14,
+      "end": 269.59,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0521-s04",
+      "heading": "遊戲推薦：Ultra Wilds",
+      "start": 269.64,
+      "end": 379.57,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0521-s05",
+      "heading": "進入主題：節目內容與市場觀察",
+      "start": 379.62,
+      "end": 474.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0521-s06",
+      "heading": "CES 大會回顧",
+      "start": 474.36,
+      "end": 572.85,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0521-s07",
+      "heading": "專題：NVIDIA GB10 Super Chip 與 Project Digits",
+      "start": 572.9,
+      "end": 1129.99,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0521-s08",
+      "heading": "消費級顯示卡：RTX 5090 / 5070 與 DLSS 4",
+      "start": 1130.04,
+      "end": 1362.55,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0521-s09",
+      "heading": "CES 總結",
+      "start": 1362.6,
+      "end": 1511.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0521-s10",
+      "heading": "Q&A 問答環節",
+      "start": 1511.54,
+      "end": 2932.09,
+      "confidence": 0.722
+    }
+  ]
+}

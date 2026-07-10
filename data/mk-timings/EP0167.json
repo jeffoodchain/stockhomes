@@ -1,0 +1,93 @@
+{
+  "ep": 167,
+  "source": "auto-aligned from reports/mk/gooaye-ep0167.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0167.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/642bc569-fb39-4d56-8ff7-e1d8304c70df/rssFileVip.mp3?timestamp=1689439379547",
+  "duration": 2762.68,
+  "segments": [
+    {
+      "id": "ep0167-s01",
+      "heading": "開場 / 贊助：百富單一麥芽威士忌",
+      "start": 0.0,
+      "end": 29.81,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0167-s02",
+      "heading": "當爸兩週：初心得",
+      "start": 29.86,
+      "end": 102.77,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0167-s03",
+      "heading": "照顧新生兒實況",
+      "start": 102.82,
+      "end": 273.59,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0167-s04",
+      "heading": "市場現況：台美股近況",
+      "start": 273.64,
+      "end": 407.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0167-s05",
+      "heading": "阿富汗局勢：對股市的影響",
+      "start": 407.78,
+      "end": 547.09,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0167-s06",
+      "heading": "VIX指數與恐慌指標",
+      "start": 547.14,
+      "end": 744.43,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0167-s07",
+      "heading": "美股後市展望",
+      "start": 744.48,
+      "end": 809.29,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0167-s08",
+      "heading": "台股近況：反彈與操作建議",
+      "start": 809.34,
+      "end": 1015.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0167-s09",
+      "heading": "台股外資動向：記憶體族群",
+      "start": 1015.68,
+      "end": 1099.33,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0167-s10",
+      "heading": "老闆誠信度的評估方法",
+      "start": 1099.38,
+      "end": 1321.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0167-s11",
+      "heading": "驅動IC族群：報價與毛利觀察",
+      "start": 1321.92,
+      "end": 1541.23,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0167-s12",
+      "heading": "Q&A",
+      "start": 1541.28,
+      "end": 2762.68,
+      "confidence": 0.944
+    }
+  ]
+}

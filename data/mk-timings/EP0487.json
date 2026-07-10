@@ -1,0 +1,100 @@
+{
+  "ep": 487,
+  "source": "auto-aligned from reports/mk/gooaye-ep0487.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0487.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7ef1da76-85ac-417b-be90-3c294f06e499/rssFileVip.mp3?timestamp=1726042881784",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0487-s01",
+      "heading": "開場 / 贊助：MacEasy",
+      "start": 0.0,
+      "end": 97.75,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0487-s02",
+      "heading": "市場現況與投資心態",
+      "start": 97.8,
+      "end": 315.33,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0487-s03",
+      "heading": "降息與市場預期",
+      "start": 315.38,
+      "end": 352.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0487-s04",
+      "heading": "技術分析大師與市場策略",
+      "start": 352.24,
+      "end": 562.01,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0487-s05",
+      "heading": "Apple 發表會分析",
+      "start": 562.06,
+      "end": 653.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0487-s06",
+      "heading": "iPhone 16 新功能：WiFi 7",
+      "start": 653.24,
+      "end": 795.71,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0487-s07",
+      "heading": "iPhone 16 硬體與 AI 功能",
+      "start": 795.76,
+      "end": 1021.83,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0487-s08",
+      "heading": "Siri 與 Apple Agent",
+      "start": 1021.88,
+      "end": 1143.21,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0487-s09",
+      "heading": "iPhone 16 產品定位",
+      "start": 1143.26,
+      "end": 1242.41,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0487-s10",
+      "heading": "Apple 供應鏈與股票影響",
+      "start": 1242.46,
+      "end": 1283.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0487-s11",
+      "heading": "車用與新興產業機會",
+      "start": 1283.24,
+      "end": 1424.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0487-s12",
+      "heading": "美國大選評析：賀錦麗 vs 川普",
+      "start": 1424.1,
+      "end": 1792.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0487-s13",
+      "heading": "Q&A 環節",
+      "start": 1792.22,
+      "end": 2998.96,
+      "confidence": 0.7
+    }
+  ]
+}

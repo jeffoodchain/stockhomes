@@ -1,0 +1,65 @@
+{
+  "ep": 134,
+  "source": "auto-aligned from reports/mk/gooaye-ep0134.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0134.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/672c1636-2950-4600-a1c0-f9879c12b3a6/rssFileVip.mp3?timestamp=1689439386336",
+  "duration": 2474.37,
+  "segments": [
+    {
+      "id": "ep0134-s01",
+      "heading": "開場 / 贊助：Mdmmd 明洞國際",
+      "start": 0.0,
+      "end": 62.23,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0134-s02",
+      "heading": "淘帝-KY 造假事件：做空機構的魅力",
+      "start": 62.28,
+      "end": 192.03,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0134-s03",
+      "heading": "風險意識：麥克風大大的故事",
+      "start": 192.08,
+      "end": 288.99,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0134-s04",
+      "heading": "淘帝-KY 內幕：連發言人都不知道的真相",
+      "start": 289.04,
+      "end": 442.33,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0134-s05",
+      "heading": "我成了「主力」：一個賣房繳頭款的故事",
+      "start": 442.38,
+      "end": 530.37,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0134-s06",
+      "heading": "台股動能交易與當沖文化的反思",
+      "start": 530.42,
+      "end": 935.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0134-s07",
+      "heading": "賺便當錢的代價：停車罰單的比喻",
+      "start": 935.34,
+      "end": 1475.65,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0134-s08",
+      "heading": "Q&A",
+      "start": 1475.7,
+      "end": 2474.37,
+      "confidence": 0.756
+    }
+  ]
+}

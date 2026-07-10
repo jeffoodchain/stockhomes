@@ -1,0 +1,58 @@
+{
+  "ep": 550,
+  "source": "auto-aligned from reports/mk/gooaye-ep0550.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0550.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/aaaf7b78-a27d-4309-a2d6-3937b69e3ecc/rssFileVip.mp3?timestamp=1745051328256",
+  "duration": 2859.28,
+  "segments": [
+    {
+      "id": "ep0550-s01",
+      "heading": "開場 / 贊助：喬致庸國際（賓德寶水果氣泡飲）",
+      "start": 0.0,
+      "end": 43.89,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0550-s02",
+      "heading": "開場閒聊：小朋友健康、醫療聽眾、臺灣醫療",
+      "start": 43.94,
+      "end": 222.51,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0550-s03",
+      "heading": "A 君近況：初學者的市場衝擊與應對",
+      "start": 222.56,
+      "end": 699.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0550-s04",
+      "heading": "臺積電財報與半導體產業展望",
+      "start": 700.02,
+      "end": 1229.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0550-s05",
+      "heading": "TSM 否認與 Intel 成立 JV 傳聞",
+      "start": 1229.28,
+      "end": 1579.69,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0550-s06",
+      "heading": "黃仁勳訪中解析",
+      "start": 1579.74,
+      "end": 1687.29,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0550-s07",
+      "heading": "Q&A",
+      "start": 1687.34,
+      "end": 2859.28,
+      "confidence": 0.789
+    }
+  ]
+}

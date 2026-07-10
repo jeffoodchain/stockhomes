@@ -1,0 +1,93 @@
+{
+  "ep": 605,
+  "source": "auto-aligned from reports/mk/gooaye-ep0605.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0605.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f00112fa-fa21-4781-9b6a-6073342d92e9/rssFileVip.mp3?timestamp=1761952332470",
+  "duration": 3131.22,
+  "segments": [
+    {
+      "id": "ep0605-s01",
+      "heading": "開場 / 贊助：修麗可（SkinCeuticals）",
+      "start": 0.0,
+      "end": 106.49,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0605-s02",
+      "heading": "開場閒聊：帶全家去東京",
+      "start": 106.54,
+      "end": 319.49,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0605-s03",
+      "heading": "演唱會名場面：爸爸買啤酒",
+      "start": 319.54,
+      "end": 480.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0605-s04",
+      "heading": "聊聊：教養觀念與 Gallagher 兄弟",
+      "start": 480.44,
+      "end": 615.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0605-s05",
+      "heading": "綠洲（Oasis）演唱會心得",
+      "start": 615.94,
+      "end": 686.55,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0605-s06",
+      "heading": "包車推薦：東京包車攻略",
+      "start": 686.6,
+      "end": 751.33,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0605-s07",
+      "heading": "市場話題：糖豆人地板模式",
+      "start": 751.38,
+      "end": 880.77,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0605-s08",
+      "heading": "旺宏 MLC NAND：抱不住的短 trade",
+      "start": 880.82,
+      "end": 1011.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0605-s09",
+      "heading": "Skyworks 併 Qorvo：射頻產業整合",
+      "start": 1011.58,
+      "end": 1229.05,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0605-s10",
+      "heading": "Google 供應鏈：Celestica（CLS）與光通",
+      "start": 1229.1,
+      "end": 1349.49,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0605-s11",
+      "heading": "Nexperia 轉單持續追蹤",
+      "start": 1349.54,
+      "end": 1438.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0605-s12",
+      "heading": "Q&A",
+      "start": 1438.84,
+      "end": 3131.22,
+      "confidence": 0.7
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "ep": 476,
+  "source": "auto-aligned from reports/mk/gooaye-ep0476.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0476.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6a46a949-daac-4a6a-8584-9c8e9b176523/rssFileVip.mp3?timestamp=1722670645315",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0476-s01",
+      "heading": "開場 / 贊助：火星生技 五倍對策",
+      "start": 0.0,
+      "end": 70.27,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0476-s02",
+      "heading": "心態管理：維持理性值 (San Value)",
+      "start": 70.32,
+      "end": 144.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0476-s03",
+      "heading": "市場狀況：回檔規模與風控重要性",
+      "start": 144.54,
+      "end": 216.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0476-s04",
+      "heading": "日元匯率與 Carry Trade 連鎖反應",
+      "start": 216.5,
+      "end": 270.51,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0476-s05",
+      "heading": "風險管理與市場預期",
+      "start": 270.56,
+      "end": 320.91,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0476-s06",
+      "heading": "指數技術面分析",
+      "start": 320.96,
+      "end": 360.31,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s07",
+      "heading": "投資決策：美股與臺股",
+      "start": 360.36,
+      "end": 462.79,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0476-s08",
+      "heading": "投資策略：反彈識別與選股方針",
+      "start": 462.84,
+      "end": 528.11,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0476-s09",
+      "heading": "反彈後的操作與 AI 標的",
+      "start": 528.16,
+      "end": 570.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s10",
+      "heading": "持股調整與選股邏輯",
+      "start": 570.94,
+      "end": 616.51,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0476-s11",
+      "heading": "臺股：追繳潮機會",
+      "start": 616.56,
+      "end": 679.11,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0476-s12",
+      "heading": "斷頭潮預期與籌碼信號",
+      "start": 679.16,
+      "end": 738.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0476-s13",
+      "heading": "斷頭連鎖反應與盤面跡象",
+      "start": 738.1,
+      "end": 823.49,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0476-s14",
+      "heading": "次要題材與賣壓化解",
+      "start": 823.54,
+      "end": 864.01,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s15",
+      "heading": "估值合理性：NV 與小弟估值對比",
+      "start": 864.06,
+      "end": 921.63,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0476-s16",
+      "heading": "重點調整：NV 減碼轉向加碼",
+      "start": 921.68,
+      "end": 934.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0476-s17",
+      "heading": "整體市場基本面與產業分析",
+      "start": 934.26,
+      "end": 978.01,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0476-s18",
+      "heading": "Intel 狀況與股票表現認購",
+      "start": 978.06,
+      "end": 1013.31,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0476-s19",
+      "heading": "Intel 產業狀況分析",
+      "start": 1013.36,
+      "end": 1050.47,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0476-s20",
+      "heading": "Falcon Shores 與 GPU 競爭格局",
+      "start": 1050.52,
+      "end": 1101.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0476-s21",
+      "heading": "Intel 展望與產業覆蓋",
+      "start": 1101.26,
+      "end": 1142.59,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0476-s22",
+      "heading": "持續監控與故事與股價分離",
+      "start": 1142.64,
+      "end": 1174.25,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0476-s23",
+      "heading": "總經狀況：衰退討論復甦",
+      "start": 1174.3,
+      "end": 1235.21,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0476-s24",
+      "heading": "Fed 政策尷尬與債券考量",
+      "start": 1235.26,
+      "end": 1266.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0476-s25",
+      "heading": "NV 產品線與 B102 / B200A 近況",
+      "start": 1266.9,
+      "end": 1318.91,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0476-s26",
+      "heading": "報告驗證與產業情報信度",
+      "start": 1318.96,
+      "end": 1378.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0476-s27",
+      "heading": "NV 動態：封裝與伺服器組裝進展",
+      "start": 1378.46,
+      "end": 1421.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0476-s28",
+      "heading": "市場過度反應與實際狀況",
+      "start": 1421.24,
+      "end": 1453.63,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s29",
+      "heading": "GB200 Push Out 謠言分析",
+      "start": 1453.68,
+      "end": 1474.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0476-s30",
+      "heading": "Push Out Rumor 1：工藝問題",
+      "start": 1474.9,
+      "end": 1502.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s31",
+      "heading": "Push Out Rumor 2：良率問題",
+      "start": 1502.54,
+      "end": 1538.35,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0476-s32",
+      "heading": "Push Out Rumor 2 延續：成本考量",
+      "start": 1538.4,
+      "end": 1557.75,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0476-s33",
+      "heading": "Push Out Rumor 3：零元件問題",
+      "start": 1557.8,
+      "end": 1569.01,
+      "confidence": 0.741
+    },
+    {
+      "id": "ep0476-s34",
+      "heading": "真實障礙：伺服器組裝良率",
+      "start": 1569.06,
+      "end": 1607.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0476-s35",
+      "heading": "推延 vs 砍單 區分",
+      "start": 1607.44,
+      "end": 1648.11,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0476-s36",
+      "heading": "LTA 保護有效性",
+      "start": 1648.16,
+      "end": 1691.71,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0476-s37",
+      "heading": "GB200 前景預判",
+      "start": 1691.76,
+      "end": 1724.87,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0476-s38",
+      "heading": "市場傳言謹慎對待",
+      "start": 1724.92,
+      "end": 1759.43,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0476-s39",
+      "heading": "總結與祝福",
+      "start": 1759.48,
+      "end": 1770.65,
+      "confidence": 0.779
+    },
+    {
+      "id": "ep0476-s40",
+      "heading": "Q&A 第一位：彰化地方捏卵爸生日祝福",
+      "start": 1770.7,
+      "end": 1835.39,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0476-s41",
+      "heading": "Q&A 第二位：MK 低波動 ETF 氣氛仔空頭因應",
+      "start": 1835.44,
+      "end": 1961.35,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0476-s42",
+      "heading": "Q&A 第三位：留言密碼測試員 馬桶坐墊禮儀",
+      "start": 1961.4,
+      "end": 2076.77,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0476-s43",
+      "heading": "Q&A 第四位：JC L 英文歌曲推薦",
+      "start": 2076.82,
+      "end": 2120.31,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0476-s44",
+      "heading": "Q&A 第五位：快樂好友生日祝福與喉嚨康復",
+      "start": 2120.36,
+      "end": 2144.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0476-s45",
+      "heading": "Q&A 第六位：史春延期 動畫推薦",
+      "start": 2144.86,
+      "end": 2153.13,
+      "confidence": 0.868
+    },
+    {
+      "id": "ep0476-s46",
+      "heading": "Q&A 第七位：全家氣氛仔 8 月生日祝福",
+      "start": 2153.18,
+      "end": 2244.31,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0476-s47",
+      "heading": "Q&A 第八位：阿給區聽眾 抽菸宅與個人經驗",
+      "start": 2244.36,
+      "end": 2425.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0476-s48",
+      "heading": "Q&A 第九位：Harry Lu Snatch 生日祝福",
+      "start": 2425.7,
+      "end": 2442.61,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0476-s49",
+      "heading": "Q&A 第十位：生命為股市小太陽加碼好難",
+      "start": 2442.66,
+      "end": 2576.91,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0476-s50",
+      "heading": "Q&A 第十一位：孟公是我們之間的 Steve 八月生日祝福",
+      "start": 2576.96,
+      "end": 2632.83,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0476-s51",
+      "heading": "Q&A 第十二位：報校生評斷師 籌碼追蹤與投信狙擊",
+      "start": 2632.88,
+      "end": 2695.74,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0476-s52",
+      "heading": "Q&A 第十三位：IU31 愛你 8 月 2 號夫婦生日祝福",
+      "start": 2695.79,
+      "end": 2715.86,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0476-s53",
+      "heading": "Q&A 第十四位：孟遊先生 動畫推薦與生日祝福",
+      "start": 2715.91,
+      "end": 2770.72,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0476-s54",
+      "heading": "Q&A 第十五位：56ID 英文教學",
+      "start": 2770.77,
+      "end": 2820.46,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0476-s55",
+      "heading": "Q&A 第十六位：放 Pony 8 月 7 號生日祝福",
+      "start": 2820.51,
+      "end": 2837.32,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0476-s56",
+      "heading": "Q&A 第十七位：空 peko 工作環境穿著與禮儀",
+      "start": 2837.37,
+      "end": 2941.68,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0476-s57",
+      "heading": "Q&A 第十八位：臺灣加油 奧運與網路評論",
+      "start": 2941.73,
+      "end": 2993.03,
+      "confidence": 0.744
+    }
+  ]
+}

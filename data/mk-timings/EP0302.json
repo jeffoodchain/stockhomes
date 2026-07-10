@@ -1,0 +1,65 @@
+{
+  "ep": 302,
+  "source": "auto-aligned from reports/mk/gooaye-ep0302.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0302.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8ceeae8e-d632-419a-b08d-f37104462ab9/rssFileVip.mp3?timestamp=1761072696747",
+  "duration": 3007.9,
+  "segments": [
+    {
+      "id": "ep0302-s01",
+      "heading": "開場 / 贊助：Vana Candles 瑞典香氛",
+      "start": 0.0,
+      "end": 104.83,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0302-s02",
+      "heading": "開場閒聊：成熟的定義與帶狗出門",
+      "start": 104.88,
+      "end": 192.41,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0302-s03",
+      "heading": "Q&A 前言：YouTube安卓仔問寶可夢改名問題",
+      "start": 192.46,
+      "end": 293.72,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0302-s04",
+      "heading": "市場分析：鮑爾嘴開就崩？這次大漲奇蹟",
+      "start": 293.77,
+      "end": 388.0,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0302-s05",
+      "heading": "美股奇蹟日：喜事商辦vs商事喜辦",
+      "start": 388.05,
+      "end": 579.8,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0302-s06",
+      "heading": "臺股分析：供應鏈、融資水位與壽險籌碼",
+      "start": 579.85,
+      "end": 1177.38,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0302-s07",
+      "heading": "PTP稅務新制警示：2023年起課10%交易稅",
+      "start": 1177.43,
+      "end": 1525.24,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0302-s08",
+      "heading": "Q&A",
+      "start": 1525.29,
+      "end": 3007.9,
+      "confidence": 0.656
+    }
+  ]
+}

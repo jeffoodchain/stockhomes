@@ -1,0 +1,86 @@
+{
+  "ep": 517,
+  "source": "auto-aligned from reports/mk/gooaye-ep0517.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0517.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5ea123f3-2644-42ee-9fc1-e92aaaf28f0a/rssFileVip.mp3?timestamp=1735107723688",
+  "duration": 3050.97,
+  "segments": [
+    {
+      "id": "ep0517-s01",
+      "heading": "開場 / 贊助：iHerb",
+      "start": 0.0,
+      "end": 91.37,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0517-s02",
+      "heading": "2024年回顧與個人感受",
+      "start": 91.42,
+      "end": 209.11,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0517-s03",
+      "heading": "家庭生活與生活態度",
+      "start": 209.16,
+      "end": 432.41,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0517-s04",
+      "heading": "長期投資心態與市場波動",
+      "start": 432.46,
+      "end": 613.91,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0517-s05",
+      "heading": "市場事件與投資機會",
+      "start": 613.96,
+      "end": 727.41,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0517-s06",
+      "heading": "301條款與歷史對比",
+      "start": 727.46,
+      "end": 864.25,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0517-s07",
+      "heading": "301條款的正當性與中國現況",
+      "start": 864.3,
+      "end": 972.89,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0517-s08",
+      "heading": "中國產業的內卷現象",
+      "start": 972.94,
+      "end": 1169.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0517-s09",
+      "heading": "301條款的實際影響",
+      "start": 1169.5,
+      "end": 1404.09,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0517-s10",
+      "heading": "301條款總結",
+      "start": 1404.14,
+      "end": 1488.59,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0517-s11",
+      "heading": "Q&A",
+      "start": 1488.64,
+      "end": 3050.97,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 361,
+  "source": "auto-aligned from reports/mk/gooaye-ep0361.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0361.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3246806b-e4a1-40c8-95ae-942cc68a4d3e/rssFileVip.mp3?timestamp=1689439395269",
+  "duration": 2981.15,
+  "segments": [
+    {
+      "id": "ep0361-s01",
+      "heading": "開場 / NordVPN 贊助",
+      "start": 0.0,
+      "end": 56.95,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0361-s02",
+      "heading": "減肥心得分享",
+      "start": 57.0,
+      "end": 536.25,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0361-s03",
+      "heading": "瓦格納叛亂事件",
+      "start": 536.3,
+      "end": 1047.33,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0361-s04",
+      "heading": "美國網路基礎建設政策",
+      "start": 1047.38,
+      "end": 1106.85,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0361-s05",
+      "heading": "美中 AI 晶片限制政策",
+      "start": 1106.9,
+      "end": 1232.1,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0361-s06",
+      "heading": "投資策略心得分享",
+      "start": 1232.15,
+      "end": 1986.23,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0361-s07",
+      "heading": "Q&A",
+      "start": 1986.28,
+      "end": 2981.15,
+      "confidence": 0.611
+    }
+  ]
+}

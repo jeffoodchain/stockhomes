@@ -1,0 +1,107 @@
+{
+  "ep": 652,
+  "source": "auto-aligned from reports/mk/gooaye-ep0652.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0652.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3a7ba4a5-4df7-4b83-a6ed-2b545c1d74f5/rssFileVip.mp3?timestamp=1775946733510",
+  "duration": 3061.37,
+  "segments": [
+    {
+      "id": "ep0652-s01",
+      "heading": "開場 / 贊助：米紅生醫 Mihong 瑪卡組合",
+      "start": 0.0,
+      "end": 51.99,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0652-s02",
+      "heading": "開場漫談：戒菸心得與深呼吸替代法",
+      "start": 52.04,
+      "end": 536.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0652-s03",
+      "heading": "市場話題：美股多頭回溫、CPU 族群爆發",
+      "start": 536.06,
+      "end": 653.55,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0652-s04",
+      "heading": "CPU 超需求：Amazon Graviton 連 CSP 自己都不夠用",
+      "start": 653.6,
+      "end": 883.51,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0652-s05",
+      "heading": "Anthropic Mythos：算力不夠才是沒發布的真相",
+      "start": 883.56,
+      "end": 1265.13,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0652-s06",
+      "heading": "被動元件：Lead Time 往上拉，禮拜三法說會是重點",
+      "start": 1265.18,
+      "end": 1392.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0652-s07",
+      "heading": "光通打件廠：東方有貴人，SMT 閒置廠成新寵",
+      "start": 1392.92,
+      "end": 1655.39,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0652-s08",
+      "heading": "Q&A：育兒感觸與孟公自稱問題",
+      "start": 1655.44,
+      "end": 1787.33,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0652-s09",
+      "heading": "Q&A：線型好的股票長什麼樣子",
+      "start": 1787.38,
+      "end": 1924.15,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0652-s10",
+      "heading": "Q&A：如何與傳統父母相處",
+      "start": 1924.2,
+      "end": 2093.37,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0652-s11",
+      "heading": "Q&A：Tesla 動能仔的信仰代價",
+      "start": 2093.42,
+      "end": 2641.81,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0652-s12",
+      "heading": "Q&A：大分點操作邏輯",
+      "start": 2641.86,
+      "end": 2811.11,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0652-s13",
+      "heading": "Q&A：最愛的食物 & 諾亞近況",
+      "start": 2811.16,
+      "end": 2865.79,
+      "confidence": 0.533
+    },
+    {
+      "id": "ep0652-s14",
+      "heading": "Q&A：感情增溫、與直男老公的溝通",
+      "start": 2865.84,
+      "end": 3061.37,
+      "confidence": 0.767
+    }
+  ]
+}

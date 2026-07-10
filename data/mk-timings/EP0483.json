@@ -1,0 +1,65 @@
+{
+  "ep": 483,
+  "source": "auto-aligned from reports/mk/gooaye-ep0483.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0483.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/30069b8f-9f56-4770-a3ff-ae891cc1601c/rssFileVip.mp3?timestamp=1724833423120",
+  "duration": 3006.41,
+  "segments": [
+    {
+      "id": "ep0483-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 80.87,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0483-s02",
+      "heading": "Bali 渡假體驗與全包式 Resort",
+      "start": 80.92,
+      "end": 366.53,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0483-s03",
+      "heading": "SPA 四手按摩與查克拉體驗",
+      "start": 366.58,
+      "end": 560.65,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0483-s04",
+      "heading": "旅程規劃與放假哲學",
+      "start": 560.7,
+      "end": 615.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0483-s05",
+      "heading": "黑神空熱銷與 GPU 市場動向",
+      "start": 615.28,
+      "end": 929.93,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0483-s06",
+      "heading": "後續遊戲大作與市場催化",
+      "start": 929.98,
+      "end": 975.65,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0483-s07",
+      "heading": "Concord 遊戲失敗案例與 SJW 遊戲風潮反思",
+      "start": 975.7,
+      "end": 1492.91,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0483-s08",
+      "heading": "Q&A 時間",
+      "start": 1492.96,
+      "end": 3006.41,
+      "confidence": 0.844
+    }
+  ]
+}

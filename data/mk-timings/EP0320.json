@@ -1,0 +1,72 @@
+{
+  "ep": 320,
+  "source": "auto-aligned from reports/mk/gooaye-ep0320.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0320.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ec3d1348-8ef6-4e7f-94df-d10dd85c524d/rssFileVip.mp3?timestamp=1689439389068",
+  "duration": 3073.28,
+  "segments": [
+    {
+      "id": "ep0320-s01",
+      "heading": "開場 / 贊助：ALUXE 亞立詩",
+      "start": 0.0,
+      "end": 108.43,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0320-s02",
+      "heading": "開場閒聊：上集 QA 翻車事件",
+      "start": 108.48,
+      "end": 150.15,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0320-s03",
+      "heading": "閒聊：Choco 的制約訓練",
+      "start": 150.2,
+      "end": 330.23,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0320-s04",
+      "heading": "閒聊：威航機師同事聚餐、財富管理心得",
+      "start": 330.28,
+      "end": 721.25,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0320-s05",
+      "heading": "閒聊：小鬼股操作心得",
+      "start": 721.3,
+      "end": 973.11,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0320-s06",
+      "heading": "非農就業數字 / K 型復甦分析",
+      "start": 973.16,
+      "end": 1349.11,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0320-s07",
+      "heading": "科技產業：潛望式鏡頭 / 供應鏈",
+      "start": 1349.16,
+      "end": 1391.71,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0320-s08",
+      "heading": "科技財報：Meta、Google CAPEX、AI 元年",
+      "start": 1391.76,
+      "end": 1711.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0320-s09",
+      "heading": "Q&A",
+      "start": 1711.52,
+      "end": 3073.28,
+      "confidence": 0.844
+    }
+  ]
+}

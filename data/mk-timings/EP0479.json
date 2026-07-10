@@ -1,0 +1,100 @@
+{
+  "ep": 479,
+  "source": "auto-aligned from reports/mk/gooaye-ep0479.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0479.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3a34048a-91b4-4375-b1f9-ced5d5427b79/rssFileVip.mp3?timestamp=1723631005521",
+  "duration": 3102.98,
+  "segments": [
+    {
+      "id": "ep0479-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 77.73,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0479-s02",
+      "heading": "回到台灣盤中交易",
+      "start": 77.78,
+      "end": 126.19,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0479-s03",
+      "heading": "澄清個人觀點",
+      "start": 126.24,
+      "end": 190.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0479-s04",
+      "heading": "首爾遊歷與用餐體驗",
+      "start": 190.8,
+      "end": 327.71,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0479-s05",
+      "heading": "回程病情與人性光輝",
+      "start": 327.76,
+      "end": 483.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0479-s06",
+      "heading": "就醫與感謝",
+      "start": 483.5,
+      "end": 521.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0479-s07",
+      "heading": "聽眾反饋與筆記品質",
+      "start": 521.5,
+      "end": 751.43,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0479-s08",
+      "heading": "籌碼解讀與市場變化",
+      "start": 751.48,
+      "end": 915.55,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0479-s09",
+      "heading": "大型分點與市場派策略",
+      "start": 915.6,
+      "end": 1079.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0479-s10",
+      "heading": "任天堂新機與法說會",
+      "start": 1079.06,
+      "end": 1201.31,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0479-s11",
+      "heading": "輝達產品線與策略調整",
+      "start": 1201.36,
+      "end": 1357.83,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0479-s12",
+      "heading": "Roadmap 簡化與冷卻系統趨勢",
+      "start": 1357.88,
+      "end": 1608.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0479-s13",
+      "heading": "聽眾 Q&A",
+      "start": 1608.14,
+      "end": 3102.98,
+      "confidence": 0.611
+    }
+  ]
+}

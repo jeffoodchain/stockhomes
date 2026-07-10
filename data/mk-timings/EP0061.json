@@ -1,0 +1,58 @@
+{
+  "ep": 61,
+  "source": "auto-aligned from reports/mk/gooaye-ep0061.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0061.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a3f1a3fa-ca55-4059-93a3-399661a00f3b/rssFileVip.mp3?timestamp=1689439389666",
+  "duration": 2621.49,
+  "segments": [
+    {
+      "id": "ep0061-s01",
+      "heading": "開場 / 贊助：L'Oréal Professionnel 萊雅專業沙龍美髮",
+      "start": 0.02,
+      "end": 127.89,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0061-s02",
+      "heading": "評論謝金河：航空業分析與信息判讀",
+      "start": 127.94,
+      "end": 898.57,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0061-s03",
+      "heading": "市場觀察：疫苗消息、類股輪動",
+      "start": 898.62,
+      "end": 1077.37,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0061-s04",
+      "heading": "香港壹傳媒（Next Media）事件分析",
+      "start": 1077.42,
+      "end": 1406.57,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0061-s05",
+      "heading": "康友-KY 事件：街友悲劇與 KY 股說明",
+      "start": 1406.62,
+      "end": 1917.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0061-s06",
+      "heading": "贊助：Shopback",
+      "start": 1917.7,
+      "end": 1975.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0061-s07",
+      "heading": "Q&A",
+      "start": 1975.54,
+      "end": 2621.49,
+      "confidence": 0.811
+    }
+  ]
+}

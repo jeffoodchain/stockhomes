@@ -1,0 +1,51 @@
+{
+  "ep": 125,
+  "source": "auto-aligned from reports/mk/gooaye-ep0125.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0125.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/83b36a5b-95a1-4192-b8af-1d6702c2b009/rssFileVip.mp3?timestamp=1689439405097",
+  "duration": 2576.93,
+  "segments": [
+    {
+      "id": "ep0125-s01",
+      "heading": "開場 / 贊助：Pernaton 百通關",
+      "start": 0.02,
+      "end": 77.39,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0125-s02",
+      "heading": "長榮 Ever Given 卡蘇伊士運河",
+      "start": 77.44,
+      "end": 270.39,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0125-s03",
+      "heading": "配息迷思：殖利率與左手換右手",
+      "start": 270.44,
+      "end": 1026.67,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0125-s04",
+      "heading": "鴻海 MIH 電動車聯盟",
+      "start": 1026.72,
+      "end": 1856.23,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0125-s05",
+      "heading": "Q&A",
+      "start": 1856.28,
+      "end": 2573.99,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0125-s06",
+      "heading": "結尾",
+      "start": 2574.04,
+      "end": 2576.93,
+      "confidence": 0.562
+    }
+  ]
+}

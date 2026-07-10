@@ -1,0 +1,93 @@
+{
+  "ep": 437,
+  "source": "auto-aligned from reports/mk/gooaye-ep0437.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0437.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4401bfef-986c-4402-a220-f52d931e60e1/rssFileVip.mp3?timestamp=1710930336371",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0437-s01",
+      "heading": "開場 / 贊助：優式資本",
+      "start": 0.0,
+      "end": 103.45,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0437-s02",
+      "heading": "情緒管理修煉與人生觀",
+      "start": 103.5,
+      "end": 282.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0437-s03",
+      "heading": "秋狗被咬事件與衝突處理智慧",
+      "start": 282.74,
+      "end": 665.57,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0437-s04",
+      "heading": "日本央行升息與日幣走勢",
+      "start": 665.62,
+      "end": 746.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0437-s05",
+      "heading": "日幣貶值對台灣工具機產業的影響",
+      "start": 746.72,
+      "end": 809.57,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0437-s06",
+      "heading": "黃仁勳GTC發表會重點",
+      "start": 809.62,
+      "end": 973.67,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0437-s07",
+      "heading": "機器人與GR00T",
+      "start": 973.72,
+      "end": 1031.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0437-s08",
+      "heading": "Blackwell GPU與系統架構",
+      "start": 1031.34,
+      "end": 1086.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0437-s09",
+      "heading": "GTC發表內容重點回顧",
+      "start": 1086.5,
+      "end": 1222.03,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0437-s10",
+      "heading": "Data Center與AI伺服器市場",
+      "start": 1222.08,
+      "end": 1470.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0437-s11",
+      "heading": "AI伺服器市場與供應鏈",
+      "start": 1470.44,
+      "end": 1525.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0437-s12",
+      "heading": "Q&A部分",
+      "start": 1525.92,
+      "end": 2997.47,
+      "confidence": 0.644
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 135,
+  "source": "auto-aligned from reports/mk/gooaye-ep0135.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0135.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ded7e595-3fc4-4fe4-9f7c-62bff2acafaf/rssFileVip.mp3?timestamp=1689439398520",
+  "duration": 2570.97,
+  "segments": [
+    {
+      "id": "ep0135-s01",
+      "heading": "開場 / 贊助：力度生",
+      "start": 0.0,
+      "end": 67.39,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0135-s02",
+      "heading": "買房記：貸款踩雷與看房眉角",
+      "start": 67.44,
+      "end": 698.43,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0135-s03",
+      "heading": "台股市場：傳產接力、法說會重磅週",
+      "start": 698.48,
+      "end": 902.77,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0135-s04",
+      "heading": "overbooking 預期延後、資金動向觀察",
+      "start": 902.82,
+      "end": 1350.51,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0135-s05",
+      "heading": "ETF 警示：越南ETF溢價、槓桿反向型ETF",
+      "start": 1350.56,
+      "end": 1727.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0135-s06",
+      "heading": "QA",
+      "start": 1727.42,
+      "end": 2557.45,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0135-s07",
+      "heading": "結尾",
+      "start": 2557.5,
+      "end": 2570.97,
+      "confidence": 0.92
+    }
+  ]
+}

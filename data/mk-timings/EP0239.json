@@ -1,0 +1,135 @@
+{
+  "ep": 239,
+  "source": "auto-aligned from reports/mk/gooaye-ep0239.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0239.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5f25e4b1-0bf2-40c4-b5c3-39a28e49dd9d/rssFileVip.mp3?timestamp=1689439395947",
+  "duration": 3058.4,
+  "segments": [
+    {
+      "id": "ep0239-s01",
+      "heading": "開場 / 贊助",
+      "start": 0.0,
+      "end": 87.17,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0239-s02",
+      "heading": "生活與近況閒聊 1",
+      "start": 87.22,
+      "end": 246.87,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0239-s03",
+      "heading": "市場與投資討論 2",
+      "start": 246.92,
+      "end": 432.19,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0239-s04",
+      "heading": "節目主題討論 3",
+      "start": 432.24,
+      "end": 614.13,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0239-s05",
+      "heading": "市場與投資討論 4",
+      "start": 614.18,
+      "end": 792.87,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0239-s06",
+      "heading": "市場與投資討論 5",
+      "start": 792.92,
+      "end": 967.35,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0239-s07",
+      "heading": "市場與投資討論 6",
+      "start": 967.4,
+      "end": 1131.05,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0239-s08",
+      "heading": "市場與投資討論 7",
+      "start": 1131.1,
+      "end": 1301.53,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0239-s09",
+      "heading": "市場與投資討論 8",
+      "start": 1301.58,
+      "end": 1484.19,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0239-s10",
+      "heading": "市場與投資討論 9",
+      "start": 1484.24,
+      "end": 1647.43,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0239-s11",
+      "heading": "節目主題討論 10",
+      "start": 1647.48,
+      "end": 1830.01,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0239-s12",
+      "heading": "市場與投資討論 11",
+      "start": 1830.06,
+      "end": 1930.45,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0239-s13",
+      "heading": "Q&A：聽眾問答",
+      "start": 1930.5,
+      "end": 2109.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0239-s14",
+      "heading": "Q&A：聽眾問答 2",
+      "start": 2109.82,
+      "end": 2339.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0239-s15",
+      "heading": "Q&A：聽眾問答 3",
+      "start": 2339.84,
+      "end": 2532.91,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0239-s16",
+      "heading": "Q&A：聽眾問答 4",
+      "start": 2532.96,
+      "end": 2724.29,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0239-s17",
+      "heading": "Q&A：聽眾問答 5",
+      "start": 2724.34,
+      "end": 2926.15,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0239-s18",
+      "heading": "Q&A：聽眾問答 6",
+      "start": 2926.2,
+      "end": 3058.4,
+      "confidence": 0.711
+    }
+  ]
+}

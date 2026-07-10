@@ -1,0 +1,51 @@
+{
+  "ep": 469,
+  "source": "auto-aligned from reports/mk/gooaye-ep0469.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0469.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9cc11fe7-4ea7-4ab2-b0fb-e67f2bea5160/rssFileVip.mp3?timestamp=1725245516228",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0469-s01",
+      "heading": "開場 / 贊助：Honeywell 太空人 RO 濾淨瞬熱飲水機",
+      "start": 0.0,
+      "end": 78.77,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0469-s02",
+      "heading": "生活體悟：慢下來享受",
+      "start": 78.82,
+      "end": 201.87,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0469-s03",
+      "heading": "伸展與生活態度的改變",
+      "start": 201.92,
+      "end": 472.13,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0469-s04",
+      "heading": "川普選舉與市場影響",
+      "start": 472.18,
+      "end": 873.87,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0469-s05",
+      "heading": "軟體股與代理商機會",
+      "start": 873.92,
+      "end": 1838.15,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0469-s06",
+      "heading": "節目分享與Q&A",
+      "start": 1838.2,
+      "end": 3000.45,
+      "confidence": 0.744
+    }
+  ]
+}

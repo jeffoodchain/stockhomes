@@ -1,0 +1,58 @@
+{
+  "ep": 331,
+  "source": "auto-aligned from reports/mk/gooaye-ep0331.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0331.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2c21fb2b-d33f-4f0d-b29c-3a617473a816/rssFileVip.mp3?timestamp=1689439393599",
+  "duration": 2954.4,
+  "segments": [
+    {
+      "id": "ep0331-s01",
+      "heading": "開場 / 贊助：碩騰寵愛食剋 3D",
+      "start": 0.0,
+      "end": 84.95,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0331-s02",
+      "heading": "艾司摩爾林口工廠分享會",
+      "start": 85.0,
+      "end": 277.33,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0331-s03",
+      "heading": "Yes Man 哲學：主動出門、接受不確定",
+      "start": 277.38,
+      "end": 591.93,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0331-s04",
+      "heading": "聽眾推薦：嘻哈節目與搖曳露營",
+      "start": 591.98,
+      "end": 627.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0331-s05",
+      "heading": "市場話題：SVB 事件壓力測試",
+      "start": 627.62,
+      "end": 899.99,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0331-s06",
+      "heading": "產業更新：資料中心、AI、手機、面板、PC、工具機",
+      "start": 900.04,
+      "end": 1636.17,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0331-s07",
+      "heading": "Q&A",
+      "start": 1636.22,
+      "end": 2954.4,
+      "confidence": 0.722
+    }
+  ]
+}

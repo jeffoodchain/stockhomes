@@ -1,0 +1,51 @@
+{
+  "ep": 596,
+  "source": "auto-aligned from reports/mk/gooaye-ep0596.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0596.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dbb143e0-2456-4e49-9761-0e5369b70583/rssFileVip.mp3?timestamp=1759011641121",
+  "duration": 3152.04,
+  "segments": [
+    {
+      "id": "ep0596-s01",
+      "heading": "開場 / 贊助：飛利浦",
+      "start": 0.14,
+      "end": 96.59,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0596-s02",
+      "heading": "Apple Watch 血壓功能破鎖區",
+      "start": 96.64,
+      "end": 254.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0596-s03",
+      "heading": "花蓮賑災感謝",
+      "start": 254.18,
+      "end": 475.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0596-s04",
+      "heading": "Q3 盤勢回顧與風控",
+      "start": 476.02,
+      "end": 872.89,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0596-s05",
+      "heading": "Marvell AEC 放量傳言：Credo / Astera Labs / 茂聯分析",
+      "start": 872.94,
+      "end": 1376.43,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0596-s06",
+      "heading": "Q&A",
+      "start": 1376.48,
+      "end": 3152.04,
+      "confidence": 0.711
+    }
+  ]
+}

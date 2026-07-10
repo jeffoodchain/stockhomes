@@ -1,0 +1,72 @@
+{
+  "ep": 457,
+  "source": "auto-aligned from reports/mk/gooaye-ep0457.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0457.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/39bf0b68-94be-426f-a907-4f46d4acae7d/rssFileVip.mp3?timestamp=1716970949242",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0457-s01",
+      "heading": "開場 / Nissan Sentra 贊助",
+      "start": 0.0,
+      "end": 67.45,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0457-s02",
+      "heading": "育兒心得與人生感悟",
+      "start": 67.5,
+      "end": 585.11,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0457-s03",
+      "heading": "市場動態與選股策略",
+      "start": 585.16,
+      "end": 904.77,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0457-s04",
+      "heading": "輝達與科技股動態",
+      "start": 904.82,
+      "end": 1012.31,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0457-s05",
+      "heading": "Apple 與伺服器晶片策略",
+      "start": 1012.36,
+      "end": 1330.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0457-s06",
+      "heading": "次線產業與市場復甦",
+      "start": 1330.76,
+      "end": 1526.25,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0457-s07",
+      "heading": "景氣燈號與風險管理",
+      "start": 1526.3,
+      "end": 1606.43,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0457-s08",
+      "heading": "策略總結與軟體時代前景",
+      "start": 1606.48,
+      "end": 1682.03,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0457-s09",
+      "heading": "Q&A",
+      "start": 1682.08,
+      "end": 2997.47,
+      "confidence": 0.789
+    }
+  ]
+}

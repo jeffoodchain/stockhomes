@@ -1,0 +1,58 @@
+{
+  "ep": 19,
+  "source": "auto-aligned from reports/mk/gooaye-ep0019.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0019.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c36c424d-0e4c-4ec0-80fc-63faa0c2b0db/rssFileVip.mp3?timestamp=1689439399832",
+  "duration": 1817.52,
+  "segments": [
+    {
+      "id": "ep0019-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.14,
+      "end": 56.05,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0019-s02",
+      "heading": "Surprise Motherfucker：人生的無法預期",
+      "start": 56.1,
+      "end": 90.31,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0019-s03",
+      "heading": "市場分析：利空出盡與熊市反彈",
+      "start": 90.36,
+      "end": 273.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0019-s04",
+      "heading": "Surprise一：元大S&P500正2（00672L）事件",
+      "start": 273.28,
+      "end": 510.17,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0019-s05",
+      "heading": "Surprise二：華南永昌虧損34億事件",
+      "start": 510.22,
+      "end": 835.07,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0019-s06",
+      "heading": "QE與降息對一般人的影響",
+      "start": 835.12,
+      "end": 1600.13,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0019-s07",
+      "heading": "結語：從QE到民生議題的連結",
+      "start": 1600.18,
+      "end": 1817.52,
+      "confidence": 0.767
+    }
+  ]
+}

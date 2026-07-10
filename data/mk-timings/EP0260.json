@@ -1,0 +1,79 @@
+{
+  "ep": 260,
+  "source": "auto-aligned from reports/mk/gooaye-ep0260.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0260.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/66fb6831-4e1b-4eab-9cef-d6bbbe25fc12/rssFileVip.mp3?timestamp=1689439387728",
+  "duration": 2948.43,
+  "segments": [
+    {
+      "id": "ep0260-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.57,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0260-s02",
+      "heading": "多空論戰與空軍劣勢",
+      "start": 58.62,
+      "end": 231.97,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0260-s03",
+      "heading": "SQQQ與美國放空的現況",
+      "start": 232.02,
+      "end": 402.17,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0260-s04",
+      "heading": "這週的反彈行情解讀",
+      "start": 402.22,
+      "end": 542.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0260-s05",
+      "heading": "半導體產業週期與over booking",
+      "start": 542.6,
+      "end": 690.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0260-s06",
+      "heading": "狗狗游泳池趣事與投資心態",
+      "start": 690.88,
+      "end": 856.97,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0260-s07",
+      "heading": "槓桿型ETF全面介紹",
+      "start": 857.02,
+      "end": 1226.29,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0260-s08",
+      "heading": "00631L（0050正二）與Life-Cycle Investing",
+      "start": 1226.34,
+      "end": 1419.99,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0260-s09",
+      "heading": "槓桿工具比較：期貨 vs 槓桿ETF vs 選擇權",
+      "start": 1420.04,
+      "end": 1988.56,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0260-s10",
+      "heading": "Q&A",
+      "start": 1988.61,
+      "end": 2948.43,
+      "confidence": 0.811
+    }
+  ]
+}

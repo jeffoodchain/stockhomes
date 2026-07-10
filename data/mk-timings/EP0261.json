@@ -1,0 +1,65 @@
+{
+  "ep": 261,
+  "source": "auto-aligned from reports/mk/gooaye-ep0261.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0261.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/80a59d57-ad0c-4198-bba3-515fdafd754d/rssFileVip.mp3?timestamp=1689439392941",
+  "duration": 3190.66,
+  "segments": [
+    {
+      "id": "ep0261-s01",
+      "heading": "開場 / 贊助：森歐黎漾",
+      "start": 0.0,
+      "end": 100.31,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0261-s02",
+      "heading": "近況：丈母孃來台、調整部位",
+      "start": 100.36,
+      "end": 321.51,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0261-s03",
+      "heading": "近況：Happy 領養事件",
+      "start": 321.56,
+      "end": 483.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0261-s04",
+      "heading": "時事速報：馬斯克收購 Twitter 疑雲、Gogoro 被做空",
+      "start": 484.02,
+      "end": 544.93,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0261-s05",
+      "heading": "主題：國安基金（國安感冒藥）",
+      "start": 544.98,
+      "end": 1067.59,
+      "confidence": 0.189
+    },
+    {
+      "id": "ep0261-s06",
+      "heading": "台積電法說會展望",
+      "start": 1067.64,
+      "end": 1270.89,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0261-s07",
+      "heading": "跟單研究：彼得林區買 IMAC Holding",
+      "start": 1270.94,
+      "end": 1997.73,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0261-s08",
+      "heading": "Q&A",
+      "start": 1997.78,
+      "end": 3190.66,
+      "confidence": 0.622
+    }
+  ]
+}

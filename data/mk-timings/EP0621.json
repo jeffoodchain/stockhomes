@@ -1,0 +1,135 @@
+{
+  "ep": 621,
+  "source": "auto-aligned from reports/mk/gooaye-ep0621.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0621.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/799ffa1f-1dcc-425a-95ce-c707ac5267cb/rssFileVip.mp3?timestamp=1766612822745",
+  "duration": 3006.41,
+  "segments": [
+    {
+      "id": "ep0621-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 66.93,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0621-s02",
+      "heading": "育兒小故事：兩個生父的感動時刻",
+      "start": 66.98,
+      "end": 436.81,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0621-s03",
+      "heading": "年終回顧：今年績效與題材檢討",
+      "start": 436.86,
+      "end": 564.71,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0621-s04",
+      "heading": "四月事件啟示：槓桿與風控大調整",
+      "start": 564.76,
+      "end": 1118.69,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0621-s05",
+      "heading": "部位配置：動能加大、小鬼谷擴張",
+      "start": 1118.74,
+      "end": 1623.05,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0621-s06",
+      "heading": "長期規劃：往資本家的方向走",
+      "start": 1623.1,
+      "end": 1808.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0621-s07",
+      "heading": "Q&A：命中註定我愛你",
+      "start": 1808.58,
+      "end": 1849.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0621-s08",
+      "heading": "Q&A：哈喜生日 & 川普語音",
+      "start": 1849.2,
+      "end": 1881.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0621-s09",
+      "heading": "Q&A：歲月靜好太長了",
+      "start": 1881.38,
+      "end": 1894.39,
+      "confidence": 0.692
+    },
+    {
+      "id": "ep0621-s10",
+      "heading": "Q&A：浣熊爸爸結婚五週年",
+      "start": 1894.44,
+      "end": 1933.47,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0621-s11",
+      "heading": "Q&A：建台高中科研社的回憶",
+      "start": 1933.52,
+      "end": 2096.0,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0621-s12",
+      "heading": "Q&A：洪藥師感謝發聲",
+      "start": 2096.05,
+      "end": 2103.58,
+      "confidence": 0.68
+    },
+    {
+      "id": "ep0621-s13",
+      "heading": "Q&A：HowHowQ 某試管祝福",
+      "start": 2103.63,
+      "end": 2128.5,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0621-s14",
+      "heading": "Q&A：竹科媽媽平反 & 同溫層",
+      "start": 2128.55,
+      "end": 2430.82,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0621-s15",
+      "heading": "Q&A：富貴在險中求 & 對自己的評價",
+      "start": 2430.87,
+      "end": 2699.82,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0621-s16",
+      "heading": "Q&A：洗澡順序 & 停車方向",
+      "start": 2699.87,
+      "end": 2793.9,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0621-s17",
+      "heading": "Q&A：見義勇為的辛梅爾",
+      "start": 2793.95,
+      "end": 2897.76,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0621-s18",
+      "heading": "Q&A：AP Memory 與矽電容",
+      "start": 2897.81,
+      "end": 3006.41,
+      "confidence": 0.744
+    }
+  ]
+}

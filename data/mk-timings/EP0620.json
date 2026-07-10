@@ -1,0 +1,170 @@
+{
+  "ep": 620,
+  "source": "auto-aligned from reports/mk/gooaye-ep0620.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0620.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ffb3795c-2a0c-473b-bf47-f05e69f8bb66/rssFileVip.mp3?timestamp=1766267199534",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0620-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 88.63,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0620-s02",
+      "heading": "回應上集網路炎上：原來臺灣這麼多文盲",
+      "start": 88.68,
+      "end": 223.77,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0620-s03",
+      "heading": "評論不等價：避免每個評論都等價的心態",
+      "start": 223.82,
+      "end": 493.3,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0620-s04",
+      "heading": "利益共同體 vs. 反串者：不要被網友慫恿去空台指",
+      "start": 493.35,
+      "end": 641.14,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0620-s05",
+      "heading": "業配：優勢資本徵才",
+      "start": 641.19,
+      "end": 723.9,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0620-s06",
+      "heading": "市場觀察：transition 階段、散熱、衛星與記憶體",
+      "start": 723.95,
+      "end": 981.4,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0620-s07",
+      "heading": "AI 軟體新方向：Lemonade × Tesla 保險合作",
+      "start": 981.45,
+      "end": 1318.32,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0620-s08",
+      "heading": "既有保險公司轉彎困難：人與資料的阻力",
+      "start": 1318.37,
+      "end": 1586.64,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0620-s09",
+      "heading": "Q&A：小琉球旅遊推薦",
+      "start": 1586.69,
+      "end": 1656.24,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0620-s10",
+      "heading": "Q&A：林口日料巧遇 & 我跟 Lisa 為何吵架",
+      "start": 1656.29,
+      "end": 1844.68,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0620-s11",
+      "heading": "Q&A：12/19 生日祝福",
+      "start": 1844.73,
+      "end": 1876.18,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0620-s12",
+      "heading": "Q&A：怎麼判斷裝置股族群輪動",
+      "start": 1876.23,
+      "end": 2106.5,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0620-s13",
+      "heading": "Q&A：開竅時刻 & 思維進階",
+      "start": 2106.55,
+      "end": 2312.66,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0620-s14",
+      "heading": "Q&A：定期定額跌 5% 就難過、適合全職投資嗎",
+      "start": 2312.71,
+      "end": 2490.17,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0620-s15",
+      "heading": "Q&A：MACHI 大哥爆倉 2000 多萬美",
+      "start": 2490.22,
+      "end": 2533.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0620-s16",
+      "heading": "Q&A：澳洲打工家人生日快樂",
+      "start": 2533.06,
+      "end": 2550.15,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0620-s17",
+      "heading": "Q&A：榮軒結婚祝福",
+      "start": 2550.2,
+      "end": 2591.35,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0620-s18",
+      "heading": "Q&A：拆解海關進出口資料",
+      "start": 2591.4,
+      "end": 2648.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0620-s19",
+      "heading": "Q&A：婚禮天氣許願",
+      "start": 2648.1,
+      "end": 2678.46,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0620-s20",
+      "heading": "Q&A：臺指正二 ETF vs. 期貨",
+      "start": 2678.51,
+      "end": 2727.5,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0620-s21",
+      "heading": "Q&A：EP599 後續 & 代孕",
+      "start": 2727.55,
+      "end": 2832.18,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0620-s22",
+      "heading": "Q&A：諾雅怎麼睡？小孩何時自己睡",
+      "start": 2832.23,
+      "end": 2892.0,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0620-s23",
+      "heading": "Q&A：Threads 病態社會 & 攻擊父母",
+      "start": 2892.05,
+      "end": 2997.47,
+      "confidence": 0.778
+    }
+  ]
+}

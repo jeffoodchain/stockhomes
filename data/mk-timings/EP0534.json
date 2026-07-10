@@ -1,0 +1,100 @@
+{
+  "ep": 534,
+  "source": "auto-aligned from reports/mk/gooaye-ep0534.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0534.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/30045575-f329-4aae-ad13-ca30304be64b/rssFileVip.mp3?timestamp=1740214723043",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0534-s01",
+      "heading": "開場 / 贊助：米紅生醫冠軍乳清",
+      "start": 0.0,
+      "end": 85.97,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0534-s02",
+      "heading": "遠端紫微斗數初體驗",
+      "start": 86.02,
+      "end": 276.41,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0534-s03",
+      "heading": "工作與財運的命盤解讀",
+      "start": 276.46,
+      "end": 558.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0534-s04",
+      "heading": "算命的心靈強健論",
+      "start": 558.38,
+      "end": 671.21,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0534-s05",
+      "heading": "算命與心靈強健的本質",
+      "start": 671.26,
+      "end": 905.23,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0534-s06",
+      "heading": "Grok 3：超強 AI 模型",
+      "start": 905.28,
+      "end": 1000.31,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0534-s07",
+      "heading": "xAI 的伺服器投入和硬體佈局",
+      "start": 1000.36,
+      "end": 1058.53,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0534-s08",
+      "heading": "OpenAI 和各廠商的 ASIC 進展",
+      "start": 1058.58,
+      "end": 1178.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0534-s09",
+      "heading": "Starship 火星任務與未來展望",
+      "start": 1178.98,
+      "end": 1235.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0534-s10",
+      "heading": "市場對 CSP 採購量的重新評估",
+      "start": 1235.22,
+      "end": 1318.43,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0534-s11",
+      "heading": "Apple iPhone 16E：AI 機定位與定價",
+      "start": 1318.48,
+      "end": 1541.97,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0534-s12",
+      "heading": "Apple 供應鏈的自製晶片轉變",
+      "start": 1542.02,
+      "end": 1788.41,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0534-s13",
+      "heading": "Q&A 部分",
+      "start": 1788.46,
+      "end": 2997.47,
+      "confidence": 0.711
+    }
+  ]
+}

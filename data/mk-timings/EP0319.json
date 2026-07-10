@@ -1,0 +1,58 @@
+{
+  "ep": 319,
+  "source": "auto-aligned from reports/mk/gooaye-ep0319.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0319.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4f170f54-138f-4585-9c3a-289e4d506db0/rssFileVip.mp3?timestamp=1689439389984",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0319-s01",
+      "heading": "開場 / 贊助：給我5分鐘精品咖啡",
+      "start": 0.0,
+      "end": 99.95,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0319-s02",
+      "heading": "1月回顧：宵夜戒斷、遊戲卡收藏與棒球",
+      "start": 100.0,
+      "end": 578.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0319-s03",
+      "heading": "影集推薦：The Terminal List 與 The Last of Us",
+      "start": 578.74,
+      "end": 695.55,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0319-s04",
+      "heading": "AI 相關假訊息澄清",
+      "start": 695.6,
+      "end": 737.21,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0319-s05",
+      "heading": "AI 受惠產業分析：Tesla、ASIC、邊緣運算",
+      "start": 737.26,
+      "end": 1260.13,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0319-s06",
+      "heading": "AMD 財報分析：Data Center 仍強，Intel 才是個案雷",
+      "start": 1260.18,
+      "end": 1496.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0319-s07",
+      "heading": "Q&A",
+      "start": 1496.78,
+      "end": 2998.96,
+      "confidence": 0.689
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ep": 543,
+  "source": "auto-aligned from reports/mk/gooaye-ep0543.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0543.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/906e5ff0-2744-4fcc-ae87-cc44542e1b9f/rssFileVip.mp3?timestamp=1742987660593",
+  "duration": 3047.99,
+  "segments": [
+    {
+      "id": "ep0543-s01",
+      "heading": "開場 / 贊助：WOKI 純鈦保溫杯",
+      "start": 0.0,
+      "end": 76.97,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0543-s02",
+      "heading": "個人更新：迎接第二胎",
+      "start": 77.02,
+      "end": 147.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0543-s03",
+      "heading": "親子教育反思：孩子校內活動",
+      "start": 147.36,
+      "end": 216.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0543-s04",
+      "heading": "班級觀察：多元學習風格",
+      "start": 216.96,
+      "end": 296.53,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0543-s05",
+      "heading": "成長與教育哲學",
+      "start": 296.58,
+      "end": 460.27,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0543-s06",
+      "heading": "成長歷程與社會化",
+      "start": 460.32,
+      "end": 548.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0543-s07",
+      "heading": "投資檢討：2025年Q1表現",
+      "start": 548.36,
+      "end": 719.55,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0543-s08",
+      "heading": "市場格局與操作策略",
+      "start": 719.6,
+      "end": 829.07,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0543-s09",
+      "heading": "川普政治盤與關稅議題",
+      "start": 829.12,
+      "end": 1057.39,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0543-s10",
+      "heading": "AI泡沫化風險與蔡崇信言論",
+      "start": 1057.44,
+      "end": 1304.41,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0543-s11",
+      "heading": "中國AI發展路線與算力需求",
+      "start": 1304.46,
+      "end": 1686.17,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0543-s12",
+      "heading": "Q&A環節",
+      "start": 1686.22,
+      "end": 3047.99,
+      "confidence": 0.611
+    }
+  ]
+}

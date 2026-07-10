@@ -1,0 +1,212 @@
+{
+  "ep": 634,
+  "source": "auto-aligned from reports/mk/gooaye-ep0634.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0634.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6a5792f4-34cf-4acf-a897-71acdddd46ff/rssFileVip.mp3?timestamp=1770501880796",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0634-s01",
+      "heading": "開場 / 贊助：CashBack 返多多",
+      "start": 0.0,
+      "end": 46.89,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0634-s02",
+      "heading": "教育路線：聽眾各種建議、體制內外的選擇",
+      "start": 46.94,
+      "end": 169.41,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0634-s03",
+      "heading": "有錢的意義：彈性與多重選擇",
+      "start": 169.46,
+      "end": 378.75,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0634-s04",
+      "heading": "珍惜當下：飛機舟車勞頓與孩子的成長",
+      "start": 378.8,
+      "end": 584.89,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0634-s05",
+      "heading": "臺股驚心動魄：抄底反彈、看漲說漲的反思",
+      "start": 584.94,
+      "end": 769.83,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0634-s06",
+      "heading": "美國科技巨頭：CAPEX 上修近 7000 億美元",
+      "start": 769.88,
+      "end": 1025.19,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0634-s07",
+      "heading": "Supply Chain：AWS Chain、Google Chain 觀察",
+      "start": 1025.24,
+      "end": 1331.07,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0634-s08",
+      "heading": "進出場節奏：均線參考、加碼策略",
+      "start": 1331.12,
+      "end": 1427.43,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0634-s09",
+      "heading": "被動元件、銀價與成本轉嫁",
+      "start": 1427.48,
+      "end": 1487.43,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0634-s10",
+      "heading": "補充：CAPEX 拆解、ASIC 與 Maia 的逆襲",
+      "start": 1487.48,
+      "end": 1655.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0634-s11",
+      "heading": "Q&A：女兒生日 & 西班牙 Churros",
+      "start": 1655.72,
+      "end": 1690.91,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0634-s12",
+      "heading": "Q&A：Spotify vs Apple Podcast 留言",
+      "start": 1690.96,
+      "end": 1718.87,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0634-s13",
+      "heading": "Q&A：挪威 Nutshell、城市旅遊推薦",
+      "start": 1718.92,
+      "end": 1827.85,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0634-s14",
+      "heading": "Q&A：黃油遊戲、小資槓桿與加碼法",
+      "start": 1827.9,
+      "end": 2062.3,
+      "confidence": 0.456
+    },
+    {
+      "id": "ep0634-s15",
+      "heading": "Q&A：婆媳同住、最小家庭單位",
+      "start": 2062.35,
+      "end": 2268.12,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0634-s16",
+      "heading": "Q&A：英國工作、G.I. Joe 與爽朗的笑",
+      "start": 2268.17,
+      "end": 2308.4,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0634-s17",
+      "heading": "Q&A：許願找工作、捐款回饋",
+      "start": 2308.45,
+      "end": 2356.86,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0634-s18",
+      "heading": "Q&A：CH 推個動畫 & 新年快樂",
+      "start": 2356.91,
+      "end": 2359.44,
+      "confidence": 0.588
+    },
+    {
+      "id": "ep0634-s19",
+      "heading": "Q&A：樂團貝斯手生日",
+      "start": 2359.49,
+      "end": 2403.42,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0634-s20",
+      "heading": "Q&A：男友碎念與快樂寶貝",
+      "start": 2403.47,
+      "end": 2461.0,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0634-s21",
+      "heading": "Q&A：學校改方針、提前找解方",
+      "start": 2461.05,
+      "end": 2529.4,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0634-s22",
+      "heading": "Q&A：先生不被工作摧殘",
+      "start": 2529.45,
+      "end": 2558.94,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0634-s23",
+      "heading": "Q&A：先生為兒準時下班 & Lisa 的 IG",
+      "start": 2558.99,
+      "end": 2795.62,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0634-s24",
+      "heading": "Q&A：澳洲 ETF & 國際聽眾",
+      "start": 2795.67,
+      "end": 2826.32,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0634-s25",
+      "heading": "Q&A：張先生綿豆腐 & 早期 sponsor",
+      "start": 2826.37,
+      "end": 2876.22,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0634-s26",
+      "heading": "Q&A：阿甘叔叔生日快樂",
+      "start": 2876.27,
+      "end": 2895.2,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0634-s27",
+      "heading": "Q&A：Terrorist 喝冰淇淋",
+      "start": 2895.25,
+      "end": 2907.62,
+      "confidence": 0.75
+    },
+    {
+      "id": "ep0634-s28",
+      "heading": "Q&A：安卓使用者留言",
+      "start": 2907.67,
+      "end": 2922.3,
+      "confidence": 0.847
+    },
+    {
+      "id": "ep0634-s29",
+      "heading": "Q&A：追劇看不完、注意力被養壞",
+      "start": 2922.35,
+      "end": 2998.96,
+      "confidence": 0.678
+    }
+  ]
+}

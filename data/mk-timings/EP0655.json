@@ -1,0 +1,212 @@
+{
+  "ep": 655,
+  "source": "auto-aligned from reports/mk/gooaye-ep0655.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0655.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/29360069-27f9-41bf-80af-778e54933c7b/rssFileVip.mp3?timestamp=1776897503318",
+  "duration": 3022.73,
+  "segments": [
+    {
+      "id": "ep0655-s01",
+      "heading": "開場 / 贊助：巧虎 × 悠活原力兒童保健",
+      "start": 0.0,
+      "end": 75.39,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0655-s02",
+      "heading": "4 月行情回顧：絕望中誕生的噴射段",
+      "start": 75.44,
+      "end": 108.19,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0655-s03",
+      "heading": "瘦瘦針成果：跌破 80 公斤是高興的跌破",
+      "start": 108.24,
+      "end": 224.43,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0655-s04",
+      "heading": "網球與機能訓練：從肌肥大到靈活度",
+      "start": 224.48,
+      "end": 446.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0655-s05",
+      "heading": "少年股神之亂：MTD 績效焦慮",
+      "start": 446.58,
+      "end": 571.99,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0655-s06",
+      "heading": "大哥開導：Sharpe Ratio 與資金規模詛咒",
+      "start": 572.04,
+      "end": 669.45,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0655-s07",
+      "heading": "持股動態：MTK 兩根漲停、解碼弱勢股",
+      "start": 669.5,
+      "end": 811.11,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0655-s08",
+      "heading": "國際族群觀察：臺股軟、日股韓股射爆",
+      "start": 811.16,
+      "end": 935.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0655-s09",
+      "heading": "VR Rubin 進度：相信你的肝",
+      "start": 935.78,
+      "end": 988.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0655-s10",
+      "heading": "Marvel Carmel NPU 與 MTK Zebrafish 卡 Intel EMIB 風險",
+      "start": 988.64,
+      "end": 1179.79,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0655-s11",
+      "heading": "為什麼不繼續追蹤：避免高點帶飛聽眾",
+      "start": 1179.84,
+      "end": 1296.39,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0655-s12",
+      "heading": "大盤一個月漲 6000 點：肋骨輪動 vs. 強勢股無腦噴",
+      "start": 1296.44,
+      "end": 1376.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0655-s13",
+      "heading": "業配：優勢資本徵人，月薪 16 萬",
+      "start": 1376.82,
+      "end": 1510.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0655-s14",
+      "heading": "防詐騙提醒：我從不開課",
+      "start": 1510.26,
+      "end": 1579.19,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0655-s15",
+      "heading": "Q&A：保姆覺得媽是低能兒",
+      "start": 1579.24,
+      "end": 1603.99,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0655-s16",
+      "heading": "Q&A：用週線判斷趨勢",
+      "start": 1604.04,
+      "end": 1716.19,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0655-s17",
+      "heading": "Q&A：AOI 與美股財報波動、FOMO",
+      "start": 1716.24,
+      "end": 1907.25,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0655-s18",
+      "heading": "Q&A：林口賣香腸我就投",
+      "start": 1907.3,
+      "end": 1924.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0655-s19",
+      "heading": "Q&A：嚇到保姆",
+      "start": 1924.7,
+      "end": 1946.92,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0655-s20",
+      "heading": "Q&A：35 歲母胎單身求脫單",
+      "start": 1946.97,
+      "end": 2041.38,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0655-s21",
+      "heading": "Q&A：大盤上漲但持股沒漲怎麼辦",
+      "start": 2041.43,
+      "end": 2317.25,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0655-s22",
+      "heading": "Q&A：終於買房準備跟女友同居",
+      "start": 2317.3,
+      "end": 2359.13,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0655-s23",
+      "heading": "Q&A：推薦《還願》《九日》與偷踢仔的故事",
+      "start": 2359.18,
+      "end": 2445.05,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0655-s24",
+      "heading": "Q&A：諾娜語音包 + 為什麼古來這麼好聽",
+      "start": 2445.1,
+      "end": 2477.27,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0655-s25",
+      "heading": "Q&A：別人持股暴噴的嫉妒心態",
+      "start": 2477.32,
+      "end": 2659.73,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0655-s26",
+      "heading": "Q&A：氣氛仔哥哥生日 + 投資最好的時間是現在",
+      "start": 2659.78,
+      "end": 2801.97,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0655-s27",
+      "heading": "Q&A：戰鬥陀螺 + 聯電也有他的 15 秒",
+      "start": 2802.02,
+      "end": 2862.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0655-s28",
+      "heading": "Q&A：海邊的曼徹斯特 / 異國日記 / 紫羅蘭永恆花園",
+      "start": 2862.54,
+      "end": 2934.63,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0655-s29",
+      "heading": "Q&A：握推 100 公斤怎麼練 + 健身觀念",
+      "start": 2934.68,
+      "end": 3022.73,
+      "confidence": 0.833
+    }
+  ]
+}

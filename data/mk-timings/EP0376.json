@@ -1,0 +1,121 @@
+{
+  "ep": 376,
+  "source": "auto-aligned from reports/mk/gooaye-ep0376.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0376.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/085abf1c-9401-4d7a-a970-e69987c3665a/rssFileVip.mp3?timestamp=1692441932108",
+  "duration": 3125.29,
+  "segments": [
+    {
+      "id": "ep0376-s01",
+      "heading": "開場 / 贊助：WOKI 國民飲料杯",
+      "start": 0.0,
+      "end": 78.61,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0376-s02",
+      "heading": "最近心境：低頭成癮復發戒斷",
+      "start": 78.66,
+      "end": 150.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0376-s03",
+      "heading": "家庭優先考量：陪伴兒子",
+      "start": 150.42,
+      "end": 227.49,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0376-s04",
+      "heading": "兒子的新技能：巴拉飛機",
+      "start": 227.54,
+      "end": 365.55,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0376-s05",
+      "heading": "輝達財報：觀察與預期",
+      "start": 365.6,
+      "end": 601.19,
+      "confidence": 0.389
+    },
+    {
+      "id": "ep0376-s06",
+      "heading": "新興題材：L40S 與 OVX 伺服器",
+      "start": 601.24,
+      "end": 711.79,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0376-s07",
+      "heading": "臺股供應鏈規律：高速漲跌的教訓",
+      "start": 711.84,
+      "end": 804.45,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0376-s08",
+      "heading": "AI 供應鏈恩情：填補虧損",
+      "start": 804.5,
+      "end": 837.43,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0376-s09",
+      "heading": "中國經濟危機：房地產與消費困境",
+      "start": 837.48,
+      "end": 986.93,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0376-s10",
+      "heading": "華人房產執念：槓桿與風險",
+      "start": 986.98,
+      "end": 1114.29,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0376-s11",
+      "heading": "中國經濟走向：拐彎與風險評估",
+      "start": 1114.34,
+      "end": 1276.59,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0376-s12",
+      "heading": "拜登的遠見：俄烏戰爭與對華政策",
+      "start": 1276.64,
+      "end": 1338.63,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0376-s13",
+      "heading": "避險與資產配置策略",
+      "start": 1338.68,
+      "end": 1491.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0376-s14",
+      "heading": "直播帶貨幻象：個案不代表全體",
+      "start": 1491.5,
+      "end": 1560.69,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0376-s15",
+      "heading": "真假訊息難辨：謹慎追蹤",
+      "start": 1560.74,
+      "end": 1629.07,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0376-s16",
+      "heading": "Q&A 時段",
+      "start": 1629.12,
+      "end": 3125.29,
+      "confidence": 0.756
+    }
+  ]
+}

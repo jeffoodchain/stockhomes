@@ -1,0 +1,170 @@
+{
+  "ep": 657,
+  "source": "auto-aligned from reports/mk/gooaye-ep0657.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0657.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ebd38d86-113a-4ce7-9c64-72f3fb63e5b4/rssFileVip.mp3?timestamp=1777502042794",
+  "duration": 3022.73,
+  "segments": [
+    {
+      "id": "ep0657-s01",
+      "heading": "開場 / 贊助：修麗可母親節保養組",
+      "start": 0.0,
+      "end": 146.65,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0657-s02",
+      "heading": "開場閒聊：觀音小雕像與靈異體質的鄰居",
+      "start": 146.7,
+      "end": 560.97,
+      "confidence": 0.533
+    },
+    {
+      "id": "ep0657-s03",
+      "heading": "市場觀察：台積電被外資壓，中小輪動",
+      "start": 561.02,
+      "end": 768.59,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0657-s04",
+      "heading": "產業情報：Intel 後段封裝良率達 90%",
+      "start": 768.64,
+      "end": 1052.67,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0657-s05",
+      "heading": "市場觀察：盤面混沌、輪動難判斷",
+      "start": 1052.72,
+      "end": 1179.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0657-s06",
+      "heading": "新聞話題：OpenAI × 力訊原生 AI 手機",
+      "start": 1180.04,
+      "end": 1397.95,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0657-s07",
+      "heading": "新聞話題：Meta × AWS Graviton5 大單",
+      "start": 1398.0,
+      "end": 1606.27,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0657-s08",
+      "heading": "Q&A：網球裝備與攀樹",
+      "start": 1606.32,
+      "end": 1668.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0657-s09",
+      "heading": "Q&A：父愛、失智父親的陪伴",
+      "start": 1668.58,
+      "end": 1739.23,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0657-s10",
+      "heading": "Q&A：東京拉麵、書籍推薦",
+      "start": 1739.28,
+      "end": 1786.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0657-s11",
+      "heading": "Q&A：主動型 ETF 能打敗大盤嗎",
+      "start": 1786.3,
+      "end": 1907.18,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0657-s12",
+      "heading": "Q&A：維持率與槓桿風險",
+      "start": 1907.23,
+      "end": 2010.62,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0657-s13",
+      "heading": "Q&A：寶可夢卡牌與父子情",
+      "start": 2010.67,
+      "end": 2095.52,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0657-s14",
+      "heading": "Q&A：祝賀新生女兒",
+      "start": 2095.57,
+      "end": 2129.29,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0657-s15",
+      "heading": "Q&A：3000 萬本金怎麼操作",
+      "start": 2129.34,
+      "end": 2277.09,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0657-s16",
+      "heading": "Q&A：郭忠和抹粉事件、醫療文化",
+      "start": 2277.14,
+      "end": 2338.45,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0657-s17",
+      "heading": "Q&A：快樂寶貝、資深美少女",
+      "start": 2338.5,
+      "end": 2404.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0657-s18",
+      "heading": "Q&A：客家話與彰化",
+      "start": 2404.74,
+      "end": 2445.81,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0657-s19",
+      "heading": "Q&A：尼基爾人氣投票、手遊偏好",
+      "start": 2445.86,
+      "end": 2475.29,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0657-s20",
+      "heading": "Q&A：試單、加碼、凹單、波段 vs. 短線",
+      "start": 2475.34,
+      "end": 2649.83,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0657-s21",
+      "heading": "Q&A：台股老聽眾感懷、ARKK 與木頭姐",
+      "start": 2649.88,
+      "end": 2764.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0657-s22",
+      "heading": "Q&A：諾亞的中英文溝通、選擇上市或 OTC",
+      "start": 2764.4,
+      "end": 2949.81,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0657-s23",
+      "heading": "Q&A：加勒比海退休夢與人生意義",
+      "start": 2949.86,
+      "end": 3022.73,
+      "confidence": 0.722
+    }
+  ]
+}

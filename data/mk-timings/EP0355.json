@@ -1,0 +1,44 @@
+{
+  "ep": 355,
+  "source": "auto-aligned from reports/mk/gooaye-ep0355.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0355.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ea85b765-8ccf-4a32-9c8f-33be7f7d807a/rssFileVip.mp3?timestamp=1689439393451",
+  "duration": 3178.79,
+  "segments": [
+    {
+      "id": "ep0355-s01",
+      "heading": "開場 / 贊助：Plantur21",
+      "start": 0.0,
+      "end": 80.55,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0355-s02",
+      "heading": "生日感悟：放慢腳步、享受生活",
+      "start": 80.6,
+      "end": 491.44,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0355-s03",
+      "heading": "先進封裝：CoWoS 擴產上修",
+      "start": 491.49,
+      "end": 667.66,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0355-s04",
+      "heading": "Apple Vision Pro 發表會分析",
+      "start": 667.71,
+      "end": 1575.62,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0355-s05",
+      "heading": "Q&A",
+      "start": 1575.67,
+      "end": 3178.79,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "ep": 220,
+  "source": "auto-aligned from reports/mk/gooaye-ep0220.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0220.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ca254ec2-bd6d-4e11-b2ac-377cab321616/rssFileVip.mp3?timestamp=1689439392785",
+  "duration": 2727.01,
+  "segments": [
+    {
+      "id": "ep0220-s01",
+      "heading": "開場 / 贊助",
+      "start": 0.0,
+      "end": 81.53,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0220-s02",
+      "heading": "生活與近況閒聊 1",
+      "start": 81.58,
+      "end": 236.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0220-s03",
+      "heading": "生活與近況閒聊 2",
+      "start": 237.0,
+      "end": 405.97,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0220-s04",
+      "heading": "生活與近況閒聊 3",
+      "start": 406.02,
+      "end": 570.45,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0220-s05",
+      "heading": "科技與產業話題 4",
+      "start": 570.5,
+      "end": 779.41,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0220-s06",
+      "heading": "科技與產業話題 5",
+      "start": 779.46,
+      "end": 965.67,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0220-s07",
+      "heading": "總經與政策觀察 6",
+      "start": 965.72,
+      "end": 1136.69,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0220-s08",
+      "heading": "節目主題討論 7",
+      "start": 1136.74,
+      "end": 1305.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0220-s09",
+      "heading": "科技與產業話題 8",
+      "start": 1305.62,
+      "end": 1479.03,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0220-s10",
+      "heading": "節目主題討論 9",
+      "start": 1479.08,
+      "end": 1500.63,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0220-s11",
+      "heading": "Q&A：聽眾問答",
+      "start": 1500.68,
+      "end": 1702.07,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0220-s12",
+      "heading": "Q&A：聽眾問答 2",
+      "start": 1702.12,
+      "end": 1889.74,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0220-s13",
+      "heading": "Q&A：聽眾問答 3",
+      "start": 1889.79,
+      "end": 2057.2,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0220-s14",
+      "heading": "Q&A：聽眾問答 4",
+      "start": 2057.25,
+      "end": 2227.84,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0220-s15",
+      "heading": "Q&A：聽眾問答 5",
+      "start": 2227.89,
+      "end": 2413.14,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0220-s16",
+      "heading": "Q&A：聽眾問答 6",
+      "start": 2413.19,
+      "end": 2589.34,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0220-s17",
+      "heading": "Q&A：聽眾問答 7",
+      "start": 2589.39,
+      "end": 2727.01,
+      "confidence": 0.667
+    }
+  ]
+}

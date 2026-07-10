@@ -1,0 +1,65 @@
+{
+  "ep": 597,
+  "source": "auto-aligned from reports/mk/gooaye-ep0597.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0597.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/de2cf547-d1c5-45c1-b39e-506f285fa084/rssFileVip.mp3?timestamp=1759355462081",
+  "duration": 3021.24,
+  "segments": [
+    {
+      "id": "ep0597-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 53.41,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0597-s02",
+      "heading": "育兒感悟：把握孩子需要你的時光",
+      "start": 53.46,
+      "end": 171.43,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0597-s03",
+      "heading": "育兒小撇步：用 AI 講故事",
+      "start": 171.48,
+      "end": 260.49,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0597-s04",
+      "heading": "生活聊聊：幼教業與百貨業現況",
+      "start": 260.54,
+      "end": 660.33,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0597-s05",
+      "heading": "市場話題：記憶體持股調整",
+      "start": 660.38,
+      "end": 1025.89,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0597-s06",
+      "heading": "AI 影片與儲存需求大趨勢",
+      "start": 1025.94,
+      "end": 1105.47,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0597-s07",
+      "heading": "無人機去中化：CIS 元件機會",
+      "start": 1105.52,
+      "end": 1495.65,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0597-s08",
+      "heading": "Q&A",
+      "start": 1495.7,
+      "end": 3021.24,
+      "confidence": 0.767
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 362,
+  "source": "auto-aligned from reports/mk/gooaye-ep0362.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0362.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a0301d98-f659-4c40-8b9b-51df4de73369/rssFileVip.mp3?timestamp=1689439379096",
+  "duration": 3089.61,
+  "segments": [
+    {
+      "id": "ep0362-s01",
+      "heading": "開場 / 贊助：Roichen 正脊坐墊",
+      "start": 0.0,
+      "end": 95.75,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0362-s02",
+      "heading": "岳母簽證風波",
+      "start": 95.8,
+      "end": 690.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0362-s03",
+      "heading": "先買再研究與股市洞察",
+      "start": 690.62,
+      "end": 978.47,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0362-s04",
+      "heading": "應用光電與美國基建",
+      "start": 978.52,
+      "end": 1627.63,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0362-s05",
+      "heading": "消費線現況與手機市場展望",
+      "start": 1627.68,
+      "end": 1773.55,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0362-s06",
+      "heading": "聽眾提問（Q&A）",
+      "start": 1773.6,
+      "end": 3089.61,
+      "confidence": 0.633
+    }
+  ]
+}

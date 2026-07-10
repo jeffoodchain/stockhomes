@@ -1,0 +1,65 @@
+{
+  "ep": 501,
+  "source": "auto-aligned from reports/mk/gooaye-ep0501.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0501.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ebab81f2-d87c-4b00-afe3-89d54da6787c/rssFileVip.mp3?timestamp=1730276563647",
+  "duration": 3120.82,
+  "segments": [
+    {
+      "id": "ep0501-s01",
+      "heading": "開場 / 贊助：ALUXE 亞立詩",
+      "start": 0.0,
+      "end": 98.53,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0501-s02",
+      "heading": "聽眾成就感",
+      "start": 98.58,
+      "end": 221.47,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0501-s03",
+      "heading": "搖滾樂演唱會體驗",
+      "start": 221.52,
+      "end": 580.97,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0501-s04",
+      "heading": "川普上 JRE 談話分析",
+      "start": 581.02,
+      "end": 1262.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0501-s05",
+      "heading": "川普的能源政策與環保議題",
+      "start": 1262.9,
+      "end": 1615.99,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0501-s06",
+      "heading": "監管放寬（Deregulation）",
+      "start": 1616.04,
+      "end": 1812.65,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0501-s07",
+      "heading": "川普政策綜合評論與臺灣視角",
+      "start": 1812.7,
+      "end": 1905.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0501-s08",
+      "heading": "Q&A 環節",
+      "start": 1905.82,
+      "end": 3120.82,
+      "confidence": 0.644
+    }
+  ]
+}

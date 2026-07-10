@@ -1,0 +1,65 @@
+{
+  "ep": 363,
+  "source": "auto-aligned from reports/mk/gooaye-ep0363.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0363.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/917243a7-b6d2-4343-815e-f5632b951544/rssFileVip.mp3?timestamp=1689439387988",
+  "duration": 2988.56,
+  "segments": [
+    {
+      "id": "ep0363-s01",
+      "heading": "開場 / 贊助：ASUS GlideX",
+      "start": 0.0,
+      "end": 95.59,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0363-s02",
+      "heading": "今晚拳擊比賽：鐘培生vs TOYS",
+      "start": 95.64,
+      "end": 172.91,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0363-s03",
+      "heading": "回憶：TOYS與台北暗殺星",
+      "start": 172.96,
+      "end": 258.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0363-s04",
+      "heading": "兒時回憶：網咖、WWE、電競",
+      "start": 258.74,
+      "end": 478.33,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0363-s05",
+      "heading": "神秘新創公司：「歐公司」",
+      "start": 478.38,
+      "end": 947.63,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0363-s06",
+      "heading": "液冷技術話題",
+      "start": 947.68,
+      "end": 1330.39,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0363-s07",
+      "heading": "中國禁稀有金屬出口禁令",
+      "start": 1330.44,
+      "end": 1558.91,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0363-s08",
+      "heading": "Q&A：聽眾提問",
+      "start": 1558.96,
+      "end": 2988.56,
+      "confidence": 0.733
+    }
+  ]
+}

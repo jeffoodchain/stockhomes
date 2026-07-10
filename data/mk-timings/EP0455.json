@@ -1,0 +1,51 @@
+{
+  "ep": 455,
+  "source": "auto-aligned from reports/mk/gooaye-ep0455.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0455.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/138b4969-89ff-4a85-a096-848de84730a8/rssFileVip.mp3?timestamp=1716366195651",
+  "duration": 3135.69,
+  "segments": [
+    {
+      "id": "ep0455-s01",
+      "heading": "開場 / 贊助：Ringo 磁吸太空瓶",
+      "start": 0.0,
+      "end": 80.89,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0455-s02",
+      "heading": "老婆的狗狗救援計畫",
+      "start": 80.94,
+      "end": 220.41,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0455-s03",
+      "heading": "義大利流浪狗政策更正",
+      "start": 220.46,
+      "end": 355.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0455-s04",
+      "heading": "職場壓力與個人修養",
+      "start": 355.54,
+      "end": 657.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0455-s05",
+      "heading": "Copilot Plus PC 和 AI PC 產業",
+      "start": 657.42,
+      "end": 1634.65,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0455-s06",
+      "heading": "Q&A",
+      "start": 1634.7,
+      "end": 3135.69,
+      "confidence": 0.789
+    }
+  ]
+}

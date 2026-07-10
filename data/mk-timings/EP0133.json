@@ -1,0 +1,58 @@
+{
+  "ep": 133,
+  "source": "auto-aligned from reports/mk/gooaye-ep0133.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0133.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e28da8b6-0d12-41cd-9793-422f07e761a8/rssFileVip.mp3?timestamp=1689439402219",
+  "duration": 2502.61,
+  "segments": [
+    {
+      "id": "ep0133-s01",
+      "heading": "開場 / 贊助：美樂思凝露",
+      "start": 0.0,
+      "end": 97.19,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0133-s02",
+      "heading": "網飛 Q1 財報分析",
+      "start": 97.24,
+      "end": 756.39,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0133-s03",
+      "heading": "ISRG（直覺手術）財報",
+      "start": 756.44,
+      "end": 889.39,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0133-s04",
+      "heading": "蘋果春季發表會：iMac M1 與 AirTag",
+      "start": 889.44,
+      "end": 1276.97,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0133-s05",
+      "heading": "Podcast 訂閱與串流大戰",
+      "start": 1277.02,
+      "end": 1497.11,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0133-s06",
+      "heading": "商業吹捧：財經 M 平方論壇",
+      "start": 1497.16,
+      "end": 1602.91,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0133-s07",
+      "heading": "Q&A",
+      "start": 1602.96,
+      "end": 2502.61,
+      "confidence": 0.711
+    }
+  ]
+}

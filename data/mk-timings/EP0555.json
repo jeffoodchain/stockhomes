@@ -1,0 +1,58 @@
+{
+  "ep": 555,
+  "source": "auto-aligned from reports/mk/gooaye-ep0555.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0555.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/834890eb-296f-4c25-9c29-7b618ae8921b/rssFileVip.mp3?timestamp=1746601334674",
+  "duration": 2970.72,
+  "segments": [
+    {
+      "id": "ep0555-s01",
+      "heading": "開場 / 贊助：zZSLEEPER 忘憂枕",
+      "start": 0.0,
+      "end": 71.09,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0555-s02",
+      "heading": "上集回應：紅斑性狼瘡聽眾後續",
+      "start": 71.14,
+      "end": 217.77,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0555-s03",
+      "heading": "二寶融入家庭：大兒子、Choco 與腿部張力",
+      "start": 217.82,
+      "end": 626.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0555-s04",
+      "heading": "市場話題：盧特尼克半導體關稅",
+      "start": 626.18,
+      "end": 715.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0555-s05",
+      "heading": "台幣升值影響分析",
+      "start": 715.44,
+      "end": 1508.91,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0555-s06",
+      "heading": "巴菲特退休感言",
+      "start": 1508.96,
+      "end": 1920.05,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0555-s07",
+      "heading": "Q&A",
+      "start": 1920.1,
+      "end": 2970.72,
+      "confidence": 0.811
+    }
+  ]
+}

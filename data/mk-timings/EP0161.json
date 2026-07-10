@@ -1,0 +1,65 @@
+{
+  "ep": 161,
+  "source": "auto-aligned from reports/mk/gooaye-ep0161.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0161.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/45d6c9ca-6414-47eb-b029-54ac43179c38/rssFileVip.mp3?timestamp=1689439390787",
+  "duration": 2857.8,
+  "segments": [
+    {
+      "id": "ep0161-s01",
+      "heading": "開場 / 贊助：拜耳力度伸",
+      "start": 0.0,
+      "end": 80.87,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0161-s02",
+      "heading": "聊聊：散戶、大媽與投資心態",
+      "start": 80.92,
+      "end": 588.11,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0161-s03",
+      "heading": "市場觀察：陸股美股台股三殺",
+      "start": 588.16,
+      "end": 762.27,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0161-s04",
+      "heading": "操作心得：汰弱留強與台指期避險",
+      "start": 762.32,
+      "end": 1269.45,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0161-s05",
+      "heading": "台股族群觀察：IC 設計、工業電腦、伺服器",
+      "start": 1269.5,
+      "end": 1609.77,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0161-s06",
+      "heading": "財報：特斯拉與蘋果",
+      "start": 1609.82,
+      "end": 2057.19,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0161-s07",
+      "heading": "Q&A",
+      "start": 2057.24,
+      "end": 2841.57,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0161-s08",
+      "heading": "結尾",
+      "start": 2841.62,
+      "end": 2857.8,
+      "confidence": 1.0
+    }
+  ]
+}

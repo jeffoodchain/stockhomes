@@ -1,0 +1,79 @@
+{
+  "ep": 50,
+  "source": "auto-aligned from reports/mk/gooaye-ep0050.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0050.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0dae9f6f-d24c-4a48-8a34-6845c406bee5/rssFileVip.mp3?timestamp=1689439395455",
+  "duration": 2461.0,
+  "segments": [
+    {
+      "id": "ep0050-s01",
+      "heading": "開場 / 贊助：科技巨頭解碼",
+      "start": 0.18,
+      "end": 163.61,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0050-s02",
+      "heading": "臺股 vs. 美股：為何臺股比美股難",
+      "start": 163.66,
+      "end": 334.75,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0050-s03",
+      "heading": "電影聊聊：昆汀·塔倫提諾 vs. 馬丁·史柯西斯",
+      "start": 334.8,
+      "end": 440.07,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0050-s04",
+      "heading": "後國安法時代的香港",
+      "start": 440.12,
+      "end": 603.52,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0050-s05",
+      "heading": "香港資本市場：中概股回港掛牌潮",
+      "start": 603.57,
+      "end": 738.2,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0050-s06",
+      "heading": "TikTok 與中國資本的全球觀點",
+      "start": 738.25,
+      "end": 956.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0050-s07",
+      "heading": "恒生指數與中國股市走勢",
+      "start": 956.62,
+      "end": 1307.99,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0050-s08",
+      "heading": "要不要投資中國股市",
+      "start": 1308.04,
+      "end": 1352.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0050-s09",
+      "heading": "Q&A",
+      "start": 1352.62,
+      "end": 2449.17,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0050-s10",
+      "heading": "結尾",
+      "start": 2449.22,
+      "end": 2461.0,
+      "confidence": 0.769
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 266,
+  "source": "auto-aligned from reports/mk/gooaye-ep0266.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0266.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c0581c09-fad9-4b29-8637-5d63410e3dfc/rssFileVip.mp3?timestamp=1689439391147",
+  "duration": 3077.71,
+  "segments": [
+    {
+      "id": "ep0266-s01",
+      "heading": "開場 / 贊助：超級數字力",
+      "start": 0.0,
+      "end": 93.21,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0266-s02",
+      "heading": "生活閒聊：帶岳母全家逛 101、吃法式餐廳",
+      "start": 93.26,
+      "end": 384.94,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0266-s03",
+      "heading": "市場話題：那斯達克大反彈、短線陷阱",
+      "start": 384.99,
+      "end": 735.7,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0266-s04",
+      "heading": "聯發科法說解析",
+      "start": 735.75,
+      "end": 1607.94,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0266-s05",
+      "heading": "Q&A",
+      "start": 1607.99,
+      "end": 3074.96,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0266-s06",
+      "heading": "結尾",
+      "start": 3075.01,
+      "end": 3077.71,
+      "confidence": 0.538
+    }
+  ]
+}

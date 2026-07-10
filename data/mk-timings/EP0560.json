@@ -1,0 +1,65 @@
+{
+  "ep": 560,
+  "source": "auto-aligned from reports/mk/gooaye-ep0560.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0560.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/416374a2-9069-4bd1-9055-08cffb4cd4ef/rssFileVip.mp3?timestamp=1748236036408",
+  "duration": 3082.19,
+  "segments": [
+    {
+      "id": "ep0560-s01",
+      "heading": "開場 / 贊助：Enjoy the Wood 3D 木質世界地圖",
+      "start": 0.0,
+      "end": 80.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0560-s02",
+      "heading": "Computex 與 NVIDIA 私展見聞：帶人去的好處",
+      "start": 80.88,
+      "end": 334.93,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0560-s03",
+      "heading": "NVIDIA 私展：Enterprise 展（三樓）——Omniverse 與 Kyber 機架",
+      "start": 334.98,
+      "end": 787.23,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0560-s04",
+      "heading": "Kyber 機架產業影響總結",
+      "start": 787.28,
+      "end": 888.01,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0560-s05",
+      "heading": "NVIDIA 私展：Consumer 展（高樓層）——50 系顯卡與 Sidekick",
+      "start": 888.06,
+      "end": 1534.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0560-s06",
+      "heading": "市場快訊：OpenAI 收購 Jony Ive 公司",
+      "start": 1534.54,
+      "end": 1646.91,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0560-s07",
+      "heading": "市場快訊：Google IO 展示與 AI 搜尋的影響",
+      "start": 1646.96,
+      "end": 1985.13,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0560-s08",
+      "heading": "Q&A",
+      "start": 1985.18,
+      "end": 3082.19,
+      "confidence": 0.689
+    }
+  ]
+}

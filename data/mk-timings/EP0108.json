@@ -1,0 +1,44 @@
+{
+  "ep": 108,
+  "source": "auto-aligned from reports/mk/gooaye-ep0108.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0108.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dffbfade-fcd4-44f6-ad56-6e077d7f8767/rssFileVip.mp3?timestamp=1689439389348",
+  "duration": 1597.6,
+  "segments": [
+    {
+      "id": "ep0108-s01",
+      "heading": "開場 / 贊助：十月被",
+      "start": 0.0,
+      "end": 99.51,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0108-s02",
+      "heading": "直播預告",
+      "start": 99.56,
+      "end": 273.09,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0108-s03",
+      "heading": "GameStop 軋空事件",
+      "start": 273.14,
+      "end": 897.47,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0108-s04",
+      "heading": "Palantir 等外溢標的",
+      "start": 897.52,
+      "end": 1067.27,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0108-s05",
+      "heading": "Q&A",
+      "start": 1067.32,
+      "end": 1597.6,
+      "confidence": 1.0
+    }
+  ]
+}

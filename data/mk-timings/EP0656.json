@@ -1,0 +1,156 @@
+{
+  "ep": 656,
+  "source": "auto-aligned from reports/mk/gooaye-ep0656.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0656.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/642a945a-aa16-48c9-b3ba-18449dd1cf9c/rssFileVip.mp3?timestamp=1777156667153",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0656-s01",
+      "heading": "開場 / 贊助：Ergotron 螢幕支架",
+      "start": 0.0,
+      "end": 100.07,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0656-s02",
+      "heading": "紅酒探險：金錢戰術建立認知",
+      "start": 100.12,
+      "end": 227.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0656-s03",
+      "heading": "Costco 撿便宜：拉菲與五大酒莊三寶",
+      "start": 227.58,
+      "end": 479.85,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0656-s04",
+      "heading": "減肥針：從 Ozempic 換到 Mounjaro",
+      "start": 479.9,
+      "end": 567.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0656-s05",
+      "heading": "市場觀察：壓力測試與部位調節",
+      "start": 567.6,
+      "end": 601.23,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0656-s06",
+      "heading": "美股 CPU 行情：Intel 漲價、Agentic AI 帶動",
+      "start": 601.28,
+      "end": 736.05,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0656-s07",
+      "heading": "TPU 8T/8i 與聯發科：Training 是 MTK",
+      "start": 736.1,
+      "end": 815.67,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0656-s08",
+      "heading": "台積電大象：金管會解封投信持股上限",
+      "start": 815.72,
+      "end": 961.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0656-s09",
+      "heading": "推算 10 萬張：投信補部位的強烈動機",
+      "start": 961.6,
+      "end": 1118.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0656-s10",
+      "heading": "投信加碼節奏：禮拜五只買 1000 張",
+      "start": 1118.74,
+      "end": 1238.39,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0656-s11",
+      "heading": "護國神山變飆股的大膽假設",
+      "start": 1238.44,
+      "end": 1361.51,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0656-s12",
+      "heading": "全民台積電：no brainer 的補貨",
+      "start": 1361.56,
+      "end": 1508.18,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0656-s13",
+      "heading": "Long-Short 與類股輪動",
+      "start": 1508.23,
+      "end": 1743.84,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0656-s14",
+      "heading": "Q&A：割喉案與法官的垃圾話",
+      "start": 1743.89,
+      "end": 1948.84,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0656-s15",
+      "heading": "Q&A：Post Malone 演唱會與肖楠烏山",
+      "start": 1948.89,
+      "end": 2082.92,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0656-s16",
+      "heading": "Q&A：CPU 族群大漲的感謝文",
+      "start": 2082.97,
+      "end": 2304.52,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0656-s17",
+      "heading": "Q&A：陪小孩玩 Bluey",
+      "start": 2304.57,
+      "end": 2409.62,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0656-s18",
+      "heading": "Q&A：捏軟聯盟改名 & 股災體感",
+      "start": 2409.67,
+      "end": 2607.19,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0656-s19",
+      "heading": "Q&A：罕病基金會捐款被擋",
+      "start": 2607.24,
+      "end": 2773.59,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0656-s20",
+      "heading": "Q&A：留言密碼 & 老婆的超人裝",
+      "start": 2773.64,
+      "end": 2869.59,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0656-s21",
+      "heading": "Q&A：兩人世界 & 客語不答不七",
+      "start": 2869.64,
+      "end": 2998.96,
+      "confidence": 0.956
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "ep": 628,
+  "source": "auto-aligned from reports/mk/gooaye-ep0628.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0628.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dd94e2c2-33b3-4965-b0bb-8d5cbbcb48e1/rssFileVip.mp3?timestamp=1768822415320",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0628-s01",
+      "heading": "開場 / 贊助：NordVPN 春節旅遊保護",
+      "start": 0.0,
+      "end": 78.95,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0628-s02",
+      "heading": "開場喊話：捏卵陣線、小別勝新婚",
+      "start": 79.0,
+      "end": 196.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0628-s03",
+      "heading": "親子日常：小孩長大、表演與「沒有毛的爸爸」",
+      "start": 196.62,
+      "end": 332.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0628-s04",
+      "heading": "育兒觀察：小孩的 DNA、諾亞 vs. 齊安",
+      "start": 333.04,
+      "end": 650.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0628-s05",
+      "heading": "關稅話題：15% 對等關稅、232 最惠國",
+      "start": 650.54,
+      "end": 1217.75,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0628-s06",
+      "heading": "臺積電法說會：8 吋產能釋出、N2 Ramping、CAPEX 上修",
+      "start": 1217.8,
+      "end": 1545.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0628-s07",
+      "heading": "被動元件：國巨漲價、原物料驅動、TLVR 電感",
+      "start": 1545.82,
+      "end": 1784.87,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0628-s08",
+      "heading": "Q&A：人生厭世、花錢買不到快樂",
+      "start": 1784.92,
+      "end": 1942.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0628-s09",
+      "heading": "Q&A：男女朋友打 LOL 吵架",
+      "start": 1943.02,
+      "end": 2149.25,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0628-s10",
+      "heading": "Q&A：苗栗雲海縱走的暈船仔",
+      "start": 2149.3,
+      "end": 2224.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0628-s11",
+      "heading": "Q&A：盤中 A 轉、補財庫、禿頭、行情解讀",
+      "start": 2224.44,
+      "end": 2469.93,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0628-s12",
+      "heading": "Q&A：力積電 DRAM vs. NAND 配置",
+      "start": 2469.98,
+      "end": 2543.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0628-s13",
+      "heading": "Q&A：地方爸爸的祝福",
+      "start": 2543.76,
+      "end": 2593.85,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0628-s14",
+      "heading": "Q&A：學測仔的生日祝福",
+      "start": 2593.9,
+      "end": 2608.25,
+      "confidence": 0.843
+    },
+    {
+      "id": "ep0628-s15",
+      "heading": "Q&A：抄書大盤 & 懶覺大小",
+      "start": 2608.3,
+      "end": 2647.59,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0628-s16",
+      "heading": "Q&A：Pure Storage、AI 對儲存的需求",
+      "start": 2647.64,
+      "end": 2737.31,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0628-s17",
+      "heading": "Q&A：人生虛無、課金比玩遊戲還爽",
+      "start": 2737.36,
+      "end": 2908.61,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0628-s18",
+      "heading": "Q&A：體驗 vs. 金錢的平衡",
+      "start": 2908.66,
+      "end": 2998.96,
+      "confidence": 0.689
+    }
+  ]
+}

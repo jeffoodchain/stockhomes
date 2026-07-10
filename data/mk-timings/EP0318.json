@@ -1,0 +1,72 @@
+{
+  "ep": 318,
+  "source": "auto-aligned from reports/mk/gooaye-ep0318.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0318.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/223a75af-12e3-483c-9147-bf3b817c68f7/rssFileVip.mp3?timestamp=1761072694087",
+  "duration": 2976.68,
+  "segments": [
+    {
+      "id": "ep0318-s01",
+      "heading": "開場 / 贊助：Dr.情趣",
+      "start": 0.0,
+      "end": 79.07,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0318-s02",
+      "heading": "感冒中、在花蓮",
+      "start": 79.12,
+      "end": 136.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0318-s03",
+      "heading": "花蓮見聞 vs 苗栗",
+      "start": 136.62,
+      "end": 268.11,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0318-s04",
+      "heading": "花蓮的美、景物依舊",
+      "start": 268.16,
+      "end": 462.17,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0318-s05",
+      "heading": "特斯拉財報與展望",
+      "start": 462.22,
+      "end": 1053.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0318-s06",
+      "heading": "Intel 慘烈財報",
+      "start": 1053.88,
+      "end": 1262.75,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0318-s07",
+      "heading": "Intel IFS 前景",
+      "start": 1262.8,
+      "end": 1498.29,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0318-s08",
+      "heading": "台股開盤展望",
+      "start": 1498.34,
+      "end": 1518.97,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0318-s09",
+      "heading": "Q&A",
+      "start": 1519.02,
+      "end": 2976.68,
+      "confidence": 0.767
+    }
+  ]
+}

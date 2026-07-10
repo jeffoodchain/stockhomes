@@ -1,0 +1,135 @@
+{
+  "ep": 420,
+  "source": "auto-aligned from reports/mk/gooaye-ep0420.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0420.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ce99f034-9268-4397-baae-ff953e232e22/rssFileVip.mp3?timestamp=1705747673161",
+  "duration": 3085.17,
+  "segments": [
+    {
+      "id": "ep0420-s01",
+      "heading": "開場 / 贊助：拜爾力度生",
+      "start": 0.0,
+      "end": 54.05,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0420-s02",
+      "heading": "Vision Pro 開賣與銷售狀況",
+      "start": 54.1,
+      "end": 197.85,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0420-s03",
+      "heading": "供應鏈與 Tier 1/Tier 2 廠商",
+      "start": 197.9,
+      "end": 268.45,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0420-s04",
+      "heading": "空間運算與未來運算形態",
+      "start": 268.5,
+      "end": 345.81,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0420-s05",
+      "heading": "面板與 FOPLP 技術",
+      "start": 345.86,
+      "end": 522.65,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0420-s06",
+      "heading": "HBM 與記憶體產業的新機會",
+      "start": 522.7,
+      "end": 642.27,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0420-s07",
+      "heading": "裝置廠與 FOPLP 投資機會",
+      "start": 642.32,
+      "end": 688.51,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0420-s08",
+      "heading": "CoWoS 的市場地位與客戶排名",
+      "start": 688.56,
+      "end": 736.01,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0420-s09",
+      "heading": "外資買盤與臺積電",
+      "start": 736.06,
+      "end": 845.71,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0420-s10",
+      "heading": "臺積電法說與 UTR 預期",
+      "start": 845.76,
+      "end": 915.27,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0420-s11",
+      "heading": "臺積電法說亮點與配息預期",
+      "start": 915.32,
+      "end": 973.01,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0420-s12",
+      "heading": "CoWoS 深度分析與客戶排名",
+      "start": 973.06,
+      "end": 1204.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0420-s13",
+      "heading": "ODM 供應鏈現況與 Baseball 市場",
+      "start": 1204.58,
+      "end": 1370.81,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0420-s14",
+      "heading": "新加坡與 AI 伺服器的機會",
+      "start": 1370.86,
+      "end": 1440.45,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0420-s15",
+      "heading": "ODM 前景與投資機會",
+      "start": 1440.5,
+      "end": 1516.03,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0420-s16",
+      "heading": "市場資金流向與總結",
+      "start": 1516.08,
+      "end": 1553.47,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0420-s17",
+      "heading": "水冷技術與浸沒冷卻的發展",
+      "start": 1553.52,
+      "end": 1712.81,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0420-s18",
+      "heading": "Q&A",
+      "start": 1712.86,
+      "end": 3085.17,
+      "confidence": 0.389
+    }
+  ]
+}

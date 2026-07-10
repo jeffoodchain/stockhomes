@@ -151,6 +151,47 @@ function tagLinks(tags, fromDir) {
     .join("");
 }
 
+function formatClock(seconds) {
+  const total = Math.max(0, Math.round(Number(seconds) || 0));
+  const h = Math.floor(total / 3600);
+  const m = Math.floor((total % 3600) / 60);
+  const s = total % 60;
+  if (h > 0) return `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+  return `${m}:${String(s).padStart(2, "0")}`;
+}
+
+function podcastTimingFile(attributes) {
+  if (!attributes.audio_url || !attributes.ep) return null;
+  const ep = String(attributes.ep).padStart(4, "0");
+  const file = path.join(ROOT, "data", "mk-timings", `EP${ep}.json`);
+  return fs.existsSync(file) ? file : null;
+}
+
+function addPodcastSegments(content, attributes) {
+  const timingFile = podcastTimingFile(attributes);
+  if (!timingFile) return content;
+
+  const timing = JSON.parse(fs.readFileSync(timingFile, "utf8"));
+  const audioUrl = timing.audio_url || attributes.audio_url;
+  const segments = Array.isArray(timing.segments) ? timing.segments : [];
+  if (!audioUrl || segments.length === 0) return content;
+
+  let segmentIndex = 0;
+  const enhanced = content.replace(/<h2([^>]*)>([\s\S]*?)<\/h2>/g, (match) => {
+    const segment = segments[segmentIndex++];
+    if (!segment) return match;
+    const id = segment.id || `${String(attributes.ep).padStart(4, "0")}-${segmentIndex}`;
+    const start = Number(segment.start || 0);
+    const end = Number(segment.end || start);
+    const confidence = Number(segment.confidence || 0);
+    const confidenceLabel = confidence ? ` · 對齊 ${Math.round(confidence * 100)}%` : "";
+    return `${match}\n<div class="podcast-segment" id="${escapeHtml(id)}">\n  <button type="button" class="podcast-play" data-podcast-play data-start="${start.toFixed(2)}" data-end="${end.toFixed(2)}" data-segment-id="${escapeHtml(id)}" aria-label="播放 ${escapeHtml(segment.heading || "本段")}">▶ ${escapeHtml(formatClock(start))}–${escapeHtml(formatClock(end))}</button>\n  <span class="podcast-segment-meta">點擊播放本段${escapeHtml(confidenceLabel)}</span>\n</div>`;
+  });
+
+  const player = `<aside class="podcast-player" data-podcast-player>\n  <p class="podcast-player-title">Podcast 段落播放（實驗）</p>\n  <audio controls preload="metadata" src="${escapeHtml(audioUrl)}"></audio>\n  <p class="podcast-player-help">點每個段落下方的時間碼，會跳到原始音檔該段播放；段落結束會自動暫停。</p>\n</aside>`;
+  return `${player}\n${enhanced}`;
+}
+
 const categoryLabels = new Map([
   ["mk", "股癌逐字稿"],
   ["yutinghao", "游庭皓逐字稿"],
@@ -257,7 +298,7 @@ for (const file of walkMarkdown(REPORTS_DIR)) {
   ensureDir(outDir);
 
   const title = attributes.title || slug;
-  const content = md.render(body);
+  const content = addPodcastSegments(md.render(body), attributes);
   const bodyText = plainText(body);
   const keywords = normalizeList(attributes.keywords);
   const aliases = normalizeList(attributes.aliases);

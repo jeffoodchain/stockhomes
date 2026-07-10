@@ -1,0 +1,72 @@
+{
+  "ep": 121,
+  "source": "auto-aligned from reports/mk/gooaye-ep0121.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0121.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d2043762-4ab2-42b4-8a8b-cbd704204b4e/rssFileVip.mp3?timestamp=1689439391672",
+  "duration": 2631.92,
+  "segments": [
+    {
+      "id": "ep0121-s01",
+      "heading": "開場 / 贊助：上品寢具床墊館",
+      "start": 0.05,
+      "end": 92.88,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0121-s02",
+      "heading": "昨日反彈與成長股 vs. 價值股之爭",
+      "start": 92.93,
+      "end": 238.38,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0121-s03",
+      "heading": "Howard Marks Memo 與投資哲學",
+      "start": 238.43,
+      "end": 419.5,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0121-s04",
+      "heading": "交易策略：左側與右側沒有絕對對錯",
+      "start": 419.55,
+      "end": 914.48,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0121-s05",
+      "heading": "特斯拉反彈與持股心得",
+      "start": 914.53,
+      "end": 961.1,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0121-s06",
+      "heading": "車用晶片缺貨",
+      "start": 961.15,
+      "end": 1355.96,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0121-s07",
+      "heading": "價值 ETF 介紹",
+      "start": 1356.01,
+      "end": 1816.12,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0121-s08",
+      "heading": "Q&A",
+      "start": 1816.17,
+      "end": 2473.52,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0121-s09",
+      "heading": "台灣生技股：別踩深水區",
+      "start": 2473.57,
+      "end": 2631.92,
+      "confidence": 0.933
+    }
+  ]
+}

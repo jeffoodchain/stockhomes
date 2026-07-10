@@ -1,0 +1,65 @@
+{
+  "ep": 150,
+  "source": "auto-aligned from reports/mk/gooaye-ep0150.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0150.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ab6e766e-f562-4b1e-829a-0cc75d9e0ad6/rssFileVip.mp3?timestamp=1689439402501",
+  "duration": 2299.04,
+  "segments": [
+    {
+      "id": "ep0150-s01",
+      "heading": "開場 / 贊助：Intel Evo",
+      "start": 0.0,
+      "end": 135.75,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0150-s02",
+      "heading": "疫情封城生活雜談",
+      "start": 135.8,
+      "end": 389.57,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0150-s03",
+      "heading": "影集推薦：《第二聲鈴響》與西班牙劇",
+      "start": 389.62,
+      "end": 536.01,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0150-s04",
+      "heading": "市場話題：聯準會 Dot Plot 轉向、原物料回撤",
+      "start": 536.06,
+      "end": 742.37,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0150-s05",
+      "heading": "利率與估值的關係",
+      "start": 742.42,
+      "end": 1083.09,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0150-s06",
+      "heading": "原物料下跌與傢具業觀察",
+      "start": 1083.14,
+      "end": 1185.15,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0150-s07",
+      "heading": "科技股現況：電子股早已回神",
+      "start": 1185.2,
+      "end": 1269.83,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0150-s08",
+      "heading": "Q&A",
+      "start": 1269.88,
+      "end": 2299.04,
+      "confidence": 0.8
+    }
+  ]
+}

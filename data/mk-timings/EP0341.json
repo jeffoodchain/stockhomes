@@ -1,0 +1,72 @@
+{
+  "ep": 341,
+  "source": "auto-aligned from reports/mk/gooaye-ep0341.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0341.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6d541bca-fde5-47d1-9a4f-b2711fa676ed/rssFileVip.mp3?timestamp=1689439397019",
+  "duration": 3037.6,
+  "segments": [
+    {
+      "id": "ep0341-s01",
+      "heading": "開場 / 贊助：VANA北歐生活",
+      "start": 0.0,
+      "end": 69.53,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0341-s02",
+      "heading": "老高影片與臉書流量那件事",
+      "start": 69.58,
+      "end": 145.91,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0341-s03",
+      "heading": "運氣、知識分子與流量才藝",
+      "start": 145.96,
+      "end": 327.63,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0341-s04",
+      "heading": "老高影片論點：運氣的本質與強者死不了",
+      "start": 327.68,
+      "end": 912.43,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0341-s05",
+      "heading": "馬斯克TruthGPT與AI趨勢",
+      "start": 912.48,
+      "end": 1037.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0341-s06",
+      "heading": "光通訊模組題材與認證炒股陷阱",
+      "start": 1037.72,
+      "end": 1305.52,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0341-s07",
+      "heading": "Netflix 估值轉折：串流媒體的惡龍時代",
+      "start": 1305.57,
+      "end": 1678.26,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0341-s08",
+      "heading": "持股更新：Impinj、Lattice、美光",
+      "start": 1678.31,
+      "end": 1831.96,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0341-s09",
+      "heading": "Q&A",
+      "start": 1832.01,
+      "end": 3037.6,
+      "confidence": 0.689
+    }
+  ]
+}

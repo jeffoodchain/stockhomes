@@ -1,0 +1,198 @@
+{
+  "ep": 674,
+  "source": "auto-aligned from reports/mk/gooaye-ep0674.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0674.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1b5e1964-2bc3-4634-80c6-228c02e87474/rssFileVip.mp3?timestamp=1782588316074",
+  "duration": 3180.28,
+  "segments": [
+    {
+      "id": "ep0674-s01",
+      "heading": "EVOASIS 贊助開場",
+      "start": 0.0,
+      "end": 76.17,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0674-s02",
+      "heading": "上半年過半：自我總結與新開始",
+      "start": 76.22,
+      "end": 120.89,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0674-s03",
+      "heading": "生活面回顧：減重、運動與家庭健康",
+      "start": 120.94,
+      "end": 247.49,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0674-s04",
+      "heading": "投資面回顧：4–6 月績效與處置股行情",
+      "start": 247.54,
+      "end": 405.25,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0674-s05",
+      "heading": "題材輪動與美股部位調整",
+      "start": 405.3,
+      "end": 578.79,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0674-s06",
+      "heading": "下半年展望：多頭年，但心態轉中性",
+      "start": 578.84,
+      "end": 685.41,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0674-s07",
+      "heading": "最近盤面回顧：台股回檔與季線破壞",
+      "start": 685.46,
+      "end": 905.35,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0674-s08",
+      "heading": "修正原因：季末 rebalance、地緣政治與升息疑慮",
+      "start": 905.4,
+      "end": 1404.81,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0674-s09",
+      "heading": "蘋果漲價：果粉價格黏性與品牌 markup",
+      "start": 1404.86,
+      "end": 1780.25,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0674-s10",
+      "heading": "記憶體景氣、消費端壓力與盤勢小結",
+      "start": 1780.3,
+      "end": 1986.61,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0674-s11",
+      "heading": "Q&A 開場：Spotify / Apple 留言平台調整",
+      "start": 1986.66,
+      "end": 2002.97,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0674-s12",
+      "heading": "Q&A：路中事故，停車幫忙、繞開與報警的取捨",
+      "start": 2003.02,
+      "end": 2056.67,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0674-s13",
+      "heading": "Q&A：Tim：在 MTK 不快樂，錢與自由怎麼選？",
+      "start": 2056.72,
+      "end": 2222.91,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0674-s14",
+      "heading": "Q&A：Mark：韓國打工度假回來，想找躺平工作",
+      "start": 2222.96,
+      "end": 2259.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0674-s15",
+      "heading": "Q&A：York：投資後越來越省，該不該把錢拿出來花？",
+      "start": 2259.94,
+      "end": 2390.59,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0674-s16",
+      "heading": "Q&A：萬事不絕對：馬來西亞聽眾感謝",
+      "start": 2390.64,
+      "end": 2408.15,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0674-s17",
+      "heading": "Q&A：DKDKDK93：人生第一台 BMW 與牽新車祝福",
+      "start": 2408.2,
+      "end": 2427.69,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0674-s18",
+      "heading": "Q&A：院長再唸一下／冰美式 OO：五年聽眾、006208 與客家話生日祝福",
+      "start": 2427.74,
+      "end": 2533.67,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0674-s19",
+      "heading": "Q&A：Chan：美國人／台灣人到底會不會做股票？",
+      "start": 2533.72,
+      "end": 2581.29,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0674-s20",
+      "heading": "Q&A：山中的大寶貝：新竹颱風假與風災安全",
+      "start": 2581.34,
+      "end": 2632.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0674-s21",
+      "heading": "Q&A：Pak：為在乎的人花錢，比花在自己身上更甘願",
+      "start": 2632.92,
+      "end": 2767.6,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0674-s22",
+      "heading": "Q&A：GodTongue：ID 梗與「我很好大家好」",
+      "start": 2767.65,
+      "end": 2800.32,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0674-s23",
+      "heading": "Q&A：SF985213：生日祝福「那四個字」",
+      "start": 2800.37,
+      "end": 2811.62,
+      "confidence": 0.623
+    },
+    {
+      "id": "ep0674-s24",
+      "heading": "Q&A：原住民的台語怎麼念：教甄、正式教師與職場初心",
+      "start": 2811.67,
+      "end": 2937.52,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0674-s25",
+      "heading": "Q&A：Hikari：祝福好友賺大錢",
+      "start": 2937.57,
+      "end": 2947.08,
+      "confidence": 0.596
+    },
+    {
+      "id": "ep0674-s26",
+      "heading": "Q&A：藤蛋蛋：市場跌太多的發病留言",
+      "start": 2947.13,
+      "end": 2955.12,
+      "confidence": 0.618
+    },
+    {
+      "id": "ep0674-s27",
+      "heading": "Q&A：Andy5566：創業投資、股東結構與 skin in the game",
+      "start": 2955.17,
+      "end": 3180.28,
+      "confidence": 0.656
+    }
+  ]
+}

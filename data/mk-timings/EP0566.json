@@ -1,0 +1,51 @@
+{
+  "ep": 566,
+  "source": "auto-aligned from reports/mk/gooaye-ep0566.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0566.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3e0a2c07-ea04-490c-8c47-332bec480af4/rssFileVip.mp3?timestamp=1749896633662",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0566-s01",
+      "heading": "開場 / 贊助：夏初生髮蓬蓬",
+      "start": 0.0,
+      "end": 80.83,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0566-s02",
+      "heading": "二兒子安哥：腎臟追蹤、心路歷程",
+      "start": 80.88,
+      "end": 563.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0566-s03",
+      "heading": "Switch 2 臺灣現貨、實體經濟觀察",
+      "start": 563.78,
+      "end": 837.87,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0566-s04",
+      "heading": "Oracle：RPO 亮眼、OCI 訂單爆發",
+      "start": 837.92,
+      "end": 1048.41,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0566-s05",
+      "heading": "NVIDIA DGX Cloud Lepton：算力的 Uber 平台",
+      "start": 1048.46,
+      "end": 1718.29,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0566-s06",
+      "heading": "Q&A",
+      "start": 1718.34,
+      "end": 2994.49,
+      "confidence": 0.644
+    }
+  ]
+}

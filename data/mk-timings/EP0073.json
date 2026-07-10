@@ -1,0 +1,72 @@
+{
+  "ep": 73,
+  "source": "auto-aligned from reports/mk/gooaye-ep0073.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0073.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/12ceaeb7-6c27-4141-b358-f407b619e98c/rssFileVip.mp3?timestamp=1689439392032",
+  "duration": 2513.03,
+  "segments": [
+    {
+      "id": "ep0073-s01",
+      "heading": "開場 / 贊助：BHK's 無瑕機力",
+      "start": 0.14,
+      "end": 89.01,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0073-s02",
+      "heading": "廣告心得：好玩廠商業績最強",
+      "start": 89.06,
+      "end": 279.03,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0073-s03",
+      "heading": "Spotify：垃圾公司，我要停損了",
+      "start": 279.08,
+      "end": 513.61,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0073-s04",
+      "heading": "平權、抵制文化與cancel culture",
+      "start": 513.66,
+      "end": 885.01,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0073-s05",
+      "heading": "TikTok事件：巧取豪奪還是國安危機？",
+      "start": 885.06,
+      "end": 1402.97,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0073-s06",
+      "heading": "愛國主義是無賴最後的避難所",
+      "start": 1403.02,
+      "end": 1653.45,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0073-s07",
+      "heading": "贊助：家樂福線上購物",
+      "start": 1653.5,
+      "end": 1696.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0073-s08",
+      "heading": "Q&A",
+      "start": 1696.54,
+      "end": 2470.17,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0073-s09",
+      "heading": "結尾",
+      "start": 2470.22,
+      "end": 2513.03,
+      "confidence": 0.722
+    }
+  ]
+}

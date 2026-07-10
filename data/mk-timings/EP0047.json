@@ -1,0 +1,72 @@
+{
+  "ep": 47,
+  "source": "auto-aligned from reports/mk/gooaye-ep0047.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0047.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/243f97c2-6551-46eb-aaff-4bc1b9ed0c0c/rssFileVip.mp3?timestamp=1689439407703",
+  "duration": 2361.44,
+  "segments": [
+    {
+      "id": "ep0047-s01",
+      "heading": "開場 / 贊助：Backbone 椎座工學",
+      "start": 0.02,
+      "end": 90.33,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0047-s02",
+      "heading": "音樂推薦：Arctic Monkeys",
+      "start": 90.38,
+      "end": 219.85,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0047-s03",
+      "heading": "電影推薦：馬丁史柯西斯 × 勞伯迪尼洛",
+      "start": 219.9,
+      "end": 333.35,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0047-s04",
+      "heading": "股市現況：疫情鈍化、美元走弱、電玩 Portfolio",
+      "start": 333.4,
+      "end": 487.51,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0047-s05",
+      "heading": "美股現況：電玩 Portfolio、雲端 ETF、Fastly",
+      "start": 487.56,
+      "end": 706.23,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0047-s06",
+      "heading": "錯過個股不可怕：建立交易記錄、信任自己的選擇",
+      "start": 706.28,
+      "end": 868.89,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0047-s07",
+      "heading": "主動選股 vs. 指數化投資",
+      "start": 868.94,
+      "end": 980.61,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0047-s08",
+      "heading": "Spotify 在 Podcast 市場的佈局",
+      "start": 980.66,
+      "end": 1549.51,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0047-s09",
+      "heading": "Q&A",
+      "start": 1549.56,
+      "end": 2361.44,
+      "confidence": 0.956
+    }
+  ]
+}

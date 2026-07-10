@@ -1,0 +1,72 @@
+{
+  "ep": 385,
+  "source": "auto-aligned from reports/mk/gooaye-ep0385.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0385.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2f2711c5-2e82-4847-9008-e6732582afd3/rssFileVip.mp3?timestamp=1695199430968",
+  "duration": 3007.9,
+  "segments": [
+    {
+      "id": "ep0385-s01",
+      "heading": "開場 / 贊助：犀牛盾",
+      "start": 0.0,
+      "end": 88.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0385-s02",
+      "heading": "命盤話題：馬斯克的命理分析",
+      "start": 89.04,
+      "end": 278.29,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0385-s03",
+      "heading": "命理圈與股票分析的相似性",
+      "start": 278.34,
+      "end": 408.35,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0385-s04",
+      "heading": "宿命論與自我決定",
+      "start": 408.4,
+      "end": 662.51,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0385-s05",
+      "heading": "市場話題：網通三雄漲幅的迷思",
+      "start": 662.56,
+      "end": 1311.43,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0385-s06",
+      "heading": "微軟 Copilot 與預期管理",
+      "start": 1311.48,
+      "end": 1528.73,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0385-s07",
+      "heading": "微軟收益與使用者預期",
+      "start": 1528.78,
+      "end": 1955.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0385-s08",
+      "heading": "Q&A 環節",
+      "start": 1955.32,
+      "end": 3005.16,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0385-s09",
+      "heading": "結語",
+      "start": 3005.21,
+      "end": 3007.9,
+      "confidence": 0.933
+    }
+  ]
+}

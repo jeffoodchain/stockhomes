@@ -1,0 +1,93 @@
+{
+  "ep": 513,
+  "source": "auto-aligned from reports/mk/gooaye-ep0513.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0513.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/397da922-b448-43ae-89c4-be6dadd3ec4d/rssFileVip.mp3?timestamp=1733900313461",
+  "duration": 3022.73,
+  "segments": [
+    {
+      "id": "ep0513-s01",
+      "heading": "開場 / 贊助：Travel Blue",
+      "start": 0.0,
+      "end": 62.15,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0513-s02",
+      "heading": "搭飛機的痛苦",
+      "start": 62.2,
+      "end": 160.95,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0513-s03",
+      "heading": "回到臺灣與工作道德",
+      "start": 161.0,
+      "end": 303.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0513-s04",
+      "heading": "圓夢：《GTA》與洛杉磯之旅",
+      "start": 303.5,
+      "end": 560.27,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0513-s05",
+      "heading": "OpenAI、SORA與AI影片生成",
+      "start": 560.32,
+      "end": 691.77,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0513-s06",
+      "heading": "Text-to-Video的供應鏈與儲存需求",
+      "start": 691.82,
+      "end": 792.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0513-s07",
+      "heading": "創作者與內容生態的變化",
+      "start": 792.54,
+      "end": 901.15,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0513-s08",
+      "heading": "儲存需求的爆炸",
+      "start": 901.2,
+      "end": 1169.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0513-s09",
+      "heading": "CDN與儲存技術的投資機會",
+      "start": 1169.22,
+      "end": 1443.19,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0513-s10",
+      "heading": "節目自我反思",
+      "start": 1443.24,
+      "end": 1478.49,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0513-s11",
+      "heading": "Q&A 環節",
+      "start": 1478.54,
+      "end": 2984.06,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0513-s12",
+      "heading": "結語",
+      "start": 2984.11,
+      "end": 3022.73,
+      "confidence": 0.962
+    }
+  ]
+}

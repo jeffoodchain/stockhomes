@@ -1,0 +1,65 @@
+{
+  "ep": 291,
+  "source": "auto-aligned from reports/mk/gooaye-ep0291.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0291.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c0937105-bada-4b71-93eb-1561e0134788/rssFileVip.mp3?timestamp=1689439390228",
+  "duration": 3108.94,
+  "segments": [
+    {
+      "id": "ep0291-s01",
+      "heading": "開場 / 贊助：Zenyum 綻雅隱形牙套",
+      "start": 0.0,
+      "end": 102.25,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0291-s02",
+      "heading": "開場閒聊：上集好評回響",
+      "start": 102.3,
+      "end": 206.85,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0291-s03",
+      "heading": "為人父母後的成長與同理心",
+      "start": 206.9,
+      "end": 463.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0291-s04",
+      "heading": "市場話題：台海局勢與資產規劃",
+      "start": 463.54,
+      "end": 723.07,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0291-s05",
+      "heading": "二十大後的政治分析",
+      "start": 723.12,
+      "end": 1037.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0291-s06",
+      "heading": "財產規劃與資產分散",
+      "start": 1037.78,
+      "end": 1467.75,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0291-s07",
+      "heading": "個人立場與因應心態",
+      "start": 1467.8,
+      "end": 1731.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0291-s08",
+      "heading": "Q&A",
+      "start": 1731.84,
+      "end": 3108.94,
+      "confidence": 0.622
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 139,
+  "source": "auto-aligned from reports/mk/gooaye-ep0139.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0139.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9d1863b2-c01e-4693-82a8-ab6264938aaa/rssFileVip.mp3?timestamp=1689439380559",
+  "duration": 2588.81,
+  "segments": [
+    {
+      "id": "ep0139-s01",
+      "heading": "開場 / 贊助：森歐黎漾 SAHOLEA",
+      "start": 0.0,
+      "end": 101.79,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0139-s02",
+      "heading": "開盤叮嚀：疫情與睡公園",
+      "start": 101.84,
+      "end": 138.79,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0139-s03",
+      "heading": "離職信的處理建議",
+      "start": 138.84,
+      "end": 173.49,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0139-s04",
+      "heading": "台股史上最大跌點：1417 點",
+      "start": 173.54,
+      "end": 286.27,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0139-s05",
+      "heading": "技術分析、下影線與融資斷頭",
+      "start": 286.32,
+      "end": 439.25,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0139-s06",
+      "heading": "國安基金不會這時進場",
+      "start": 439.3,
+      "end": 545.55,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0139-s07",
+      "heading": "融資斷頭潮風險",
+      "start": 545.6,
+      "end": 923.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0139-s08",
+      "heading": "價值陷阱：景氣迴圈股的 EPS 假象",
+      "start": 923.68,
+      "end": 1475.19,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0139-s09",
+      "heading": "Q&A",
+      "start": 1475.24,
+      "end": 2580.79,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0139-s10",
+      "heading": "結語",
+      "start": 2580.84,
+      "end": 2588.81,
+      "confidence": 0.725
+    }
+  ]
+}

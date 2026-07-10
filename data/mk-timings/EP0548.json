@@ -1,0 +1,72 @@
+{
+  "ep": 548,
+  "source": "auto-aligned from reports/mk/gooaye-ep0548.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0548.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/db25c021-8d4f-4c9a-8aab-0bc565c10517/rssFileVip.mp3?timestamp=1744448883970",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0548-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 72.41,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0548-s02",
+      "heading": "台股震撼教育週：籌碼大清洗",
+      "start": 72.46,
+      "end": 301.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0548-s03",
+      "heading": "美債違約謠言與川普政策分析",
+      "start": 301.88,
+      "end": 441.79,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0548-s04",
+      "heading": "Trust but Verify：別成為政治信仰的犧牲品",
+      "start": 441.84,
+      "end": 699.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0548-s05",
+      "heading": "月子中心與市場聚餐",
+      "start": 699.92,
+      "end": 828.67,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0548-s06",
+      "heading": "台廠轉單機會：兩套供應鏈格局",
+      "start": 828.72,
+      "end": 1147.91,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0548-s07",
+      "heading": "中美供應鏈分裂：COD 關稅與台廠機會",
+      "start": 1147.96,
+      "end": 1410.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0548-s08",
+      "heading": "布局策略：三波段選股思路",
+      "start": 1411.04,
+      "end": 1594.03,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0548-s09",
+      "heading": "Q&A",
+      "start": 1594.08,
+      "end": 2998.96,
+      "confidence": 0.667
+    }
+  ]
+}

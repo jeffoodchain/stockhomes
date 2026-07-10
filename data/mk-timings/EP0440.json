@@ -1,0 +1,100 @@
+{
+  "ep": 440,
+  "source": "auto-aligned from reports/mk/gooaye-ep0440.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0440.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/57e49cb5-7d5c-4daa-85c2-f70585d86fbd/rssFileVip.mp3?timestamp=1711791801578",
+  "duration": 2994.52,
+  "segments": [
+    {
+      "id": "ep0440-s01",
+      "heading": "開場 / 贊助：PlayStation 臺灣",
+      "start": 0.0,
+      "end": 74.41,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0440-s02",
+      "heading": "托斯卡尼 Easter 假期",
+      "start": 74.46,
+      "end": 185.75,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0440-s03",
+      "heading": "Saturnia 小鎮",
+      "start": 185.8,
+      "end": 279.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0440-s04",
+      "heading": "Villa Sesta 與岳父的故事",
+      "start": 279.18,
+      "end": 399.97,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0440-s05",
+      "heading": "岳父的前女友故事",
+      "start": 400.02,
+      "end": 485.29,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0440-s06",
+      "heading": "人生選擇與生活形態",
+      "start": 485.34,
+      "end": 621.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0440-s07",
+      "heading": "人生哲學與網路言論",
+      "start": 622.0,
+      "end": 724.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0440-s08",
+      "heading": "元大 ETF 與股市熱議",
+      "start": 724.86,
+      "end": 995.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0440-s09",
+      "heading": "股票投資策略與心態",
+      "start": 996.04,
+      "end": 1115.41,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0440-s10",
+      "heading": "5274 與 AI 伺服器產品線",
+      "start": 1115.46,
+      "end": 1259.89,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0440-s11",
+      "heading": "3661 與 Inferentia 3 傳聞",
+      "start": 1259.94,
+      "end": 1415.15,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0440-s12",
+      "heading": "Gaudi 4 與英特爾策略",
+      "start": 1415.2,
+      "end": 1610.15,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0440-s13",
+      "heading": "Q&A 部分",
+      "start": 1610.2,
+      "end": 2994.52,
+      "confidence": 0.644
+    }
+  ]
+}

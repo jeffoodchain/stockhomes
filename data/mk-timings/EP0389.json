@@ -1,0 +1,100 @@
+{
+  "ep": 389,
+  "source": "auto-aligned from reports/mk/gooaye-ep0389.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0389.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/be59b29d-0ec3-40bd-b9a4-61474660d29b/rssFileVip.mp3?timestamp=1696415705178",
+  "duration": 3071.79,
+  "segments": [
+    {
+      "id": "ep0389-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.57,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0389-s02",
+      "heading": "部隊生活與共同回憶",
+      "start": 58.62,
+      "end": 192.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0389-s03",
+      "heading": "當兵經歷與個性認知",
+      "start": 192.84,
+      "end": 431.49,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0389-s04",
+      "heading": "心理健康與自我認知",
+      "start": 431.54,
+      "end": 969.57,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0389-s05",
+      "heading": "市場話題：AI ODM 反彈與技術面",
+      "start": 969.62,
+      "end": 1078.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0389-s06",
+      "heading": "聯發科與達發上市",
+      "start": 1078.6,
+      "end": 1202.87,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0389-s07",
+      "heading": "聯發科與 NVIDIA 合作",
+      "start": 1202.92,
+      "end": 1271.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0389-s08",
+      "heading": "標普 500 七大科技股佔比問題",
+      "start": 1271.24,
+      "end": 1515.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0389-s09",
+      "heading": "股票佔比高估值問題",
+      "start": 1515.4,
+      "end": 1689.69,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0389-s10",
+      "heading": "投資的散發與收斂",
+      "start": 1689.74,
+      "end": 1775.57,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0389-s11",
+      "heading": "個人投資教訓",
+      "start": 1775.62,
+      "end": 1892.09,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0389-s12",
+      "heading": "未來行情展望與決策哲學",
+      "start": 1892.14,
+      "end": 2010.33,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0389-s13",
+      "heading": "Q&A 環節",
+      "start": 2010.38,
+      "end": 3071.79,
+      "confidence": 0.811
+    }
+  ]
+}

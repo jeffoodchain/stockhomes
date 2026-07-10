@@ -1,0 +1,65 @@
+{
+  "ep": 395,
+  "source": "auto-aligned from reports/mk/gooaye-ep0395.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0395.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9820f7a0-aa23-4e7f-ab8a-26555cb7b30f/rssFileVip.mp3?timestamp=1698222325770",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0395-s01",
+      "heading": "開場 / 贊助：ME30 永續配飾",
+      "start": 0.0,
+      "end": 113.53,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0395-s02",
+      "heading": "太閒的煩惱：臺海焦慮與末日求生備品",
+      "start": 113.58,
+      "end": 324.13,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0395-s03",
+      "heading": "求生備品心得：水、食物、電力",
+      "start": 324.18,
+      "end": 717.87,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0395-s04",
+      "heading": "市場話題：Bill Ackman 回補債券空單",
+      "start": 717.92,
+      "end": 873.05,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0395-s05",
+      "heading": "Pershing Square 報告分析",
+      "start": 873.1,
+      "end": 1080.09,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0395-s06",
+      "heading": "半導體供應鏈觀察：Foundry 與 IC Design",
+      "start": 1080.14,
+      "end": 1319.67,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0395-s07",
+      "heading": "供應鏈驗證：Celestica、緯穎、AI 巨頭",
+      "start": 1319.72,
+      "end": 1778.59,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0395-s08",
+      "heading": "Q&A",
+      "start": 1778.64,
+      "end": 2998.96,
+      "confidence": 0.967
+    }
+  ]
+}

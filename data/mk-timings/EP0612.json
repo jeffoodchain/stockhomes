@@ -1,0 +1,51 @@
+{
+  "ep": 612,
+  "source": "auto-aligned from reports/mk/gooaye-ep0612.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0612.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7f6b018c-6b64-4b85-8af6-134cc3ef621e/rssFileVip.mp3?timestamp=1763849126384",
+  "duration": 3082.19,
+  "segments": [
+    {
+      "id": "ep0612-s01",
+      "heading": "開場 / 贊助：喬致庸國際有限公司（電暖器）",
+      "start": 0.0,
+      "end": 70.77,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0612-s02",
+      "heading": "聊聊：聖誕節、生活與兩極化性格",
+      "start": 70.82,
+      "end": 361.35,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0612-s03",
+      "heading": "聊聊：創作失敗與終局論",
+      "start": 361.4,
+      "end": 617.79,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0612-s04",
+      "heading": "市場話題：NVIDIA 應收帳款與庫存疑慮、CTA 賣盤",
+      "start": 617.84,
+      "end": 889.23,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0612-s05",
+      "heading": "市場話題：iChef 被 91APP 收購爭議、臺股軟體股",
+      "start": 889.28,
+      "end": 1624.71,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0612-s06",
+      "heading": "Q&A",
+      "start": 1624.76,
+      "end": 3082.19,
+      "confidence": 0.767
+    }
+  ]
+}

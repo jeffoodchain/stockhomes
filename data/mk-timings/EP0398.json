@@ -1,0 +1,58 @@
+{
+  "ep": 398,
+  "source": "auto-aligned from reports/mk/gooaye-ep0398.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0398.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e43b241a-3195-44f5-b728-3143a5bacb60/rssFileVip.mp3?timestamp=1699086084630",
+  "duration": 3150.55,
+  "segments": [
+    {
+      "id": "ep0398-s01",
+      "heading": "開場 / 贊助：Bioniq® 貝歐尼修復牙膏",
+      "start": 0.0,
+      "end": 113.89,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0398-s02",
+      "heading": "凱莉首場 Stand Up 專場",
+      "start": 113.94,
+      "end": 269.25,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0398-s03",
+      "heading": "台灣政治生態與媒體爭議",
+      "start": 269.3,
+      "end": 810.15,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0398-s04",
+      "heading": "市場觀察：反彈性質與保守佈局",
+      "start": 810.2,
+      "end": 1105.71,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0398-s05",
+      "heading": "美股警訊、失業率、明年展望",
+      "start": 1105.76,
+      "end": 1300.89,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0398-s06",
+      "heading": "Edge Computing 下一個大題材",
+      "start": 1300.94,
+      "end": 1894.29,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0398-s07",
+      "heading": "QA",
+      "start": 1894.34,
+      "end": 3150.55,
+      "confidence": 0.822
+    }
+  ]
+}

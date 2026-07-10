@@ -1,0 +1,156 @@
+{
+  "ep": 617,
+  "source": "auto-aligned from reports/mk/gooaye-ep0617.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0617.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2b1265e8-a820-4d9c-920b-71d7732f5fee/rssFileVip.mp3?timestamp=1765403111576",
+  "duration": 3065.84,
+  "segments": [
+    {
+      "id": "ep0617-s01",
+      "heading": "開場 / 贊助：iHerb 黑色星期五",
+      "start": 0.0,
+      "end": 75.57,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0617-s02",
+      "heading": "抗噪耳機是現代人必備",
+      "start": 75.62,
+      "end": 367.49,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0617-s03",
+      "heading": "現代人的生活壓力 vs. 社群比較",
+      "start": 367.54,
+      "end": 637.48,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0617-s04",
+      "heading": "裝置股、EMIB 封裝與 HBM 的誤解",
+      "start": 637.53,
+      "end": 754.14,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0617-s05",
+      "heading": "NVIDIA 中介板用料：PTFE、台光電、聖宏",
+      "start": 754.19,
+      "end": 905.48,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0617-s06",
+      "heading": "COWOS、OSAT 與 Marvell 的 TPU 搶單傳聞",
+      "start": 905.53,
+      "end": 1107.9,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0617-s07",
+      "heading": "TPU 代數命名整理：V7 Ironwood、V8、V9、V10",
+      "start": 1107.95,
+      "end": 1272.56,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0617-s08",
+      "heading": "軟體股心得：Confluent 被 IBM 收購",
+      "start": 1272.61,
+      "end": 1459.76,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0617-s09",
+      "heading": "軟體股組合配置與時間差思考",
+      "start": 1459.81,
+      "end": 1644.72,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0617-s10",
+      "heading": "軟體股觀察指標：營益率改善",
+      "start": 1644.77,
+      "end": 1892.16,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0617-s11",
+      "heading": "Q&A：栗子大美女生日 & Uni 媽家庭",
+      "start": 1892.21,
+      "end": 2014.4,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0617-s12",
+      "heading": "Q&A：夫妻共同興趣與價值觀",
+      "start": 2014.45,
+      "end": 2157.18,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0617-s13",
+      "heading": "Q&A：新竹悲傷仔七年長跑分手",
+      "start": 2157.23,
+      "end": 2230.94,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0617-s14",
+      "heading": "Q&A：與父親不合、亞洲孝道框架",
+      "start": 2230.99,
+      "end": 2467.2,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0617-s15",
+      "heading": "Q&A：Maggie VB 結婚紀念日 & 甜言蜜語",
+      "start": 2467.25,
+      "end": 2516.52,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0617-s16",
+      "heading": "Q&A：直男巧虎信徒 & 肌肉猛男聲音",
+      "start": 2516.57,
+      "end": 2549.34,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0617-s17",
+      "heading": "Q&A：新竹高齡產婦 & 夫妻是隊友",
+      "start": 2549.39,
+      "end": 2699.28,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0617-s18",
+      "heading": "Q&A：被男友推坑 & 偷拍女生",
+      "start": 2699.33,
+      "end": 2844.68,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0617-s19",
+      "heading": "Q&A：客家話祝福 & 拉皮指揮官",
+      "start": 2844.73,
+      "end": 2903.72,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0617-s20",
+      "heading": "Q&A：詐騙受害 & 譴責詐騙",
+      "start": 2903.77,
+      "end": 2963.7,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0617-s21",
+      "heading": "Q&A：石馬特奇米 & 投資麻木的特質",
+      "start": 2963.75,
+      "end": 3065.84,
+      "confidence": 0.667
+    }
+  ]
+}

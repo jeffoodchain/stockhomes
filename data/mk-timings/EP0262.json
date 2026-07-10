@@ -1,0 +1,51 @@
+{
+  "ep": 262,
+  "source": "auto-aligned from reports/mk/gooaye-ep0262.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0262.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7249d761-03ad-490a-8851-ad78d52de7c3/rssFileVip.mp3?timestamp=1689439389252",
+  "duration": 3159.45,
+  "segments": [
+    {
+      "id": "ep0262-s01",
+      "heading": "開場 / 贊助：國泰證券",
+      "start": 0.0,
+      "end": 86.35,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0262-s02",
+      "heading": "回台隔離生活感想",
+      "start": 86.4,
+      "end": 399.27,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0262-s03",
+      "heading": "岳母的摩爾多瓦傳奇身世",
+      "start": 399.32,
+      "end": 748.91,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0262-s04",
+      "heading": "Bonitas Research 做空 Gogoro 分析",
+      "start": 748.96,
+      "end": 1203.57,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0262-s05",
+      "heading": "台積電財報與半導體庫存修正",
+      "start": 1203.62,
+      "end": 1843.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0262-s06",
+      "heading": "Q&A",
+      "start": 1843.9,
+      "end": 3159.45,
+      "confidence": 0.689
+    }
+  ]
+}

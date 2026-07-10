@@ -1,0 +1,58 @@
+{
+  "ep": 603,
+  "source": "auto-aligned from reports/mk/gooaye-ep0603.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0603.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2e90c411-12f7-4b73-80a1-8d00dd31ed46/rssFileVip.mp3?timestamp=1761170658601",
+  "duration": 3036.11,
+  "segments": [
+    {
+      "id": "ep0603-s01",
+      "heading": "開場 / 贊助：銀寶善存",
+      "start": 0.0,
+      "end": 60.75,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0603-s02",
+      "heading": "近況：颱風、植物、膽固醇針",
+      "start": 60.8,
+      "end": 242.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0603-s03",
+      "heading": "市場概況：盤面越來越難做",
+      "start": 242.38,
+      "end": 293.79,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0603-s04",
+      "heading": "被動元件：HVDC帶動高階MLCC需求",
+      "start": 293.84,
+      "end": 559.23,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0603-s05",
+      "heading": "Nexperia事件：離散元件轉單商機",
+      "start": 559.28,
+      "end": 1323.21,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0603-s06",
+      "heading": "PSMC：矽中介層良率突破",
+      "start": 1323.26,
+      "end": 1686.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0603-s07",
+      "heading": "Q&A",
+      "start": 1686.5,
+      "end": 3036.11,
+      "confidence": 0.7
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ep": 551,
+  "source": "auto-aligned from reports/mk/gooaye-ep0551.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0551.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/085d4b10-2f18-4b4f-b761-a089b2a9b397/rssFileVip.mp3?timestamp=1745391755243",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0551-s01",
+      "heading": "開場 / 贊助：Future Salad 全清高纖新沙拉飲",
+      "start": 0.0,
+      "end": 44.67,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0551-s02",
+      "heading": "錢包的超自然事件",
+      "start": 44.72,
+      "end": 255.47,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0551-s03",
+      "heading": "市場話題與關鍵討論",
+      "start": 255.52,
+      "end": 2997.3,
+      "confidence": 0.267
+    },
+    {
+      "id": "ep0551-s04",
+      "heading": "聽眾提問 (Q&A)",
+      "start": 2997.35,
+      "end": 2998.96,
+      "confidence": 0.194
+    }
+  ]
+}

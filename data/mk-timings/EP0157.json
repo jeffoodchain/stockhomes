@@ -1,0 +1,58 @@
+{
+  "ep": 157,
+  "source": "auto-aligned from reports/mk/gooaye-ep0157.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0157.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4c205387-8459-4b51-9ad6-fbfd79224d88/rssFileVip.mp3?timestamp=1689439406467",
+  "duration": 2541.24,
+  "segments": [
+    {
+      "id": "ep0157-s01",
+      "heading": "開場 / 贊助：理膚寶水",
+      "start": 0.0,
+      "end": 99.17,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0157-s02",
+      "heading": "美股：蘋果終於醒神，多頭市場加分",
+      "start": 99.22,
+      "end": 277.11,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0157-s03",
+      "heading": "策略心法：居高思危，回歸自己",
+      "start": 277.16,
+      "end": 459.73,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0157-s04",
+      "heading": "台股：櫃買歷史天量現隱憂",
+      "start": 459.78,
+      "end": 933.27,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0157-s05",
+      "heading": "Virgin Galactic 成功升空：太空旅行之父與截胡大戰",
+      "start": 933.32,
+      "end": 1237.43,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0157-s06",
+      "heading": "現金增資與高檔賣股的本質",
+      "start": 1237.48,
+      "end": 1545.99,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0157-s07",
+      "heading": "Q&A",
+      "start": 1546.04,
+      "end": 2541.24,
+      "confidence": 0.656
+    }
+  ]
+}

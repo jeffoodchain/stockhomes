@@ -1,0 +1,51 @@
+{
+  "ep": 349,
+  "source": "auto-aligned from reports/mk/gooaye-ep0349.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0349.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/372420d4-b66d-4ee2-b4db-d8548147a026/rssFileVip.mp3?timestamp=1689439381677",
+  "duration": 3104.47,
+  "segments": [
+    {
+      "id": "ep0349-s01",
+      "heading": "開場 / 贊助：簡單 JAN DAN",
+      "start": 0.0,
+      "end": 92.91,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0349-s02",
+      "heading": "聽眾回應：準媽媽免疫問題",
+      "start": 92.96,
+      "end": 179.86,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0349-s03",
+      "heading": "生活分享：結婚保障與育兒改變",
+      "start": 179.91,
+      "end": 614.64,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0349-s04",
+      "heading": "哲庫解散：OPPO 晶片公司倒閉分析",
+      "start": 614.69,
+      "end": 1021.74,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0349-s05",
+      "heading": "市場觀察：13F 報告與投資佈局",
+      "start": 1021.79,
+      "end": 1765.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0349-s06",
+      "heading": "Q&A",
+      "start": 1765.82,
+      "end": 3104.47,
+      "confidence": 0.711
+    }
+  ]
+}

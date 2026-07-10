@@ -1,0 +1,107 @@
+{
+  "ep": 465,
+  "source": "auto-aligned from reports/mk/gooaye-ep0465.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0465.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8d32f297-357c-493f-bbdb-2fcb5a7e8937/rssFileVip.mp3?timestamp=1719392398023",
+  "duration": 3016.8,
+  "segments": [
+    {
+      "id": "ep0465-s01",
+      "heading": "開場 / 贊助：紐西蘭 Skin Technology 瑞斌長效防蚊系列",
+      "start": 0.0,
+      "end": 46.45,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0465-s02",
+      "heading": "認識新股友，聊市場心態",
+      "start": 46.5,
+      "end": 100.35,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0465-s03",
+      "heading": "AI 帶動的行情與科技貧富差距",
+      "start": 100.4,
+      "end": 208.31,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0465-s04",
+      "heading": "與 A 先生的對談：樂觀與保守的視角",
+      "start": 208.36,
+      "end": 837.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0465-s05",
+      "heading": "ASUS VivoBook S 15 Copilot Plus PC 筆電體驗分享",
+      "start": 837.88,
+      "end": 987.77,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0465-s06",
+      "heading": "筆電第一印象：輕薄與 OLED 螢幕",
+      "start": 987.82,
+      "end": 1019.03,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0465-s07",
+      "heading": "日常應用體驗：網頁瀏覽、工作軟體、下單系統",
+      "start": 1019.08,
+      "end": 1091.71,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0465-s08",
+      "heading": "網頁瀏覽表現",
+      "start": 1091.76,
+      "end": 1143.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0465-s09",
+      "heading": "工作軟體相容性",
+      "start": 1143.12,
+      "end": 1195.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0465-s10",
+      "heading": "遊戲表現",
+      "start": 1195.86,
+      "end": 1338.85,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0465-s11",
+      "heading": "能耗與散熱表現",
+      "start": 1338.9,
+      "end": 1377.99,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0465-s12",
+      "heading": "AI 功能體驗",
+      "start": 1378.04,
+      "end": 1540.09,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0465-s13",
+      "heading": "AI PC 購買建議",
+      "start": 1540.14,
+      "end": 1717.09,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0465-s14",
+      "heading": "Q&A 時間",
+      "start": 1717.14,
+      "end": 3016.8,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 348,
+  "source": "auto-aligned from reports/mk/gooaye-ep0348.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0348.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/11b67e55-aa72-4a15-a2a4-af73266f8c55/rssFileVip.mp3?timestamp=1689439385150",
+  "duration": 2975.19,
+  "segments": [
+    {
+      "id": "ep0348-s01",
+      "heading": "開場 / 贊助：1000頂級超臨界魚油",
+      "start": 0.0,
+      "end": 63.57,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0348-s02",
+      "heading": "歐洲旅遊冷知識：現金、ATM 與換匯",
+      "start": 63.62,
+      "end": 386.87,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0348-s03",
+      "heading": "歐洲旅遊雷區：租車陷阱",
+      "start": 386.92,
+      "end": 575.67,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0348-s04",
+      "heading": "Google I/O 2023 發表會：AI 全線追擊微軟",
+      "start": 575.72,
+      "end": 1398.49,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0348-s05",
+      "heading": "Q&A",
+      "start": 1398.54,
+      "end": 2975.19,
+      "confidence": 0.711
+    }
+  ]
+}

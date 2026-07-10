@@ -1,0 +1,51 @@
+{
+  "ep": 330,
+  "source": "auto-aligned from reports/mk/gooaye-ep0330.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0330.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/246ee7ef-1c1b-4ad3-b0f2-f98784985645/rssFileVip.mp3?timestamp=1689439385694",
+  "duration": 3013.83,
+  "segments": [
+    {
+      "id": "ep0330-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 69.93,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0330-s02",
+      "heading": "韓國行後記",
+      "start": 69.98,
+      "end": 264.65,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0330-s03",
+      "heading": "孟恭出國詛咒與台股回檔",
+      "start": 264.7,
+      "end": 392.73,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0330-s04",
+      "heading": "矽谷銀行（SVB）倒閉事件解析",
+      "start": 392.78,
+      "end": 829.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0330-s05",
+      "heading": "SVB 影響台灣投資人：Charles Schwab 風險評估",
+      "start": 829.88,
+      "end": 1422.29,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0330-s06",
+      "heading": "Q&A",
+      "start": 1422.34,
+      "end": 3013.83,
+      "confidence": 0.644
+    }
+  ]
+}

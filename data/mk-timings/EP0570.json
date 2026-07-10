@@ -1,0 +1,58 @@
+{
+  "ep": 570,
+  "source": "auto-aligned from reports/mk/gooaye-ep0570.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0570.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c4de3c28-ee75-47d3-91fa-01dcd3b639b4/rssFileVip.mp3?timestamp=1751099046095",
+  "duration": 2957.35,
+  "segments": [
+    {
+      "id": "ep0570-s01",
+      "heading": "開場 / 贊助：AWS",
+      "start": 0.0,
+      "end": 185.41,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0570-s02",
+      "heading": "玩遊戲：Death Stranding 2 心得",
+      "start": 185.46,
+      "end": 323.51,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0570-s03",
+      "heading": "遊戲與娛樂的未來",
+      "start": 323.56,
+      "end": 562.83,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0570-s04",
+      "heading": "市場分析：六月結帳行情與七月觀察重點",
+      "start": 562.88,
+      "end": 959.83,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0570-s05",
+      "heading": "Tesla RoboTaxi Austin 上線一週評析",
+      "start": 959.88,
+      "end": 1380.39,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0570-s06",
+      "heading": "Tesla 車主實測心得：Model X Plaid",
+      "start": 1380.44,
+      "end": 1680.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0570-s07",
+      "heading": "Q&A",
+      "start": 1680.5,
+      "end": 2957.35,
+      "confidence": 0.711
+    }
+  ]
+}

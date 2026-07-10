@@ -1,0 +1,184 @@
+{
+  "ep": 629,
+  "source": "auto-aligned from reports/mk/gooaye-ep0629.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0629.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9fac46fa-8c5d-4573-9caf-4d48c8f92901/rssFileVip.mp3?timestamp=1769033977812",
+  "duration": 3003.43,
+  "segments": [
+    {
+      "id": "ep0629-s01",
+      "heading": "開場 / 贊助：桂格天地合補",
+      "start": 0.0,
+      "end": 103.01,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0629-s02",
+      "heading": "抵達羅馬：帶兩個小孩搭 15 小時飛機",
+      "start": 103.06,
+      "end": 257.73,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0629-s03",
+      "heading": "到了羅馬：滄海桑田、Sierry 已不是朋友",
+      "start": 257.78,
+      "end": 616.87,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0629-s04",
+      "heading": "SpaceX 上市題材與低軌衛星佈局",
+      "start": 616.92,
+      "end": 682.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0629-s05",
+      "heading": "馬斯克 vs. Ryanair：Starlink 該不該裝？",
+      "start": 682.2,
+      "end": 1269.17,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0629-s06",
+      "heading": "市場狀態：台股強勢、市場廣度開啟",
+      "start": 1269.22,
+      "end": 1755.93,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0629-s07",
+      "heading": "Q&A：被主管欺負調適心情",
+      "start": 1755.98,
+      "end": 1816.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0629-s08",
+      "heading": "Q&A：名字超長的測試",
+      "start": 1816.36,
+      "end": 1923.35,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0629-s09",
+      "heading": "Q&A：林口新移民 / 觀音斷保佑",
+      "start": 1923.4,
+      "end": 1986.47,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0629-s10",
+      "heading": "Q&A：25 歲行政文書、想去菲律賓學英文",
+      "start": 1986.52,
+      "end": 2272.43,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0629-s11",
+      "heading": "Q&A：男友生日、初戀分手",
+      "start": 2272.48,
+      "end": 2368.27,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0629-s12",
+      "heading": "Q&A：捏軟陣線、學校停課",
+      "start": 2368.32,
+      "end": 2408.39,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0629-s13",
+      "heading": "Q&A：證婚人簽名",
+      "start": 2408.44,
+      "end": 2476.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0629-s14",
+      "heading": "Q&A：考研備考焦慮、大方運動",
+      "start": 2476.8,
+      "end": 2621.97,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0629-s15",
+      "heading": "Q&A：傑哥不要、寄諾亞動物書",
+      "start": 2622.02,
+      "end": 2670.85,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0629-s16",
+      "heading": "Q&A：捏軟陣線、童裝廣告",
+      "start": 2670.9,
+      "end": 2733.55,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0629-s17",
+      "heading": "Q&A：肉燥飯炒糖色",
+      "start": 2733.6,
+      "end": 2756.37,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0629-s18",
+      "heading": "Q&A：Fargo 冰雪暴推薦",
+      "start": 2756.42,
+      "end": 2772.05,
+      "confidence": 0.709
+    },
+    {
+      "id": "ep0629-s19",
+      "heading": "Q&A：祝瑞玲生日快樂、順產",
+      "start": 2772.1,
+      "end": 2792.95,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0629-s20",
+      "heading": "Q&A：跑馬拉松 PB、醫師國考",
+      "start": 2793.0,
+      "end": 2816.63,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0629-s21",
+      "heading": "Q&A：苗栗備孕、買房願望",
+      "start": 2816.68,
+      "end": 2895.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0629-s22",
+      "heading": "Q&A：Oliver 生日快樂",
+      "start": 2896.02,
+      "end": 2906.91,
+      "confidence": 0.855
+    },
+    {
+      "id": "ep0629-s23",
+      "heading": "Q&A：超級巨鳥碰馬桶問題",
+      "start": 2906.96,
+      "end": 2946.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0629-s24",
+      "heading": "Q&A：女寶提前報到、尾牙中獎",
+      "start": 2946.94,
+      "end": 2972.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0629-s25",
+      "heading": "Q&A：蓉蓉生日快樂",
+      "start": 2972.38,
+      "end": 3003.43,
+      "confidence": 0.744
+    }
+  ]
+}

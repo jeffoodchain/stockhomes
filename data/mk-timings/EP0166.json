@@ -1,0 +1,86 @@
+{
+  "ep": 166,
+  "source": "auto-aligned from reports/mk/gooaye-ep0166.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0166.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fc5ccd35-c4e9-427a-a8b2-afe4e82ca90b/rssFileVip.mp3?timestamp=1689439402284",
+  "duration": 2863.73,
+  "segments": [
+    {
+      "id": "ep0166-s01",
+      "heading": "開場 / 贊助：養元堂",
+      "start": 0.0,
+      "end": 104.01,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0166-s02",
+      "heading": "臺股進入沉默迴圈",
+      "start": 104.06,
+      "end": 146.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0166-s03",
+      "heading": "動能交易的興衰與市場策略切換",
+      "start": 146.8,
+      "end": 262.03,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0166-s04",
+      "heading": "海龜交易法的起源",
+      "start": 262.08,
+      "end": 420.17,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0166-s05",
+      "heading": "MSCI 明晟指數是什麼",
+      "start": 420.22,
+      "end": 624.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0166-s06",
+      "heading": "吃 MSCI / 標普 500 豆腐：可行嗎？",
+      "start": 624.56,
+      "end": 726.95,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0166-s07",
+      "heading": "動能交易受挫後怎麼辦：休息或換策略",
+      "start": 727.0,
+      "end": 892.47,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0166-s08",
+      "heading": "策略的多空迴圈考驗",
+      "start": 892.52,
+      "end": 986.47,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0166-s09",
+      "heading": "價值投資與動能交易的切換",
+      "start": 986.52,
+      "end": 1523.85,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0166-s10",
+      "heading": "Q&A",
+      "start": 1523.9,
+      "end": 2860.01,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0166-s11",
+      "heading": "結尾",
+      "start": 2860.06,
+      "end": 2863.73,
+      "confidence": 0.955
+    }
+  ]
+}

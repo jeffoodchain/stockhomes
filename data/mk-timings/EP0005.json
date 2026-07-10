@@ -1,0 +1,65 @@
+{
+  "ep": 5,
+  "source": "auto-aligned from reports/mk/gooaye-ep0005.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0005.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b51686a0-ba60-4042-a35d-b107df46f8e9/rssFileVip.mp3?timestamp=1689439398899",
+  "duration": 1643.65,
+  "segments": [
+    {
+      "id": "ep0005-s01",
+      "heading": "開場：末日博士與市場情緒",
+      "start": 0.05,
+      "end": 82.36,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0005-s02",
+      "heading": "放空時機的陷阱",
+      "start": 82.41,
+      "end": 136.02,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0005-s03",
+      "heading": "聯準會緊急降息兩碼，美股不升反降",
+      "start": 136.07,
+      "end": 479.68,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0005-s04",
+      "heading": "今日外資動向",
+      "start": 479.73,
+      "end": 500.02,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0005-s05",
+      "heading": "鴻海法說會：武漢肺炎衝擊偏正向表態",
+      "start": 500.07,
+      "end": 905.69,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0005-s06",
+      "heading": "Ray Dalio：橋水基金創辦人的三層分析",
+      "start": 905.74,
+      "end": 1450.49,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0005-s07",
+      "heading": "總結與投資建議",
+      "start": 1450.54,
+      "end": 1629.03,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0005-s08",
+      "heading": "結尾",
+      "start": 1629.08,
+      "end": 1643.65,
+      "confidence": 0.917
+    }
+  ]
+}

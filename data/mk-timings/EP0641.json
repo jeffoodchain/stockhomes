@@ -1,0 +1,191 @@
+{
+  "ep": 641,
+  "source": "auto-aligned from reports/mk/gooaye-ep0641.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0641.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f6983297-4958-47c5-bc3c-990a9687ce2e/rssFileVip.mp3?timestamp=1772661643946",
+  "duration": 3082.19,
+  "segments": [
+    {
+      "id": "ep0641-s01",
+      "heading": "開場 / 廣告：ZZ Sleeper 負二度 C 涼感忘憂枕",
+      "start": 0.0,
+      "end": 89.05,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0641-s02",
+      "heading": "大盤現況：美股早就被罰、千點招待不算什麼",
+      "start": 89.1,
+      "end": 211.37,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0641-s03",
+      "heading": "肌肉記憶：問股票的人多了就是訊號",
+      "start": 211.42,
+      "end": 291.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0641-s04",
+      "heading": "校車聚會：少年董仔、雪中送炭與人品",
+      "start": 291.96,
+      "end": 517.91,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0641-s05",
+      "heading": "廢物感與雜訊：簡法生活、過濾雜訊",
+      "start": 517.96,
+      "end": 701.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0641-s06",
+      "heading": "Nakashi 點歌、報價股調整與春天電子",
+      "start": 701.5,
+      "end": 798.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0641-s07",
+      "heading": "市場看法：警戒盤勢與伊朗戰爭的不確定性",
+      "start": 798.6,
+      "end": 1148.27,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0641-s08",
+      "heading": "區間操作思維：前高難破、改抓區間",
+      "start": 1148.32,
+      "end": 1223.61,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0641-s09",
+      "heading": "光通主流論：美股光通 → 台股光通的補票",
+      "start": 1223.66,
+      "end": 1640.19,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0641-s10",
+      "heading": "報價漲價麻木症與基本面回河流圖",
+      "start": 1640.24,
+      "end": 1857.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0641-s11",
+      "heading": "Q&A：Zchan 千點招待 & 留言市場週期",
+      "start": 1858.02,
+      "end": 1932.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0641-s12",
+      "heading": "Q&A：徐滿喵喵喵汪汪 一直跌到",
+      "start": 1932.5,
+      "end": 1984.95,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0641-s13",
+      "heading": "Q&A：台灣巴菲特 處置股機制",
+      "start": 1985.0,
+      "end": 2016.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0641-s14",
+      "heading": "Q&A：Jackie Lee 和機器人啪啪啪",
+      "start": 2016.32,
+      "end": 2048.63,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0641-s15",
+      "heading": "Q&A：H2C 矯正社會態度",
+      "start": 2048.68,
+      "end": 2111.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0641-s16",
+      "heading": "Q&A：奇基跟矽通衛星股",
+      "start": 2111.58,
+      "end": 2240.21,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0641-s17",
+      "heading": "Q&A：席大灰階思考 & 川普祝生日",
+      "start": 2240.26,
+      "end": 2268.09,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0641-s18",
+      "heading": "Q&A：小霸王 MMA 金庸角色",
+      "start": 2268.14,
+      "end": 2327.37,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0641-s19",
+      "heading": "Q&A：Ali3338 繁星上大學受挫",
+      "start": 2327.42,
+      "end": 2370.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0641-s20",
+      "heading": "Q&A：G 寶可夢卡與遊戲王收藏",
+      "start": 2370.8,
+      "end": 2560.67,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0641-s21",
+      "heading": "Q&A：困寶 戰鬥陀螺",
+      "start": 2560.72,
+      "end": 2642.95,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0641-s22",
+      "heading": "Q&A：Nano Banana 眾神之島 & 魔法少女",
+      "start": 2643.0,
+      "end": 2703.49,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0641-s23",
+      "heading": "Q&A：張俊偉 苗栗女婿與花蓮回憶",
+      "start": 2703.54,
+      "end": 2816.81,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0641-s24",
+      "heading": "Q&A：NICO 半夜放鞭炮 & 燒金紙",
+      "start": 2816.86,
+      "end": 2920.57,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0641-s25",
+      "heading": "Q&A：Andy Chen 手機直連衛星",
+      "start": 2920.62,
+      "end": 2943.19,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0641-s26",
+      "heading": "Q&A：PJ 花蓮 & 元太、研華",
+      "start": 2943.24,
+      "end": 3082.19,
+      "confidence": 0.778
+    }
+  ]
+}

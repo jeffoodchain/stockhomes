@@ -1,0 +1,58 @@
+{
+  "ep": 272,
+  "source": "auto-aligned from reports/mk/gooaye-ep0272.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0272.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b4905100-5419-4068-9824-77fa5601aeba/rssFileVip.mp3?timestamp=1689439393016",
+  "duration": 2781.98,
+  "segments": [
+    {
+      "id": "ep0272-s01",
+      "heading": "開場 / 贊助：BFFECT",
+      "start": 0.0,
+      "end": 97.09,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0272-s02",
+      "heading": "聊聊：霞海城隍廟拜月老、安太歲",
+      "start": 97.14,
+      "end": 349.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0272-s03",
+      "heading": "迷因股：第二波之亂？HKD 炒股紀錄",
+      "start": 349.72,
+      "end": 628.93,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0272-s04",
+      "heading": "迷因股：Ryan Cohen 與 Chamath Palihapitiya 跳車",
+      "start": 628.98,
+      "end": 924.85,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0272-s05",
+      "heading": "碳化矽題材：Wolfspeed、ON Semi、環球晶",
+      "start": 924.9,
+      "end": 1294.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0272-s06",
+      "heading": "騰訊 Q2 成績：谷底訊號與廣告解讀",
+      "start": 1294.44,
+      "end": 1818.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0272-s07",
+      "heading": "Q&A",
+      "start": 1818.7,
+      "end": 2781.98,
+      "confidence": 0.6
+    }
+  ]
+}

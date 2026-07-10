@@ -1,0 +1,58 @@
+{
+  "ep": 22,
+  "source": "auto-aligned from reports/mk/gooaye-ep0022.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0022.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/837c0538-266c-4d6d-b8cd-bc6177e93bfd/rssFileVip.mp3?timestamp=1689439403981",
+  "duration": 1796.73,
+  "segments": [
+    {
+      "id": "ep0022-s01",
+      "heading": "開場 / 贊助：茄子青旅 Hostel Jiizu",
+      "start": 0.18,
+      "end": 33.61,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0022-s02",
+      "heading": "Instagram Follow感謝",
+      "start": 33.66,
+      "end": 59.79,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0022-s03",
+      "heading": "美國失業數字與如何看財報",
+      "start": 59.84,
+      "end": 284.96,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0022-s04",
+      "heading": "疫情：防疫標準應一致",
+      "start": 285.01,
+      "end": 621.17,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0022-s05",
+      "heading": "美國擁槍潮與亞裔仇恨犯罪",
+      "start": 621.22,
+      "end": 881.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0022-s06",
+      "heading": "瑞幸咖啡（Luckin Coffee）造假案",
+      "start": 881.72,
+      "end": 1604.13,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0022-s07",
+      "heading": "巴菲特出清航空股與跟牌迷思",
+      "start": 1604.18,
+      "end": 1796.73,
+      "confidence": 0.989
+    }
+  ]
+}

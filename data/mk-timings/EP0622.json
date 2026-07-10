@@ -1,0 +1,191 @@
+{
+  "ep": 622,
+  "source": "auto-aligned from reports/mk/gooaye-ep0622.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0622.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/522d30b4-28a0-4a0c-b9bd-66e3850c81a0/rssFileVip.mp3?timestamp=1766872667267",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0622-s01",
+      "heading": "開場 / 無名氏贊助：致 12 月 19 日事件義士",
+      "start": 0.0,
+      "end": 89.89,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0622-s02",
+      "heading": "老闆的真心：來自一位匿名 sponsor 的委託",
+      "start": 89.94,
+      "end": 367.85,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0622-s03",
+      "heading": "華碩自建 DRAM 廠？極低機率的傳言",
+      "start": 367.9,
+      "end": 543.89,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0622-s04",
+      "heading": "記憶體市況：續漲、逐月漲、全年漲",
+      "start": 543.94,
+      "end": 786.59,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0622-s05",
+      "heading": "NVIDIA 200 億美元收購 Groq：科技巨頭買的是人",
+      "start": 786.64,
+      "end": 961.01,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0622-s06",
+      "heading": "SRAM vs HBM、TPU vs GPGPU：黑白二分的迷思",
+      "start": 961.06,
+      "end": 1187.57,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0622-s07",
+      "heading": "市場派延伸：打破記憶體牆與 Wafer on Wafer",
+      "start": 1187.62,
+      "end": 1539.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0622-s08",
+      "heading": "Q&A：老聽眾道別 & 主動式全股 00981A",
+      "start": 1539.76,
+      "end": 1613.03,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0622-s09",
+      "heading": "Q&A：林口最靈驗 & 九位數淨資產",
+      "start": 1613.08,
+      "end": 1672.87,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0622-s10",
+      "heading": "Q&A：小資請客、巴菲特矯情之王",
+      "start": 1672.92,
+      "end": 1864.09,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0622-s11",
+      "heading": "Q&A：小天使會回來的、無痛自然產",
+      "start": 1864.14,
+      "end": 2033.0,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0622-s12",
+      "heading": "Q&A：許光漢的祝福 & 德國病毒",
+      "start": 2033.05,
+      "end": 2067.18,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0622-s13",
+      "heading": "Q&A：人生結尾要一覺不醒還是有道別時間",
+      "start": 2067.23,
+      "end": 2217.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0622-s14",
+      "heading": "Q&A：課金失敗的二男寶爸",
+      "start": 2217.72,
+      "end": 2261.99,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0622-s15",
+      "heading": "Q&A：小貓熊 Red Panda 正名",
+      "start": 2262.04,
+      "end": 2284.37,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0622-s16",
+      "heading": "Q&A：芳怡的媽媽化療加油 & 為母心願生小孩",
+      "start": 2284.42,
+      "end": 2392.26,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0622-s17",
+      "heading": "Q&A：夫人看照片、小朋友撞東西的迷之反應",
+      "start": 2392.31,
+      "end": 2464.74,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0622-s18",
+      "heading": "Q&A：臺灣電動車有搞頭嗎？",
+      "start": 2464.79,
+      "end": 2487.67,
+      "confidence": 0.5
+    },
+    {
+      "id": "ep0622-s19",
+      "heading": "Q&A：賴皮的聲音 & 日文語音",
+      "start": 2487.72,
+      "end": 2533.63,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0622-s20",
+      "heading": "Q&A：45 歲未婚工具人朋友",
+      "start": 2533.68,
+      "end": 2593.47,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0622-s21",
+      "heading": "Q&A：書花業配 & 柏林計程車警告",
+      "start": 2593.52,
+      "end": 2649.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0622-s22",
+      "heading": "Q&A：Trump 的 incredible man、旅平險、腰痛",
+      "start": 2649.18,
+      "end": 2697.44,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0622-s23",
+      "heading": "Q&A：王宥鈞 & 思念小天使",
+      "start": 2697.49,
+      "end": 2738.86,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0622-s24",
+      "heading": "Q&A：劉阿寬生日快樂",
+      "start": 2738.91,
+      "end": 2759.22,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0622-s25",
+      "heading": "Q&A：愛上孟公的 Radiohead & 主管刁難",
+      "start": 2759.27,
+      "end": 2895.97,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0622-s26",
+      "heading": "Q&A：RFID 與 Impinj 看法",
+      "start": 2896.02,
+      "end": 2994.49,
+      "confidence": 0.711
+    }
+  ]
+}

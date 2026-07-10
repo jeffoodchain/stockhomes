@@ -1,0 +1,65 @@
+{
+  "ep": 299,
+  "source": "auto-aligned from reports/mk/gooaye-ep0299.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0299.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d5f4ffd5-62c8-4669-8f22-88294bf909fa/rssFileVip.mp3?timestamp=1689439406831",
+  "duration": 2969.23,
+  "segments": [
+    {
+      "id": "ep0299-s01",
+      "heading": "開場 / 贊助：ALUXE亞立詩",
+      "start": 0.0,
+      "end": 122.53,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0299-s02",
+      "heading": "日本行：迪士尼體驗",
+      "start": 122.58,
+      "end": 327.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0299-s03",
+      "heading": "日本考察：Impinj RFID零售應用",
+      "start": 327.6,
+      "end": 457.33,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0299-s04",
+      "heading": "帶小孩出國？",
+      "start": 457.38,
+      "end": 551.29,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0299-s05",
+      "heading": "台股：族群輪動、生技與金融",
+      "start": 551.34,
+      "end": 791.55,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0299-s06",
+      "heading": "半導體更新：板卡、PCNB、面板、車用",
+      "start": 791.6,
+      "end": 1051.41,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0299-s07",
+      "heading": "大盤展望與個人槓桿操作",
+      "start": 1051.46,
+      "end": 1589.15,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0299-s08",
+      "heading": "Q&A",
+      "start": 1589.2,
+      "end": 2969.23,
+      "confidence": 0.778
+    }
+  ]
+}

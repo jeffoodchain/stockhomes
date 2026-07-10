@@ -1,0 +1,65 @@
+{
+  "ep": 436,
+  "source": "auto-aligned from reports/mk/gooaye-ep0436.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0436.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8abbcc53-fb7c-48a4-9c5a-11da7b71af48/rssFileVip.mp3?timestamp=1710584746646",
+  "duration": 3140.15,
+  "segments": [
+    {
+      "id": "ep0436-s01",
+      "heading": "開場 / NordVPN 贊助",
+      "start": 0.0,
+      "end": 57.39,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0436-s02",
+      "heading": "歐洲出差與家庭感悟",
+      "start": 57.44,
+      "end": 582.41,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0436-s03",
+      "heading": "市場話題：盤整與槓桿風險",
+      "start": 582.46,
+      "end": 664.73,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0436-s04",
+      "heading": "GB200 與 ASIC 市場策略",
+      "start": 664.78,
+      "end": 800.17,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0436-s05",
+      "heading": "PCB / CCL 載板供應鏈競爭",
+      "start": 800.22,
+      "end": 933.09,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0436-s06",
+      "heading": "Figure AI 機器人與新創評估",
+      "start": 933.14,
+      "end": 1272.33,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0436-s07",
+      "heading": "新媒體與意見領袖的影響力",
+      "start": 1272.38,
+      "end": 1495.65,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0436-s08",
+      "heading": "Q&A 部分",
+      "start": 1495.7,
+      "end": 3140.15,
+      "confidence": 0.711
+    }
+  ]
+}

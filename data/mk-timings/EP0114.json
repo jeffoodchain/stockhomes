@@ -1,0 +1,58 @@
+{
+  "ep": 114,
+  "source": "auto-aligned from reports/mk/gooaye-ep0114.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0114.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e21ac339-f52a-4267-b1a6-b222d2ae4f2f/rssFileVip.mp3?timestamp=1689439397380",
+  "duration": 2383.73,
+  "segments": [
+    {
+      "id": "ep0114-s01",
+      "heading": "開場 / 贊助：羅技 Logitech",
+      "start": 0.0,
+      "end": 119.49,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0114-s02",
+      "heading": "新年聊聊：刮刮樂體驗",
+      "start": 119.54,
+      "end": 420.75,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0114-s03",
+      "heading": "文藝復興科技（Renaissance Technologies）贖回事件",
+      "start": 420.8,
+      "end": 584.99,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0114-s04",
+      "heading": "Medallion Fund 的神秘與費用結構",
+      "start": 585.04,
+      "end": 722.49,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0114-s05",
+      "heading": "GME 事件與 Renaissance 的可能性",
+      "start": 722.54,
+      "end": 830.73,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0114-s06",
+      "heading": "量化交易的本質",
+      "start": 830.78,
+      "end": 1600.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0114-s07",
+      "heading": "Q&A",
+      "start": 1600.92,
+      "end": 2383.73,
+      "confidence": 0.644
+    }
+  ]
+}

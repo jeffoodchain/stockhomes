@@ -1,0 +1,65 @@
+{
+  "ep": 88,
+  "source": "auto-aligned from reports/mk/gooaye-ep0088.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0088.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2a580f17-736b-41c1-972d-852cd4aa2eec/rssFileVip.mp3?timestamp=1689439391302",
+  "duration": 2562.06,
+  "segments": [
+    {
+      "id": "ep0088-s01",
+      "heading": "開場 / 贊助：BFFECT 好肌膚精華研究室",
+      "start": 0.02,
+      "end": 150.57,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0088-s02",
+      "heading": "開場閒聊：gooaye.com 網站與 Eric 財報整理",
+      "start": 150.62,
+      "end": 321.63,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0088-s03",
+      "heading": "臺股中概股：復甦行情與轉單族群",
+      "start": 321.68,
+      "end": 557.05,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0088-s04",
+      "heading": "零售股觀察：Walmart 估值重評",
+      "start": 557.1,
+      "end": 696.71,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0088-s05",
+      "heading": "中概股分析：中國電動車三雄",
+      "start": 696.76,
+      "end": 1143.51,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0088-s06",
+      "heading": "投資中國的風險：人治、黨治與螞蟻金服事件",
+      "start": 1143.56,
+      "end": 1387.21,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0088-s07",
+      "heading": "如何投資中國：五檔中國ETF推薦",
+      "start": 1387.26,
+      "end": 1613.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0088-s08",
+      "heading": "Q&A",
+      "start": 1613.7,
+      "end": 2562.06,
+      "confidence": 0.767
+    }
+  ]
+}

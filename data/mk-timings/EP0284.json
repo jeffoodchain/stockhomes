@@ -1,0 +1,65 @@
+{
+  "ep": 284,
+  "source": "auto-aligned from reports/mk/gooaye-ep0284.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0284.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bfadef44-4e8d-466d-8c8c-1753820c1bf1/rssFileVip.mp3?timestamp=1689439396549",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0284-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 57.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0284-s02",
+      "heading": "市場開場：殺人誅心的熊市行情",
+      "start": 57.36,
+      "end": 202.39,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0284-s03",
+      "heading": "市場心得：Cyberpunk 股票回憶、財富重分配時機",
+      "start": 202.44,
+      "end": 363.43,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0284-s04",
+      "heading": "市場展望：美股技術面與多空操作",
+      "start": 363.48,
+      "end": 543.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0284-s05",
+      "heading": "Tesla AI Day 2022：Optimus 機器人",
+      "start": 543.62,
+      "end": 701.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0284-s06",
+      "heading": "AI 對人類文明的衝擊",
+      "start": 702.0,
+      "end": 1081.97,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0284-s07",
+      "heading": "記憶體產業：鎧俠減產 + 美光砍資本支出，落底提前",
+      "start": 1082.02,
+      "end": 1430.71,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0284-s08",
+      "heading": "Q&A",
+      "start": 1430.76,
+      "end": 2995.98,
+      "confidence": 0.633
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 326,
+  "source": "auto-aligned from reports/mk/gooaye-ep0326.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0326.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c1fe5c4c-b912-4615-802f-f1e2cc3f137a/rssFileVip.mp3?timestamp=1689439390582",
+  "duration": 3251.59,
+  "segments": [
+    {
+      "id": "ep0326-s01",
+      "heading": "開場 / 贊助：ikiiki 伊崎美派玻璃氣炸鍋",
+      "start": 0.0,
+      "end": 103.65,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0326-s02",
+      "heading": "馬來西亞蘭卡威旅遊記",
+      "start": 103.7,
+      "end": 589.79,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0326-s03",
+      "heading": "出國期間股市崩盤與反指標玩笑",
+      "start": 589.84,
+      "end": 681.23,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0326-s04",
+      "heading": "市場觀察：通膨與債券機會",
+      "start": 681.28,
+      "end": 713.03,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0326-s05",
+      "heading": "上集補充：iPhone Type-C 消息更新",
+      "start": 713.08,
+      "end": 844.55,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0326-s06",
+      "heading": "AI與輝達：財報分析、訓練vs推論",
+      "start": 844.6,
+      "end": 1587.24,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0326-s07",
+      "heading": "補充：輝達財報品質說明",
+      "start": 1587.29,
+      "end": 1636.7,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0326-s08",
+      "heading": "Q&A",
+      "start": 1636.75,
+      "end": 3251.59,
+      "confidence": 0.856
+    }
+  ]
+}

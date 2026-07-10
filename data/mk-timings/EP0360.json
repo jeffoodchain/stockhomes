@@ -1,0 +1,51 @@
+{
+  "ep": 360,
+  "source": "auto-aligned from reports/mk/gooaye-ep0360.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0360.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7a59d3c3-d2d6-4e3c-8b8a-027328b59393/rssFileVip.mp3?timestamp=1689439400553",
+  "duration": 3039.09,
+  "segments": [
+    {
+      "id": "ep0360-s01",
+      "heading": "開場 / 贊助：飛利浦潔地武士洗地機",
+      "start": 0.0,
+      "end": 106.69,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0360-s02",
+      "heading": "快樂時光與減肥心得",
+      "start": 106.74,
+      "end": 352.89,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0360-s03",
+      "heading": "泰坦號潛水艇的悲劇與自信陷阱",
+      "start": 352.94,
+      "end": 796.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0360-s04",
+      "heading": "市場行情分析",
+      "start": 796.7,
+      "end": 1367.0,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0360-s05",
+      "heading": "Intel IFS獨立戰略",
+      "start": 1367.05,
+      "end": 1659.26,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0360-s06",
+      "heading": "Q&A",
+      "start": 1659.31,
+      "end": 3039.09,
+      "confidence": 0.767
+    }
+  ]
+}

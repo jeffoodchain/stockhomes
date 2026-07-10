@@ -1,0 +1,86 @@
+{
+  "ep": 378,
+  "source": "auto-aligned from reports/mk/gooaye-ep0378.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0378.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b44a8950-804f-4caf-8947-27fd76c7fed2/rssFileVip.mp3?timestamp=1693044521885",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0378-s01",
+      "heading": "開場 / 贊助：大甲鎮瀾宮聯名旺財系列",
+      "start": 0.0,
+      "end": 59.39,
+      "confidence": 0.289
+    },
+    {
+      "id": "ep0378-s02",
+      "heading": "度假心得：溫泉與人生感悟",
+      "start": 59.44,
+      "end": 347.71,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0378-s03",
+      "heading": "NVIDIA 財報與市場心理",
+      "start": 347.76,
+      "end": 600.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0378-s04",
+      "heading": "投資心態：舒適度與風險承受力",
+      "start": 600.98,
+      "end": 847.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0378-s05",
+      "heading": "創業心得：模仿與創新的平衡",
+      "start": 847.56,
+      "end": 892.75,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0378-s06",
+      "heading": "NVIDIA 第二季財報深度分析",
+      "start": 892.8,
+      "end": 982.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0378-s07",
+      "heading": "市場預期與估值提升",
+      "start": 982.48,
+      "end": 1129.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0378-s08",
+      "heading": "NVIDIA 的三次 Hype Cycle",
+      "start": 1129.34,
+      "end": 1383.53,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0378-s09",
+      "heading": "供應鏈結構與毛利分析",
+      "start": 1383.58,
+      "end": 1536.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0378-s10",
+      "heading": "供應鏈投資策略",
+      "start": 1536.4,
+      "end": 1819.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0378-s11",
+      "heading": "Q&A 環節",
+      "start": 1819.88,
+      "end": 3000.45,
+      "confidence": 0.711
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 489,
+  "source": "auto-aligned from reports/mk/gooaye-ep0489.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0489.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5fa1df39-201a-4831-9f12-f7d74e34410d/rssFileVip.mp3?timestamp=1727056480630",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0489-s01",
+      "heading": "開場 / 贊助：森歐黎漾",
+      "start": 3.76,
+      "end": 117.39,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0489-s02",
+      "heading": "蒙特利爾之行與餐廳推薦",
+      "start": 117.44,
+      "end": 198.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0489-s03",
+      "heading": "演唱會定價與供需邏輯",
+      "start": 198.54,
+      "end": 567.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0489-s04",
+      "heading": "黎巴嫩尋呼機爆炸事件",
+      "start": 567.18,
+      "end": 831.17,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0489-s05",
+      "heading": "iPhone 銷量與郭明奇的爆料",
+      "start": 831.22,
+      "end": 1181.63,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0489-s06",
+      "heading": "市場回檔與聯準會預期",
+      "start": 1181.68,
+      "end": 1355.91,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0489-s07",
+      "heading": "遊戲機與PS5 Pro",
+      "start": 1355.96,
+      "end": 1518.29,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0489-s08",
+      "heading": "資金流向與下一波主流",
+      "start": 1518.34,
+      "end": 1610.13,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0489-s09",
+      "heading": "降息影響與資產價格",
+      "start": 1610.18,
+      "end": 1712.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0489-s10",
+      "heading": "Q&A — 聽眾提問",
+      "start": 1712.7,
+      "end": 2997.47,
+      "confidence": 0.744
+    }
+  ]
+}

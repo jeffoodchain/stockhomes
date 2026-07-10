@@ -1,0 +1,51 @@
+{
+  "ep": 29,
+  "source": "auto-aligned from reports/mk/gooaye-ep0029.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0029.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0c74ab92-ce80-4886-9be3-cba674425bf0/rssFileVip.mp3?timestamp=1689439380169",
+  "duration": 2092.41,
+  "segments": [
+    {
+      "id": "ep0029-s01",
+      "heading": "開場：本集無贊助",
+      "start": 0.02,
+      "end": 121.18,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0029-s02",
+      "heading": "原油：WTI 史上首次跌負值",
+      "start": 121.23,
+      "end": 335.7,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0029-s03",
+      "heading": "原油期貨為何跌負：實物交割機制",
+      "start": 335.75,
+      "end": 966.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0029-s04",
+      "heading": "Final Fantasy VII Remake 與題材炒股",
+      "start": 966.7,
+      "end": 1069.45,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0029-s05",
+      "heading": "Q&A",
+      "start": 1069.5,
+      "end": 1945.35,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0029-s06",
+      "heading": "台灣工會",
+      "start": 1945.4,
+      "end": 2092.41,
+      "confidence": 0.722
+    }
+  ]
+}

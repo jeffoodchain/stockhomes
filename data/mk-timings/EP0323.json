@@ -1,0 +1,58 @@
+{
+  "ep": 323,
+  "source": "auto-aligned from reports/mk/gooaye-ep0323.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0323.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/07cab952-510f-4055-a986-c2d84768bc7a/rssFileVip.mp3?timestamp=1689439405848",
+  "duration": 3085.17,
+  "segments": [
+    {
+      "id": "ep0323-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 66.35,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0323-s02",
+      "heading": "情人節沒準備、婚姻食用手冊",
+      "start": 66.4,
+      "end": 338.35,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0323-s03",
+      "heading": "霍格華茲的傳承 與 取消文化（SJW / Cancel Culture）",
+      "start": 338.4,
+      "end": 760.23,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0323-s04",
+      "heading": "市場話題：巴菲特出清台積電",
+      "start": 760.28,
+      "end": 907.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0323-s05",
+      "heading": "產業更新：台積電稼動率、特斯拉HW、聯發科、台達電、啟碁",
+      "start": 907.5,
+      "end": 1168.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0323-s06",
+      "heading": "Michael Burry 13F 與市場現況",
+      "start": 1168.44,
+      "end": 1557.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0323-s07",
+      "heading": "Q&A",
+      "start": 1557.3,
+      "end": 3085.17,
+      "confidence": 0.7
+    }
+  ]
+}

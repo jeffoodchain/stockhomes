@@ -1,0 +1,58 @@
+{
+  "ep": 269,
+  "source": "auto-aligned from reports/mk/gooaye-ep0269.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0269.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c2f96f13-6cb8-4eb6-831b-80a72c5442ff/rssFileVip.mp3?timestamp=1689439398396",
+  "duration": 3024.21,
+  "segments": [
+    {
+      "id": "ep0269-s01",
+      "heading": "開場 / 贊助：水果豬高級進口水果店",
+      "start": 0.0,
+      "end": 81.81,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0269-s02",
+      "heading": "閒聊：八八節、兒子學走路",
+      "start": 81.86,
+      "end": 184.47,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0269-s03",
+      "heading": "閒聊：岳母來台、帶去湯姆熊和 SEGA",
+      "start": 184.52,
+      "end": 339.55,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0269-s04",
+      "heading": "閒聊：帶岳母拜長春路四面佛",
+      "start": 339.6,
+      "end": 680.93,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0269-s05",
+      "heading": "市場話題：台股網通、IPC、PCB 隱憂",
+      "start": 680.98,
+      "end": 1194.25,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0269-s06",
+      "heading": "市場話題：美光風向標 & 輝達財報 Preview",
+      "start": 1194.3,
+      "end": 1611.13,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0269-s07",
+      "heading": "Q&A",
+      "start": 1611.18,
+      "end": 3024.21,
+      "confidence": 0.656
+    }
+  ]
+}

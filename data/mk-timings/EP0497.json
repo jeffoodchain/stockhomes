@@ -1,0 +1,51 @@
+{
+  "ep": 497,
+  "source": "auto-aligned from reports/mk/gooaye-ep0497.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0497.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/805e3a51-ff7c-42a8-b21c-fef68ef864b3/rssFileVip.mp3?timestamp=1729245134474",
+  "duration": 3053.95,
+  "segments": [
+    {
+      "id": "ep0497-s01",
+      "heading": "開場 / 贊助：ZZ Sleeper 忘憂枕",
+      "start": 0.0,
+      "end": 77.81,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0497-s02",
+      "heading": "成長與心態的變化",
+      "start": 77.86,
+      "end": 584.75,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0497-s03",
+      "heading": "艾斯摩爾及半導體市場展望",
+      "start": 584.8,
+      "end": 1165.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0497-s04",
+      "heading": "AI 伺服器散熱方案的新趨勢",
+      "start": 1165.36,
+      "end": 1486.71,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0497-s05",
+      "heading": "持股與投資看法",
+      "start": 1486.76,
+      "end": 1563.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0497-s06",
+      "heading": "Q&A 環節",
+      "start": 1563.26,
+      "end": 3053.95,
+      "confidence": 0.689
+    }
+  ]
+}

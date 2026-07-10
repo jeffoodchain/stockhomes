@@ -1,0 +1,44 @@
+{
+  "ep": 98,
+  "source": "auto-aligned from reports/mk/gooaye-ep0098.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0098.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/88912660-aa0d-40e9-b40e-23ad478658f5/rssFileVip.mp3?timestamp=1689439402634",
+  "duration": 2438.71,
+  "segments": [
+    {
+      "id": "ep0098-s01",
+      "heading": "開場 / 贊助：Alto",
+      "start": 0.14,
+      "end": 107.73,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0098-s02",
+      "heading": "義大利文小教室",
+      "start": 107.78,
+      "end": 344.61,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0098-s03",
+      "heading": "金金併：富邦金併購日盛金",
+      "start": 344.66,
+      "end": 888.25,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0098-s04",
+      "heading": "遊戲類股：ATVI、TTWO 創高，波蘭蠢驢 CD PROJEKT RED 崩盤",
+      "start": 888.3,
+      "end": 1775.27,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0098-s05",
+      "heading": "QA：海外聽眾來信",
+      "start": 1775.32,
+      "end": 2438.71,
+      "confidence": 0.9
+    }
+  ]
+}

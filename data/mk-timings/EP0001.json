@@ -1,0 +1,72 @@
+{
+  "ep": 1,
+  "source": "auto-aligned from reports/mk/gooaye-ep0001.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0001.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f013eaf1-af60-48f2-9976-9ec7b5583e88/rssFileVip.mp3?timestamp=1689439394160",
+  "duration": 1422.24,
+  "segments": [
+    {
+      "id": "ep0001-s01",
+      "heading": "開場",
+      "start": 0.14,
+      "end": 25.65,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0001-s02",
+      "heading": "歐洲親歷：反亞洲氛圍與西班牙就醫",
+      "start": 25.7,
+      "end": 224.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0001-s03",
+      "heading": "回台經過：申報與通關",
+      "start": 224.06,
+      "end": 355.5,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0001-s04",
+      "heading": "義大利疫情擴散原因分析",
+      "start": 355.55,
+      "end": 431.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0001-s05",
+      "heading": "這波崩盤：申根區的蔓延邏輯",
+      "start": 431.12,
+      "end": 500.07,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0001-s06",
+      "heading": "美股走勢與下影線解析",
+      "start": 500.12,
+      "end": 603.49,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0001-s07",
+      "heading": "台股狀況：ETF贖回、外資動向與匯率觀察",
+      "start": 603.54,
+      "end": 747.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0001-s08",
+      "heading": "武漢疫情的後續影響：消費緊縮與台商風險",
+      "start": 747.66,
+      "end": 1216.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0001-s09",
+      "heading": "操作建議：見機行事、不借錢",
+      "start": 1216.78,
+      "end": 1422.24,
+      "confidence": 0.722
+    }
+  ]
+}

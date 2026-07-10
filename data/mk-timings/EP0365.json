@@ -1,0 +1,72 @@
+{
+  "ep": 365,
+  "source": "auto-aligned from reports/mk/gooaye-ep0365.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0365.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0de58718-f3e0-4f10-81da-fcb55223e391/rssFileVip.mp3?timestamp=1689942684315",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0365-s01",
+      "heading": "開場 / 贊助：善存益生菌",
+      "start": 0.0,
+      "end": 50.97,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0365-s02",
+      "heading": "首爾見聞：CP 值與體驗",
+      "start": 51.02,
+      "end": 465.12,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0365-s03",
+      "heading": "白飯事件雜談",
+      "start": 465.17,
+      "end": 621.68,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0365-s04",
+      "heading": "市場話題：消費性 vs AI",
+      "start": 621.73,
+      "end": 757.46,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0365-s05",
+      "heading": "AI 訂單與供應鏈",
+      "start": 757.51,
+      "end": 955.5,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0365-s06",
+      "heading": "中東 AI 與 Omniva",
+      "start": 955.55,
+      "end": 1049.4,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0365-s07",
+      "heading": "Overbooking 風險評估",
+      "start": 1049.45,
+      "end": 1262.27,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0365-s08",
+      "heading": "反思與投資哲學",
+      "start": 1262.32,
+      "end": 1575.09,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0365-s09",
+      "heading": "QA 環節",
+      "start": 1575.14,
+      "end": 3000.45,
+      "confidence": 0.633
+    }
+  ]
+}

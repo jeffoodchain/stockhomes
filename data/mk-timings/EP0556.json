@@ -1,0 +1,58 @@
+{
+  "ep": 556,
+  "source": "auto-aligned from reports/mk/gooaye-ep0556.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0556.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e2f14a16-7d54-4165-bb8d-830a1d7d0d68/rssFileVip.mp3?timestamp=1746867803090",
+  "duration": 2975.19,
+  "segments": [
+    {
+      "id": "ep0556-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 79.05,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0556-s02",
+      "heading": "Computex 前夕預告",
+      "start": 79.1,
+      "end": 253.63,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0556-s03",
+      "heading": "A君 基本面教學",
+      "start": 253.68,
+      "end": 574.45,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0556-s04",
+      "heading": "AI 聽證會：Ted Cruz 主持",
+      "start": 574.5,
+      "end": 754.35,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0556-s05",
+      "heading": "David Sacks 降管制立場 / 拜登 AI 禁令分析",
+      "start": 754.4,
+      "end": 1096.19,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0556-s06",
+      "heading": "市場展望：多空觀點 / 關稅分析",
+      "start": 1096.24,
+      "end": 1506.01,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0556-s07",
+      "heading": "Q&A",
+      "start": 1506.06,
+      "end": 2975.19,
+      "confidence": 0.689
+    }
+  ]
+}

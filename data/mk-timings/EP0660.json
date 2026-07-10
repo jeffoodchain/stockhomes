@@ -1,0 +1,128 @@
+{
+  "ep": 660,
+  "source": "auto-aligned from reports/mk/gooaye-ep0660.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0660.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d55ccb00-f3dd-4dd0-9e7f-e108f6645494/rssFileVip.mp3?timestamp=1778366242458",
+  "duration": 3091.1,
+  "segments": [
+    {
+      "id": "ep0660-s01",
+      "heading": "開場 / 贊助：zZSLEEPER 涼感忘憂枕",
+      "start": 0.0,
+      "end": 80.61,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0660-s02",
+      "heading": "市場概覽：台股 42,000 點的瘋狂多頭",
+      "start": 80.66,
+      "end": 645.77,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0660-s03",
+      "heading": "市場話題：NVIDIA 散熱材料傳言",
+      "start": 645.82,
+      "end": 909.71,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0660-s04",
+      "heading": "消費性復甦？成熟製程、車用輪動觀察",
+      "start": 909.76,
+      "end": 1272.77,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0660-s05",
+      "heading": "資金面觀察：融資額度被收緊",
+      "start": 1272.82,
+      "end": 1411.75,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0660-s06",
+      "heading": "處置股機制討論：大型股流動性問題",
+      "start": 1411.8,
+      "end": 1570.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0660-s07",
+      "heading": "被動元件全面噴發：MLCC、鋁電容、電感",
+      "start": 1570.7,
+      "end": 1743.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0660-s08",
+      "heading": "Q&A：父母爭吵的童年陰影",
+      "start": 1744.04,
+      "end": 1934.71,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0660-s09",
+      "heading": "Q&A：推薦 PS5 新遊戲 Saros",
+      "start": 1934.76,
+      "end": 1956.91,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0660-s10",
+      "heading": "Q&A：CPU 類股出場時機",
+      "start": 1956.96,
+      "end": 2007.75,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0660-s11",
+      "heading": "Q&A：感情與價值觀落差",
+      "start": 2007.8,
+      "end": 2190.46,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0660-s12",
+      "heading": "Q&A：澳洲小君生日快樂",
+      "start": 2190.51,
+      "end": 2213.62,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0660-s13",
+      "heading": "Q&A：老公生日祝福 & 瘦瘦針",
+      "start": 2213.67,
+      "end": 2254.24,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0660-s14",
+      "heading": "Q&A：資產配置 68% 股票是否太保守",
+      "start": 2254.29,
+      "end": 2370.46,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0660-s15",
+      "heading": "Q&A：被裁員 & 求面試上岸",
+      "start": 2370.51,
+      "end": 2389.6,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0660-s16",
+      "heading": "Q&A：買禮物給孩子的分寸",
+      "start": 2389.65,
+      "end": 2666.57,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0660-s17",
+      "heading": "Q&A：其他祝福、生日快樂、生活分享",
+      "start": 2666.62,
+      "end": 3091.1,
+      "confidence": 0.556
+    }
+  ]
+}

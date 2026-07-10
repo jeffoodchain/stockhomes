@@ -1,0 +1,65 @@
+{
+  "ep": 523,
+  "source": "auto-aligned from reports/mk/gooaye-ep0523.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0523.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dadc93c4-ebed-4f24-bd53-aef86ed3addd/rssFileVip.mp3?timestamp=1736922075978",
+  "duration": 3177.3,
+  "segments": [
+    {
+      "id": "ep0523-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 76.83,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0523-s02",
+      "heading": "動漫推薦：我獨自升級",
+      "start": 76.88,
+      "end": 202.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0523-s03",
+      "heading": "市場困難與樂觀展望",
+      "start": 202.64,
+      "end": 526.57,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0523-s04",
+      "heading": "市場謠言拆解",
+      "start": 526.62,
+      "end": 581.19,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0523-s05",
+      "heading": "砍單風波：CoWoS 與 Hopper",
+      "start": 581.24,
+      "end": 778.01,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0523-s06",
+      "heading": "挖礦機與中國制裁",
+      "start": 778.06,
+      "end": 968.19,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0523-s07",
+      "heading": "美國 AI 禁令與地緣政治",
+      "start": 968.24,
+      "end": 1419.43,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0523-s08",
+      "heading": "課程部分",
+      "start": 1419.48,
+      "end": 3177.3,
+      "confidence": 0.711
+    }
+  ]
+}

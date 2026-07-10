@@ -1,0 +1,86 @@
+{
+  "ep": 110,
+  "source": "auto-aligned from reports/mk/gooaye-ep0110.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0110.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/df3ef455-d77e-414b-9421-09000b0957eb/rssFileVip.mp3?timestamp=1689439399614",
+  "duration": 2417.92,
+  "segments": [
+    {
+      "id": "ep0110-s01",
+      "heading": "開場 / 贊助：WeMo Scooter",
+      "start": 0.0,
+      "end": 95.91,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0110-s02",
+      "heading": "出版救星外溢效應",
+      "start": 95.96,
+      "end": 231.83,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0110-s03",
+      "heading": "GameStop AMC 外溢效應",
+      "start": 231.88,
+      "end": 381.49,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0110-s04",
+      "heading": "GameStop GME 事件回顧",
+      "start": 381.54,
+      "end": 502.17,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0110-s05",
+      "heading": "衍生金融品與零和市場",
+      "start": 502.22,
+      "end": 750.77,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0110-s06",
+      "heading": "Short Squeeze 軋空機制詳解",
+      "start": 750.82,
+      "end": 988.29,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0110-s07",
+      "heading": "Gamma Short Squeeze 詳解",
+      "start": 988.34,
+      "end": 1161.55,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0110-s08",
+      "heading": "散戶 vs 機構？真相並非如此",
+      "start": 1161.6,
+      "end": 1389.55,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0110-s09",
+      "heading": "常見誤解澄清",
+      "start": 1389.6,
+      "end": 1735.23,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0110-s10",
+      "heading": "總結：事件影響與 Robinhood 問題",
+      "start": 1735.28,
+      "end": 1967.49,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0110-s11",
+      "heading": "Q&A",
+      "start": 1967.54,
+      "end": 2417.92,
+      "confidence": 0.678
+    }
+  ]
+}

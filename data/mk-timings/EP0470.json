@@ -1,0 +1,58 @@
+{
+  "ep": 470,
+  "source": "auto-aligned from reports/mk/gooaye-ep0470.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0470.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dd5f10d9-b274-42a5-a2ba-aa72cadfea5f/rssFileVip.mp3?timestamp=1720858941212",
+  "duration": 2981.15,
+  "segments": [
+    {
+      "id": "ep0470-s01",
+      "heading": "開場／贊助：Signus 客製化簽名",
+      "start": 0.0,
+      "end": 95.75,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0470-s02",
+      "heading": "上集廣告爭議澄清",
+      "start": 95.8,
+      "end": 414.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0470-s03",
+      "heading": "軟體佈局完成與 Accenture 觀察",
+      "start": 414.78,
+      "end": 980.21,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0470-s04",
+      "heading": "AMD MI375 延期與硬體競爭",
+      "start": 980.26,
+      "end": 1156.65,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0470-s05",
+      "heading": "硬體競爭加劇與新挑戰",
+      "start": 1156.7,
+      "end": 1264.27,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0470-s06",
+      "heading": "輝達 H20 與 B20 分析",
+      "start": 1264.32,
+      "end": 1562.93,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0470-s07",
+      "heading": "Q&A 部分",
+      "start": 1562.98,
+      "end": 2981.15,
+      "confidence": 0.656
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 85,
+  "source": "auto-aligned from reports/mk/gooaye-ep0085.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0085.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/be94e1c8-97ff-4772-b52c-18700841a5a6/rssFileVip.mp3?timestamp=1689439397101",
+  "duration": 2547.2,
+  "segments": [
+    {
+      "id": "ep0085-s01",
+      "heading": "開場 / 贊助：Paula's Choice 寶拉珍選",
+      "start": 0.0,
+      "end": 159.91,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0085-s02",
+      "heading": "聊聊俄文與Lisa",
+      "start": 159.96,
+      "end": 288.47,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0085-s03",
+      "heading": "感謝百靈果步道大會聽眾",
+      "start": 288.52,
+      "end": 402.37,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0085-s04",
+      "heading": "投資觀念：分散投資、分批投入",
+      "start": 402.42,
+      "end": 543.93,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0085-s05",
+      "heading": "范琪斐節目錄影 / 美國大選",
+      "start": 543.98,
+      "end": 864.11,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0085-s06",
+      "heading": "馬雲與螞蟻金服暫緩上市",
+      "start": 864.16,
+      "end": 1208.13,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0085-s07",
+      "heading": "贊助：舒酸定 / Q&A",
+      "start": 1208.18,
+      "end": 2530.66,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0085-s08",
+      "heading": "結尾",
+      "start": 2530.71,
+      "end": 2547.2,
+      "confidence": 0.708
+    }
+  ]
+}

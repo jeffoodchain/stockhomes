@@ -1,0 +1,100 @@
+{
+  "ep": 424,
+  "source": "auto-aligned from reports/mk/gooaye-ep0424.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0424.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/35f5b134-5e92-4da0-8fde-686d4a130fc7/rssFileVip.mp3?timestamp=1706946157767",
+  "duration": 3046.53,
+  "segments": [
+    {
+      "id": "ep0424-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 60.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0424-s02",
+      "heading": "Vision Pro 取得經過",
+      "start": 60.78,
+      "end": 195.17,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0424-s03",
+      "heading": "農曆春節槓桿部位調整",
+      "start": 195.22,
+      "end": 282.65,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0424-s04",
+      "heading": "市場樂觀情緒與交易策略",
+      "start": 282.7,
+      "end": 370.37,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0424-s05",
+      "heading": "當前股市估值與風險警示",
+      "start": 370.42,
+      "end": 518.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0424-s06",
+      "heading": "美股與臺股後市展望",
+      "start": 518.78,
+      "end": 635.41,
+      "confidence": 0.556
+    },
+    {
+      "id": "ep0424-s07",
+      "heading": "美國科技巨頭「效率年」成果與邊際成本下降",
+      "start": 635.46,
+      "end": 873.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0424-s08",
+      "heading": "Apple 摺疊手機與中國市場分析",
+      "start": 873.72,
+      "end": 1255.86,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0424-s09",
+      "heading": "Meta 財報分析：現金流與硬體投資",
+      "start": 1255.91,
+      "end": 1410.94,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0424-s10",
+      "heading": "Meta 演演算法與硬體投資計畫",
+      "start": 1410.99,
+      "end": 1638.42,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0424-s11",
+      "heading": "Meta 開源戰略與「效率年」評估",
+      "start": 1638.47,
+      "end": 1761.2,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0424-s12",
+      "heading": "Amazon 財報與 Google 後市展望",
+      "start": 1761.25,
+      "end": 1793.48,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0424-s13",
+      "heading": "聽眾 QA",
+      "start": 1793.53,
+      "end": 3046.53,
+      "confidence": 0.689
+    }
+  ]
+}

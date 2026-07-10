@@ -1,0 +1,51 @@
+{
+  "ep": 295,
+  "source": "auto-aligned from reports/mk/gooaye-ep0295.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0295.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cd6ba89c-52a5-42e1-890d-dc823f152106/rssFileVip.mp3?timestamp=1689439398202",
+  "duration": 2969.23,
+  "segments": [
+    {
+      "id": "ep0295-s01",
+      "heading": "開場 / 贊助：拜耳力度伸",
+      "start": 0.0,
+      "end": 77.41,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0295-s02",
+      "heading": "新狗 Ruby — 老婆的超前部署",
+      "start": 77.46,
+      "end": 528.27,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0295-s03",
+      "heading": "幣圈大事：FTX 被幣安收購",
+      "start": 528.32,
+      "end": 704.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0295-s04",
+      "heading": "FTX 事件始末：CoinDesk 報導、CZ 的砍盤",
+      "start": 704.72,
+      "end": 1266.25,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0295-s05",
+      "heading": "流動性風險與投資教訓",
+      "start": 1266.3,
+      "end": 1576.75,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0295-s06",
+      "heading": "Q&A",
+      "start": 1576.8,
+      "end": 2969.23,
+      "confidence": 0.722
+    }
+  ]
+}

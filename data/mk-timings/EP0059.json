@@ -1,0 +1,79 @@
+{
+  "ep": 59,
+  "source": "auto-aligned from reports/mk/gooaye-ep0059.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0059.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/95a9a5b5-f785-48d3-ad93-2e2504aa91ff/rssFileVip.mp3?timestamp=1689439382492",
+  "duration": 2465.46,
+  "segments": [
+    {
+      "id": "ep0059-s01",
+      "heading": "開場 / 贊助：銀座白石",
+      "start": 0.24,
+      "end": 208.03,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0059-s02",
+      "heading": "人生就是丟骰子",
+      "start": 208.08,
+      "end": 311.15,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0059-s03",
+      "heading": "2020年行情：科技股瘋漲，市場分化",
+      "start": 311.2,
+      "end": 687.05,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0059-s04",
+      "heading": "躺在地板上的標的：價值股與軍工股",
+      "start": 687.1,
+      "end": 884.76,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0059-s05",
+      "heading": "軍工股介紹：三大天王與相關個股",
+      "start": 884.81,
+      "end": 1009.34,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0059-s06",
+      "heading": "F-35 聯合打擊戰鬥機計劃（JSF）",
+      "start": 1009.39,
+      "end": 1172.46,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0059-s07",
+      "heading": "洛克希德馬丁拿下 JSF 的故事",
+      "start": 1172.51,
+      "end": 1270.5,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0059-s08",
+      "heading": "Northrop Grumman 與 B-2 幽靈轟炸機",
+      "start": 1270.55,
+      "end": 1419.84,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0059-s09",
+      "heading": "贊助：Superdouble 快卡背包",
+      "start": 1419.89,
+      "end": 1474.92,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0059-s10",
+      "heading": "Q&A",
+      "start": 1474.97,
+      "end": 2465.46,
+      "confidence": 0.778
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 532,
+  "source": "auto-aligned from reports/mk/gooaye-ep0532.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0532.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6139b6bb-9ada-4d3d-9951-3ee818cb5122/rssFileVip.mp3?timestamp=1739609891963",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0532-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 77.81,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0532-s02",
+      "heading": "個人身體狀況分享",
+      "start": 77.86,
+      "end": 190.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0532-s03",
+      "heading": "美股 vs 臺股投資表現分析",
+      "start": 190.82,
+      "end": 359.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0532-s04",
+      "heading": "供需邏輯與投資決策",
+      "start": 359.38,
+      "end": 512.65,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0532-s05",
+      "heading": "部位調整策略",
+      "start": 512.7,
+      "end": 712.31,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0532-s06",
+      "heading": "馬斯克與政治",
+      "start": 712.36,
+      "end": 918.75,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0532-s07",
+      "heading": "Intel / TSMC 合作傳聞",
+      "start": 918.8,
+      "end": 997.15,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0532-s08",
+      "heading": "Intel 代工業務與臺灣地位",
+      "start": 997.2,
+      "end": 1417.23,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0532-s09",
+      "heading": "Apple 發表會與新品前景",
+      "start": 1417.28,
+      "end": 1597.41,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0532-s10",
+      "heading": "Apple Intelligence 的軟體機會",
+      "start": 1597.46,
+      "end": 1697.55,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0532-s11",
+      "heading": "聽眾 Q&A",
+      "start": 1697.6,
+      "end": 2997.47,
+      "confidence": 0.644
+    }
+  ]
+}

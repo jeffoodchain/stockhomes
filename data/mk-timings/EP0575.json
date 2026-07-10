@@ -1,0 +1,58 @@
+{
+  "ep": 575,
+  "source": "auto-aligned from reports/mk/gooaye-ep0575.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0575.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/008a57a0-df97-4527-a4ee-bde95568cd57/rssFileVip.mp3?timestamp=1752651957973",
+  "duration": 2990.05,
+  "segments": [
+    {
+      "id": "ep0575-s01",
+      "heading": "開場 / 贊助：Saily",
+      "start": 0.0,
+      "end": 59.37,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0575-s02",
+      "heading": "生活分享：膽固醇決戰與血壓控制",
+      "start": 59.42,
+      "end": 320.77,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0575-s03",
+      "heading": "生活分享：婚禮見聞與婚後哲學",
+      "start": 320.82,
+      "end": 619.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0575-s04",
+      "heading": "市場話題：AWS IRHX散熱方案與台廠供應鏈",
+      "start": 619.7,
+      "end": 830.99,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0575-s05",
+      "heading": "市場話題：H20重新獲准出口中國",
+      "start": 831.04,
+      "end": 1058.19,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0575-s06",
+      "heading": "市場話題：Grok的Ani/Rudy角色與AI人性化反思",
+      "start": 1058.24,
+      "end": 1568.59,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0575-s07",
+      "heading": "Q&A",
+      "start": 1568.64,
+      "end": 2990.05,
+      "confidence": 0.756
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 309,
+  "source": "auto-aligned from reports/mk/gooaye-ep0309.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0309.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/200c8de8-f58a-433d-b6d5-a961a8cb4d50/rssFileVip.mp3?timestamp=1689439387118",
+  "duration": 3088.14,
+  "segments": [
+    {
+      "id": "ep0309-s01",
+      "heading": "開場 / 贊助：LAC 保健食品",
+      "start": 0.0,
+      "end": 108.93,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0309-s02",
+      "heading": "役男服役一年：當兵資格論",
+      "start": 108.98,
+      "end": 438.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0309-s03",
+      "heading": "部隊生活分享與改革建言",
+      "start": 438.38,
+      "end": 780.13,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0309-s04",
+      "heading": "2022 年終操作回顧",
+      "start": 780.18,
+      "end": 1107.73,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0309-s05",
+      "heading": "資金控管：部位上下限",
+      "start": 1107.78,
+      "end": 1878.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0309-s06",
+      "heading": "美股個股回顧：輝達、特斯拉",
+      "start": 1878.22,
+      "end": 2213.21,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0309-s07",
+      "heading": "Q&A",
+      "start": 2213.26,
+      "end": 3088.14,
+      "confidence": 0.711
+    }
+  ]
+}

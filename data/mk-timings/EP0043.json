@@ -1,0 +1,65 @@
+{
+  "ep": 43,
+  "source": "auto-aligned from reports/mk/gooaye-ep0043.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0043.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/32e3b43c-eb77-4020-8d3b-b6ed4bbdc1eb/rssFileVip.mp3?timestamp=1689439383356",
+  "duration": 2541.24,
+  "segments": [
+    {
+      "id": "ep0043-s01",
+      "heading": "開場 / 贊助：天下出版 × 謝主委六本好書福利",
+      "start": 0.18,
+      "end": 201.97,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0043-s02",
+      "heading": "致謝：數位時代專訪",
+      "start": 202.02,
+      "end": 253.49,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0043-s03",
+      "heading": "Podcast 廣告商業模式與 Spotify 前景",
+      "start": 253.54,
+      "end": 550.71,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0043-s04",
+      "heading": "韓國瑜罷免：民主制衡的可貴",
+      "start": 550.76,
+      "end": 755.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0043-s05",
+      "heading": "振興券 vs. 直接發現金",
+      "start": 755.8,
+      "end": 861.93,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0043-s06",
+      "heading": "排富議題：別打稻草人",
+      "start": 861.98,
+      "end": 1315.21,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0043-s07",
+      "heading": "Q&A",
+      "start": 1315.26,
+      "end": 2515.65,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0043-s08",
+      "heading": "結尾",
+      "start": 2515.7,
+      "end": 2541.24,
+      "confidence": 1.0
+    }
+  ]
+}

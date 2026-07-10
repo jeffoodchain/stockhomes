@@ -1,0 +1,100 @@
+{
+  "ep": 448,
+  "source": "auto-aligned from reports/mk/gooaye-ep0448.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0448.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/53b8d116-0844-4a0b-938b-b6e5d8668221/rssFileVip.mp3?timestamp=1714203130331",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0448-s01",
+      "heading": "開場 / 贊助：Cooler Master Hybrid M 電競工學按摩椅",
+      "start": 0.0,
+      "end": 83.23,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0448-s02",
+      "heading": "地震頻繁的驚悚感受",
+      "start": 83.28,
+      "end": 187.19,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0448-s03",
+      "heading": "回臺灣重新整合情報的心路",
+      "start": 187.24,
+      "end": 390.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0448-s04",
+      "heading": "持續努力與成長的悖論",
+      "start": 390.98,
+      "end": 468.63,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0448-s05",
+      "heading": "林口創業的充實感",
+      "start": 468.68,
+      "end": 568.87,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0448-s06",
+      "heading": "美股調整與槓桿管理",
+      "start": 568.92,
+      "end": 745.09,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0448-s07",
+      "heading": "科技供應鏈調整策略",
+      "start": 745.14,
+      "end": 851.61,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0448-s08",
+      "heading": "Celestica 與機會成本",
+      "start": 851.66,
+      "end": 873.79,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0448-s09",
+      "heading": "輝達供應鏈和 Vertiv 故事",
+      "start": 873.84,
+      "end": 1177.33,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0448-s10",
+      "heading": "科技巨頭財報分析",
+      "start": 1177.38,
+      "end": 1242.71,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0448-s11",
+      "heading": "Meta 的 ASIC 野心與 MTIA",
+      "start": 1242.76,
+      "end": 1541.63,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0448-s12",
+      "heading": "Google 與 Microsoft 的策略調整",
+      "start": 1541.68,
+      "end": 1980.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0448-s13",
+      "heading": "Q&A",
+      "start": 1980.68,
+      "end": 3000.45,
+      "confidence": 0.689
+    }
+  ]
+}

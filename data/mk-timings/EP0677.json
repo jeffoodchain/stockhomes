@@ -1,0 +1,142 @@
+{
+  "ep": 677,
+  "source": "auto-aligned from reports/mk/gooaye-ep0677.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0677.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4c045cc2-378b-4653-a683-c93fc37d0a2d/rssFileVip.mp3?timestamp=1783498689738",
+  "duration": 2991.54,
+  "segments": [
+    {
+      "id": "ep0677-s01",
+      "heading": "開場／曾的茶贊助",
+      "start": 0.0,
+      "end": 83.61,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0677-s02",
+      "heading": "近況：變老、睡眠與育兒分寸",
+      "start": 83.66,
+      "end": 264.95,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0677-s03",
+      "heading": "槓桿世代：從融資開滿到四代同堂",
+      "start": 265.0,
+      "end": 424.23,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0677-s04",
+      "heading": "新世代高槓桿與「死了算了」",
+      "start": 424.28,
+      "end": 585.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0677-s05",
+      "heading": "台股盤勢：季線、功率元件與降槓",
+      "start": 586.04,
+      "end": 760.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0677-s06",
+      "heading": "韓股降槓、台股中小股震盪與強勢族群",
+      "start": 760.38,
+      "end": 901.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0677-s07",
+      "heading": "SemiAnalysis 爭議：報告標題與市場信任",
+      "start": 901.98,
+      "end": 1035.09,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0677-s08",
+      "heading": "CPO、800VDC 與速食資訊的誤讀",
+      "start": 1035.14,
+      "end": 1186.37,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0677-s09",
+      "heading": "Kyber NVL144 delay：midplane、PTFE／Q 布與 Rubin 時程",
+      "start": 1186.42,
+      "end": 1348.41,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0677-s10",
+      "heading": "短期 delay 與長期 AI 趨勢",
+      "start": 1348.46,
+      "end": 1484.75,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0677-s11",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招",
+      "start": 1484.8,
+      "end": 1656.69,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0677-s12",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 2",
+      "start": 1656.74,
+      "end": 1821.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0677-s13",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 3",
+      "start": 1821.68,
+      "end": 1985.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0677-s14",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 4",
+      "start": 1985.76,
+      "end": 2193.93,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0677-s15",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 5",
+      "start": 2193.98,
+      "end": 2360.19,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0677-s16",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 6",
+      "start": 2360.24,
+      "end": 2538.03,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0677-s17",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 7",
+      "start": 2538.08,
+      "end": 2723.36,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0677-s18",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 8",
+      "start": 2723.41,
+      "end": 2897.66,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0677-s19",
+      "heading": "市場策略：大趨勢、資金走向與見招拆招 9",
+      "start": 2897.71,
+      "end": 2991.54,
+      "confidence": 0.767
+    }
+  ]
+}

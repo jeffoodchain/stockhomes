@@ -1,0 +1,51 @@
+{
+  "ep": 119,
+  "source": "auto-aligned from reports/mk/gooaye-ep0119.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0119.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0c6331a3-3c31-40d3-a419-71f2138b6e18/rssFileVip.mp3?timestamp=1689439390717",
+  "duration": 2444.67,
+  "segments": [
+    {
+      "id": "ep0119-s01",
+      "heading": "開場 / 贊助：匯豐銀行匯鑽卡",
+      "start": 0.0,
+      "end": 83.99,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0119-s02",
+      "heading": "Clubhouse：Cathie Wood vs. Warren Buffett，誰是投資霸主？",
+      "start": 84.04,
+      "end": 417.57,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0119-s03",
+      "heading": "Sortino Ratio、ARK vs. QQQ：選股 Alpha 還是高波動溢價？",
+      "start": 417.62,
+      "end": 751.45,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0119-s04",
+      "heading": "下殺後的風控：去槓桿、止跌訊號、本多終勝",
+      "start": 751.5,
+      "end": 1110.87,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0119-s05",
+      "heading": "Discovery（DISCA）股價暴衝：Discovery+ 串流起飛",
+      "start": 1110.92,
+      "end": 1716.47,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0119-s06",
+      "heading": "Q&A",
+      "start": 1716.52,
+      "end": 2444.67,
+      "confidence": 0.711
+    }
+  ]
+}

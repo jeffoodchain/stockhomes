@@ -1,0 +1,58 @@
+{
+  "ep": 96,
+  "source": "auto-aligned from reports/mk/gooaye-ep0096.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0096.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8e69fc82-6df1-4d1d-a50c-206f0f1ce321/rssFileVip.mp3?timestamp=1689439387438",
+  "duration": 2648.24,
+  "segments": [
+    {
+      "id": "ep0096-s01",
+      "heading": "開場 / 贊助：英雄聯盟激鬥峽谷",
+      "start": 0.14,
+      "end": 86.05,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0096-s02",
+      "heading": "閒聊：聽眾信箱",
+      "start": 86.1,
+      "end": 357.35,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0096-s03",
+      "heading": "生活心得：省錢 & 省時間",
+      "start": 357.4,
+      "end": 692.83,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0096-s04",
+      "heading": "後疫情時代：股票佈局思路",
+      "start": 692.88,
+      "end": 915.63,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0096-s05",
+      "heading": "OTA 平台配對交易：Airbnb / Booking / Expedia",
+      "start": 915.68,
+      "end": 1406.73,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0096-s06",
+      "heading": "後疫情復甦股：Starbucks、希爾頓、郵輪",
+      "start": 1406.78,
+      "end": 1579.95,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0096-s07",
+      "heading": "Q&A",
+      "start": 1580.0,
+      "end": 2648.24,
+      "confidence": 0.8
+    }
+  ]
+}

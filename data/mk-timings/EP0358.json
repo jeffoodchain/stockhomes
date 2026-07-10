@@ -1,0 +1,65 @@
+{
+  "ep": 358,
+  "source": "auto-aligned from reports/mk/gooaye-ep0358.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0358.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d48236d6-71a9-46a4-9afd-dffa583df8d5/rssFileVip.mp3?timestamp=1689439384643",
+  "duration": 3098.54,
+  "segments": [
+    {
+      "id": "ep0358-s01",
+      "heading": "開場 / 贊助：拜耳力度伸",
+      "start": 0.0,
+      "end": 67.79,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0358-s02",
+      "heading": "上集延伸：忙碌時的情緒與自我反省",
+      "start": 67.84,
+      "end": 252.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0358-s03",
+      "heading": "人設翻車與自我羽毛",
+      "start": 252.8,
+      "end": 498.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0358-s04",
+      "heading": "加槓又降槓：FOMO 與遊戲王卡的反思",
+      "start": 498.54,
+      "end": 878.69,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0358-s05",
+      "heading": "AMD MI300 供應鏈開箱分析",
+      "start": 878.74,
+      "end": 1140.57,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0358-s06",
+      "heading": "浸沒式液冷技術現況",
+      "start": 1140.62,
+      "end": 1392.37,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0358-s07",
+      "heading": "MI300 系統整機格局小結",
+      "start": 1392.42,
+      "end": 1636.81,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0358-s08",
+      "heading": "Q&A",
+      "start": 1636.86,
+      "end": 3098.54,
+      "confidence": 0.8
+    }
+  ]
+}

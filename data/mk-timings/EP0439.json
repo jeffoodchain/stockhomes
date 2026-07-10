@@ -1,0 +1,135 @@
+{
+  "ep": 439,
+  "source": "auto-aligned from reports/mk/gooaye-ep0439.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0439.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b867dac5-0319-4c9a-82af-0250c1fbc563/rssFileVip.mp3?timestamp=1711532740978",
+  "duration": 3174.32,
+  "segments": [
+    {
+      "id": "ep0439-s01",
+      "heading": "開場／贊助：拜爾力度生",
+      "start": 0.0,
+      "end": 46.05,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0439-s02",
+      "heading": "第一季回顧與投資心得",
+      "start": 46.1,
+      "end": 110.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0439-s03",
+      "heading": "美股與臺股第一季表現",
+      "start": 110.84,
+      "end": 188.81,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0439-s04",
+      "heading": "貴買指數與近期盤勢",
+      "start": 188.86,
+      "end": 261.05,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0439-s05",
+      "heading": "停損心態的轉變",
+      "start": 261.1,
+      "end": 318.13,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0439-s06",
+      "heading": "小市值股票與供應鏈研究",
+      "start": 318.18,
+      "end": 409.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0439-s07",
+      "heading": "北區代工廠的景氣狀況",
+      "start": 409.72,
+      "end": 498.33,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0439-s08",
+      "heading": "小型股操作的自我認知",
+      "start": 498.38,
+      "end": 594.19,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0439-s09",
+      "heading": "低量股出貨的策略困擾",
+      "start": 594.24,
+      "end": 675.97,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0439-s10",
+      "heading": "自我觀察與投資弱點",
+      "start": 676.02,
+      "end": 780.55,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0439-s11",
+      "heading": "預鏡光與Vision Pro 的案例",
+      "start": 780.6,
+      "end": 869.41,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0439-s12",
+      "heading": "調整策略方向",
+      "start": 869.46,
+      "end": 920.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0439-s13",
+      "heading": "AI 相關個股的細部拆解",
+      "start": 920.76,
+      "end": 1058.87,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0439-s14",
+      "heading": "訊息內線化的市場現象",
+      "start": 1058.92,
+      "end": 1130.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0439-s15",
+      "heading": "浸沒式冷卻新題材",
+      "start": 1130.3,
+      "end": 1213.61,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0439-s16",
+      "heading": "市場的高估值困境",
+      "start": 1213.66,
+      "end": 1344.47,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0439-s17",
+      "heading": "市場熱度與ETF溢價問題",
+      "start": 1344.52,
+      "end": 1411.01,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0439-s18",
+      "heading": "Q&A 環節",
+      "start": 1411.06,
+      "end": 3174.32,
+      "confidence": 0.856
+    }
+  ]
+}

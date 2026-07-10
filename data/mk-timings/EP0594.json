@@ -1,0 +1,65 @@
+{
+  "ep": 594,
+  "source": "auto-aligned from reports/mk/gooaye-ep0594.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0594.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/86734d23-3fb0-4bb6-af3b-47f8f440d6bc/rssFileVip.mp3?timestamp=1758405391541",
+  "duration": 2987.08,
+  "segments": [
+    {
+      "id": "ep0594-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.33,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0594-s02",
+      "heading": "生活聊聊：算命、觀音乾爹、兒子就診",
+      "start": 58.38,
+      "end": 386.37,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0594-s03",
+      "heading": "生活聊聊：Apple Watch 與 iPhone 17",
+      "start": 386.42,
+      "end": 600.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0594-s04",
+      "heading": "遊戲聊聊：競技場課金宣戰",
+      "start": 600.94,
+      "end": 641.89,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0594-s05",
+      "heading": "市場話題：NVIDIA入股Intel，影響解析",
+      "start": 641.94,
+      "end": 933.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0594-s06",
+      "heading": "市場話題：Astera Labs、聯發科影響",
+      "start": 933.72,
+      "end": 1145.69,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0594-s07",
+      "heading": "市場話題：Google Chrome 整合 AI Agent",
+      "start": 1145.74,
+      "end": 1390.89,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0594-s08",
+      "heading": "Q&A",
+      "start": 1390.94,
+      "end": 2987.08,
+      "confidence": 0.644
+    }
+  ]
+}

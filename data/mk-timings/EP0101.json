@@ -1,0 +1,65 @@
+{
+  "ep": 101,
+  "source": "auto-aligned from reports/mk/gooaye-ep0101.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0101.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/26820cdf-5c44-4c80-a4ce-6301876f1465/rssFileVip.mp3?timestamp=1689439404529",
+  "duration": 2524.92,
+  "segments": [
+    {
+      "id": "ep0101-s01",
+      "heading": "開場 / 贊助：探路客 (Timelog)",
+      "start": 0.0,
+      "end": 113.11,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0101-s02",
+      "heading": "近況：黑T 抽獎 & American Horror Story",
+      "start": 113.16,
+      "end": 228.55,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0101-s03",
+      "heading": "ARK ETF 大跳水分析",
+      "start": 228.6,
+      "end": 504.29,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0101-s04",
+      "heading": "Eric Balchunas 的警告：ARK 的三大隱憂",
+      "start": 504.34,
+      "end": 1095.6,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0101-s05",
+      "heading": "ARK 的鬼故事：中小型股大股東風險",
+      "start": 1095.65,
+      "end": 1573.43,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0101-s06",
+      "heading": "ARK 跳水之後：我怎麼看",
+      "start": 1573.48,
+      "end": 1731.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0101-s07",
+      "heading": "Q&A",
+      "start": 1731.26,
+      "end": 2499.41,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0101-s08",
+      "heading": "結尾",
+      "start": 2499.46,
+      "end": 2524.92,
+      "confidence": 1.0
+    }
+  ]
+}

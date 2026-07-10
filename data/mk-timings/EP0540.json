@@ -1,0 +1,226 @@
+{
+  "ep": 540,
+  "source": "auto-aligned from reports/mk/gooaye-ep0540.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0540.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/657f32b0-4f7b-49de-9c50-d93395980cd4/rssFileVip.mp3?timestamp=1742024022451",
+  "duration": 2988.56,
+  "segments": [
+    {
+      "id": "ep0540-s01",
+      "heading": "開場 / 贊助：Saily",
+      "start": 0.0,
+      "end": 73.57,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0540-s02",
+      "heading": "人道走廊與減碼規劃",
+      "start": 73.62,
+      "end": 135.75,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0540-s03",
+      "heading": "市場心態與投資策略",
+      "start": 135.8,
+      "end": 222.55,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0540-s04",
+      "heading": "市場走勢與後知後覺",
+      "start": 222.6,
+      "end": 285.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0540-s05",
+      "heading": "低接策略與風險控制",
+      "start": 285.76,
+      "end": 364.77,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0540-s06",
+      "heading": "心態調整與理性投資",
+      "start": 364.82,
+      "end": 432.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0540-s07",
+      "heading": "驚喜厭惡症與溝通困境",
+      "start": 433.04,
+      "end": 527.69,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0540-s08",
+      "heading": "行銷電話與態度轉變",
+      "start": 527.74,
+      "end": 593.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0540-s09",
+      "heading": "手機設定與生活品質",
+      "start": 593.22,
+      "end": 632.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0540-s10",
+      "heading": "工作壓力與人格變化",
+      "start": 632.6,
+      "end": 691.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0540-s11",
+      "heading": "調整心態與把握機會",
+      "start": 691.44,
+      "end": 730.23,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0540-s12",
+      "heading": "本週投資操作",
+      "start": 730.28,
+      "end": 834.83,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0540-s13",
+      "heading": "記憶體與動能股調整",
+      "start": 834.88,
+      "end": 946.37,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0540-s14",
+      "heading": "小型股與長期投資",
+      "start": 946.42,
+      "end": 1035.17,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0540-s15",
+      "heading": "小型股的業績驗證",
+      "start": 1035.22,
+      "end": 1090.47,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0540-s16",
+      "heading": "臺美股部位調整與後市展望",
+      "start": 1090.52,
+      "end": 1162.15,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0540-s17",
+      "heading": "資金配置策略",
+      "start": 1162.2,
+      "end": 1218.53,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0540-s18",
+      "heading": "關鍵事件與後市佈局",
+      "start": 1218.58,
+      "end": 1289.47,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0540-s19",
+      "heading": "NVIDIA GDC 發佈會預期",
+      "start": 1289.52,
+      "end": 1341.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0540-s20",
+      "heading": "硬體與軟體的聯動",
+      "start": 1341.96,
+      "end": 1409.87,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0540-s21",
+      "heading": "CAPEX 與軟體獲利的必要性",
+      "start": 1409.92,
+      "end": 1483.39,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0540-s22",
+      "heading": "軟體股的投資機會",
+      "start": 1483.44,
+      "end": 1571.29,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0540-s23",
+      "heading": "政府預算削減的影響",
+      "start": 1571.34,
+      "end": 1650.23,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0540-s24",
+      "heading": "長期向上與短期風險",
+      "start": 1650.28,
+      "end": 1678.55,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0540-s25",
+      "heading": "機器人與其他投資機會",
+      "start": 1678.6,
+      "end": 1738.23,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0540-s26",
+      "heading": "投資的動態調整",
+      "start": 1738.28,
+      "end": 1776.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0540-s27",
+      "heading": "Q&A 第一題：定額投資配置",
+      "start": 1776.44,
+      "end": 1908.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0540-s28",
+      "heading": "Q&A 第二題：聽眾感謝與寵物祝福",
+      "start": 1908.18,
+      "end": 1953.95,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0540-s29",
+      "heading": "Q&A 第三題：前任與興趣",
+      "start": 1954.0,
+      "end": 2048.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0540-s30",
+      "heading": "Q&A 其他提問與回應",
+      "start": 2048.8,
+      "end": 2331.85,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0540-s31",
+      "heading": "Q&A 最後提問與結語",
+      "start": 2331.9,
+      "end": 2988.56,
+      "confidence": 0.711
+    }
+  ]
+}

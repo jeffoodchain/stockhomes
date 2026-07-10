@@ -1,0 +1,58 @@
+{
+  "ep": 39,
+  "source": "auto-aligned from reports/mk/gooaye-ep0039.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0039.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3452472a-ea84-4abb-af8b-0b6025d319c8/rssFileVip.mp3?timestamp=1689439391229",
+  "duration": 2426.83,
+  "segments": [
+    {
+      "id": "ep0039-s01",
+      "heading": "開場 / 感謝聽眾",
+      "start": 0.14,
+      "end": 175.51,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0039-s02",
+      "heading": "贊助：綿豆腐床墊 × 樂天 KOBO 銷售捷報",
+      "start": 175.56,
+      "end": 407.54,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0039-s03",
+      "heading": "Spotify 簽下 Joe Rogan：Podcast 市場起飛",
+      "start": 407.59,
+      "end": 580.34,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0039-s04",
+      "heading": "大同股東會：黃國昌選獨董",
+      "start": 580.39,
+      "end": 883.28,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0039-s05",
+      "heading": "SpaceX Crew Dragon、Blue Origin、Virgin Galactic：太空產業展望",
+      "start": 883.33,
+      "end": 1303.24,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0039-s06",
+      "heading": "Q&A",
+      "start": 1303.29,
+      "end": 2394.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0039-s07",
+      "heading": "結尾笑話",
+      "start": 2394.94,
+      "end": 2426.83,
+      "confidence": 0.811
+    }
+  ]
+}

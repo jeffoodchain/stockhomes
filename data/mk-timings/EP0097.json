@@ -1,0 +1,58 @@
+{
+  "ep": 97,
+  "source": "auto-aligned from reports/mk/gooaye-ep0097.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0097.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/70407dd3-a42e-45b3-80c0-e4aca2818ff9/rssFileVip.mp3?timestamp=1689439384566",
+  "duration": 2383.73,
+  "segments": [
+    {
+      "id": "ep0097-s01",
+      "heading": "開場 / 贊助：佐登妮絲",
+      "start": 0.0,
+      "end": 112.45,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0097-s02",
+      "heading": "閒聊：Cyberpunk 黑屌T 抽獎公益",
+      "start": 112.5,
+      "end": 187.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0097-s03",
+      "heading": "聽眾提醒：廣告牆保證獲利與富士康媒體集團",
+      "start": 187.68,
+      "end": 308.37,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0097-s04",
+      "heading": "斜槓失敗案例：燦坤與金礦咖啡",
+      "start": 308.42,
+      "end": 563.11,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0097-s05",
+      "heading": "主題：Pornhub 肉片下架、MindGeek 與發卡機構抵制",
+      "start": 563.16,
+      "end": 1118.91,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0097-s06",
+      "heading": "Q&A",
+      "start": 1118.96,
+      "end": 2381.01,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0097-s07",
+      "heading": "結尾",
+      "start": 2381.06,
+      "end": 2383.73,
+      "confidence": 0.588
+    }
+  ]
+}

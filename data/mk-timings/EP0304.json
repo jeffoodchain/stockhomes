@@ -1,0 +1,51 @@
+{
+  "ep": 304,
+  "source": "auto-aligned from reports/mk/gooaye-ep0304.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0304.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5cbf3bfc-1646-4e19-8ecb-e43984cf17af/rssFileVip.mp3?timestamp=1689439386614",
+  "duration": 3030.18,
+  "segments": [
+    {
+      "id": "ep0304-s01",
+      "heading": "開場 / 贊助：拜維佳",
+      "start": 0.0,
+      "end": 71.23,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0304-s02",
+      "heading": "感謝聽眾：Apple、Spotify 雙料冠軍",
+      "start": 71.28,
+      "end": 443.93,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0304-s03",
+      "heading": "比較心態與快樂的相對性",
+      "start": 443.98,
+      "end": 589.43,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0304-s04",
+      "heading": "AI 浪潮：ChatGPT 與 Midjourney 的出現",
+      "start": 589.48,
+      "end": 1038.48,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0304-s05",
+      "heading": "AI 會取代哪些工作？",
+      "start": 1038.53,
+      "end": 1939.03,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0304-s06",
+      "heading": "Q&A",
+      "start": 1939.08,
+      "end": 3030.18,
+      "confidence": 0.733
+    }
+  ]
+}

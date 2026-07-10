@@ -1,0 +1,58 @@
+{
+  "ep": 271,
+  "source": "auto-aligned from reports/mk/gooaye-ep0271.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0271.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7fecba44-0589-4bb9-8fba-9163a61a3579/rssFileVip.mp3?timestamp=1689439379756",
+  "duration": 2987.06,
+  "segments": [
+    {
+      "id": "ep0271-s01",
+      "heading": "開場 / 贊助：克補",
+      "start": 0.0,
+      "end": 53.27,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0271-s02",
+      "heading": "反彈行情中的心態管理",
+      "start": 53.32,
+      "end": 216.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0271-s03",
+      "heading": "空軍翻多風氣亂象",
+      "start": 216.82,
+      "end": 279.29,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0271-s04",
+      "heading": "貪念與詐騙的警示",
+      "start": 279.34,
+      "end": 527.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0271-s05",
+      "heading": "美股機構 13F 報告速覽",
+      "start": 527.76,
+      "end": 1521.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0271-s06",
+      "heading": "Q&A",
+      "start": 1521.26,
+      "end": 2984.83,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0271-s07",
+      "heading": "結尾",
+      "start": 2984.88,
+      "end": 2987.06,
+      "confidence": 0.519
+    }
+  ]
+}

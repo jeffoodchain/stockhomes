@@ -1,0 +1,51 @@
+{
+  "ep": 602,
+  "source": "auto-aligned from reports/mk/gooaye-ep0602.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0602.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ef1769de-07ea-44cd-9952-fe36df5c2cc5/rssFileVip.mp3?timestamp=1760822727702",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0602-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 59.63,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0602-s02",
+      "heading": "育兒心得：我對諾亞喝止了，然後他原諒我",
+      "start": 59.68,
+      "end": 585.71,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0602-s03",
+      "heading": "市場話題：臺積電 Q3 2025 法說會解析",
+      "start": 585.76,
+      "end": 924.81,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0602-s04",
+      "heading": "記憶體：DRAM / NAND 大題材 + OpenAI 色情催化劑",
+      "start": 924.86,
+      "end": 1244.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0602-s05",
+      "heading": "特規型記憶體 vs. 標準品觀察",
+      "start": 1244.26,
+      "end": 1409.53,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0602-s06",
+      "heading": "Q&A",
+      "start": 1409.58,
+      "end": 3000.45,
+      "confidence": 0.778
+    }
+  ]
+}

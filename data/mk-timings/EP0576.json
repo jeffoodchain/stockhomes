@@ -1,0 +1,72 @@
+{
+  "ep": 576,
+  "source": "auto-aligned from reports/mk/gooaye-ep0576.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0576.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/68d1eb6f-cf80-4628-9b7a-ec69481eb84a/rssFileVip.mp3?timestamp=1752920653422",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0576-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 59.15,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0576-s02",
+      "heading": "開場閒聊：手遊課金哲學",
+      "start": 59.2,
+      "end": 229.57,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0576-s03",
+      "heading": "手遊 PUBG × aespa 花費與 skin vs. 課金比較",
+      "start": 229.62,
+      "end": 290.73,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0576-s04",
+      "heading": "PC 復辟趨勢與遊戲產業觀察",
+      "start": 290.78,
+      "end": 462.69,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0576-s05",
+      "heading": "閒聊：板前天婦羅晚餐與投資心境",
+      "start": 462.74,
+      "end": 544.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0576-s06",
+      "heading": "盤面觀察：市場表現強勢，期待回檔",
+      "start": 544.88,
+      "end": 585.79,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0576-s07",
+      "heading": "產業觀察：台達電（Delta）— Power Rack 與 Sidecar 成長性",
+      "start": 585.84,
+      "end": 932.81,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0576-s08",
+      "heading": "產業觀察：台積電（TSMC）",
+      "start": 932.86,
+      "end": 1580.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0576-s09",
+      "heading": "Q&A",
+      "start": 1580.88,
+      "end": 3000.45,
+      "confidence": 0.744
+    }
+  ]
+}

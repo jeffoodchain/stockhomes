@@ -1,0 +1,58 @@
+{
+  "ep": 279,
+  "source": "auto-aligned from reports/mk/gooaye-ep0279.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0279.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/adf9530b-011e-492c-bb44-3d7e343c28a9/rssFileVip.mp3?timestamp=1689439398289",
+  "duration": 2743.34,
+  "segments": [
+    {
+      "id": "ep0279-s01",
+      "heading": "開場 / 贊助：國票證券",
+      "start": 0.0,
+      "end": 123.25,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0279-s02",
+      "heading": "Choco 中秋節走失驚魂記",
+      "start": 123.3,
+      "end": 536.31,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0279-s03",
+      "heading": "市場話題：CPI 爆雷、道瓊千點大招待、台股意外撐盤",
+      "start": 536.36,
+      "end": 646.05,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0279-s04",
+      "heading": "通膨解析：CPI 不如預期、聯準會升息加碼預期",
+      "start": 646.1,
+      "end": 1025.65,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0279-s05",
+      "heading": "台幣貶值與房貸資金控管",
+      "start": 1025.7,
+      "end": 1329.67,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0279-s06",
+      "heading": "Q&A",
+      "start": 1329.72,
+      "end": 2739.91,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0279-s07",
+      "heading": "結尾",
+      "start": 2739.96,
+      "end": 2743.34,
+      "confidence": 0.619
+    }
+  ]
+}

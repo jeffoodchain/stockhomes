@@ -1,0 +1,114 @@
+{
+  "ep": 644,
+  "source": "auto-aligned from reports/mk/gooaye-ep0644.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0644.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/926abbbf-322b-40cc-bd74-16ef523a4907/rssFileVip.mp3?timestamp=1773527036609",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0644-s01",
+      "heading": "開場 / 贊助：君綺醫美",
+      "start": 0.0,
+      "end": 117.55,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0644-s02",
+      "heading": "戰鬥周心態：兒子下單與 Poképia",
+      "start": 117.6,
+      "end": 619.07,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0644-s03",
+      "heading": "市場話題：記憶體旺宏獨強、凱基 300 元報告",
+      "start": 619.12,
+      "end": 718.93,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0644-s04",
+      "heading": "美光毛利傳言、GTC 前的部位調節",
+      "start": 718.98,
+      "end": 822.59,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0644-s05",
+      "heading": "Tesla 訂單狀態與估值問題",
+      "start": 822.64,
+      "end": 1005.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0644-s06",
+      "heading": "軟體股不能一包、市場有效性辯論",
+      "start": 1005.58,
+      "end": 1509.27,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0644-s07",
+      "heading": "美股展望：流動性管理、輪動識別",
+      "start": 1509.32,
+      "end": 1717.65,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0644-s08",
+      "heading": "Q&A：GTC 與 Google TPU 賣給誰",
+      "start": 1717.7,
+      "end": 2094.05,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0644-s09",
+      "heading": "Q&A：林口牛排、筆記整理與 AI 使用",
+      "start": 2094.1,
+      "end": 2243.85,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0644-s10",
+      "heading": "Q&A：Apple 摺疊機、GTA6 救得了消費市場嗎？",
+      "start": 2243.9,
+      "end": 2340.77,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0644-s11",
+      "heading": "Q&A：生產前夕的人夫建議",
+      "start": 2340.82,
+      "end": 2492.87,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0644-s12",
+      "heading": "Q&A：初始本金與投資起步",
+      "start": 2492.92,
+      "end": 2528.13,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0644-s13",
+      "heading": "Q&A：各種祝福與生日快樂",
+      "start": 2528.18,
+      "end": 2639.0,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0644-s14",
+      "heading": "Q&A：接受訪問與上其他節目",
+      "start": 2639.05,
+      "end": 2677.32,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0644-s15",
+      "heading": "結語",
+      "start": 2677.37,
+      "end": 3000.45,
+      "confidence": 0.691
+    }
+  ]
+}

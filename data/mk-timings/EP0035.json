@@ -1,0 +1,58 @@
+{
+  "ep": 35,
+  "source": "auto-aligned from reports/mk/gooaye-ep0035.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0035.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1d9b6e1b-179b-4376-ac5e-91d97b8075a8/rssFileVip.mp3?timestamp=1761072693360",
+  "duration": 2125.11,
+  "segments": [
+    {
+      "id": "ep0035-s01",
+      "heading": "開場：臨時加錄，氣炸鍋事件",
+      "start": 0.3,
+      "end": 50.15,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0035-s02",
+      "heading": "Podcast 圈動態：MULA 業配與排行榜",
+      "start": 50.2,
+      "end": 232.23,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0035-s03",
+      "heading": "Telegram 社團現況",
+      "start": 232.28,
+      "end": 346.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0035-s04",
+      "heading": "美國難看的經濟數字：price in 觀念",
+      "start": 346.76,
+      "end": 707.06,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0035-s05",
+      "heading": "航空業現況：Ryanair 復飛、台灣三家航空",
+      "start": 707.11,
+      "end": 1039.31,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0035-s06",
+      "heading": "Q&A",
+      "start": 1039.36,
+      "end": 2101.48,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0035-s07",
+      "heading": "結尾",
+      "start": 2101.53,
+      "end": 2125.11,
+      "confidence": 0.722
+    }
+  ]
+}

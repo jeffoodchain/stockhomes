@@ -1,0 +1,51 @@
+{
+  "ep": 609,
+  "source": "auto-aligned from reports/mk/gooaye-ep0609.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0609.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d2b3da76-e906-41c8-bb80-129e6d23514e/rssFileVip.mp3?timestamp=1762982724373",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0609-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 72.37,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0609-s02",
+      "heading": "開場閒聊：上台通節目、人設與宅男日常",
+      "start": 72.42,
+      "end": 653.63,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0609-s03",
+      "heading": "期待 Radiohead 柏林場",
+      "start": 653.68,
+      "end": 769.03,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0609-s04",
+      "heading": "市場分析：盤面結構惡化，汰弱留強的代價",
+      "start": 769.08,
+      "end": 1005.03,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0609-s05",
+      "heading": "記憶體漲價受害者：網通三雄、IPC、PC/NB",
+      "start": 1005.08,
+      "end": 1775.59,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0609-s06",
+      "heading": "Q&A",
+      "start": 1775.64,
+      "end": 2995.98,
+      "confidence": 0.667
+    }
+  ]
+}

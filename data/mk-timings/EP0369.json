@@ -1,0 +1,156 @@
+{
+  "ep": 369,
+  "source": "auto-aligned from reports/mk/gooaye-ep0369.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0369.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d54dcc51-d548-4f9c-94e9-b2044f5d5afc/rssFileVip.mp3?timestamp=1690362143797",
+  "duration": 3155.02,
+  "segments": [
+    {
+      "id": "ep0369-s01",
+      "heading": "開場 / 贊助：日本青森青研蘋果汁",
+      "start": 0.0,
+      "end": 78.09,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0369-s02",
+      "heading": "Yes Man 與生活感悟",
+      "start": 78.14,
+      "end": 138.77,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0369-s03",
+      "heading": "正成集團與資本主義接力賽",
+      "start": 138.82,
+      "end": 455.03,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0369-s04",
+      "heading": "飯局交流與 Podcast 經營",
+      "start": 455.08,
+      "end": 729.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0369-s05",
+      "heading": "Radiohead 與人生意義",
+      "start": 729.4,
+      "end": 917.46,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0369-s06",
+      "heading": "市場話題：AMD 與 MI300 遞延",
+      "start": 917.51,
+      "end": 1014.72,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0369-s07",
+      "heading": "AI 股市場與 Bloomberg Terminal 分析",
+      "start": 1014.77,
+      "end": 1194.5,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0369-s08",
+      "heading": "Google、Microsoft 財報與廣告回春訊號",
+      "start": 1194.55,
+      "end": 1364.06,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0369-s09",
+      "heading": "手機市場與整星機衝擊",
+      "start": 1364.11,
+      "end": 1481.98,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0369-s10",
+      "heading": "AI 伺服器與 GPU 供應鏈分析",
+      "start": 1482.03,
+      "end": 1658.84,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0369-s11",
+      "heading": "中東伺服器投資與算力競賽",
+      "start": 1658.89,
+      "end": 1982.48,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0369-s12",
+      "heading": "Q&A 第一部分",
+      "start": 1982.53,
+      "end": 2065.28,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0369-s13",
+      "heading": "Q&A 第二部分",
+      "start": 2065.33,
+      "end": 2290.99,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0369-s14",
+      "heading": "Q&A 第三部分",
+      "start": 2291.04,
+      "end": 2346.73,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0369-s15",
+      "heading": "Q&A 第四部分",
+      "start": 2346.78,
+      "end": 2488.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0369-s16",
+      "heading": "Q&A 第五部分",
+      "start": 2488.84,
+      "end": 2658.77,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0369-s17",
+      "heading": "Q&A 第六部分",
+      "start": 2658.82,
+      "end": 2828.75,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0369-s18",
+      "heading": "Q&A 第七部分",
+      "start": 2828.8,
+      "end": 2942.11,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0369-s19",
+      "heading": "Q&A 第八部分",
+      "start": 2942.16,
+      "end": 2963.97,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0369-s20",
+      "heading": "Q&A 第九部分",
+      "start": 2964.02,
+      "end": 3061.39,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0369-s21",
+      "heading": "Q&A 第十部分",
+      "start": 3061.44,
+      "end": 3155.02,
+      "confidence": 0.689
+    }
+  ]
+}

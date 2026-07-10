@@ -1,0 +1,72 @@
+{
+  "ep": 480,
+  "source": "auto-aligned from reports/mk/gooaye-ep0480.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0480.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c6d76d22-f777-4c01-af7a-d793fe4c0f7f/rssFileVip.mp3?timestamp=1723881005169",
+  "duration": 3064.35,
+  "segments": [
+    {
+      "id": "ep0480-s01",
+      "heading": "開場／贊助：Samsung Galaxy Z Fold 6",
+      "start": 0.0,
+      "end": 76.29,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0480-s02",
+      "heading": "過去兩三週的挑戰",
+      "start": 76.34,
+      "end": 129.39,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0480-s03",
+      "heading": "喉嚨生病及治療",
+      "start": 129.44,
+      "end": 267.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0480-s04",
+      "heading": "市場調整與投資部位",
+      "start": 267.76,
+      "end": 379.19,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0480-s05",
+      "heading": "市場動態分析與 Carry Trade",
+      "start": 379.24,
+      "end": 573.09,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0480-s06",
+      "heading": "產業景氣與基本面分析",
+      "start": 573.14,
+      "end": 794.29,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0480-s07",
+      "heading": "美國政治與經濟政策分析",
+      "start": 794.34,
+      "end": 1434.11,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0480-s08",
+      "heading": "美股投資機會與台灣教育話題",
+      "start": 1434.16,
+      "end": 1697.11,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0480-s09",
+      "heading": "Q&A",
+      "start": 1697.16,
+      "end": 3064.35,
+      "confidence": 0.667
+    }
+  ]
+}

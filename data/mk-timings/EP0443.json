@@ -1,0 +1,65 @@
+{
+  "ep": 443,
+  "source": "auto-aligned from reports/mk/gooaye-ep0443.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0443.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/540f615f-f3ad-4252-bb7a-54fb285f3e70/rssFileVip.mp3?timestamp=1712739583166",
+  "duration": 2982.61,
+  "segments": [
+    {
+      "id": "ep0443-s01",
+      "heading": "開場 / 贊助：修麗可",
+      "start": 0.0,
+      "end": 99.47,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0443-s02",
+      "heading": "降槓桿與生活轉變",
+      "start": 99.52,
+      "end": 203.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0443-s03",
+      "heading": "追劇時間",
+      "start": 203.46,
+      "end": 422.85,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0443-s04",
+      "heading": "陪伴小朋友",
+      "start": 422.9,
+      "end": 531.07,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0443-s05",
+      "heading": "小舅子的足球比賽",
+      "start": 531.12,
+      "end": 731.65,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0443-s06",
+      "heading": "Q&A 環節",
+      "start": 731.7,
+      "end": 1567.85,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0443-s07",
+      "heading": "業界活動與機器人題材",
+      "start": 1567.9,
+      "end": 1716.01,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0443-s08",
+      "heading": "聽眾Q&A",
+      "start": 1716.06,
+      "end": 2982.61,
+      "confidence": 0.711
+    }
+  ]
+}

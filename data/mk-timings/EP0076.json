@@ -1,0 +1,72 @@
+{
+  "ep": 76,
+  "source": "auto-aligned from reports/mk/gooaye-ep0076.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0076.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/82fab8fc-58e0-44d1-bb54-ae9a38d644bf/rssFileVip.mp3?timestamp=1689439405028",
+  "duration": 2359.95,
+  "segments": [
+    {
+      "id": "ep0076-s01",
+      "heading": "開場 / 贊助：OWNDAYS",
+      "start": 0.05,
+      "end": 122.36,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0076-s02",
+      "heading": "台通烤肉派對與酒精過敏",
+      "start": 122.41,
+      "end": 313.36,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0076-s03",
+      "heading": "補充上集：Bethesda Orion 串流技術",
+      "start": 313.41,
+      "end": 481.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0076-s04",
+      "heading": "十月驚奇：川普確診 COVID-19",
+      "start": 481.05,
+      "end": 614.78,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0076-s05",
+      "heading": "川普中標對市場、選情與對中政策的影響",
+      "start": 614.83,
+      "end": 915.9,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0076-s06",
+      "heading": "對中分析：制裁的算盤",
+      "start": 915.95,
+      "end": 1091.58,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0076-s07",
+      "heading": "IPO之亂總結：Palantir、Asana、Unity、Snow",
+      "start": 1091.63,
+      "end": 1330.98,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0076-s08",
+      "heading": "Q&A",
+      "start": 1331.03,
+      "end": 2354.16,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0076-s09",
+      "heading": "結尾",
+      "start": 2354.21,
+      "end": 2359.95,
+      "confidence": 1.0
+    }
+  ]
+}

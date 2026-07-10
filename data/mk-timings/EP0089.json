@@ -1,0 +1,58 @@
+{
+  "ep": 89,
+  "source": "auto-aligned from reports/mk/gooaye-ep0089.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0089.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/86a5d6fb-a9c0-4bd6-af5b-a5bc4801f5d2/rssFileVip.mp3?timestamp=1689439385982",
+  "duration": 1979.51,
+  "segments": [
+    {
+      "id": "ep0089-s01",
+      "heading": "開場 / 贊助：V-TEX 防水鞋",
+      "start": 0.0,
+      "end": 122.61,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0089-s02",
+      "heading": "近況：台股一片紅盤",
+      "start": 122.66,
+      "end": 226.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0089-s03",
+      "heading": "近期強勢族群：中國內需股與 IC 設計",
+      "start": 226.5,
+      "end": 409.17,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0089-s04",
+      "heading": "主題：0050 vs. 台積電——玉子燒的比喻",
+      "start": 409.22,
+      "end": 783.07,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0089-s05",
+      "heading": "集中 vs. 分散：ETF 選擇的光譜",
+      "start": 783.12,
+      "end": 1044.83,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0089-s06",
+      "heading": "Q&A：海外聽眾來信",
+      "start": 1044.88,
+      "end": 1969.73,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0089-s07",
+      "heading": "結尾",
+      "start": 1969.78,
+      "end": 1979.51,
+      "confidence": 0.549
+    }
+  ]
+}

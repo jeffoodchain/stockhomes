@@ -1,0 +1,86 @@
+{
+  "ep": 407,
+  "source": "auto-aligned from reports/mk/gooaye-ep0407.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0407.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/14508105-d269-4a23-88e6-752bdcb4bd75/rssFileVip.mp3?timestamp=1701850968453",
+  "duration": 2994.52,
+  "segments": [
+    {
+      "id": "ep0407-s01",
+      "heading": "開場 / 贊助：Roichen 正脊坐墊",
+      "start": 0.0,
+      "end": 90.91,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0407-s02",
+      "heading": "GTA6 與人生時光的感慨",
+      "start": 90.96,
+      "end": 282.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0407-s03",
+      "heading": "新加坡領養狗狗",
+      "start": 282.28,
+      "end": 367.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0407-s04",
+      "heading": "新加坡之旅與食物的反思",
+      "start": 367.78,
+      "end": 437.28,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0407-s05",
+      "heading": "新加坡 AI 投資與中資背景",
+      "start": 437.33,
+      "end": 532.98,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0407-s06",
+      "heading": "美國商務部的芯片禁令策略",
+      "start": 533.03,
+      "end": 802.06,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0407-s07",
+      "heading": "新加坡成為潛在商機",
+      "start": 802.11,
+      "end": 968.74,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0407-s08",
+      "heading": "美國製造與臺灣的競爭力",
+      "start": 968.79,
+      "end": 1261.52,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0407-s09",
+      "heading": "記憶體漲價見報",
+      "start": 1261.57,
+      "end": 1474.8,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0407-s10",
+      "heading": "AI 伺服器與傳統伺服器的前景",
+      "start": 1474.85,
+      "end": 1677.35,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0407-s11",
+      "heading": "Q&A 開始",
+      "start": 1677.4,
+      "end": 2994.52,
+      "confidence": 0.622
+    }
+  ]
+}

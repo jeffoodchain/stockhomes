@@ -1,0 +1,219 @@
+{
+  "ep": 391,
+  "source": "auto-aligned from reports/mk/gooaye-ep0391.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0391.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/848bfdab-df14-4356-8aa4-1e47396c2a77/rssFileVip.mp3?timestamp=1697082341738",
+  "duration": 3006.59,
+  "segments": [
+    {
+      "id": "ep0391-s01",
+      "heading": "開場 / 贊助：Coloran 法國蔻蘿蘭",
+      "start": 0.0,
+      "end": 99.17,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0391-s02",
+      "heading": "宅文化敏感度與社會變遷",
+      "start": 99.22,
+      "end": 243.57,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0391-s03",
+      "heading": "新竹養育困境與同儕比較",
+      "start": 243.62,
+      "end": 331.87,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0391-s04",
+      "heading": "矽谷痛苦與相對剝奪感",
+      "start": 331.92,
+      "end": 394.33,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0391-s05",
+      "heading": "個人身份認同與敏感文化",
+      "start": 394.38,
+      "end": 575.05,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0391-s06",
+      "heading": "社會敏感化與長輩關係",
+      "start": 575.1,
+      "end": 672.79,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0391-s07",
+      "heading": "以巴衝突背景",
+      "start": 672.84,
+      "end": 767.39,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0391-s08",
+      "heading": "以巴衝突分析",
+      "start": 767.44,
+      "end": 839.37,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0391-s09",
+      "heading": "以色列防禦漏洞分析",
+      "start": 839.42,
+      "end": 886.75,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0391-s10",
+      "heading": "哈馬斯襲擊事件",
+      "start": 886.8,
+      "end": 996.65,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0391-s11",
+      "heading": "哈馬斯暴行",
+      "start": 996.7,
+      "end": 1042.43,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0391-s12",
+      "heading": "邊境社群遭襲",
+      "start": 1042.48,
+      "end": 1103.15,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0391-s13",
+      "heading": "以色列反擊與軍營防線",
+      "start": 1103.2,
+      "end": 1176.89,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0391-s14",
+      "heading": "衝突的人道與戰略考量",
+      "start": 1176.94,
+      "end": 1218.11,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0391-s15",
+      "heading": "市場影響分析",
+      "start": 1218.16,
+      "end": 1299.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0391-s16",
+      "heading": "以色列科技產業風險",
+      "start": 1299.54,
+      "end": 1415.63,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0391-s17",
+      "heading": "梅拉諾克斯併購風險",
+      "start": 1415.68,
+      "end": 1458.15,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0391-s18",
+      "heading": "以色列科技股投資觀點",
+      "start": 1458.2,
+      "end": 1524.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0391-s19",
+      "heading": "市場展望與不確定性",
+      "start": 1525.02,
+      "end": 1608.73,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0391-s20",
+      "heading": "投資分享與人道同情",
+      "start": 1608.78,
+      "end": 1656.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0391-s21",
+      "heading": "市場反應預測",
+      "start": 1656.4,
+      "end": 1696.65,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0391-s22",
+      "heading": "群眾預測與投資策略",
+      "start": 1696.7,
+      "end": 1735.53,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0391-s23",
+      "heading": "聽眾提問環節",
+      "start": 1735.58,
+      "end": 1778.13,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0391-s24",
+      "heading": "醫療行業管制討論",
+      "start": 1778.18,
+      "end": 1915.61,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0391-s25",
+      "heading": "Q&A：快問快答",
+      "start": 1915.66,
+      "end": 1946.28,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0391-s26",
+      "heading": "當兵經驗分享",
+      "start": 1946.33,
+      "end": 2035.11,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0391-s27",
+      "heading": "家庭照護困境",
+      "start": 2035.16,
+      "end": 2132.3,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0391-s28",
+      "heading": "升學規劃與海外旅遊",
+      "start": 2132.35,
+      "end": 2285.68,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0391-s29",
+      "heading": "投資歷程分享",
+      "start": 2285.73,
+      "end": 2662.9,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0391-s30",
+      "heading": "最後提問與結束",
+      "start": 2662.95,
+      "end": 3006.59,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "ep": 631,
+  "source": "auto-aligned from reports/mk/gooaye-ep0631.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0631.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a9201652-a419-4a3c-a9f9-e6a09d91f976/rssFileVip.mp3?timestamp=1769638805486",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0631-s01",
+      "heading": "開場 / 贊助：慕赫單一麥芽威士忌新年禮盒",
+      "start": 0.05,
+      "end": 118.2,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0631-s02",
+      "heading": "育兒：佩服 Lisa 的戰神基因",
+      "start": 118.25,
+      "end": 322.5,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0631-s03",
+      "heading": "Alex Honnold 攀爬 101：尊重 risk taker",
+      "start": 322.55,
+      "end": 687.32,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0631-s04",
+      "heading": "市場：臺股瘋狂、美股相對沉悶",
+      "start": 687.37,
+      "end": 732.08,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0631-s05",
+      "heading": "韓國案例：軍購預算與關稅施壓",
+      "start": 732.13,
+      "end": 971.88,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0631-s06",
+      "heading": "漲價題材：記憶體、被動元件、ABF、銅箔",
+      "start": 971.93,
+      "end": 1144.3,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0631-s07",
+      "heading": "低軌道衛星：Starlink、Amazon Leo、Terra Wave",
+      "start": 1144.35,
+      "end": 1410.24,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0631-s08",
+      "heading": "衛星供應鏈：從 Top-Down 到 Bottom-Up",
+      "start": 1410.29,
+      "end": 1767.74,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0631-s09",
+      "heading": "Q&A：祝福轉職、找到理想工作",
+      "start": 1767.79,
+      "end": 1800.32,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0631-s10",
+      "heading": "Q&A：資工所考試還願",
+      "start": 1800.37,
+      "end": 1831.22,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0631-s11",
+      "heading": "Q&A：好兄弟被劈腿",
+      "start": 1831.27,
+      "end": 1866.12,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0631-s12",
+      "heading": "Q&A：Lillian 生日快樂 & 長輩催生",
+      "start": 1866.17,
+      "end": 2095.6,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0631-s13",
+      "heading": "Q&A：66 同學生日快樂",
+      "start": 2095.65,
+      "end": 2109.18,
+      "confidence": 0.788
+    },
+    {
+      "id": "ep0631-s14",
+      "heading": "Q&A：AI RAN 題材",
+      "start": 2109.23,
+      "end": 2161.74,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0631-s15",
+      "heading": "Q&A：LOL ID & 偷東西的回憶",
+      "start": 2161.79,
+      "end": 2297.66,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0631-s16",
+      "heading": "Q&A：跳過古巴菲特生技疑問",
+      "start": 2297.71,
+      "end": 2309.46,
+      "confidence": 0.653
+    },
+    {
+      "id": "ep0631-s17",
+      "heading": "Q&A：常識 common sense",
+      "start": 2309.51,
+      "end": 2448.25,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0631-s18",
+      "heading": "Q&A：米高玄師重複留言",
+      "start": 2448.3,
+      "end": 2470.3,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0631-s19",
+      "heading": "Q&A：感謝節目開啟階級視野",
+      "start": 2470.35,
+      "end": 2588.6,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0631-s20",
+      "heading": "Q&A：大方發願、許願吃素的邏輯",
+      "start": 2588.65,
+      "end": 2730.87,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0631-s21",
+      "heading": "Q&A：算命的經驗與建議",
+      "start": 2730.92,
+      "end": 2935.49,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0631-s22",
+      "heading": "Q&A：怎麼判斷賣股票",
+      "start": 2935.54,
+      "end": 2997.47,
+      "confidence": 0.733
+    }
+  ]
+}

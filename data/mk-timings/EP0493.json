@@ -1,0 +1,72 @@
+{
+  "ep": 493,
+  "source": "auto-aligned from reports/mk/gooaye-ep0493.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0493.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a6b1990c-3809-4905-857f-b01a8be248a1/rssFileVip.mp3?timestamp=1727856017978",
+  "duration": 3171.34,
+  "segments": [
+    {
+      "id": "ep0493-s01",
+      "heading": "開場 / 贊助：TS6 私密保養專家",
+      "start": 0.0,
+      "end": 106.71,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0493-s02",
+      "heading": "颱風假風波與市場影響",
+      "start": 106.76,
+      "end": 591.11,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0493-s03",
+      "heading": "股市活力回升與任天堂相關題材",
+      "start": 591.16,
+      "end": 852.23,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0493-s04",
+      "heading": "任天堂產業供應鏈與風扇廠商",
+      "start": 852.28,
+      "end": 1002.31,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0493-s05",
+      "heading": "PMIC 市場與功率管理晶片",
+      "start": 1002.36,
+      "end": 1220.23,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0493-s06",
+      "heading": "台灣拼命產業前景與供應鏈轉變",
+      "start": 1220.28,
+      "end": 1316.23,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0493-s07",
+      "heading": "DDR5 模組與 PMIC 應用的深度分析",
+      "start": 1316.28,
+      "end": 1534.47,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0493-s08",
+      "heading": "結語：PMIC 市場的複雜性與投資機會",
+      "start": 1534.52,
+      "end": 1763.63,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0493-s09",
+      "heading": "Q&A 環節",
+      "start": 1763.68,
+      "end": 3171.34,
+      "confidence": 0.767
+    }
+  ]
+}

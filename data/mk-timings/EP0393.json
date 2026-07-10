@@ -1,0 +1,72 @@
+{
+  "ep": 393,
+  "source": "auto-aligned from reports/mk/gooaye-ep0393.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0393.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/86595e45-9a7a-4527-938e-de8e44014111/rssFileVip.mp3?timestamp=1697619386115",
+  "duration": 3156.48,
+  "segments": [
+    {
+      "id": "ep0393-s01",
+      "heading": "開場 / 贊助：簡單 JAN DAN 保養品",
+      "start": 0.0,
+      "end": 119.59,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0393-s02",
+      "heading": "開頭：流浪狗認養",
+      "start": 119.64,
+      "end": 225.63,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0393-s03",
+      "heading": "美國對華強化晶片禁令",
+      "start": 225.68,
+      "end": 414.47,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0393-s04",
+      "heading": "新禁令詳解：TPP 與 PD 標準",
+      "start": 414.52,
+      "end": 793.53,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0393-s05",
+      "heading": "對海外租賃企業的分析",
+      "start": 793.58,
+      "end": 968.71,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0393-s06",
+      "heading": "全面禁令的影響",
+      "start": 968.76,
+      "end": 1122.23,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0393-s07",
+      "heading": "長期 AI 展望與股票策略",
+      "start": 1122.28,
+      "end": 1304.25,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0393-s08",
+      "heading": "長期信心與歷史參考",
+      "start": 1304.3,
+      "end": 1543.79,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0393-s09",
+      "heading": "Q&A 與聽眾互動",
+      "start": 1543.84,
+      "end": 3156.48,
+      "confidence": 0.656
+    }
+  ]
+}

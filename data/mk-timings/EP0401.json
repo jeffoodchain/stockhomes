@@ -1,0 +1,114 @@
+{
+  "ep": 401,
+  "source": "auto-aligned from reports/mk/gooaye-ep0401.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0401.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7739586e-6cf7-4529-804e-e25c28ed01c6/rssFileVip.mp3?timestamp=1700036492950",
+  "duration": 3137.18,
+  "segments": [
+    {
+      "id": "ep0401-s01",
+      "heading": "開場 / 贊助：Zenyum 綻雅隱形牙套",
+      "start": 0.0,
+      "end": 73.79,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0401-s02",
+      "heading": "高雄之旅與城市感受",
+      "start": 73.84,
+      "end": 185.87,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0401-s03",
+      "heading": "Coldplay 演唱會體驗",
+      "start": 185.92,
+      "end": 495.42,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0401-s04",
+      "heading": "對環保議題的想法",
+      "start": 495.47,
+      "end": 617.08,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0401-s05",
+      "heading": "演唱會後的思考",
+      "start": 617.13,
+      "end": 880.37,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0401-s06",
+      "heading": "Coldplay 演唱會進出場攻略",
+      "start": 880.42,
+      "end": 921.83,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0401-s07",
+      "heading": "最近市場概況與展望",
+      "start": 921.88,
+      "end": 1002.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0401-s08",
+      "heading": "個人投資反思",
+      "start": 1002.26,
+      "end": 1119.31,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0401-s09",
+      "heading": "未來市場與選股策略",
+      "start": 1119.36,
+      "end": 1231.35,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0401-s10",
+      "heading": "對未來發展的樂觀展望",
+      "start": 1231.4,
+      "end": 1543.57,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0401-s11",
+      "heading": "標案市場與政府投資",
+      "start": 1543.62,
+      "end": 1734.27,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0401-s12",
+      "heading": "市場定位與選股框架",
+      "start": 1734.32,
+      "end": 1798.03,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0401-s13",
+      "heading": "選股指標與案例",
+      "start": 1798.08,
+      "end": 1958.13,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0401-s14",
+      "heading": "結論與後續投資方向",
+      "start": 1958.18,
+      "end": 2023.43,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0401-s15",
+      "heading": "Q&A 部分",
+      "start": 2023.48,
+      "end": 3137.18,
+      "confidence": 0.6
+    }
+  ]
+}

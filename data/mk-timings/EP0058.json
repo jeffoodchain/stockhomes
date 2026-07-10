@@ -1,0 +1,72 @@
+{
+  "ep": 58,
+  "source": "auto-aligned from reports/mk/gooaye-ep0058.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0058.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cbfae63f-7501-49f0-965a-9fbd7db5c209/rssFileVip.mp3?timestamp=1689439406097",
+  "duration": 2423.85,
+  "segments": [
+    {
+      "id": "ep0058-s01",
+      "heading": "開場 / 贊助：TENGA × 2GR4ER",
+      "start": 0.46,
+      "end": 119.63,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0058-s02",
+      "heading": "推薦音樂：Pink Floyd《Live in Pompeii》",
+      "start": 119.68,
+      "end": 575.13,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0058-s03",
+      "heading": "大盤與投資觀念：個股分化時代",
+      "start": 575.18,
+      "end": 765.19,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0058-s04",
+      "heading": "TikTok 風波：誰能接手字節跳動美國業務？",
+      "start": 765.24,
+      "end": 1019.19,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0058-s05",
+      "heading": "Garmin 遭勒索軟體攻擊（WastedLocker × Evil Corp）",
+      "start": 1019.24,
+      "end": 1266.55,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0058-s06",
+      "heading": "財報漂亮卻大跌——短線的隨機性",
+      "start": 1266.6,
+      "end": 1478.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0058-s07",
+      "heading": "妖股案例：柯達（Kodak）25 倍傳奇",
+      "start": 1478.06,
+      "end": 1719.79,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0058-s08",
+      "heading": "Q&A",
+      "start": 1719.84,
+      "end": 2330.27,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0058-s09",
+      "heading": "結尾",
+      "start": 2330.32,
+      "end": 2423.85,
+      "confidence": 0.978
+    }
+  ]
+}

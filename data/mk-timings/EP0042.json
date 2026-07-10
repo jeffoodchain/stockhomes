@@ -1,0 +1,51 @@
+{
+  "ep": 42,
+  "source": "auto-aligned from reports/mk/gooaye-ep0042.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0042.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e5082554-292b-44aa-b4e5-62b000bbc6ea/rssFileVip.mp3?timestamp=1689439397486",
+  "duration": 2406.03,
+  "segments": [
+    {
+      "id": "ep0042-s01",
+      "heading": "開場 / 贊助：走走家具",
+      "start": 0.24,
+      "end": 117.67,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0042-s02",
+      "heading": "電影推薦：Dark 與 Ozark",
+      "start": 117.72,
+      "end": 309.33,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0042-s03",
+      "heading": "00672L 回顧：原油期貨ETF的荒謬",
+      "start": 309.38,
+      "end": 804.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0042-s04",
+      "heading": "別人恐懼我貪婪？香港與巴菲特",
+      "start": 804.98,
+      "end": 1291.12,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0042-s05",
+      "heading": "Q&A",
+      "start": 1291.17,
+      "end": 2372.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0042-s06",
+      "heading": "結尾",
+      "start": 2372.36,
+      "end": 2406.03,
+      "confidence": 0.744
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 586,
+  "source": "auto-aligned from reports/mk/gooaye-ep0586.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0586.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b716b431-8534-47f2-8628-d55c6eaa8d20/rssFileVip.mp3?timestamp=1755937464975",
+  "duration": 3007.87,
+  "segments": [
+    {
+      "id": "ep0586-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 56.67,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0586-s02",
+      "heading": "聊聊：帶兒子出門、孩子的第一次成長",
+      "start": 56.72,
+      "end": 300.15,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0586-s03",
+      "heading": "肖楠資本：創始股東會進展",
+      "start": 300.2,
+      "end": 503.27,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0586-s04",
+      "heading": "市場回顧：這波反彈抓到了",
+      "start": 503.32,
+      "end": 669.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0586-s05",
+      "heading": "技術面：強勢股操作的學習與應用",
+      "start": 669.42,
+      "end": 1037.93,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0586-s06",
+      "heading": "市場新聞：美國政府入股台積電、Intel",
+      "start": 1037.98,
+      "end": 1505.49,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0586-s07",
+      "heading": "市場新聞：Meta、Apple、Google、GPT-5",
+      "start": 1505.54,
+      "end": 1956.89,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0586-s08",
+      "heading": "Q&A",
+      "start": 1956.94,
+      "end": 3007.87,
+      "confidence": 0.778
+    }
+  ]
+}

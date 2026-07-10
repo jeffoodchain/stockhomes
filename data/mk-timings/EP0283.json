@@ -1,0 +1,51 @@
+{
+  "ep": 283,
+  "source": "auto-aligned from reports/mk/gooaye-ep0283.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0283.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a336411d-b15e-482c-b6bb-d25e7be55bfc/rssFileVip.mp3?timestamp=1689439383272",
+  "duration": 2829.56,
+  "segments": [
+    {
+      "id": "ep0283-s01",
+      "heading": "開場 / 贊助：Alto 皮革配件",
+      "start": 0.0,
+      "end": 111.07,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0283-s02",
+      "heading": "躺平哲學：與交易大神聚會有感",
+      "start": 111.12,
+      "end": 595.07,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0283-s03",
+      "heading": "書單推薦：《黑色優勢》(Black Edge)",
+      "start": 595.12,
+      "end": 1296.95,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0283-s04",
+      "heading": "市場觀察：Jeremy Siegel 批 Fed、債券機會",
+      "start": 1297.0,
+      "end": 1470.23,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0283-s05",
+      "heading": "Long-Short 配置策略",
+      "start": 1470.28,
+      "end": 1806.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0283-s06",
+      "heading": "Q&A",
+      "start": 1806.92,
+      "end": 2829.56,
+      "confidence": 0.711
+    }
+  ]
+}

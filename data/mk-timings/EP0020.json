@@ -1,0 +1,79 @@
+{
+  "ep": 20,
+  "source": "auto-aligned from reports/mk/gooaye-ep0020.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0020.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/09671ee3-48bc-49b8-8b42-9ae61cd05729/rssFileVip.mp3?timestamp=1689439381750",
+  "duration": 1502.48,
+  "segments": [
+    {
+      "id": "ep0020-s01",
+      "heading": "開場 / 贊助：茄子青旅 Hostel Jiizu",
+      "start": 0.27,
+      "end": 34.22,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0020-s02",
+      "heading": "疫情下的經濟警示",
+      "start": 34.27,
+      "end": 214.94,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0020-s03",
+      "heading": "今日主題：破除投資迷思",
+      "start": 214.99,
+      "end": 282.65,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0020-s04",
+      "heading": "投資觀念：強的定義、看錯與看對",
+      "start": 282.7,
+      "end": 439.61,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0020-s05",
+      "heading": "節目聊天對象：A 與 B 的投資方式",
+      "start": 439.66,
+      "end": 594.51,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0020-s06",
+      "heading": "臺股電子股 vs. 傳產股",
+      "start": 594.56,
+      "end": 868.04,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0020-s07",
+      "heading": "破除「無腦投資」、「懶人投資」、「被動投資」",
+      "start": 868.09,
+      "end": 1169.14,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0020-s08",
+      "heading": "「懶人投資」的迷思",
+      "start": 1169.19,
+      "end": 1337.14,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0020-s09",
+      "heading": "「被動投資」的盲點",
+      "start": 1337.19,
+      "end": 1453.01,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0020-s10",
+      "heading": "結語與節目走向",
+      "start": 1453.06,
+      "end": 1502.48,
+      "confidence": 0.7
+    }
+  ]
+}

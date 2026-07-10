@@ -1,0 +1,72 @@
+{
+  "ep": 160,
+  "source": "auto-aligned from reports/mk/gooaye-ep0160.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0160.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d95c402b-bf9a-4350-8e72-f428cd94fe0b/rssFileVip.mp3?timestamp=1689439396637",
+  "duration": 2588.81,
+  "segments": [
+    {
+      "id": "ep0160-s01",
+      "heading": "開場 / 贊助：伊萊克斯 × 錦達貿易",
+      "start": 0.0,
+      "end": 90.29,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0160-s02",
+      "heading": "颱風日常與 Choco 選路",
+      "start": 90.34,
+      "end": 179.25,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0160-s03",
+      "heading": "外送員兩難與颱風天",
+      "start": 179.3,
+      "end": 244.27,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0160-s04",
+      "heading": "鄭州水災與台灣供應鏈影響",
+      "start": 244.32,
+      "end": 461.41,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0160-s05",
+      "heading": "美股廣告股大噴發：Twitter、Snapchat 財報",
+      "start": 461.46,
+      "end": 679.51,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0160-s06",
+      "heading": "iOS 隱私權政策與廣告生態",
+      "start": 679.56,
+      "end": 1018.65,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0160-s07",
+      "heading": "中概股股災：教育股單日腰斬",
+      "start": 1018.7,
+      "end": 1600.87,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0160-s08",
+      "heading": "抄底迷思：買盤、選擇權、成交量的三個陷阱",
+      "start": 1600.92,
+      "end": 1900.83,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0160-s09",
+      "heading": "Q&A",
+      "start": 1900.88,
+      "end": 2588.81,
+      "confidence": 0.722
+    }
+  ]
+}

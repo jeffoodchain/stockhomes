@@ -1,0 +1,93 @@
+{
+  "ep": 387,
+  "source": "auto-aligned from reports/mk/gooaye-ep0387.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0387.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/55d4fdce-38b4-4184-8868-4b296b627f8b/rssFileVip.mp3?timestamp=1695811197631",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0387-s01",
+      "heading": "開場 / 贊助：Dyson",
+      "start": 0.05,
+      "end": 89.04,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0387-s02",
+      "heading": "市場狀況與投資決策",
+      "start": 89.09,
+      "end": 129.54,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0387-s03",
+      "heading": "停損與風險控制",
+      "start": 129.59,
+      "end": 231.08,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0387-s04",
+      "heading": "分散投資 vs. 頻繁交易",
+      "start": 231.13,
+      "end": 480.34,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0387-s05",
+      "heading": "歷史研究與人性循環",
+      "start": 480.39,
+      "end": 762.61,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0387-s06",
+      "heading": "等待與耐心",
+      "start": 762.66,
+      "end": 927.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0387-s07",
+      "heading": "通膨再爆與衰退環境",
+      "start": 927.84,
+      "end": 1207.87,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0387-s08",
+      "heading": "汽車工會與成本困境",
+      "start": 1207.92,
+      "end": 1533.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0387-s09",
+      "heading": "衰退環境下的投資策略",
+      "start": 1533.82,
+      "end": 1700.77,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0387-s10",
+      "heading": "衰退各階段的板塊表現",
+      "start": 1700.82,
+      "end": 2067.07,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0387-s11",
+      "heading": "科技股在衰退中的機會",
+      "start": 2067.12,
+      "end": 2215.47,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0387-s12",
+      "heading": "節目總結與 Q&A",
+      "start": 2215.52,
+      "end": 3000.45,
+      "confidence": 0.6
+    }
+  ]
+}

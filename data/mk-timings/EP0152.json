@@ -1,0 +1,65 @@
+{
+  "ep": 152,
+  "source": "auto-aligned from reports/mk/gooaye-ep0152.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0152.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/36eba442-2ac1-4bff-91e2-bc803f0e7371/rssFileVip.mp3?timestamp=1689439401462",
+  "duration": 2542.73,
+  "segments": [
+    {
+      "id": "ep0152-s01",
+      "heading": "開場 / 贊助：DR.WU 達爾膚",
+      "start": 0.0,
+      "end": 118.75,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0152-s02",
+      "heading": "生活聊聊：老婆打到莫德納疫苗",
+      "start": 118.8,
+      "end": 164.59,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0152-s03",
+      "heading": "紓困貸款爭議：媒體操弄與獵巫風氣",
+      "start": 164.64,
+      "end": 313.17,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0152-s04",
+      "heading": "紓困貸款與「套利」誤用",
+      "start": 313.22,
+      "end": 535.23,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0152-s05",
+      "heading": "台美市場概況",
+      "start": 535.28,
+      "end": 651.73,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0152-s06",
+      "heading": "台股歪打正著案例一：朋程（車用二極體 SiC MOSFET）",
+      "start": 651.78,
+      "end": 1399.93,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0152-s07",
+      "heading": "台股歪打正著案例二：台郡（LCP 軟板天線）",
+      "start": 1399.98,
+      "end": 1596.17,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0152-s08",
+      "heading": "Q&A",
+      "start": 1596.22,
+      "end": 2542.73,
+      "confidence": 0.778
+    }
+  ]
+}

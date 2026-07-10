@@ -1,0 +1,93 @@
+{
+  "ep": 143,
+  "source": "auto-aligned from reports/mk/gooaye-ep0143.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0143.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c94b78c1-7aa7-4c35-943e-74c358e8f7a1/rssFileVip.mp3?timestamp=1689439392705",
+  "duration": 2597.72,
+  "segments": [
+    {
+      "id": "ep0143-s01",
+      "heading": "開場 / 贊助：我的健康日記超前部署益生菌",
+      "start": 0.0,
+      "end": 112.11,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0143-s02",
+      "heading": "疫情三級警戒下的居家生活",
+      "start": 112.16,
+      "end": 350.75,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0143-s03",
+      "heading": "支援在地商家：疫情下的創業困境",
+      "start": 350.8,
+      "end": 685.69,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0143-s04",
+      "heading": "市況：台美股資金往電子輪動",
+      "start": 685.74,
+      "end": 894.55,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0143-s05",
+      "heading": "美股：ARK/Elon Musk/Chamath Palihapitiya的散戶風向",
+      "start": 894.6,
+      "end": 1041.85,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0143-s06",
+      "heading": "台股大跌後的冷靜分析",
+      "start": 1041.9,
+      "end": 1268.37,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0143-s07",
+      "heading": "GME與AMC再起：散戶炒股的蝴蝶效應",
+      "start": 1268.42,
+      "end": 1575.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0143-s08",
+      "heading": "預告：查理·蒙格系列",
+      "start": 1575.68,
+      "end": 1694.13,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0143-s09",
+      "heading": "Q&A",
+      "start": 1694.18,
+      "end": 2084.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0143-s10",
+      "heading": "EPIC GAMES vs Apple 反壟斷事件",
+      "start": 2084.22,
+      "end": 2447.13,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0143-s11",
+      "heading": "顯示卡荒與加密貨幣挖礦",
+      "start": 2447.18,
+      "end": 2582.65,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0143-s12",
+      "heading": "結尾",
+      "start": 2582.7,
+      "end": 2597.72,
+      "confidence": 0.753
+    }
+  ]
+}

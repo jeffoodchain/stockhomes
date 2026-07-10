@@ -1,0 +1,86 @@
+{
+  "ep": 308,
+  "source": "auto-aligned from reports/mk/gooaye-ep0308.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0308.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/89ebc065-9d29-4c7f-ab08-1f5083fd947f/rssFileVip.mp3?timestamp=1689439405926",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0308-s01",
+      "heading": "開場 / 贊助：知識衛星《小富翁大贏家》理財桌遊",
+      "start": 0.0,
+      "end": 61.41,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0308-s02",
+      "heading": "聖誕節的意義",
+      "start": 61.46,
+      "end": 206.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0308-s03",
+      "heading": "岳母家的聖誕節儀式",
+      "start": 206.1,
+      "end": 395.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0308-s04",
+      "heading": "聖誕樹的儀式感",
+      "start": 395.3,
+      "end": 533.97,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0308-s05",
+      "heading": "明年投資展望：難找題材",
+      "start": 534.02,
+      "end": 745.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0308-s06",
+      "heading": "喜相逢私廚、股乾爹",
+      "start": 745.86,
+      "end": 957.53,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0308-s07",
+      "heading": "中國解封",
+      "start": 957.58,
+      "end": 1213.15,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0308-s08",
+      "heading": "老婆選股：家樂福/好市多/富邦媒/可口可樂/寶雅/Uniqlo/麥當勞",
+      "start": 1213.2,
+      "end": 1498.48,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0308-s09",
+      "heading": "價值股復辟",
+      "start": 1498.53,
+      "end": 1645.66,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0308-s10",
+      "heading": "Q&A",
+      "start": 1645.71,
+      "end": 2973.35,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0308-s11",
+      "heading": "結尾",
+      "start": 2973.4,
+      "end": 2993.03,
+      "confidence": 0.689
+    }
+  ]
+}

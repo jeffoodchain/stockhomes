@@ -1,0 +1,79 @@
+{
+  "ep": 298,
+  "source": "auto-aligned from reports/mk/gooaye-ep0298.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0298.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cf46ecd3-8491-4f67-9d62-319af53f1a6f/rssFileVip.mp3?timestamp=1689439403242",
+  "duration": 3288.76,
+  "segments": [
+    {
+      "id": "ep0298-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 46.37,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0298-s02",
+      "heading": "日本旅遊：帶小孩出門",
+      "start": 46.42,
+      "end": 225.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0298-s03",
+      "heading": "壽司之神次子店體驗",
+      "start": 225.76,
+      "end": 652.37,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0298-s04",
+      "heading": "短線題材交易觀念",
+      "start": 652.42,
+      "end": 1027.99,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0298-s05",
+      "heading": "催化劑選股邏輯",
+      "start": 1028.04,
+      "end": 1141.59,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0298-s06",
+      "heading": "催化劑案例：記憶體減產與歐洲暖冬",
+      "start": 1141.64,
+      "end": 1420.87,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0298-s07",
+      "heading": "浪子回頭金不換：飆股選擇策略",
+      "start": 1420.92,
+      "end": 1757.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0298-s08",
+      "heading": "籌碼與技術面：投信買盤與突破策略",
+      "start": 1758.04,
+      "end": 2214.47,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0298-s09",
+      "heading": "融資判讀：大戶還是散戶？",
+      "start": 2214.52,
+      "end": 2469.82,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0298-s10",
+      "heading": "Q&A",
+      "start": 2469.87,
+      "end": 3288.76,
+      "confidence": 0.7
+    }
+  ]
+}

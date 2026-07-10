@@ -1,0 +1,149 @@
+{
+  "ep": 375,
+  "source": "auto-aligned from reports/mk/gooaye-ep0375.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0375.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8c3f0578-449b-41eb-a64a-7b0a87dc5da4/rssFileVip.mp3?timestamp=1692175738218",
+  "duration": 3065.84,
+  "segments": [
+    {
+      "id": "ep0375-s01",
+      "heading": "開場 / 贊助：Lojel 旅行箱",
+      "start": 0.0,
+      "end": 72.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0375-s02",
+      "heading": "參訪研華科技新園區",
+      "start": 72.9,
+      "end": 114.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0375-s03",
+      "heading": "參訪後的感受",
+      "start": 114.92,
+      "end": 198.99,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0375-s04",
+      "heading": "園區位置與林口區域討論",
+      "start": 199.04,
+      "end": 259.95,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0375-s05",
+      "heading": "園區設施與 IoT 展示",
+      "start": 260.0,
+      "end": 338.09,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0375-s06",
+      "heading": "與經理溝通",
+      "start": 338.14,
+      "end": 454.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0375-s07",
+      "heading": "股價與估值討論",
+      "start": 454.5,
+      "end": 491.95,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0375-s08",
+      "heading": "工業電腦（IPC）應用與市場",
+      "start": 492.0,
+      "end": 614.05,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0375-s09",
+      "heading": "IPC 產業特性與經營模式",
+      "start": 614.1,
+      "end": 713.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0375-s10",
+      "heading": "對產業未來與自我反思",
+      "start": 713.74,
+      "end": 793.39,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0375-s11",
+      "heading": "ChatGPT 自訂功能介紹",
+      "start": 793.44,
+      "end": 859.63,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0375-s12",
+      "heading": "OpenAI 商業模式與美國創業文化",
+      "start": 859.68,
+      "end": 1013.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0375-s13",
+      "heading": "未來 AI 應用方向",
+      "start": 1013.08,
+      "end": 1065.73,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0375-s14",
+      "heading": "鴻海法說會與產業動態",
+      "start": 1065.78,
+      "end": 1138.41,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0375-s15",
+      "heading": "雲端與 AI 伺服器市場",
+      "start": 1138.46,
+      "end": 1203.65,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0375-s16",
+      "heading": "鴻海的一條龍供應鏈",
+      "start": 1203.7,
+      "end": 1326.35,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0375-s17",
+      "heading": "AI 伺服器產業鏈分解",
+      "start": 1326.4,
+      "end": 1513.75,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0375-s18",
+      "heading": "股票走勢與投資心態",
+      "start": 1513.8,
+      "end": 1682.45,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0375-s19",
+      "heading": "對 AI 產業的看法與修正",
+      "start": 1682.5,
+      "end": 1769.51,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0375-s20",
+      "heading": "Q&A：新手停損與心態",
+      "start": 1769.56,
+      "end": 3065.84,
+      "confidence": 0.7
+    }
+  ]
+}

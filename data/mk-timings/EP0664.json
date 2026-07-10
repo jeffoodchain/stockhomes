@@ -1,0 +1,163 @@
+{
+  "ep": 664,
+  "source": "auto-aligned from reports/mk/gooaye-ep0664.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0664.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7d6d137a-d8b8-40b4-ad00-a7426407c729/rssFileVip.mp3?timestamp=1779562249863",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0664-s01",
+      "heading": "開場 / 贊助：知識衛星《企業財稅必修課》",
+      "start": 0.0,
+      "end": 111.61,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0664-s02",
+      "heading": "過去一週：處置股關到動彈不得",
+      "start": 111.66,
+      "end": 181.57,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0664-s03",
+      "heading": "紅酒小發現：傳奇酒款在餐廳半價喝",
+      "start": 181.62,
+      "end": 683.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0664-s04",
+      "heading": "市場焦點：Anthropic 轉獲利、AI 泡沫論破功",
+      "start": 684.04,
+      "end": 802.43,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0664-s05",
+      "heading": "Google × Blackstone 合搞 TPU Cluster",
+      "start": 802.48,
+      "end": 1120.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0664-s06",
+      "heading": "被動元件：MLCC、鋁電容全面噴射",
+      "start": 1120.9,
+      "end": 1510.13,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0664-s07",
+      "heading": "噴射段：基本面 vs. 技術面",
+      "start": 1510.18,
+      "end": 1694.51,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0664-s08",
+      "heading": "Q&A：處置制度的雙標感想",
+      "start": 1694.56,
+      "end": 1792.59,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0664-s09",
+      "heading": "Q&A：和美晨午生日快樂 & 瘦瘦針",
+      "start": 1792.64,
+      "end": 1835.61,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0664-s10",
+      "heading": "Q&A：Physical AI 與工作會被取代嗎",
+      "start": 1835.66,
+      "end": 1969.07,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0664-s11",
+      "heading": "Q&A：原物料漲、銅價、PVC",
+      "start": 1969.12,
+      "end": 2054.21,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0664-s12",
+      "heading": "Q&A：房市買房注意事項",
+      "start": 2054.26,
+      "end": 2343.41,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0664-s13",
+      "heading": "Q&A：營收好為什麼不漲？資產配置",
+      "start": 2343.46,
+      "end": 2422.53,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0664-s14",
+      "heading": "Q&A：跟單跟單 vs. 0050",
+      "start": 2422.58,
+      "end": 2486.81,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0664-s15",
+      "heading": "Q&A：用 AI 整理資訊的 prompt",
+      "start": 2486.86,
+      "end": 2515.58,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0664-s16",
+      "heading": "Q&A：阿秋生日快樂 & 孩子上學",
+      "start": 2515.63,
+      "end": 2659.22,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0664-s17",
+      "heading": "Q&A：預祝生日快樂",
+      "start": 2659.27,
+      "end": 2689.84,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0664-s18",
+      "heading": "Q&A：朋友炒股、推坑選擇權",
+      "start": 2689.89,
+      "end": 2749.06,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0664-s19",
+      "heading": "Q&A：左營區女股神",
+      "start": 2749.11,
+      "end": 2796.56,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0664-s20",
+      "heading": "Q&A：半導體洩密、產業資安",
+      "start": 2796.61,
+      "end": 2918.34,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0664-s21",
+      "heading": "Q&A：枕頭業配回饋",
+      "start": 2918.39,
+      "end": 2940.34,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0664-s22",
+      "heading": "Q&A：幼兒園選擇分歧",
+      "start": 2940.39,
+      "end": 2998.96,
+      "confidence": 0.7
+    }
+  ]
+}

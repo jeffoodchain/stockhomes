@@ -1,0 +1,58 @@
+{
+  "ep": 23,
+  "source": "auto-aligned from reports/mk/gooaye-ep0023.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0023.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/33a786c0-0d51-47fc-9f54-c641d6c83fe1/rssFileVip.mp3?timestamp=1689439392418",
+  "duration": 1389.56,
+  "segments": [
+    {
+      "id": "ep0023-s01",
+      "heading": "開場 / 收聽數據回顧",
+      "start": 0.18,
+      "end": 86.47,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0023-s02",
+      "heading": "投資股票 vs 實體開店",
+      "start": 86.52,
+      "end": 301.23,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0023-s03",
+      "heading": "瑞幸咖啡：會計師的責任與上下交相賊",
+      "start": 301.28,
+      "end": 530.15,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0023-s04",
+      "heading": "機構投資人的共謀：再談上下交相賊",
+      "start": 530.2,
+      "end": 703.17,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0023-s05",
+      "heading": "聽眾留言回應",
+      "start": 703.22,
+      "end": 1010.87,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0023-s06",
+      "heading": "沙烏地阿拉伯主權基金買進嘉年華郵輪",
+      "start": 1010.92,
+      "end": 1244.33,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0023-s07",
+      "heading": "福利時間：吃播、ASMR 與美女健身聯盟",
+      "start": 1244.38,
+      "end": 1389.56,
+      "confidence": 0.856
+    }
+  ]
+}

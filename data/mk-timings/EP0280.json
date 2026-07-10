@@ -1,0 +1,65 @@
+{
+  "ep": 280,
+  "source": "auto-aligned from reports/mk/gooaye-ep0280.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0280.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/259f3eda-d550-4407-ae43-b0f857ff2b8c/rssFileVip.mp3?timestamp=1689439384005",
+  "duration": 3062.85,
+  "segments": [
+    {
+      "id": "ep0280-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.23,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0280-s02",
+      "heading": "EVGA 宣布退出 NVIDIA 顯示卡業務",
+      "start": 58.28,
+      "end": 143.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0280-s03",
+      "heading": "AIB 廠毛利長期下滑的結構原因",
+      "start": 143.22,
+      "end": 412.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0280-s04",
+      "heading": "EVGA 退出後的產業影響",
+      "start": 412.22,
+      "end": 914.11,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0280-s05",
+      "heading": "FedEx 財測報告暴雷與景氣分析",
+      "start": 914.16,
+      "end": 1278.13,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0280-s06",
+      "heading": "市場摸前低的評估與操作策略",
+      "start": 1278.18,
+      "end": 1450.35,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0280-s07",
+      "heading": "Q&A",
+      "start": 1450.4,
+      "end": 3061.33,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0280-s08",
+      "heading": "結尾",
+      "start": 3061.38,
+      "end": 3062.85,
+      "confidence": 0.429
+    }
+  ]
+}

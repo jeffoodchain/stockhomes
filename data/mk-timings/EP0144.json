@@ -1,0 +1,58 @@
+{
+  "ep": 144,
+  "source": "auto-aligned from reports/mk/gooaye-ep0144.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0144.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0b6723a3-b97d-47af-9e26-553b4f16de18/rssFileVip.mp3?timestamp=1689439398700",
+  "duration": 2677.97,
+  "segments": [
+    {
+      "id": "ep0144-s01",
+      "heading": "開場 / 贊助：樂天Kobo Elipsa",
+      "start": 0.18,
+      "end": 101.61,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0144-s02",
+      "heading": "推書：Joel Greenblatt 與 Jeff Bezos",
+      "start": 101.66,
+      "end": 361.11,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0144-s03",
+      "heading": "市況速報：美股與台股",
+      "start": 361.16,
+      "end": 622.51,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0144-s04",
+      "heading": "台股近況：航運、面板、鋼鐵、電子股",
+      "start": 622.56,
+      "end": 920.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0144-s05",
+      "heading": "地藏王：龍巖（2845）基本面分析",
+      "start": 920.64,
+      "end": 1336.85,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0144-s06",
+      "heading": "查理蒙格：生平與思維模型",
+      "start": 1336.9,
+      "end": 1974.51,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0144-s07",
+      "heading": "Q&A",
+      "start": 1974.56,
+      "end": 2677.97,
+      "confidence": 0.689
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 16,
+  "source": "auto-aligned from reports/mk/gooaye-ep0016.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0016.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d39efa98-75f7-46f9-b3b2-395587105978/rssFileVip.mp3?timestamp=1689439382725",
+  "duration": 1330.1,
+  "segments": [
+    {
+      "id": "ep0016-s01",
+      "heading": "開場 / 聽眾留言與酸民回應",
+      "start": 0.21,
+      "end": 157.02,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0016-s02",
+      "heading": "聽眾提問：台灣房地產",
+      "start": 157.07,
+      "end": 479.39,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0016-s03",
+      "heading": "週末鬼故事：失業潮",
+      "start": 479.44,
+      "end": 696.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0016-s04",
+      "heading": "航空業崩潰：Flybe倒閉、阿聯酋削航點",
+      "start": 696.72,
+      "end": 769.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0016-s05",
+      "heading": "各國疫情狀況與檢驗能量不足",
+      "start": 769.82,
+      "end": 1062.78,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0016-s06",
+      "heading": "鬼故事：川普「Chinese Virus」與亞裔歧視潮",
+      "start": 1062.83,
+      "end": 1241.94,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0016-s07",
+      "heading": "結尾",
+      "start": 1241.99,
+      "end": 1330.1,
+      "confidence": 0.789
+    }
+  ]
+}

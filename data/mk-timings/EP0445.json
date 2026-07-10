@@ -1,0 +1,93 @@
+{
+  "ep": 445,
+  "source": "auto-aligned from reports/mk/gooaye-ep0445.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0445.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/099a78cc-d065-49b9-b166-57bce67c013a/rssFileVip.mp3?timestamp=1713344318996",
+  "duration": 3015.31,
+  "segments": [
+    {
+      "id": "ep0445-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 55.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0445-s02",
+      "heading": "巴西廚神 Sirly 在義大利",
+      "start": 55.36,
+      "end": 144.65,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0445-s03",
+      "heading": "與 Luca 的科技對話",
+      "start": 144.7,
+      "end": 232.61,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0445-s04",
+      "heading": "Sirly 的料理課：雲冰淇淋與堅果",
+      "start": 232.66,
+      "end": 303.1,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0445-s05",
+      "heading": "Sirly 的料理課：牛肝菌燉飯",
+      "start": 303.15,
+      "end": 573.3,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0445-s06",
+      "heading": "義大利的人生經驗與「Yes Man」行動",
+      "start": 573.35,
+      "end": 736.64,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0445-s07",
+      "heading": "隔夜燉飯的復熱小技巧",
+      "start": 736.69,
+      "end": 769.96,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0445-s08",
+      "heading": "市場回檔與槓桿調控",
+      "start": 770.01,
+      "end": 1068.08,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0445-s09",
+      "heading": "以色列與伊朗衝突對產業的影響",
+      "start": 1068.13,
+      "end": 1214.86,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0445-s10",
+      "heading": "灰打（Nvidia）財報與市場預期",
+      "start": 1214.91,
+      "end": 1392.7,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0445-s11",
+      "heading": "AI Pin 與未來硬體產品",
+      "start": 1392.75,
+      "end": 1915.86,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0445-s12",
+      "heading": "Q&A 聽眾提問",
+      "start": 1915.91,
+      "end": 3015.31,
+      "confidence": 0.722
+    }
+  ]
+}

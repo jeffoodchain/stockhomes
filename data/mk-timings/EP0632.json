@@ -1,0 +1,170 @@
+{
+  "ep": 632,
+  "source": "auto-aligned from reports/mk/gooaye-ep0632.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0632.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ecfd5a72-ac6b-4630-ae57-f5128f002ed7/rssFileVip.mp3?timestamp=1769898072997",
+  "duration": 3019.78,
+  "segments": [
+    {
+      "id": "ep0632-s01",
+      "heading": "開場 / 贊助：善存綜合維他命",
+      "start": 0.02,
+      "end": 64.55,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0632-s02",
+      "heading": "生活小故事：陪老婆去俄羅斯商店",
+      "start": 64.6,
+      "end": 193.91,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0632-s03",
+      "heading": "羅馬開車記：手排車 vs. 瘋狂車流",
+      "start": 193.96,
+      "end": 391.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0632-s04",
+      "heading": "西班牙之旅：占屋族 (Okupados) 與封閉社區",
+      "start": 391.58,
+      "end": 518.53,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0632-s05",
+      "heading": "市場交易：減碼時機與後照鏡思考",
+      "start": 518.58,
+      "end": 639.73,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0632-s06",
+      "heading": "推論過程：對的理由 vs. 對的結果",
+      "start": 639.78,
+      "end": 757.91,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0632-s07",
+      "heading": "ASML 法說：Buy the Rumor, Sell the News",
+      "start": 757.96,
+      "end": 907.01,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0632-s08",
+      "heading": "特斯拉：交車資料不重要、估值靠本夢比",
+      "start": 907.06,
+      "end": 1002.47,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0632-s09",
+      "heading": "Model S/X 停產：自駕車奇異點將至？",
+      "start": 1002.52,
+      "end": 1173.57,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0632-s10",
+      "heading": "機器人元年？台股供應鏈追蹤",
+      "start": 1173.62,
+      "end": 1481.21,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0632-s11",
+      "heading": "Q&A 開場：搬家到 Spotify 留言",
+      "start": 1481.26,
+      "end": 1547.99,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0632-s12",
+      "heading": "Q&A：考研、低軌衛星發言人",
+      "start": 1548.04,
+      "end": 1692.44,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0632-s13",
+      "heading": "Q&A：大便聽臺通、好市多小豪",
+      "start": 1692.49,
+      "end": 1728.16,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0632-s14",
+      "heading": "Q&A：川普聲音祝賀新年",
+      "start": 1728.21,
+      "end": 1747.88,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0632-s15",
+      "heading": "Q&A：考研靜下心建議 & 記憶體",
+      "start": 1747.93,
+      "end": 1895.82,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0632-s16",
+      "heading": "Q&A：姊弟戀、跟年紀大的人相處",
+      "start": 1895.87,
+      "end": 2130.19,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0632-s17",
+      "heading": "Q&A：結婚週年祝福",
+      "start": 2130.24,
+      "end": 2163.14,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0632-s18",
+      "heading": "Q&A：仁勳爸爸同一天生日",
+      "start": 2163.19,
+      "end": 2182.88,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0632-s19",
+      "heading": "Q&A：當老闆要大方、人才要包養",
+      "start": 2182.93,
+      "end": 2457.06,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0632-s20",
+      "heading": "Q&A：MBTI、星座、原生家庭當藉口",
+      "start": 2457.11,
+      "end": 2565.78,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0632-s21",
+      "heading": "Q&A：警察打詐、被詐騙與認知",
+      "start": 2565.83,
+      "end": 2721.62,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0632-s22",
+      "heading": "Q&A：醫院工作、好好享受生命",
+      "start": 2721.67,
+      "end": 2960.24,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0632-s23",
+      "heading": "Q&A：LoL ID、加好友戰績",
+      "start": 2960.29,
+      "end": 3019.78,
+      "confidence": 0.711
+    }
+  ]
+}

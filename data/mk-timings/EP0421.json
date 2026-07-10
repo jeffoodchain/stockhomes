@@ -1,0 +1,58 @@
+{
+  "ep": 421,
+  "source": "auto-aligned from reports/mk/gooaye-ep0421.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0421.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d146f06f-d5fe-4697-8ad3-3d13bad08b95/rssFileVip.mp3?timestamp=1706185000421",
+  "duration": 3016.8,
+  "segments": [
+    {
+      "id": "ep0421-s01",
+      "heading": "開場 / 贊助：森歐里昂、撒歐裡亞",
+      "start": 0.0,
+      "end": 89.37,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0421-s02",
+      "heading": "林口創業生態與社會化互動",
+      "start": 89.42,
+      "end": 231.95,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0421-s03",
+      "heading": "臺積電詐騙案與詐騙防範",
+      "start": 232.0,
+      "end": 415.03,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0421-s04",
+      "heading": "Sam Altman 與晶圓製造計畫分析",
+      "start": 415.08,
+      "end": 837.55,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0421-s05",
+      "heading": "三星 Galaxy S24 Edge Device",
+      "start": 837.6,
+      "end": 1103.71,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0421-s06",
+      "heading": "邊緣運算與MEC 前景",
+      "start": 1103.76,
+      "end": 1438.55,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0421-s07",
+      "heading": "Q&A 問答環節",
+      "start": 1438.6,
+      "end": 3016.8,
+      "confidence": 0.733
+    }
+  ]
+}

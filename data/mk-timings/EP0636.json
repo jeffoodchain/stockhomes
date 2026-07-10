@@ -1,0 +1,135 @@
+{
+  "ep": 636,
+  "source": "auto-aligned from reports/mk/gooaye-ep0636.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0636.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2f039b42-858c-4a6e-abb5-7cb1c1c4e9e4/rssFileVip.mp3?timestamp=1771106397152",
+  "duration": 2981.12,
+  "segments": [
+    {
+      "id": "ep0636-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 78.83,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0636-s02",
+      "heading": "帶小孩出國度假：寶格麗 Villa 初體驗",
+      "start": 78.88,
+      "end": 243.75,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0636-s03",
+      "heading": "寶格麗 Villa：兩到三倍消費的 Four Seasons",
+      "start": 243.8,
+      "end": 598.33,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0636-s04",
+      "heading": "新年祝福：兩極化的開年行情",
+      "start": 598.38,
+      "end": 727.59,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0636-s05",
+      "heading": "Applied Materials 印財：確認無塵室是 bottleneck",
+      "start": 727.64,
+      "end": 1097.67,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0636-s06",
+      "heading": "Michael Burry 放空 Palantir：偏見大於事實",
+      "start": 1097.72,
+      "end": 1559.01,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0636-s07",
+      "heading": "AI 會吃掉什麼軟體：隨插即用的東西",
+      "start": 1559.06,
+      "end": 2145.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0636-s08",
+      "heading": "Q&A：跟朋友共事的裝潢糾紛",
+      "start": 2145.78,
+      "end": 2295.45,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0636-s09",
+      "heading": "Q&A：吃素的還願邏輯 & 金牌講師",
+      "start": 2295.5,
+      "end": 2446.15,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0636-s10",
+      "heading": "Q&A：特斯拉車主讓位 & 關稅對車價",
+      "start": 2446.2,
+      "end": 2514.65,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0636-s11",
+      "heading": "Q&A：聽眾祝福",
+      "start": 2514.7,
+      "end": 2518.81,
+      "confidence": 0.75
+    },
+    {
+      "id": "ep0636-s12",
+      "heading": "Q&A：QA 後欠款拿回來了",
+      "start": 2518.86,
+      "end": 2570.35,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0636-s13",
+      "heading": "Q&A：未來兒子取名孟公",
+      "start": 2570.4,
+      "end": 2603.05,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0636-s14",
+      "heading": "Q&A：在家做股票被女友媽嫌",
+      "start": 2603.1,
+      "end": 2737.23,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0636-s15",
+      "heading": "Q&A：快樂寶貝指數",
+      "start": 2737.28,
+      "end": 2814.49,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0636-s16",
+      "heading": "Q&A：技術分析問 AI 就好",
+      "start": 2814.54,
+      "end": 2882.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0636-s17",
+      "heading": "Q&A：加入大盤 0050 績效",
+      "start": 2882.2,
+      "end": 2936.41,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0636-s18",
+      "heading": "Q&A：26 歲股民 0050 績效 50%",
+      "start": 2936.46,
+      "end": 2981.12,
+      "confidence": 0.8
+    }
+  ]
+}

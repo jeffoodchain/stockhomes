@@ -1,0 +1,72 @@
+{
+  "ep": 265,
+  "source": "auto-aligned from reports/mk/gooaye-ep0265.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0265.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/78ecd096-3f90-4c9a-bea8-9483ad0eb244/rssFileVip.mp3?timestamp=1689439394940",
+  "duration": 2933.57,
+  "segments": [
+    {
+      "id": "ep0265-s01",
+      "heading": "開場 / 贊助：YODEE優迪、房裡無蟑殺蟑魔粒",
+      "start": 0.0,
+      "end": 98.29,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0265-s02",
+      "heading": "耍廢生活感悟：擴張與收斂",
+      "start": 98.34,
+      "end": 726.95,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0265-s03",
+      "heading": "更正上集：特斯拉 Net Cash 非 FCF",
+      "start": 727.0,
+      "end": 780.17,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0265-s04",
+      "heading": "馬斯克與 Sergey Brin 緋聞八卦",
+      "start": 780.22,
+      "end": 873.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0265-s05",
+      "heading": "聯發科找 Intel 代工事件分析",
+      "start": 873.54,
+      "end": 1116.01,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0265-s06",
+      "heading": "國發基金與爐心紡織事件",
+      "start": 1116.06,
+      "end": 1374.15,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0265-s07",
+      "heading": "微軟財報解析：三大逆風",
+      "start": 1374.2,
+      "end": 1929.01,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0265-s08",
+      "heading": "市場總覽：買方資金與底部訊號",
+      "start": 1929.06,
+      "end": 1990.33,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0265-s09",
+      "heading": "Q&A",
+      "start": 1990.38,
+      "end": 2933.57,
+      "confidence": 0.667
+    }
+  ]
+}

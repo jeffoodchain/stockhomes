@@ -1,0 +1,44 @@
+{
+  "ep": 584,
+  "source": "auto-aligned from reports/mk/gooaye-ep0584.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0584.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d3860cb3-461a-40fc-b7ee-7c59249ed87a/rssFileVip.mp3?timestamp=1755330187765",
+  "duration": 2984.1,
+  "segments": [
+    {
+      "id": "ep0584-s01",
+      "heading": "開場 / 贊助：WOKY 純鈦杯",
+      "start": 0.0,
+      "end": 76.69,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0584-s02",
+      "heading": "新聽眾大增與節目形態說明",
+      "start": 76.74,
+      "end": 667.4,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0584-s03",
+      "heading": "台股市場白熱化：PCB 板材族群與市場訊號",
+      "start": 667.45,
+      "end": 972.66,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0584-s04",
+      "heading": "美國市場動態：川普關稅、Applied Materials、Coherent",
+      "start": 972.71,
+      "end": 1569.64,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0584-s05",
+      "heading": "Q&A",
+      "start": 1569.69,
+      "end": 2984.1,
+      "confidence": 0.922
+    }
+  ]
+}

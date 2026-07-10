@@ -1,0 +1,128 @@
+{
+  "ep": 366,
+  "source": "auto-aligned from reports/mk/gooaye-ep0366.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0366.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/53b20a64-d636-4ace-966c-53cbba1c3f92/rssFileVip.mp3?timestamp=1689439404462",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0366-s01",
+      "heading": "開場 / 贊助：米紅生醫",
+      "start": 0.0,
+      "end": 92.43,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0366-s02",
+      "heading": "韓國出差與演講分享",
+      "start": 92.48,
+      "end": 273.95,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0366-s03",
+      "heading": "Podcast 商業化與初衷",
+      "start": 274.0,
+      "end": 768.76,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0366-s04",
+      "heading": "市場話題：AI 股與 OEM/ODM 供應鏈",
+      "start": 768.81,
+      "end": 947.0,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0366-s05",
+      "heading": "AMD 與供應鏈",
+      "start": 947.05,
+      "end": 1317.64,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0366-s06",
+      "heading": "處置股與籌碼研究",
+      "start": 1317.69,
+      "end": 1671.51,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0366-s07",
+      "heading": "結尾與 Q&A 預告",
+      "start": 1671.56,
+      "end": 1673.95,
+      "confidence": 0.714
+    },
+    {
+      "id": "ep0366-s08",
+      "heading": "Q&A：家庭債務問題",
+      "start": 1674.0,
+      "end": 1811.01,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0366-s09",
+      "heading": "Q&A：令人心碎的新聞",
+      "start": 1811.06,
+      "end": 1937.21,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0366-s10",
+      "heading": "Q&A：準爸爸的溫暖留言",
+      "start": 1937.26,
+      "end": 2041.55,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0366-s11",
+      "heading": "Q&A：等便宜價的架頭仔",
+      "start": 2041.6,
+      "end": 2321.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0366-s12",
+      "heading": "Q&A：醫藥股水很深",
+      "start": 2321.54,
+      "end": 2543.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0366-s13",
+      "heading": "Q&A：外遇與法律",
+      "start": 2543.84,
+      "end": 2714.93,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0366-s14",
+      "heading": "Q&A：生日祝福",
+      "start": 2714.98,
+      "end": 2791.97,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0366-s15",
+      "heading": "Q&A：科班觀察與評價",
+      "start": 2792.02,
+      "end": 2858.67,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0366-s16",
+      "heading": "Q&A：退休資產配置",
+      "start": 2858.72,
+      "end": 2993.16,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0366-s17",
+      "heading": "結尾",
+      "start": 2993.21,
+      "end": 2995.98,
+      "confidence": 0.538
+    }
+  ]
+}

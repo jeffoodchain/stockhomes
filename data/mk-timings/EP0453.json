@@ -1,0 +1,184 @@
+{
+  "ep": 453,
+  "source": "auto-aligned from reports/mk/gooaye-ep0453.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0453.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/52a7f1f3-a843-4570-91b7-595ccb79b1c3/rssFileVip.mp3?timestamp=1715763601365",
+  "duration": 3074.77,
+  "segments": [
+    {
+      "id": "ep0453-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 55.63,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0453-s02",
+      "heading": "私廚蒐集與美食圈",
+      "start": 55.68,
+      "end": 239.57,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0453-s03",
+      "heading": "GPT-4O 與 OpenAI 新方向",
+      "start": 239.62,
+      "end": 339.23,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0453-s04",
+      "heading": "實務使用與延遲問題",
+      "start": 339.28,
+      "end": 556.89,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0453-s05",
+      "heading": "開源模型 vs 閉鎖式模型",
+      "start": 556.94,
+      "end": 711.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0453-s06",
+      "heading": "Embedding 技術與企業應用",
+      "start": 711.16,
+      "end": 932.55,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0453-s07",
+      "heading": "AI 市場未來展望",
+      "start": 932.6,
+      "end": 1088.51,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0453-s08",
+      "heading": "AI 伺服器市場更新",
+      "start": 1088.56,
+      "end": 1239.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0453-s09",
+      "heading": "NVIDIA GB200 產線與出貨預期",
+      "start": 1239.7,
+      "end": 1330.89,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0453-s10",
+      "heading": "GB200 BOM Cost 與售價預估",
+      "start": 1330.94,
+      "end": 1428.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0453-s11",
+      "heading": "Rack 部署規模預估",
+      "start": 1428.46,
+      "end": 1502.67,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0453-s12",
+      "heading": "Marvel 與 Intel 相關動態",
+      "start": 1502.72,
+      "end": 1639.17,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0453-s13",
+      "heading": "市場競爭加劇與投資策略調整",
+      "start": 1639.22,
+      "end": 1693.87,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0453-s14",
+      "heading": "節目結語與雜亂的內容",
+      "start": 1693.92,
+      "end": 1803.71,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0453-s15",
+      "heading": "Q&A：政治言論",
+      "start": 1803.76,
+      "end": 1895.87,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0453-s16",
+      "heading": "Q&A：投資與心境",
+      "start": 1895.92,
+      "end": 1951.83,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0453-s17",
+      "heading": "Q&A：房產配置",
+      "start": 1951.88,
+      "end": 2111.34,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0453-s18",
+      "heading": "Q&A：其他留言與動漫話題",
+      "start": 2111.39,
+      "end": 2242.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0453-s19",
+      "heading": "Q&A：房產投款問題",
+      "start": 2242.1,
+      "end": 2498.61,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0453-s20",
+      "heading": "Q&A：其他話題",
+      "start": 2498.66,
+      "end": 2519.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0453-s21",
+      "heading": "Q&A：電影與人生觀",
+      "start": 2519.82,
+      "end": 2623.24,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0453-s22",
+      "heading": "Q&A：生日祝福與投資建議",
+      "start": 2623.29,
+      "end": 2713.58,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0453-s23",
+      "heading": "Q&A：創業建議與媒體討論",
+      "start": 2713.63,
+      "end": 2920.18,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0453-s24",
+      "heading": "Q&A：聽眾祝福",
+      "start": 2920.23,
+      "end": 2991.44,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0453-s25",
+      "heading": "Q&A：最後留言與節目結語",
+      "start": 2991.49,
+      "end": 3074.77,
+      "confidence": 0.844
+    }
+  ]
+}

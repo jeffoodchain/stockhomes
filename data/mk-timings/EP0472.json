@@ -1,0 +1,58 @@
+{
+  "ep": 472,
+  "source": "auto-aligned from reports/mk/gooaye-ep0472.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0472.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/31433d54-2c75-4dd3-a018-da5312ce0250/rssFileVip.mp3?timestamp=1721463736697",
+  "duration": 3086.65,
+  "segments": [
+    {
+      "id": "ep0472-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 79.21,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0472-s02",
+      "heading": "Nioh 2 公仔購物心情",
+      "start": 79.26,
+      "end": 427.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0472-s03",
+      "heading": "CrowdStrike 停機事件",
+      "start": 427.5,
+      "end": 814.41,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0472-s04",
+      "heading": "市場回檔與風險管理",
+      "start": 814.46,
+      "end": 1125.57,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0472-s05",
+      "heading": "台積電法說分析",
+      "start": 1125.62,
+      "end": 1544.07,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0472-s06",
+      "heading": "產業進展",
+      "start": 1544.12,
+      "end": 1787.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0472-s07",
+      "heading": "聽眾 Q&A",
+      "start": 1787.88,
+      "end": 3086.65,
+      "confidence": 0.722
+    }
+  ]
+}

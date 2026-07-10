@@ -1,0 +1,72 @@
+{
+  "ep": 433,
+  "source": "auto-aligned from reports/mk/gooaye-ep0433.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0433.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/294a370f-08a7-43b8-805d-f9956dfb1643/rssFileVip.mp3?timestamp=1709716174660",
+  "duration": 2954.4,
+  "segments": [
+    {
+      "id": "ep0433-s01",
+      "heading": "開場 / 贊助：飛利浦行動電源",
+      "start": 0.0,
+      "end": 54.03,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0433-s02",
+      "heading": "Kaleo 羅馬演唱會",
+      "start": 54.08,
+      "end": 380.47,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0433-s03",
+      "heading": "神秘人物目擊事件",
+      "start": 380.52,
+      "end": 490.31,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0433-s04",
+      "heading": "市場行情概述",
+      "start": 490.36,
+      "end": 602.21,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0433-s05",
+      "heading": "美股 vs 台股估值對比",
+      "start": 602.26,
+      "end": 831.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0433-s06",
+      "heading": "ASIC 和芯片製造動向",
+      "start": 831.52,
+      "end": 1074.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0433-s07",
+      "heading": "面板與記憶體產業",
+      "start": 1074.32,
+      "end": 1296.65,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0433-s08",
+      "heading": "健康提醒與身心關懷",
+      "start": 1296.7,
+      "end": 1678.23,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0433-s09",
+      "heading": "Q&A 時間",
+      "start": 1678.28,
+      "end": 2954.4,
+      "confidence": 0.667
+    }
+  ]
+}

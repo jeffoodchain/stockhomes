@@ -1,0 +1,51 @@
+{
+  "ep": 335,
+  "source": "auto-aligned from reports/mk/gooaye-ep0335.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0335.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e8c8feed-cf7a-4dab-80f9-9a3a42adb3d5/rssFileVip.mp3?timestamp=1689439393987",
+  "duration": 3019.78,
+  "segments": [
+    {
+      "id": "ep0335-s01",
+      "heading": "開場 / 贊助：玉山銀行 × 星宇航空聯名卡",
+      "start": 0.0,
+      "end": 74.63,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0335-s02",
+      "heading": "從羅馬連線：回孃家與時差調適",
+      "start": 74.68,
+      "end": 225.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0335-s03",
+      "heading": "Starlink 衛星網路開箱心得",
+      "start": 225.74,
+      "end": 890.79,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0335-s04",
+      "heading": "籌碼分析的成長歷程：從追外資到認識分點背後的人",
+      "start": 890.84,
+      "end": 1531.65,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0335-s05",
+      "heading": "投資最重要的東西：誠信與公司派的說法",
+      "start": 1531.7,
+      "end": 1993.19,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0335-s06",
+      "heading": "Q&A",
+      "start": 1993.24,
+      "end": 3019.78,
+      "confidence": 1.0
+    }
+  ]
+}

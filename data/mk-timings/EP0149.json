@@ -1,0 +1,58 @@
+{
+  "ep": 149,
+  "source": "auto-aligned from reports/mk/gooaye-ep0149.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0149.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/08b33474-0721-4e22-9a3a-40f4871d90bb/rssFileVip.mp3?timestamp=1689439405772",
+  "duration": 2770.1,
+  "segments": [
+    {
+      "id": "ep0149-s01",
+      "heading": "開場 / 贊助：TRYALL 高蛋白",
+      "start": 0.0,
+      "end": 105.61,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0149-s02",
+      "heading": "放空台股的風險：券資比、軋空、標借費",
+      "start": 105.66,
+      "end": 507.49,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0149-s03",
+      "heading": "阿姨老師：技術面與基本面心法",
+      "start": 507.54,
+      "end": 1071.61,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0149-s04",
+      "heading": "心法：順勢而為 × 不預設立場",
+      "start": 1071.66,
+      "end": 1336.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0149-s05",
+      "heading": "5G 供應鏈選股心法：往供應鏈深處挖",
+      "start": 1336.82,
+      "end": 1935.99,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0149-s06",
+      "heading": "Q&A",
+      "start": 1936.04,
+      "end": 2762.97,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0149-s07",
+      "heading": "結尾",
+      "start": 2763.02,
+      "end": 2770.1,
+      "confidence": 0.514
+    }
+  ]
+}

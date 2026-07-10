@@ -1,0 +1,51 @@
+{
+  "ep": 303,
+  "source": "auto-aligned from reports/mk/gooaye-ep0303.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0303.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/44ddf350-5c13-4333-8700-5410f6d7f38c/rssFileVip.mp3?timestamp=1689439390414",
+  "duration": 3094.07,
+  "segments": [
+    {
+      "id": "ep0303-s01",
+      "heading": "開場 / 贊助：犀牛盾",
+      "start": 0.0,
+      "end": 73.63,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0303-s02",
+      "heading": "聊聊：被霸凌的國中往事",
+      "start": 73.68,
+      "end": 536.67,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0303-s03",
+      "heading": "走出陰霾的方法",
+      "start": 536.72,
+      "end": 735.55,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0303-s04",
+      "heading": "市場話題：FTX 與灰犀牛",
+      "start": 735.6,
+      "end": 1040.59,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0303-s05",
+      "heading": "市場分析：美林鐘",
+      "start": 1040.64,
+      "end": 1733.09,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0303-s06",
+      "heading": "Q&A",
+      "start": 1733.14,
+      "end": 3094.07,
+      "confidence": 0.767
+    }
+  ]
+}

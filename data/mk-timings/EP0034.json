@@ -1,0 +1,51 @@
+{
+  "ep": 34,
+  "source": "auto-aligned from reports/mk/gooaye-ep0034.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0034.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/007512cf-12b7-4dd5-877c-350f59e3ebd0/rssFileVip.mp3?timestamp=1689439405608",
+  "duration": 2627.76,
+  "segments": [
+    {
+      "id": "ep0034-s01",
+      "heading": "開場 / 贊助：M觀點 Miula",
+      "start": 0.34,
+      "end": 165.49,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0034-s02",
+      "heading": "原油寶後續",
+      "start": 165.54,
+      "end": 343.15,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0034-s03",
+      "heading": "馬斯克上Joe Rogan節目",
+      "start": 343.2,
+      "end": 1427.77,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0034-s04",
+      "heading": "Joeman業配遊戲橘子事件",
+      "start": 1427.82,
+      "end": 1713.79,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0034-s05",
+      "heading": "Q&A",
+      "start": 1713.84,
+      "end": 2613.31,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0034-s06",
+      "heading": "結尾",
+      "start": 2613.36,
+      "end": 2627.76,
+      "confidence": 0.662
+    }
+  ]
+}

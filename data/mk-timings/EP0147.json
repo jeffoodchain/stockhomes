@@ -1,0 +1,72 @@
+{
+  "ep": 147,
+  "source": "auto-aligned from reports/mk/gooaye-ep0147.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0147.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bf5d9949-914d-4ac7-a9ac-68789f38c0e5/rssFileVip.mp3?timestamp=1689439393814",
+  "duration": 2633.4,
+  "segments": [
+    {
+      "id": "ep0147-s01",
+      "heading": "開場 / 贊助：羅技",
+      "start": 0.05,
+      "end": 104.28,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0147-s02",
+      "heading": "遊戲聊聊：精神時光屋新發現",
+      "start": 104.33,
+      "end": 250.52,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0147-s03",
+      "heading": "聊聊：即將為人父",
+      "start": 250.57,
+      "end": 341.58,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0147-s04",
+      "heading": "聊聊：生育觀與教育觀",
+      "start": 341.63,
+      "end": 661.72,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0147-s05",
+      "heading": "交易日記：快篩股操作紀律",
+      "start": 661.77,
+      "end": 839.36,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0147-s06",
+      "heading": "交易方法：TradingView 與策略回測",
+      "start": 839.41,
+      "end": 936.32,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0147-s07",
+      "heading": "主題：投資三段論",
+      "start": 936.37,
+      "end": 1396.74,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0147-s08",
+      "heading": "Q&A",
+      "start": 1396.79,
+      "end": 2615.3,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0147-s09",
+      "heading": "結尾",
+      "start": 2615.35,
+      "end": 2633.4,
+      "confidence": 0.633
+    }
+  ]
+}

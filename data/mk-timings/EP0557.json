@@ -1,0 +1,51 @@
+{
+  "ep": 557,
+  "source": "auto-aligned from reports/mk/gooaye-ep0557.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0557.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c9ad4a0f-9ecb-4508-a0cd-2857087b1b5d/rssFileVip.mp3?timestamp=1747208480643",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0557-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 75.05,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0557-s02",
+      "heading": "健康聊聊：膽固醇宣戰、打Leqvio降脂針",
+      "start": 75.1,
+      "end": 351.21,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0557-s03",
+      "heading": "聊聊：Uber遇聽眾小耀、定期定額心得",
+      "start": 351.26,
+      "end": 737.97,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0557-s04",
+      "heading": "市場動態：中美關稅、川普中東行、NVIDIA Humain協議",
+      "start": 738.02,
+      "end": 1371.51,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0557-s05",
+      "heading": "後市佈局：軟體、N2、AR眼鏡、機器人",
+      "start": 1371.56,
+      "end": 1544.61,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0557-s06",
+      "heading": "Q&A",
+      "start": 1544.66,
+      "end": 2997.47,
+      "confidence": 0.756
+    }
+  ]
+}

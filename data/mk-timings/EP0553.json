@@ -1,0 +1,65 @@
+{
+  "ep": 553,
+  "source": "auto-aligned from reports/mk/gooaye-ep0553.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0553.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cfec7721-b0f0-4b0a-8b7b-0c5d11c1ece9/rssFileVip.mp3?timestamp=1745996471317",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0553-s01",
+      "heading": "開場／贊助：修麗可母親節保養品",
+      "start": 0.0,
+      "end": 120.93,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0553-s02",
+      "heading": "月子中心體驗與價值評估",
+      "start": 120.98,
+      "end": 591.95,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0553-s03",
+      "heading": "市場動態與關稅談判",
+      "start": 592.0,
+      "end": 834.83,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0553-s04",
+      "heading": "潛在下修劇本與供應鏈隱憂",
+      "start": 834.88,
+      "end": 1100.77,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0553-s05",
+      "heading": "雨雲與機會：Google 與 Celestica",
+      "start": 1100.82,
+      "end": 1172.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0553-s06",
+      "heading": "供應鏈隱憂：SMCI 與 CoWoS",
+      "start": 1172.92,
+      "end": 1315.73,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0553-s07",
+      "heading": "半導體行業週期與 NVIDIA 數據",
+      "start": 1315.78,
+      "end": 1673.29,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0553-s08",
+      "heading": "Q & A 環節",
+      "start": 1673.34,
+      "end": 2997.47,
+      "confidence": 0.7
+    }
+  ]
+}

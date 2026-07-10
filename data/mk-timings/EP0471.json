@@ -1,0 +1,72 @@
+{
+  "ep": 471,
+  "source": "auto-aligned from reports/mk/gooaye-ep0471.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0471.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/69591539-bccf-4dff-becc-77c28491c913/rssFileVip.mp3?timestamp=1721208957147",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0471-s01",
+      "heading": "開場 / 贊助：輝葉 AI 追夢椅",
+      "start": 0.0,
+      "end": 90.23,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0471-s02",
+      "heading": "心理調整與人生體驗",
+      "start": 90.28,
+      "end": 207.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0471-s03",
+      "heading": "男女看法與社會現實",
+      "start": 207.62,
+      "end": 321.39,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0471-s04",
+      "heading": "調整與平衡",
+      "start": 321.44,
+      "end": 695.01,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0471-s05",
+      "heading": "作文戰局與市場觀點",
+      "start": 695.06,
+      "end": 813.35,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0471-s06",
+      "heading": "GB Delay 與散熱議題",
+      "start": 813.4,
+      "end": 1352.87,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0471-s07",
+      "heading": "硬體投資轉向",
+      "start": 1352.92,
+      "end": 1536.15,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0471-s08",
+      "heading": "新興題材與投資機會",
+      "start": 1536.2,
+      "end": 1725.69,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0471-s09",
+      "heading": "Q&A",
+      "start": 1725.74,
+      "end": 2998.96,
+      "confidence": 0.667
+    }
+  ]
+}

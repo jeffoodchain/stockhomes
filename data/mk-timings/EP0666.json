@@ -1,0 +1,51 @@
+{
+  "ep": 666,
+  "source": "auto-aligned from reports/mk/gooaye-ep0666.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0666.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fd5d4766-183d-4ed9-8d68-958c50d8e730/rssFileVip.mp3?timestamp=1780120758666",
+  "duration": 3314.02,
+  "segments": [
+    {
+      "id": "ep0666-s01",
+      "heading": "開場 / 贊助：植村秀",
+      "start": 0.0,
+      "end": 83.51,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0666-s02",
+      "heading": "生活聊聊：放慢步調、內觀與禪修",
+      "start": 83.56,
+      "end": 417.77,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0666-s03",
+      "heading": "生活聊聊：下背痛改善與身體觀察",
+      "start": 417.82,
+      "end": 706.61,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0666-s04",
+      "heading": "市場話題：被動元件持續強勢、老AI輪迴",
+      "start": 706.66,
+      "end": 1533.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0666-s05",
+      "heading": "軟體釋出會心得：AI精緻化、業務能力與可問責性",
+      "start": 1533.94,
+      "end": 2180.83,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0666-s06",
+      "heading": "Q&A",
+      "start": 2180.88,
+      "end": 3314.02,
+      "confidence": 0.733
+    }
+  ]
+}

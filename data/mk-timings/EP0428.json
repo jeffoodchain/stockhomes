@@ -1,0 +1,100 @@
+{
+  "ep": 428,
+  "source": "auto-aligned from reports/mk/gooaye-ep0428.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0428.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c65d26dd-31a1-4984-8d49-e1285ed112c6/rssFileVip.mp3?timestamp=1708165549295",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0428-s01",
+      "heading": "開場 / 贊助：UNIPAPA 有序延長線",
+      "start": 0.0,
+      "end": 59.27,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0428-s02",
+      "heading": "新春行情與長期持有心態",
+      "start": 59.32,
+      "end": 178.55,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0428-s03",
+      "heading": "情人節與婚姻生活",
+      "start": 178.6,
+      "end": 482.67,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0428-s04",
+      "heading": "臺股表現與市場信心",
+      "start": 482.72,
+      "end": 492.43,
+      "confidence": 0.662
+    },
+    {
+      "id": "ep0428-s05",
+      "heading": "OpenAI Sora 與生成式 AI 的新里程碑",
+      "start": 492.48,
+      "end": 663.65,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0428-s06",
+      "heading": "伺服器存儲與頻寬需求爆發",
+      "start": 663.7,
+      "end": 912.53,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0428-s07",
+      "heading": "美股臺股佈局對比",
+      "start": 912.58,
+      "end": 940.07,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0428-s08",
+      "heading": "Wi-Fi 7 與新科技快速迭代",
+      "start": 940.12,
+      "end": 1062.77,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0428-s09",
+      "heading": "AI 整合進系統的關鍵時刻",
+      "start": 1062.82,
+      "end": 1178.29,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0428-s10",
+      "heading": "Supermicro (SMCI) ODM 估值分析",
+      "start": 1178.34,
+      "end": 1370.13,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0428-s11",
+      "heading": "供應鏈改善與市場動態",
+      "start": 1370.18,
+      "end": 1474.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0428-s12",
+      "heading": "供貨改善的關鍵信號",
+      "start": 1475.04,
+      "end": 1724.43,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0428-s13",
+      "heading": "Q&A",
+      "start": 1724.48,
+      "end": 2998.96,
+      "confidence": 0.678
+    }
+  ]
+}

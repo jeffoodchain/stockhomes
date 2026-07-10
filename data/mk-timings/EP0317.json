@@ -1,0 +1,65 @@
+{
+  "ep": 317,
+  "source": "auto-aligned from reports/mk/gooaye-ep0317.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0317.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/15d8ec79-40b1-40c7-9ab7-9056a22e5223/rssFileVip.mp3?timestamp=1689439396210",
+  "duration": 2985.59,
+  "segments": [
+    {
+      "id": "ep0317-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.53,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0317-s02",
+      "heading": "春節雜感：放假、塞車與年俗",
+      "start": 58.58,
+      "end": 342.15,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0317-s03",
+      "heading": "紐交所開盤系統當機事件",
+      "start": 342.2,
+      "end": 588.97,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0317-s04",
+      "heading": "大盤技術面：頂壓力線，等待突破",
+      "start": 589.02,
+      "end": 764.57,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0317-s05",
+      "heading": "台股新春開盤預測：看富臺期",
+      "start": 764.62,
+      "end": 918.19,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0317-s06",
+      "heading": "市場解讀：裁員過度解讀、AI趨勢、微軟財報",
+      "start": 918.24,
+      "end": 1276.63,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0317-s07",
+      "heading": "Bank of America 報告摘要：降息預期、資金流向、市場情緒",
+      "start": 1276.68,
+      "end": 1572.05,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0317-s08",
+      "heading": "Q&A 時間",
+      "start": 1572.1,
+      "end": 2985.59,
+      "confidence": 0.789
+    }
+  ]
+}

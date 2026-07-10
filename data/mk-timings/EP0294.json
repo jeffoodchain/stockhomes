@@ -1,0 +1,58 @@
+{
+  "ep": 294,
+  "source": "auto-aligned from reports/mk/gooaye-ep0294.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0294.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/17d788ce-9f98-4436-91c3-c9bc83741521/rssFileVip.mp3?timestamp=1689439399367",
+  "duration": 2972.21,
+  "segments": [
+    {
+      "id": "ep0294-s01",
+      "heading": "開場 / 贊助：MIHONG®米鴻生醫",
+      "start": 0.0,
+      "end": 87.79,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0294-s02",
+      "heading": "啾啾鞋的片子與節目聽眾樣態",
+      "start": 87.84,
+      "end": 222.71,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0294-s03",
+      "heading": "岳母感情近況",
+      "start": 222.76,
+      "end": 808.95,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0294-s04",
+      "heading": "Twitter 大裁員與美國科技業裁員潮",
+      "start": 809.0,
+      "end": 987.35,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0294-s05",
+      "heading": "顯示卡底部訊號",
+      "start": 987.4,
+      "end": 1159.71,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0294-s06",
+      "heading": "ESL 電子標籤與 Impinj（PI）",
+      "start": 1159.76,
+      "end": 1524.09,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0294-s07",
+      "heading": "Q&A",
+      "start": 1524.14,
+      "end": 2972.21,
+      "confidence": 0.833
+    }
+  ]
+}

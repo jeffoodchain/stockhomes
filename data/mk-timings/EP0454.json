@@ -1,0 +1,93 @@
+{
+  "ep": 454,
+  "source": "auto-aligned from reports/mk/gooaye-ep0454.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0454.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3daab061-2b8a-4f7c-b152-39afebc176b2/rssFileVip.mp3?timestamp=1716020662936",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0454-s01",
+      "heading": "開場 / 贊助：艾爾登法環",
+      "start": 0.0,
+      "end": 85.99,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0454-s02",
+      "heading": "流感這一集差點沒出來",
+      "start": 86.04,
+      "end": 176.65,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0454-s03",
+      "heading": "投資部位創新高與70%理論",
+      "start": 176.7,
+      "end": 273.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0454-s04",
+      "heading": "小型股佈局一年多成績",
+      "start": 273.7,
+      "end": 464.93,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0454-s05",
+      "heading": "過去一周績效與Marvell的教訓",
+      "start": 464.98,
+      "end": 525.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0454-s06",
+      "heading": "工具機與MCU的失敗投資",
+      "start": 525.48,
+      "end": 585.33,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0454-s07",
+      "heading": "日元貶值與匯率反映國力",
+      "start": 585.38,
+      "end": 658.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0454-s08",
+      "heading": "網通與WiFi 7機會",
+      "start": 658.2,
+      "end": 789.45,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0454-s09",
+      "heading": "Cisco財報與庫存見底信號",
+      "start": 789.5,
+      "end": 938.65,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0454-s10",
+      "heading": "中國也在做網路基建 但風險較高",
+      "start": 938.7,
+      "end": 1054.63,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0454-s11",
+      "heading": "未來網通展望與試單時點",
+      "start": 1054.68,
+      "end": 1181.06,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0454-s12",
+      "heading": "Q&A 段落",
+      "start": 1181.11,
+      "end": 2998.96,
+      "confidence": 0.967
+    }
+  ]
+}

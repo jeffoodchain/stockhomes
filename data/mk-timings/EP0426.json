@@ -1,0 +1,93 @@
+{
+  "ep": 426,
+  "source": "auto-aligned from reports/mk/gooaye-ep0426.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0426.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1aae55af-e579-4a18-9d42-e00e797a4c66/rssFileVip.mp3?timestamp=1707560717903",
+  "duration": 2964.79,
+  "segments": [
+    {
+      "id": "ep0426-s01",
+      "heading": "開場 / 贊助：TOKUYO 八點傳感體脂計",
+      "start": 0.0,
+      "end": 100.13,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0426-s02",
+      "heading": "泰勒絲演唱會的驚喜與感悟",
+      "start": 100.18,
+      "end": 255.47,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0426-s03",
+      "heading": "迪士尼課金攻略與三三俱樂部",
+      "start": 255.52,
+      "end": 336.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0426-s04",
+      "heading": "Taylor Swift 的 Eras Tour 演唱會體驗",
+      "start": 337.02,
+      "end": 625.77,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0426-s05",
+      "heading": "日本美食與壽司之神的兒子",
+      "start": 625.82,
+      "end": 730.77,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0426-s06",
+      "heading": "美股精彩行情與 ARM 的暴漲",
+      "start": 730.82,
+      "end": 903.81,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0426-s07",
+      "heading": "手上持股的調整與投資邏輯",
+      "start": 903.86,
+      "end": 1133.98,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0426-s08",
+      "heading": "Cloudflare 的邊緣運算故事",
+      "start": 1134.03,
+      "end": 1341.76,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0426-s09",
+      "heading": "對市場整體評估與未來展望",
+      "start": 1341.81,
+      "end": 1583.58,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0426-s10",
+      "heading": "臺股開盤展望",
+      "start": 1583.63,
+      "end": 1640.46,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0426-s11",
+      "heading": "Q&A",
+      "start": 1640.51,
+      "end": 2961.59,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0426-s12",
+      "heading": "結尾",
+      "start": 2961.64,
+      "end": 2964.79,
+      "confidence": 0.571
+    }
+  ]
+}

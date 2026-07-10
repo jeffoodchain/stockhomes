@@ -1,0 +1,86 @@
+{
+  "ep": 525,
+  "source": "auto-aligned from reports/mk/gooaye-ep0525.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0525.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/21c7eaef-449f-4382-bc26-75085a3bd3cc/rssFileVip.mp3?timestamp=1737534084441",
+  "duration": 2978.17,
+  "segments": [
+    {
+      "id": "ep0525-s01",
+      "heading": "開場 / 贊助：PlayStation",
+      "start": 0.0,
+      "end": 94.31,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0525-s02",
+      "heading": "台股春節觀察",
+      "start": 94.36,
+      "end": 118.35,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0525-s03",
+      "heading": "假期心態的轉變",
+      "start": 118.4,
+      "end": 258.23,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0525-s04",
+      "heading": "產檢與生產抉擇",
+      "start": 258.28,
+      "end": 420.05,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0525-s05",
+      "heading": "面對懷孕狀況的心態",
+      "start": 420.1,
+      "end": 676.75,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0525-s06",
+      "heading": "地震與 TSMC 影響",
+      "start": 676.8,
+      "end": 786.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0525-s07",
+      "heading": "川普上任與美國政策",
+      "start": 786.44,
+      "end": 1181.21,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0525-s08",
+      "heading": "AI 商機與供應鏈變化",
+      "start": 1181.26,
+      "end": 1420.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0525-s09",
+      "heading": "台股技術面展望",
+      "start": 1420.16,
+      "end": 1548.59,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0525-s10",
+      "heading": "QA 時間",
+      "start": 1548.64,
+      "end": 2976.43,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0525-s11",
+      "heading": "結尾",
+      "start": 2976.48,
+      "end": 2978.17,
+      "confidence": 0.923
+    }
+  ]
+}

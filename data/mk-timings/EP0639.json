@@ -1,0 +1,177 @@
+{
+  "ep": 639,
+  "source": "auto-aligned from reports/mk/gooaye-ep0639.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0639.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cf179ea7-36e0-467d-abca-8b10f191d4f3/rssFileVip.mp3?timestamp=1772057963753",
+  "duration": 3125.29,
+  "segments": [
+    {
+      "id": "ep0639-s01",
+      "heading": "開場 / 贊助：黑嘉嘉圍棋 HJJ GO",
+      "start": 0.0,
+      "end": 100.87,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0639-s02",
+      "heading": "時間流逝感：聽眾與市場一起變老",
+      "start": 100.92,
+      "end": 209.51,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0639-s03",
+      "heading": "雙七配置：台股日股噴、美股弱",
+      "start": 209.56,
+      "end": 314.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0639-s04",
+      "heading": "呼吸輪動：不要極端切換市場",
+      "start": 314.8,
+      "end": 608.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0639-s05",
+      "heading": "台股萬箭齊發：補部位節奏與瑞穗鮮乳",
+      "start": 608.44,
+      "end": 733.43,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0639-s06",
+      "heading": "GTC 大會想像：SRAM scale-up 與 Groq 整合",
+      "start": 733.48,
+      "end": 892.15,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0639-s07",
+      "heading": "太陽能去中化新契機：川普、IRA、45X 與供需",
+      "start": 892.2,
+      "end": 1384.89,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0639-s08",
+      "heading": "需求端 bottleneck：變壓器、電網與環評",
+      "start": 1384.94,
+      "end": 1830.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0639-s09",
+      "heading": "Q&A：女兒手術祈福",
+      "start": 1830.74,
+      "end": 1852.11,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0639-s10",
+      "heading": "Q&A：不要問下車點",
+      "start": 1852.16,
+      "end": 1895.63,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0639-s11",
+      "heading": "Q&A：母親開刀祈福",
+      "start": 1895.68,
+      "end": 1942.85,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0639-s12",
+      "heading": "Q&A：判讀盤勢與調節邏輯",
+      "start": 1942.9,
+      "end": 2128.63,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0639-s13",
+      "heading": "Q&A：怎麼知道族群漲跌的故事？",
+      "start": 2128.68,
+      "end": 2215.89,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0639-s14",
+      "heading": "Q&A：屁眼按摩棒、Spotify 印象差",
+      "start": 2215.94,
+      "end": 2228.17,
+      "confidence": 0.817
+    },
+    {
+      "id": "ep0639-s15",
+      "heading": "Q&A：Phison Adaptive 與群聯",
+      "start": 2228.22,
+      "end": 2264.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0639-s16",
+      "heading": "Q&A：特斯拉 vs. 中國 FSD 與機器人",
+      "start": 2264.08,
+      "end": 2361.67,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0639-s17",
+      "heading": "Q&A：抱不住 & 飛機笑話",
+      "start": 2361.72,
+      "end": 2384.81,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0639-s18",
+      "heading": "Q&A：戀劇人推薦",
+      "start": 2384.86,
+      "end": 2431.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0639-s19",
+      "heading": "Q&A：小生意投資算淨值",
+      "start": 2431.8,
+      "end": 2506.45,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0639-s20",
+      "heading": "Q&A：Credo、3665 與高速傳輸",
+      "start": 2506.5,
+      "end": 2641.93,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0639-s21",
+      "heading": "Q&A：屁股為什麼左右分",
+      "start": 2641.98,
+      "end": 2677.43,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0639-s22",
+      "heading": "Q&A：元宵口味 & 6269 台郡",
+      "start": 2677.48,
+      "end": 2763.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0639-s23",
+      "heading": "Q&A：OpenAI 與人型機器人",
+      "start": 2763.84,
+      "end": 2917.91,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0639-s24",
+      "heading": "Q&A：身障聽眾的勵志分享",
+      "start": 2917.96,
+      "end": 3125.29,
+      "confidence": 0.778
+    }
+  ]
+}

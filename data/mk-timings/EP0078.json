@@ -1,0 +1,65 @@
+{
+  "ep": 78,
+  "source": "auto-aligned from reports/mk/gooaye-ep0078.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0078.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d7e1d9a9-878a-4e98-8303-681bdda016bd/rssFileVip.mp3?timestamp=1689439407625",
+  "duration": 2321.32,
+  "segments": [
+    {
+      "id": "ep0078-s01",
+      "heading": "開場 / 贊助：永豐大戶",
+      "start": 4.5,
+      "end": 69.45,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0078-s02",
+      "heading": "原神 vs 薩爾達：抄仔論",
+      "start": 69.5,
+      "end": 525.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0078-s03",
+      "heading": "美國副總統辯論：彭斯 vs 哈里斯",
+      "start": 525.9,
+      "end": 902.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0078-s04",
+      "heading": "臺幣強升：斷掉的柳樹與壽險衝擊",
+      "start": 903.0,
+      "end": 1111.21,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0078-s05",
+      "heading": "臺股現況：垃圾盤與5G iPhone供應鏈",
+      "start": 1111.26,
+      "end": 1387.25,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0078-s06",
+      "heading": "音樂推薦：Pixies 與 Where Is My Mind",
+      "start": 1387.3,
+      "end": 1562.67,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0078-s07",
+      "heading": "Q&A：海外菜雞留言特輯",
+      "start": 1562.72,
+      "end": 2209.16,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0078-s08",
+      "heading": "結尾",
+      "start": 2209.21,
+      "end": 2321.32,
+      "confidence": 0.689
+    }
+  ]
+}

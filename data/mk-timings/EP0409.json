@@ -1,0 +1,72 @@
+{
+  "ep": 409,
+  "source": "auto-aligned from reports/mk/gooaye-ep0409.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0409.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bf492e30-c6e2-4fa6-848a-aac8cc0f0656/rssFileVip.mp3?timestamp=1702455737612",
+  "duration": 3010.85,
+  "segments": [
+    {
+      "id": "ep0409-s01",
+      "heading": "開場 / 贊助：喬致庸國際有限公司",
+      "start": 0.0,
+      "end": 66.03,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0409-s02",
+      "heading": "Luna 找到家了",
+      "start": 66.08,
+      "end": 85.03,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0409-s03",
+      "heading": "社會問題要付諸行動",
+      "start": 85.08,
+      "end": 165.49,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0409-s04",
+      "heading": "聖誕節與生活體驗",
+      "start": 165.54,
+      "end": 566.59,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0409-s05",
+      "heading": "台股美股表現與網通標案機會",
+      "start": 566.64,
+      "end": 790.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0409-s06",
+      "heading": "NVIDIA 與下游應用",
+      "start": 791.02,
+      "end": 1083.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0409-s07",
+      "heading": "記憶體與消費性半導體",
+      "start": 1083.9,
+      "end": 1150.43,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0409-s08",
+      "heading": "車用電動車市場",
+      "start": 1150.48,
+      "end": 1548.73,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0409-s09",
+      "heading": "Q&A 時間",
+      "start": 1548.78,
+      "end": 3010.85,
+      "confidence": 0.711
+    }
+  ]
+}

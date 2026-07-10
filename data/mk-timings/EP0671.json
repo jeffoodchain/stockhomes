@@ -1,0 +1,135 @@
+{
+  "ep": 671,
+  "source": "auto-aligned from reports/mk/gooaye-ep0671.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0671.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4f8d2d01-0119-4349-b970-5077910a3362/rssFileVip.mp3?timestamp=1781680108341",
+  "duration": 3045.04,
+  "segments": [
+    {
+      "id": "ep0671-s01",
+      "heading": "開場 / 贊助：TAIZAKU 火星生技武倍對策",
+      "start": 0.0,
+      "end": 80.37,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0671-s02",
+      "heading": "新聽眾、社群冒名與「謝孟恭推標的」澄清",
+      "start": 80.42,
+      "end": 352.95,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0671-s03",
+      "heading": "林口生意計畫、資本方持股與房租現實",
+      "start": 353.0,
+      "end": 704.39,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0671-s04",
+      "heading": "盤面熱度：被動元件、投信規則與資金輪動",
+      "start": 704.44,
+      "end": 972.43,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0671-s05",
+      "heading": "PMIC、功率元件與 Nexperia / 中國料替代機會",
+      "start": 972.48,
+      "end": 1543.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0671-s06",
+      "heading": "NVIDIA、台積電、SpaceX 與市場想像力",
+      "start": 1543.88,
+      "end": 1846.81,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0671-s07",
+      "heading": "Q&A：生日與低軌光通 / 被動元件早上車",
+      "start": 1846.86,
+      "end": 1876.73,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0671-s08",
+      "heading": "Q&A：同事炫耀、職場相處與性平問題",
+      "start": 1876.78,
+      "end": 1912.69,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0671-s09",
+      "heading": "Q&A：成年孩子信用消費與父母界線",
+      "start": 1912.74,
+      "end": 2146.81,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0671-s10",
+      "heading": "Q&A：全聯買得到的紅酒",
+      "start": 2146.86,
+      "end": 2210.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0671-s11",
+      "heading": "Q&A：留言測試、立刻解決問題的個性，以及想問誰問題",
+      "start": 2210.3,
+      "end": 2368.93,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0671-s12",
+      "heading": "Q&A：操作放慢與石英元件題材",
+      "start": 2368.98,
+      "end": 2429.71,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0671-s13",
+      "heading": "Q&A：生日祝福：老趙",
+      "start": 2429.76,
+      "end": 2442.97,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0671-s14",
+      "heading": "Q&A：生日祝福：小劉",
+      "start": 2443.02,
+      "end": 2476.59,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0671-s15",
+      "heading": "Q&A：離開急診有毒工作環境與職場供需",
+      "start": 2476.64,
+      "end": 2609.96,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0671-s16",
+      "heading": "Q&A：半導體導線架、Tier 輪動與資金流",
+      "start": 2610.01,
+      "end": 2679.46,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0671-s17",
+      "heading": "Q&A：畢製短片募資與紀錄片支援",
+      "start": 2679.51,
+      "end": 2775.06,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0671-s18",
+      "heading": "Q&A：如果翻身失敗或一開始不缺錢，會做什麼工作",
+      "start": 2775.11,
+      "end": 3045.04,
+      "confidence": 0.678
+    }
+  ]
+}

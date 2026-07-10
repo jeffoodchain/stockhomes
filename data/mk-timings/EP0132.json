@@ -1,0 +1,51 @@
+{
+  "ep": 132,
+  "source": "auto-aligned from reports/mk/gooaye-ep0132.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0132.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/691bcc91-98b5-4f79-aecc-ddcf02debab1/rssFileVip.mp3?timestamp=1689439382030",
+  "duration": 2408.99,
+  "segments": [
+    {
+      "id": "ep0132-s01",
+      "heading": "開場 / 贊助：OVO 智慧投影機",
+      "start": 0.0,
+      "end": 83.59,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0132-s02",
+      "heading": "台積電法說會：缺水與車用晶片",
+      "start": 83.64,
+      "end": 262.19,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0132-s03",
+      "heading": "電動車產業轉變與特斯拉",
+      "start": 262.24,
+      "end": 670.31,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0132-s04",
+      "heading": "Jeff Bezos 最後一封股東信：Larry and Mary 的故事",
+      "start": 670.36,
+      "end": 825.27,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0132-s05",
+      "heading": "亞馬遜創造的價值：股東、員工與消費者",
+      "start": 825.32,
+      "end": 1362.03,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0132-s06",
+      "heading": "QA",
+      "start": 1362.08,
+      "end": 2408.99,
+      "confidence": 0.7
+    }
+  ]
+}

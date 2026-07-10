@@ -1,0 +1,58 @@
+{
+  "ep": 593,
+  "source": "auto-aligned from reports/mk/gooaye-ep0593.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0593.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3e6e0d8f-80c5-4d28-94b2-c4dc0f0f74b0/rssFileVip.mp3?timestamp=1758097777006",
+  "duration": 3154.99,
+  "segments": [
+    {
+      "id": "ep0593-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 71.41,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0593-s02",
+      "heading": "生活：安哥急診有驚無險",
+      "start": 71.46,
+      "end": 443.69,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0593-s03",
+      "heading": "市場：族群輪動——記憶體與碳化矽當道",
+      "start": 443.74,
+      "end": 549.67,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0593-s04",
+      "heading": "NAND Flash：加速反應中",
+      "start": 549.72,
+      "end": 719.11,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0593-s05",
+      "heading": "DRAM 與 NOR Flash：Legacy Node 的機會",
+      "start": 719.16,
+      "end": 941.29,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0593-s06",
+      "heading": "碳化矽（SiC）：價格落底，應用延伸",
+      "start": 941.34,
+      "end": 1294.53,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0593-s07",
+      "heading": "Q&A",
+      "start": 1294.58,
+      "end": 3154.99,
+      "confidence": 0.722
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 87,
+  "source": "auto-aligned from reports/mk/gooaye-ep0087.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0087.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5f84d712-1299-4bb6-95bf-66b0835d747d/rssFileVip.mp3?timestamp=1689439392280",
+  "duration": 2520.45,
+  "segments": [
+    {
+      "id": "ep0087-s01",
+      "heading": "開場 / 贊助：三國群英傳M",
+      "start": 0.21,
+      "end": 96.32,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0087-s02",
+      "heading": "鬼滅之刃電影版與作者謎雲",
+      "start": 96.37,
+      "end": 205.64,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0087-s03",
+      "heading": "Netflix、後翼棄兵與串流平台競爭",
+      "start": 205.69,
+      "end": 414.92,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0087-s04",
+      "heading": "疫苗登場與科技股修正",
+      "start": 414.97,
+      "end": 731.9,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0087-s05",
+      "heading": "傳產股復活與台股觀察",
+      "start": 731.95,
+      "end": 998.78,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0087-s06",
+      "heading": "台股傳產與中美晶集團",
+      "start": 998.83,
+      "end": 1378.34,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0087-s07",
+      "heading": "Bill Ackman 再次買進CDS",
+      "start": 1378.39,
+      "end": 1600.8,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0087-s08",
+      "heading": "Q&A",
+      "start": 1600.85,
+      "end": 2520.45,
+      "confidence": 0.711
+    }
+  ]
+}

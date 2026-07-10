@@ -1,0 +1,58 @@
+{
+  "ep": 301,
+  "source": "auto-aligned from reports/mk/gooaye-ep0301.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0301.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/73331016-c555-4ac4-880a-8567fef382a8/rssFileVip.mp3?timestamp=1689439389745",
+  "duration": 3114.89,
+  "segments": [
+    {
+      "id": "ep0301-s01",
+      "heading": "開場 / 贊助：stanCode",
+      "start": 0.0,
+      "end": 77.55,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0301-s02",
+      "heading": "生活更新：Ruby 送養失敗",
+      "start": 77.6,
+      "end": 399.89,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0301-s03",
+      "heading": "市場更新：大盤月線乖離 / 鮑威爾講話",
+      "start": 399.94,
+      "end": 716.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0301-s04",
+      "heading": "供應鏈更新：半導體庫存見底訊號",
+      "start": 716.9,
+      "end": 1007.75,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0301-s05",
+      "heading": "其他產業：金融股、原物料、中國解封",
+      "start": 1007.8,
+      "end": 1257.13,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0301-s06",
+      "heading": "題材概念股警示：純度才是關鍵",
+      "start": 1257.18,
+      "end": 1778.63,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0301-s07",
+      "heading": "Q&A",
+      "start": 1778.68,
+      "end": 3114.89,
+      "confidence": 1.0
+    }
+  ]
+}

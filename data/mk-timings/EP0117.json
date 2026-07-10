@@ -1,0 +1,44 @@
+{
+  "ep": 117,
+  "source": "auto-aligned from reports/mk/gooaye-ep0117.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0117.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e3a4d4f9-2aa0-4cf0-b444-047a60ea39c3/rssFileVip.mp3?timestamp=1689439380254",
+  "duration": 2565.04,
+  "segments": [
+    {
+      "id": "ep0117-s01",
+      "heading": "開場 / 贊助：拜維佳",
+      "start": 0.0,
+      "end": 50.69,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0117-s02",
+      "heading": "看房心得 / 資金寬鬆下的房市觀察",
+      "start": 50.74,
+      "end": 675.13,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0117-s03",
+      "heading": "美港科技股修正 / Valuation Reset",
+      "start": 675.18,
+      "end": 1512.79,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0117-s04",
+      "heading": "Q&A",
+      "start": 1512.84,
+      "end": 2561.96,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0117-s05",
+      "heading": "結尾",
+      "start": 2562.01,
+      "end": 2565.04,
+      "confidence": 0.579
+    }
+  ]
+}

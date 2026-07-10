@@ -1,0 +1,58 @@
+{
+  "ep": 388,
+  "source": "auto-aligned from reports/mk/gooaye-ep0388.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0388.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/32119549-8e66-4ba6-b087-090cdf3ee133/rssFileVip.mp3?timestamp=1696070257411",
+  "duration": 3217.42,
+  "segments": [
+    {
+      "id": "ep0388-s01",
+      "heading": "開場 / 贊助：Alox 亞立詩",
+      "start": 0.0,
+      "end": 106.87,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0388-s02",
+      "heading": "中秋連假與交通",
+      "start": 106.92,
+      "end": 242.77,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0388-s03",
+      "heading": "國旅住宿費高與行業內卷",
+      "start": 242.82,
+      "end": 581.19,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0388-s04",
+      "heading": "小型股投資策略心得",
+      "start": 581.24,
+      "end": 1334.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0388-s05",
+      "heading": "科技新聞：亞馬遜投資 Anthropic",
+      "start": 1334.76,
+      "end": 1535.53,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0388-s06",
+      "heading": "Meta 開發者大會與新產品",
+      "start": 1535.58,
+      "end": 1924.41,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0388-s07",
+      "heading": "Q&A 環節",
+      "start": 1924.46,
+      "end": 3217.42,
+      "confidence": 0.822
+    }
+  ]
+}

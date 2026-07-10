@@ -1,0 +1,65 @@
+{
+  "ep": 79,
+  "source": "auto-aligned from reports/mk/gooaye-ep0079.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0079.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4e773677-aa3c-4ea6-ad0b-f51b1a92fd39/rssFileVip.mp3?timestamp=1689439392632",
+  "duration": 2466.95,
+  "segments": [
+    {
+      "id": "ep0079-s01",
+      "heading": "開場 / 贊助：瑞威寵糧",
+      "start": 0.0,
+      "end": 144.79,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0079-s02",
+      "heading": "25萬 vs 3萬：本多終勝的底層邏輯",
+      "start": 144.84,
+      "end": 399.29,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0079-s03",
+      "heading": "蘋果發表會：iPhone 12 與強勢股的長期動能",
+      "start": 399.34,
+      "end": 695.97,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0079-s04",
+      "heading": "美國大選：川普的操作與能源ETF押寶拜登",
+      "start": 696.02,
+      "end": 999.53,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0079-s05",
+      "heading": "反壟斷：Big Tech 4 vs 騰訊整併虎牙鬥魚",
+      "start": 999.58,
+      "end": 1571.01,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0079-s06",
+      "heading": "贊助：渣打臺北公益馬拉松",
+      "start": 1571.06,
+      "end": 1625.67,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0079-s07",
+      "heading": "Q&A",
+      "start": 1625.72,
+      "end": 2461.34,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0079-s08",
+      "heading": "結尾",
+      "start": 2461.39,
+      "end": 2466.95,
+      "confidence": 0.64
+    }
+  ]
+}

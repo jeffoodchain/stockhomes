@@ -1,0 +1,58 @@
+{
+  "ep": 286,
+  "source": "auto-aligned from reports/mk/gooaye-ep0286.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0286.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/724575b3-a18e-4e50-80b7-fac670859ad1/rssFileVip.mp3?timestamp=1689439379839",
+  "duration": 2857.8,
+  "segments": [
+    {
+      "id": "ep0286-s01",
+      "heading": "開場 / 贊助：Cybex 兒童安全座椅",
+      "start": 0.0,
+      "end": 121.91,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0286-s02",
+      "heading": "開場閒聊：爸爸甘苦談",
+      "start": 121.96,
+      "end": 219.43,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0286-s03",
+      "heading": "馬斯克建議台灣成為特別行政區",
+      "start": 219.48,
+      "end": 440.91,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0286-s04",
+      "heading": "美國右派與獨善其身論",
+      "start": 440.96,
+      "end": 713.93,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0286-s05",
+      "heading": "AMD 預告財報大爆雷",
+      "start": 713.98,
+      "end": 1052.01,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0286-s06",
+      "heading": "美國 BIS 最新對中半導體禁令",
+      "start": 1052.06,
+      "end": 1536.19,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0286-s07",
+      "heading": "Q&A",
+      "start": 1536.24,
+      "end": 2857.8,
+      "confidence": 0.767
+    }
+  ]
+}

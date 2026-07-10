@@ -1,0 +1,65 @@
+{
+  "ep": 93,
+  "source": "auto-aligned from reports/mk/gooaye-ep0093.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0093.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/01a7f5de-e90f-4c42-b8f5-c4e95530e5e8/rssFileVip.mp3?timestamp=1689439407129",
+  "duration": 2538.29,
+  "segments": [
+    {
+      "id": "ep0093-s01",
+      "heading": "開場 / 贊助：Hahow 好學校",
+      "start": 0.0,
+      "end": 151.87,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0093-s02",
+      "heading": "市場概況與投資心態：all in 的危險",
+      "start": 151.92,
+      "end": 349.09,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0093-s03",
+      "heading": "疫苗股觀察：Pfizer 與 Moderna",
+      "start": 349.14,
+      "end": 533.03,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0093-s04",
+      "heading": "不要幫短期漲跌找理由",
+      "start": 533.08,
+      "end": 655.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0093-s05",
+      "heading": "林鄭月娥現金水位百分之百",
+      "start": 655.7,
+      "end": 806.57,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0093-s06",
+      "heading": "現金水位的迷思與 buy and hold 策略",
+      "start": 806.62,
+      "end": 1104.11,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0093-s07",
+      "heading": "勞退弊案與退休金改革呼籲",
+      "start": 1104.16,
+      "end": 1672.05,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0093-s08",
+      "heading": "Q&A",
+      "start": 1672.1,
+      "end": 2538.29,
+      "confidence": 0.778
+    }
+  ]
+}

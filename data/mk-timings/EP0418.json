@@ -1,0 +1,79 @@
+{
+  "ep": 418,
+  "source": "auto-aligned from reports/mk/gooaye-ep0418.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0418.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2dcee985-49e4-4bbc-9299-993b224fb352/rssFileVip.mp3?timestamp=1705134124890",
+  "duration": 3221.89,
+  "segments": [
+    {
+      "id": "ep0418-s01",
+      "heading": "開場 / 贊助：WOKI 魂圓杯",
+      "start": 0.0,
+      "end": 98.1,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0418-s02",
+      "heading": "背痛改善方法與人生經驗談",
+      "start": 98.15,
+      "end": 299.16,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0418-s03",
+      "heading": "感謝與近況",
+      "start": 299.21,
+      "end": 382.88,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0418-s04",
+      "heading": "Google 辦公室參訪細節",
+      "start": 382.93,
+      "end": 470.64,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0418-s05",
+      "heading": "AI 成本問題：Pixel 桌布案例",
+      "start": 470.69,
+      "end": 547.92,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0418-s06",
+      "heading": "邊緣運算與成本結構",
+      "start": 547.97,
+      "end": 739.74,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0418-s07",
+      "heading": "文生視頻與內容大爆發",
+      "start": 739.79,
+      "end": 881.26,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0418-s08",
+      "heading": "成本問題對基建投資的啟示",
+      "start": 881.31,
+      "end": 1105.18,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0418-s09",
+      "heading": "Google 競爭力與未來展望",
+      "start": 1105.23,
+      "end": 1688.08,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0418-s10",
+      "heading": "Q&A 部分",
+      "start": 1688.13,
+      "end": 3221.89,
+      "confidence": 0.689
+    }
+  ]
+}

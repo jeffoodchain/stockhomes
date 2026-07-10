@@ -1,0 +1,58 @@
+{
+  "ep": 293,
+  "source": "auto-aligned from reports/mk/gooaye-ep0293.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0293.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d86cf7b8-150e-49a7-af3b-b97bb7cc0d00/rssFileVip.mp3?timestamp=1689439382887",
+  "duration": 3116.36,
+  "segments": [
+    {
+      "id": "ep0293-s01",
+      "heading": "開場 / 贊助：Bioniq 貝歐尼專業修護牙膏",
+      "start": 0.0,
+      "end": 94.25,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0293-s02",
+      "heading": "林口生活：餐廳荒、Amber Hill、小孩教育",
+      "start": 94.3,
+      "end": 556.99,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0293-s03",
+      "heading": "市場觀察：債券 300 年最爛、均值迴歸機會",
+      "start": 557.04,
+      "end": 713.87,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0293-s04",
+      "heading": "壽險公司認損反轉機會",
+      "start": 713.92,
+      "end": 994.33,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0293-s05",
+      "heading": "道瓊強於 ES/NQ：民生剛需股觀察",
+      "start": 994.38,
+      "end": 1285.51,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0293-s06",
+      "heading": "天然氣 / LNG：供過於求的空方機會",
+      "start": 1285.56,
+      "end": 1619.59,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0293-s07",
+      "heading": "Q&A",
+      "start": 1619.64,
+      "end": 3116.36,
+      "confidence": 0.789
+    }
+  ]
+}

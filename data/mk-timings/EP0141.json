@@ -1,0 +1,51 @@
+{
+  "ep": 141,
+  "source": "auto-aligned from reports/mk/gooaye-ep0141.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0141.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8c2e4c09-3305-4abf-955b-232b029d2470/rssFileVip.mp3?timestamp=1689439401234",
+  "duration": 2620.03,
+  "segments": [
+    {
+      "id": "ep0141-s01",
+      "heading": "開場 / 贊助：畑中義和商店",
+      "start": 0.0,
+      "end": 96.47,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0141-s02",
+      "heading": "疫情下的 Podcast 生態與家長壓力",
+      "start": 96.52,
+      "end": 263.83,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0141-s03",
+      "heading": "台股歷史最大跌漲點：雲霄飛車行情解析",
+      "start": 263.88,
+      "end": 858.51,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0141-s04",
+      "heading": "美股 13F 報告：Michael Burry（Cassandra）操作解析",
+      "start": 858.56,
+      "end": 1396.51,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0141-s05",
+      "heading": "Q&A",
+      "start": 1396.56,
+      "end": 2588.31,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0141-s06",
+      "heading": "結尾",
+      "start": 2588.36,
+      "end": 2620.03,
+      "confidence": 0.778
+    }
+  ]
+}

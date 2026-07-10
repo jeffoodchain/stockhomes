@@ -1,0 +1,86 @@
+{
+  "ep": 477,
+  "source": "auto-aligned from reports/mk/gooaye-ep0477.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0477.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4741e9de-67e4-42bf-91da-8ffe593cca43/rssFileVip.mp3?timestamp=1723026169870",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0477-s01",
+      "heading": "開場／贊助：善存益生菌",
+      "start": 0.0,
+      "end": 65.35,
+      "confidence": 0.653
+    },
+    {
+      "id": "ep0477-s02",
+      "heading": "參訪公司與投資心得",
+      "start": 65.4,
+      "end": 419.69,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0477-s03",
+      "heading": "恭喜活下來的投資人",
+      "start": 419.74,
+      "end": 540.61,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0477-s04",
+      "heading": "這一波市場的劇烈波動",
+      "start": 540.66,
+      "end": 612.15,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0477-s05",
+      "heading": "個人投資部位調整",
+      "start": 612.2,
+      "end": 710.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0477-s06",
+      "heading": "補部位策略",
+      "start": 710.3,
+      "end": 754.67,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0477-s07",
+      "heading": "市場事件與預判",
+      "start": 754.72,
+      "end": 844.45,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0477-s08",
+      "heading": "便宜股票的出現",
+      "start": 844.5,
+      "end": 939.93,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0477-s09",
+      "heading": "融資清洗與流動性危機",
+      "start": 939.98,
+      "end": 1275.37,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0477-s10",
+      "heading": "ODM/OEM 的前景",
+      "start": 1275.42,
+      "end": 1375.75,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0477-s11",
+      "heading": "Q&A 部分",
+      "start": 1375.8,
+      "end": 2993.03,
+      "confidence": 0.867
+    }
+  ]
+}

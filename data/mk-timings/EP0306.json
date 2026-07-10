@@ -1,0 +1,65 @@
+{
+  "ep": 306,
+  "source": "auto-aligned from reports/mk/gooaye-ep0306.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0306.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/cd921c9c-e7f3-4677-bfa6-72dcfc2f3677/rssFileVip.mp3?timestamp=1689439378931",
+  "duration": 3108.94,
+  "segments": [
+    {
+      "id": "ep0306-s01",
+      "heading": "開場 / 贊助：MIHONG®",
+      "start": 0.0,
+      "end": 91.43,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0306-s02",
+      "heading": "樹懶叫聲更正 / 滾動式修正",
+      "start": 91.48,
+      "end": 204.83,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0306-s03",
+      "heading": "Ruby事件後續 / 個性與決策",
+      "start": 204.88,
+      "end": 591.98,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0306-s04",
+      "heading": "馬斯克 / Twitter與特斯拉",
+      "start": 592.03,
+      "end": 1213.33,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0306-s05",
+      "heading": "美國二手車市場風險",
+      "start": 1213.38,
+      "end": 1480.89,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0306-s06",
+      "heading": "台灣二順位房貸風險提醒",
+      "start": 1480.94,
+      "end": 1657.05,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0306-s07",
+      "heading": "中國劉鶴救房地產 / 台灣原物料短線機會",
+      "start": 1657.1,
+      "end": 1937.88,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0306-s08",
+      "heading": "Q&A",
+      "start": 1937.93,
+      "end": 3108.94,
+      "confidence": 0.778
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ep": 18,
+  "source": "auto-aligned from reports/mk/gooaye-ep0018.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0018.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2f1928a9-2800-4fda-91dd-7524cfda1d0f/rssFileVip.mp3?timestamp=1761072702064",
+  "duration": 1538.14,
+  "segments": [
+    {
+      "id": "ep0018-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.21,
+      "end": 80.1,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0018-s02",
+      "heading": "川普收回「中國病毒」說法",
+      "start": 80.15,
+      "end": 398.96,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0018-s03",
+      "heading": "美國紓困與福特危機",
+      "start": 399.01,
+      "end": 664.65,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0018-s04",
+      "heading": "QA：網通產品需求、Zoom買錯事件、疫情受惠股",
+      "start": 664.7,
+      "end": 1202.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0018-s05",
+      "heading": "QA：其他問題",
+      "start": 1202.64,
+      "end": 1228.41,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0018-s06",
+      "heading": "QA：0056 vs 0050",
+      "start": 1228.46,
+      "end": 1538.14,
+      "confidence": 0.811
+    }
+  ]
+}

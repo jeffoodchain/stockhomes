@@ -1,0 +1,58 @@
+{
+  "ep": 55,
+  "source": "auto-aligned from reports/mk/gooaye-ep0055.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0055.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f19acdb1-5f5d-4775-bcad-7d05532a8ebd/rssFileVip.mp3?timestamp=1689439402765",
+  "duration": 2340.62,
+  "segments": [
+    {
+      "id": "ep0055-s01",
+      "heading": "開場 / 贊助：提提研",
+      "start": 0.21,
+      "end": 174.72,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0055-s02",
+      "heading": "詐騙集團的仙股手法",
+      "start": 174.77,
+      "end": 469.16,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0055-s03",
+      "heading": "企業斜槓現象",
+      "start": 469.21,
+      "end": 761.48,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0055-s04",
+      "heading": "宏碁（2353）轉型生活品牌",
+      "start": 761.53,
+      "end": 1189.68,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0055-s05",
+      "heading": "贊助：Enter Space 進入空間",
+      "start": 1189.73,
+      "end": 1268.14,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0055-s06",
+      "heading": "Q&A",
+      "start": 1268.19,
+      "end": 2265.09,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0055-s07",
+      "heading": "結尾",
+      "start": 2265.14,
+      "end": 2340.62,
+      "confidence": 1.0
+    }
+  ]
+}

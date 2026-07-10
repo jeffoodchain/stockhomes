@@ -1,0 +1,51 @@
+{
+  "ep": 589,
+  "source": "auto-aligned from reports/mk/gooaye-ep0589.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0589.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/be070751-0c82-495d-bd6f-bda64bcd4f48/rssFileVip.mp3?timestamp=1756892631811",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0589-s01",
+      "heading": "開場 / 贊助：Roichen",
+      "start": 0.0,
+      "end": 100.95,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0589-s02",
+      "heading": "聊聊：我姐、家庭、告狀、無愧於心",
+      "start": 101.0,
+      "end": 630.03,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0589-s03",
+      "heading": "市場話題：台股輪動、軍工無人機、Anduril",
+      "start": 630.08,
+      "end": 743.91,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0589-s04",
+      "heading": "市場話題：操作策略、指數轉個股、槓桿",
+      "start": 743.96,
+      "end": 1391.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0589-s05",
+      "heading": "市場話題：NVIDIA Rubin 散熱方案、Cordelia/Bianca/SOCAMM",
+      "start": 1392.04,
+      "end": 1560.09,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0589-s06",
+      "heading": "Q&A",
+      "start": 1560.14,
+      "end": 2997.47,
+      "confidence": 0.633
+    }
+  ]
+}

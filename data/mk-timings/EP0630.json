@@ -1,0 +1,219 @@
+{
+  "ep": 630,
+  "source": "auto-aligned from reports/mk/gooaye-ep0630.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0630.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5fbff599-9897-422a-812f-479eb0d75bd1/rssFileVip.mp3?timestamp=1769412202297",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0630-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 77.41,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0630-s02",
+      "heading": "歐洲生活：小舅子小姨子長大了",
+      "start": 77.46,
+      "end": 170.13,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0630-s03",
+      "heading": "歐洲不再生病 & 早起看盤新作息",
+      "start": 170.18,
+      "end": 339.05,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0630-s04",
+      "heading": "歐洲覓食：Aipiani 餐廳與清酒分享",
+      "start": 339.1,
+      "end": 588.47,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0630-s05",
+      "heading": "盤面：臺股廣度開啟，史上最屌一月",
+      "start": 588.52,
+      "end": 661.83,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0630-s06",
+      "heading": "衛星供應鏈：Starlink、申達科、華通、奇鋐",
+      "start": 661.88,
+      "end": 855.53,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0630-s07",
+      "heading": "NCNT 原則：馬斯克的 Non-China Non-Taiwan 供應鏈",
+      "start": 855.58,
+      "end": 952.77,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0630-s08",
+      "heading": "力積電產能調整、美光合作",
+      "start": 952.82,
+      "end": 1062.41,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0630-s09",
+      "heading": "記憶體漲價：歷史循環 vs. 這次不一樣",
+      "start": 1062.46,
+      "end": 1313.63,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0630-s10",
+      "heading": "聯發科漲停：補漲行情還是 TPU 題材？",
+      "start": 1313.68,
+      "end": 1567.23,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0630-s11",
+      "heading": "Q&A：未上市公司股票如何評估",
+      "start": 1567.28,
+      "end": 1726.25,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0630-s12",
+      "heading": "Q&A：許願找工作",
+      "start": 1726.3,
+      "end": 1756.93,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0630-s13",
+      "heading": "Q&A：皮諾可可生日祝福",
+      "start": 1756.98,
+      "end": 1778.41,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0630-s14",
+      "heading": "Q&A：老公想去海外工作三年",
+      "start": 1778.46,
+      "end": 2057.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0630-s15",
+      "heading": "Q&A：小孩牆壁畫畫怎麼辦",
+      "start": 2057.36,
+      "end": 2159.25,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0630-s16",
+      "heading": "Q&A：閃電鳥配音生日祝福",
+      "start": 2159.3,
+      "end": 2197.95,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0630-s17",
+      "heading": "Q&A：女兒會考許願",
+      "start": 2198.0,
+      "end": 2218.35,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0630-s18",
+      "heading": "Q&A：林口圖斯利亞地中海料理",
+      "start": 2218.4,
+      "end": 2299.35,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0630-s19",
+      "heading": "Q&A：自動扣款 70% 報酬",
+      "start": 2299.4,
+      "end": 2341.07,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0630-s20",
+      "heading": "Q&A：考研加油",
+      "start": 2341.12,
+      "end": 2349.59,
+      "confidence": 0.68
+    },
+    {
+      "id": "ep0630-s21",
+      "heading": "Q&A：性感猛男新婚祝福",
+      "start": 2349.64,
+      "end": 2366.97,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0630-s22",
+      "heading": "Q&A：雙寶爸育兒心聲",
+      "start": 2367.02,
+      "end": 2497.61,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0630-s23",
+      "heading": "Q&A：FX 戰士久留美動畫化",
+      "start": 2497.66,
+      "end": 2552.63,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0630-s24",
+      "heading": "Q&A：劉以豪聲音生日祝福",
+      "start": 2552.68,
+      "end": 2566.93,
+      "confidence": 0.616
+    },
+    {
+      "id": "ep0630-s25",
+      "heading": "Q&A：跳過",
+      "start": 2566.98,
+      "end": 2569.73,
+      "confidence": 0.65
+    },
+    {
+      "id": "ep0630-s26",
+      "heading": "Q&A：PSTG、艾爾登法環 DLC",
+      "start": 2569.78,
+      "end": 2719.17,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0630-s27",
+      "heading": "Q&A：跳過、留言密碼測試",
+      "start": 2719.22,
+      "end": 2754.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0630-s28",
+      "heading": "Q&A：供需推演與腦補",
+      "start": 2754.42,
+      "end": 2957.71,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0630-s29",
+      "heading": "Q&A：留言密碼測試成功",
+      "start": 2957.76,
+      "end": 2963.35,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0630-s30",
+      "heading": "Q&A：什麼時候會崩",
+      "start": 2963.4,
+      "end": 2998.96,
+      "confidence": 0.644
+    }
+  ]
+}

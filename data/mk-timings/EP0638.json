@@ -1,0 +1,135 @@
+{
+  "ep": 638,
+  "source": "auto-aligned from reports/mk/gooaye-ep0638.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0638.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a3e323bd-6f41-4cb6-8c7e-4b1106a2e2ad/rssFileVip.mp3?timestamp=1771711000106",
+  "duration": 3061.37,
+  "segments": [
+    {
+      "id": "ep0638-s01",
+      "heading": "開場 / 贊助：Dr.情趣《特濕拉》電動按摩棒",
+      "start": 0.0,
+      "end": 95.23,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0638-s02",
+      "heading": "這次的農曆新年：第一次過得這麼 chill",
+      "start": 95.28,
+      "end": 623.05,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0638-s03",
+      "heading": "Bad Bunny 與春節記憶的音樂",
+      "start": 623.1,
+      "end": 817.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0638-s04",
+      "heading": "過年後盤勢預判：臺股 vs. 美股",
+      "start": 817.58,
+      "end": 910.91,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0638-s05",
+      "heading": "對伊朗戰爭：可能要爆發",
+      "start": 910.96,
+      "end": 1041.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0638-s06",
+      "heading": "IEEPA 關稅被最高法院否決",
+      "start": 1041.62,
+      "end": 1358.89,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0638-s07",
+      "heading": "Anthropic Cloud Code Security 痛擊資安股",
+      "start": 1358.94,
+      "end": 1920.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0638-s08",
+      "heading": "整體警戒、亞洲股市強到沒朋友",
+      "start": 1920.16,
+      "end": 1993.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0638-s09",
+      "heading": "Q&A：海外飛 Apple、Ember Hill 合照",
+      "start": 1993.58,
+      "end": 2087.37,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0638-s10",
+      "heading": "Q&A：標的會不會漲、快樂寶貝",
+      "start": 2087.42,
+      "end": 2439.37,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0638-s11",
+      "heading": "Q&A：男友生日快樂",
+      "start": 2439.42,
+      "end": 2473.83,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0638-s12",
+      "heading": "Q&A：兒子的「飛機」",
+      "start": 2473.88,
+      "end": 2499.09,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0638-s13",
+      "heading": "Q&A：夢到孟公叫減碼聯電",
+      "start": 2499.14,
+      "end": 2608.41,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0638-s14",
+      "heading": "Q&A：阿婷生日快樂",
+      "start": 2608.46,
+      "end": 2665.67,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0638-s15",
+      "heading": "Q&A：FTX 還錢、GG 大近況、美光",
+      "start": 2665.72,
+      "end": 2742.59,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0638-s16",
+      "heading": "Q&A：澎湖雲端拜拜",
+      "start": 2742.64,
+      "end": 2758.91,
+      "confidence": 0.694
+    },
+    {
+      "id": "ep0638-s17",
+      "heading": "Q&A：記憶體華麗退場、孟母 3000",
+      "start": 2758.96,
+      "end": 2880.47,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0638-s18",
+      "heading": "Q&A：訂閱什麼資訊？投資像玄學",
+      "start": 2880.52,
+      "end": 3061.37,
+      "confidence": 0.744
+    }
+  ]
+}

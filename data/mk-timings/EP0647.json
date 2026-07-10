@@ -1,0 +1,58 @@
+{
+  "ep": 647,
+  "source": "auto-aligned from reports/mk/gooaye-ep0647.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0647.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/959ffd48-b40a-4709-aad8-239f62ccddee/rssFileVip.mp3?timestamp=1774477794790",
+  "duration": 3053.95,
+  "segments": [
+    {
+      "id": "ep0647-s01",
+      "heading": "開場 / 贊助：DR CYJ 健髮中心",
+      "start": 0.0,
+      "end": 70.77,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0647-s02",
+      "heading": "AI 實戰心得：使用者的真實感受 vs. 末日恐慌",
+      "start": 70.82,
+      "end": 300.91,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0647-s03",
+      "heading": "AI 對量化交易的影響",
+      "start": 300.96,
+      "end": 840.11,
+      "confidence": 0.544
+    },
+    {
+      "id": "ep0647-s04",
+      "heading": "市場話題：SORA 喊停與儲存股",
+      "start": 840.16,
+      "end": 1277.09,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0647-s05",
+      "heading": "馬斯克 TerraFab：畫夢還是可行？",
+      "start": 1277.14,
+      "end": 1766.03,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0647-s06",
+      "heading": "盤勢觀察：區間操作，往光通與 CPU 布局",
+      "start": 1766.08,
+      "end": 1974.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0647-s07",
+      "heading": "Q&A",
+      "start": 1974.88,
+      "end": 3053.95,
+      "confidence": 0.644
+    }
+  ]
+}

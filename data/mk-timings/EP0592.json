@@ -1,0 +1,58 @@
+{
+  "ep": 592,
+  "source": "auto-aligned from reports/mk/gooaye-ep0592.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0592.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a63b1ace-ee83-4a3e-a336-fc63c8d30cd8/rssFileVip.mp3?timestamp=1757917902234",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0592-s01",
+      "heading": "開場 / 贊助：MagEasy",
+      "start": 0.0,
+      "end": 94.71,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0592-s02",
+      "heading": "Radiohead 搶票困境",
+      "start": 94.76,
+      "end": 407.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0592-s03",
+      "heading": "市場行情：輪動健康、記憶體大潮",
+      "start": 407.78,
+      "end": 577.55,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0592-s04",
+      "heading": "NVIDIA Rubin CPX 不是取代 HBM",
+      "start": 577.6,
+      "end": 667.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0592-s05",
+      "heading": "記憶體大潮：NAND 與 DRAM",
+      "start": 667.12,
+      "end": 1093.21,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0592-s06",
+      "heading": "國巨非合意收購茂達",
+      "start": 1093.26,
+      "end": 1467.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0592-s07",
+      "heading": "Q&A",
+      "start": 1467.72,
+      "end": 3000.45,
+      "confidence": 0.756
+    }
+  ]
+}

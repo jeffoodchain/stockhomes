@@ -1,0 +1,51 @@
+{
+  "ep": 285,
+  "source": "auto-aligned from reports/mk/gooaye-ep0285.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0285.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e7c025b4-ffa5-4999-bee5-0f1b1547e311/rssFileVip.mp3?timestamp=1689439385889",
+  "duration": 3077.72,
+  "segments": [
+    {
+      "id": "ep0285-s01",
+      "heading": "開場 / 贊助：三五生技",
+      "start": 0.0,
+      "end": 76.59,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0285-s02",
+      "heading": "大盤破底翻：交易心態與複利信仰",
+      "start": 76.64,
+      "end": 225.15,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0285-s03",
+      "heading": "反指標 GG 大傳說",
+      "start": 225.2,
+      "end": 763.17,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0285-s04",
+      "heading": "Tesla FSD 4.0 投片台積電 與 AI as a Service 猜想",
+      "start": 763.22,
+      "end": 1217.85,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0285-s05",
+      "heading": "摩根士丹利轉多：半導體週期分析",
+      "start": 1217.9,
+      "end": 1662.39,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0285-s06",
+      "heading": "Q&A",
+      "start": 1662.44,
+      "end": 3077.72,
+      "confidence": 0.644
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ep": 441,
+  "source": "auto-aligned from reports/mk/gooaye-ep0441.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0441.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/dc9cb36e-e58f-41bd-8700-f002a380efd4/rssFileVip.mp3?timestamp=1712130011569",
+  "duration": 2994.52,
+  "segments": [
+    {
+      "id": "ep0441-s01",
+      "heading": "開場／贊助：NordVPN",
+      "start": 0.0,
+      "end": 59.55,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0441-s02",
+      "heading": "愚人節謠言與市場反應",
+      "start": 59.6,
+      "end": 637.41,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0441-s03",
+      "heading": "小米 SU7 電動車戰略",
+      "start": 637.46,
+      "end": 1276.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0441-s04",
+      "heading": "Q&A 環節",
+      "start": 1276.86,
+      "end": 2994.52,
+      "confidence": 0.989
+    }
+  ]
+}

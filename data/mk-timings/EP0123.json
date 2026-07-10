@@ -1,0 +1,65 @@
+{
+  "ep": 123,
+  "source": "auto-aligned from reports/mk/gooaye-ep0123.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0123.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d3f93077-6652-4bb4-ac0b-179d80103597/rssFileVip.mp3?timestamp=1689439386151",
+  "duration": 2469.93,
+  "segments": [
+    {
+      "id": "ep0123-s01",
+      "heading": "開場 / 贊助：V-TEX 防水鞋",
+      "start": 0.05,
+      "end": 65.74,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0123-s02",
+      "heading": "開場：撿到流浪狗的故事",
+      "start": 65.79,
+      "end": 301.42,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0123-s03",
+      "heading": "市場展望：Fed 利率、美股稅改",
+      "start": 301.47,
+      "end": 523.96,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0123-s04",
+      "heading": "美股觀察：權值股回補、庫藏股",
+      "start": 524.01,
+      "end": 776.78,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0123-s05",
+      "heading": "臺股基本面：缺貨題材全掃描",
+      "start": 776.83,
+      "end": 1148.1,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0123-s06",
+      "heading": "臺股展望：PCB 族群觀察",
+      "start": 1148.15,
+      "end": 1446.18,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0123-s07",
+      "heading": "選股心法與買入時機",
+      "start": 1446.23,
+      "end": 1799.44,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0123-s08",
+      "heading": "Q&A",
+      "start": 1799.49,
+      "end": 2469.93,
+      "confidence": 0.6
+    }
+  ]
+}

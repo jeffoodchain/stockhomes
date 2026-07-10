@@ -1,0 +1,44 @@
+{
+  "ep": 105,
+  "source": "auto-aligned from reports/mk/gooaye-ep0105.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0105.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/45ec121c-e004-4933-8b6a-9ddeaaec2c6f/rssFileVip.mp3?timestamp=1689439394725",
+  "duration": 2443.18,
+  "segments": [
+    {
+      "id": "ep0105-s01",
+      "heading": "開場 / 贊助：畑中義和商店",
+      "start": 0.0,
+      "end": 97.37,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0105-s02",
+      "heading": "閒聊：反社會人格與投資人個性",
+      "start": 97.42,
+      "end": 363.49,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0105-s03",
+      "heading": "插播主題：股匯雙殺劇本解析",
+      "start": 363.54,
+      "end": 1269.39,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0105-s04",
+      "heading": "Q&A",
+      "start": 1269.44,
+      "end": 2418.68,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0105-s05",
+      "heading": "結尾",
+      "start": 2418.73,
+      "end": 2443.18,
+      "confidence": 0.722
+    }
+  ]
+}

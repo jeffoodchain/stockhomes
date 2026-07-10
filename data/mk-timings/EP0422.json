@@ -1,0 +1,65 @@
+{
+  "ep": 422,
+  "source": "auto-aligned from reports/mk/gooaye-ep0422.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0422.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c47747cb-d456-4a85-86c6-fd548bf4c7d8/rssFileVip.mp3?timestamp=1706348328504",
+  "duration": 2958.84,
+  "segments": [
+    {
+      "id": "ep0422-s01",
+      "heading": "開場 / 贊助：如意糖太陽餅",
+      "start": 0.0,
+      "end": 98.31,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0422-s02",
+      "heading": "幻獸帕魯遊戲推薦",
+      "start": 98.36,
+      "end": 201.43,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0422-s03",
+      "heading": "帕魯與寶可夢的比較",
+      "start": 201.48,
+      "end": 499.11,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0422-s04",
+      "heading": "台股盤勢分析",
+      "start": 499.16,
+      "end": 771.53,
+      "confidence": 0.522
+    },
+    {
+      "id": "ep0422-s05",
+      "heading": "Sam Altman 造晶片計劃",
+      "start": 771.58,
+      "end": 944.67,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0422-s06",
+      "heading": "Intel 與聯電 12 奈米合作",
+      "start": 944.72,
+      "end": 1202.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0422-s07",
+      "heading": "特斯拉財報分析",
+      "start": 1202.94,
+      "end": 1813.15,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0422-s08",
+      "heading": "Q&A 部分",
+      "start": 1813.2,
+      "end": 2958.84,
+      "confidence": 0.667
+    }
+  ]
+}

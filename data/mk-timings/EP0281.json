@@ -1,0 +1,72 @@
+{
+  "ep": 281,
+  "source": "auto-aligned from reports/mk/gooaye-ep0281.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0281.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/83f74b79-495b-4975-92b8-7fa6254ab605/rssFileVip.mp3?timestamp=1689439400475",
+  "duration": 3132.7,
+  "segments": [
+    {
+      "id": "ep0281-s01",
+      "heading": "開場 / 贊助：善存",
+      "start": 0.0,
+      "end": 65.68,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0281-s02",
+      "heading": "刺青與學歷：特別座的兩種切面",
+      "start": 65.73,
+      "end": 410.07,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0281-s03",
+      "heading": "學歷的現實：學電生的自白",
+      "start": 410.12,
+      "end": 639.95,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0281-s04",
+      "heading": "羅技之行與消費電子景氣",
+      "start": 640.0,
+      "end": 883.27,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0281-s05",
+      "heading": "日曆商機與庫存週期雜談",
+      "start": 883.32,
+      "end": 1006.93,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0281-s06",
+      "heading": "記憶體落底時程",
+      "start": 1006.98,
+      "end": 1208.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0281-s07",
+      "heading": "台股垃圾時間與FOMC預期",
+      "start": 1208.74,
+      "end": 1571.08,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0281-s08",
+      "heading": "NVIDIA Ada Lovelace 4080/4090 發表",
+      "start": 1571.13,
+      "end": 1594.48,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0281-s09",
+      "heading": "Q&A",
+      "start": 1594.53,
+      "end": 3132.7,
+      "confidence": 0.689
+    }
+  ]
+}

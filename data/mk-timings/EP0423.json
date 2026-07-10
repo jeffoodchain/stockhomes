@@ -1,0 +1,121 @@
+{
+  "ep": 423,
+  "source": "auto-aligned from reports/mk/gooaye-ep0423.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0423.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/17ba84a5-e6ce-4fa1-9fb7-633a1fa2fc12/rssFileVip.mp3?timestamp=1706689461379",
+  "duration": 3053.95,
+  "segments": [
+    {
+      "id": "ep0423-s01",
+      "heading": "開場 / 贊助：Lojel 行李箱",
+      "start": 0.0,
+      "end": 71.71,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0423-s02",
+      "heading": "個人近況：高雄演唱會與居家遊戲",
+      "start": 71.76,
+      "end": 228.69,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0423-s03",
+      "heading": "遊戲介紹：《Doki Doki Literature Club》的驚喜",
+      "start": 228.74,
+      "end": 283.13,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0423-s04",
+      "heading": "遊戲概念：打破第四面牆",
+      "start": 283.18,
+      "end": 352.91,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0423-s05",
+      "heading": "遊戲推薦：《Undertale》與責任感",
+      "start": 352.96,
+      "end": 432.37,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0423-s06",
+      "heading": "個人興趣：韓劇與開放心態",
+      "start": 432.42,
+      "end": 547.77,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0423-s07",
+      "heading": "美股話題：AMD 回檔與市場預期過高",
+      "start": 547.82,
+      "end": 684.91,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0423-s08",
+      "heading": "專業分析：AI 伺服器預期管理",
+      "start": 684.96,
+      "end": 709.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0423-s09",
+      "heading": "供應鏈分析：Celestica 與 Google TPU 生態",
+      "start": 709.66,
+      "end": 831.65,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0423-s10",
+      "heading": "投資案例：Celestica 的佈局",
+      "start": 831.7,
+      "end": 976.77,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0423-s11",
+      "heading": "供應鏈風險提示：Celestica 估值與競爭",
+      "start": 976.82,
+      "end": 1161.61,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0423-s12",
+      "heading": "反思：聽眾互動與心態",
+      "start": 1161.66,
+      "end": 1227.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0423-s13",
+      "heading": "產業話題：Networking 與產業動向",
+      "start": 1227.26,
+      "end": 1332.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0423-s14",
+      "heading": "Apple Vision Pro：產品評估",
+      "start": 1332.74,
+      "end": 1696.83,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0423-s15",
+      "heading": "Apple 手機：預期下修",
+      "start": 1696.88,
+      "end": 1927.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0423-s16",
+      "heading": "聽眾 Q&A 環節",
+      "start": 1927.9,
+      "end": 3053.95,
+      "confidence": 0.767
+    }
+  ]
+}

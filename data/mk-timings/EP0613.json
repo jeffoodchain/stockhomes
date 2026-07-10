@@ -1,0 +1,51 @@
+{
+  "ep": 613,
+  "source": "auto-aligned from reports/mk/gooaye-ep0613.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0613.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b575736d-c615-456d-a74c-860072123cf8/rssFileVip.mp3?timestamp=1764194602047",
+  "duration": 2993.03,
+  "segments": [
+    {
+      "id": "ep0613-s01",
+      "heading": "開場 / 贊助：Sony WH-1000XM6",
+      "start": 0.0,
+      "end": 115.59,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0613-s02",
+      "heading": "肖楠資本與 MMEA 亞洲新媒體高峰會",
+      "start": 115.64,
+      "end": 159.17,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0613-s03",
+      "heading": "遊戲資本進展：第一次增資",
+      "start": 159.22,
+      "end": 289.71,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0613-s04",
+      "heading": "遊戲產業觀點：IP、成本與遊戲性",
+      "start": 289.76,
+      "end": 704.29,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0613-s05",
+      "heading": "主題：Google 之亂與 TPU 供應鏈分析",
+      "start": 704.34,
+      "end": 1696.3,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0613-s06",
+      "heading": "Q&A",
+      "start": 1696.35,
+      "end": 2993.03,
+      "confidence": 0.867
+    }
+  ]
+}

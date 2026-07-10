@@ -1,0 +1,72 @@
+{
+  "ep": 113,
+  "source": "auto-aligned from reports/mk/gooaye-ep0113.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0113.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bad08258-0fbc-4dc6-a913-96a71d932d81/rssFileVip.mp3?timestamp=1689439383486",
+  "duration": 2383.73,
+  "segments": [
+    {
+      "id": "ep0113-s01",
+      "heading": "開場 / 贊助：SAT. Knowledge 知識衛星",
+      "start": 0.0,
+      "end": 84.01,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0113-s02",
+      "heading": "開場閒聊：新年快樂與身體健康",
+      "start": 84.06,
+      "end": 188.43,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0113-s03",
+      "heading": "市場觀察：過年蓋牌與薛丁格的貓",
+      "start": 188.48,
+      "end": 410.07,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0113-s04",
+      "heading": "Elon Musk 的市場影響力：從川普到馬頭號",
+      "start": 410.12,
+      "end": 564.33,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0113-s05",
+      "heading": "比特幣與特斯拉：Square 的受惠邏輯",
+      "start": 564.38,
+      "end": 667.87,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0113-s06",
+      "heading": "特斯拉持有比特幣：對傳統金融與幣圈的意義",
+      "start": 667.92,
+      "end": 842.59,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0113-s07",
+      "heading": "特斯拉 10-K 解讀：比特幣的無形資產會計處理",
+      "start": 842.64,
+      "end": 921.13,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0113-s08",
+      "heading": "孟恭談比特幣觀點：稀缺性、避險功能與個人選擇",
+      "start": 921.18,
+      "end": 1295.43,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0113-s09",
+      "heading": "Q&A",
+      "start": 1295.48,
+      "end": 2383.73,
+      "confidence": 0.756
+    }
+  ]
+}

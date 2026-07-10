@@ -1,0 +1,142 @@
+{
+  "ep": 290,
+  "source": "auto-aligned from reports/mk/gooaye-ep0290.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0290.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2dc9a9cf-e40e-4fee-a8bd-6145c375a621/rssFileVip.mp3?timestamp=1689439404055",
+  "duration": 2936.56,
+  "segments": [
+    {
+      "id": "ep0290-s01",
+      "heading": "開場 / 贊助：犀牛盾",
+      "start": 0.0,
+      "end": 95.69,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0290-s02",
+      "heading": "Naval Ravikant：怎麼樣不靠賽的變有錢",
+      "start": 95.74,
+      "end": 173.21,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0290-s03",
+      "heading": "Seek Wealth, Not Money or Status",
+      "start": 173.26,
+      "end": 271.57,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0290-s04",
+      "heading": "有道德的賺錢與遠離玩地位遊戲的人",
+      "start": 271.62,
+      "end": 415.51,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0290-s05",
+      "heading": "不要靠賣時間致富，要持有股權",
+      "start": 415.56,
+      "end": 506.13,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0290-s06",
+      "heading": "提供社會需要且可量化的東西",
+      "start": 506.18,
+      "end": 616.33,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0290-s07",
+      "heading": "長線賽道與長線的人",
+      "start": 616.38,
+      "end": 722.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0290-s08",
+      "heading": "網路是唾手可得的槓桿",
+      "start": 722.36,
+      "end": 790.91,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0290-s09",
+      "heading": "複利遊戲",
+      "start": 790.96,
+      "end": 860.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0290-s10",
+      "heading": "選 Partner：智商、活力、誠信",
+      "start": 860.74,
+      "end": 900.69,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0290-s11",
+      "heading": "Learn to Sell, Learn to Build",
+      "start": 900.74,
+      "end": 1029.63,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0290-s12",
+      "heading": "三件套：Specific Knowledge、可問責性、槓桿",
+      "start": 1029.68,
+      "end": 1242.69,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0290-s13",
+      "heading": "可問責性（Accountability）",
+      "start": 1242.74,
+      "end": 1419.91,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0290-s14",
+      "heading": "槓桿（Leverage）",
+      "start": 1419.96,
+      "end": 1725.51,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0290-s15",
+      "heading": "Judgment 與加速學習的方法",
+      "start": 1725.56,
+      "end": 2011.07,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0290-s16",
+      "heading": "沒有快速致富的方法",
+      "start": 2011.12,
+      "end": 2051.25,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0290-s17",
+      "heading": "總結",
+      "start": 2051.3,
+      "end": 2174.75,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0290-s18",
+      "heading": "Q&A",
+      "start": 2174.8,
+      "end": 2708.79,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0290-s19",
+      "heading": "Podcast 經營心法",
+      "start": 2708.84,
+      "end": 2936.56,
+      "confidence": 0.722
+    }
+  ]
+}

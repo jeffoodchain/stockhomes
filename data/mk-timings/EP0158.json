@@ -1,0 +1,58 @@
+{
+  "ep": 158,
+  "source": "auto-aligned from reports/mk/gooaye-ep0158.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0158.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5f29d07e-efde-49e2-878c-45e8d9a11ca3/rssFileVip.mp3?timestamp=1689439406667",
+  "duration": 2636.36,
+  "segments": [
+    {
+      "id": "ep0158-s01",
+      "heading": "開場 / 贊助：原萃日式綠茶",
+      "start": 0.0,
+      "end": 73.37,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0158-s02",
+      "heading": "電影推薦：《無名氏》Nobody",
+      "start": 73.42,
+      "end": 135.17,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0158-s03",
+      "heading": "私訊回應：感情與家庭暴力",
+      "start": 135.22,
+      "end": 559.33,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0158-s04",
+      "heading": "挑選人品的三個觀察點",
+      "start": 559.38,
+      "end": 732.38,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0158-s05",
+      "heading": "台積電 2021 Q2 法說會解析",
+      "start": 732.43,
+      "end": 1579.52,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0158-s06",
+      "heading": "Q&A",
+      "start": 1579.57,
+      "end": 2628.99,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0158-s07",
+      "heading": "結尾",
+      "start": 2629.04,
+      "end": 2636.36,
+      "confidence": 0.667
+    }
+  ]
+}

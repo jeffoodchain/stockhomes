@@ -1,0 +1,86 @@
+{
+  "ep": 102,
+  "source": "auto-aligned from reports/mk/gooaye-ep0102.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0102.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e9285453-b8a7-449d-9d25-edd6db895d7a/rssFileVip.mp3?timestamp=1689439385323",
+  "duration": 2175.69,
+  "segments": [
+    {
+      "id": "ep0102-s01",
+      "heading": "開場 / 贊助：富佳泰國際 Funy 麻吉貓兒童相機",
+      "start": 0.0,
+      "end": 107.63,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0102-s02",
+      "heading": "新年快樂 / 2021 展望",
+      "start": 107.68,
+      "end": 177.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0102-s03",
+      "heading": "新禮貌運動",
+      "start": 177.7,
+      "end": 323.77,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0102-s04",
+      "heading": "本集主題：投資概論",
+      "start": 323.82,
+      "end": 460.67,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0102-s05",
+      "heading": "主動投資 vs 被動投資",
+      "start": 460.72,
+      "end": 752.93,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0102-s06",
+      "heading": "七三配置：被動七成、主動三成",
+      "start": 752.98,
+      "end": 1041.13,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0102-s07",
+      "heading": "被動投資配置：市值型 ETF 為核心",
+      "start": 1041.18,
+      "end": 1223.65,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0102-s08",
+      "heading": "進軍美國市場：VOO / VTI",
+      "start": 1223.7,
+      "end": 1548.63,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0102-s09",
+      "heading": "全球配置：VT / VWO / VXUS",
+      "start": 1548.68,
+      "end": 1840.89,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0102-s10",
+      "heading": "主動選股與小結",
+      "start": 1840.94,
+      "end": 2117.25,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0102-s11",
+      "heading": "結尾",
+      "start": 2117.3,
+      "end": 2175.69,
+      "confidence": 0.689
+    }
+  ]
+}

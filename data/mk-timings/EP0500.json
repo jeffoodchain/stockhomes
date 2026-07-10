@@ -1,0 +1,65 @@
+{
+  "ep": 500,
+  "source": "auto-aligned from reports/mk/gooaye-ep0500.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0500.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8ff4a1b1-ba50-4eb5-9323-21f878bd91c0/rssFileVip.mp3?timestamp=1756730983127",
+  "duration": 3259.01,
+  "segments": [
+    {
+      "id": "ep0500-s01",
+      "heading": "開場 / 贊助：DecoHome 好折燈",
+      "start": 0.0,
+      "end": 69.71,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0500-s02",
+      "heading": "大谷翔平球員拍賣與劉董",
+      "start": 69.76,
+      "end": 220.55,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0500-s03",
+      "heading": "收藏品與消費哲學",
+      "start": 220.6,
+      "end": 432.55,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0500-s04",
+      "heading": "人生、挑戰與自我實現",
+      "start": 432.6,
+      "end": 551.67,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0500-s05",
+      "heading": "股市盤面分析",
+      "start": 551.72,
+      "end": 686.91,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0500-s06",
+      "heading": "iPhone 17 與蘋果供應鏈",
+      "start": 686.96,
+      "end": 830.71,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0500-s07",
+      "heading": "電動車與特斯拉財報",
+      "start": 830.76,
+      "end": 1705.59,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0500-s08",
+      "heading": "Q&A 環節",
+      "start": 1705.64,
+      "end": 3259.01,
+      "confidence": 0.789
+    }
+  ]
+}

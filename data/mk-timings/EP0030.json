@@ -1,0 +1,51 @@
+{
+  "ep": 30,
+  "source": "auto-aligned from reports/mk/gooaye-ep0030.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0030.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/66b2930f-3f8f-48b8-9804-38c7b1c57b54/rssFileVip.mp3?timestamp=1761072700122",
+  "duration": 1991.37,
+  "segments": [
+    {
+      "id": "ep0030-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.27,
+      "end": 83.82,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0030-s02",
+      "heading": "近況：呱吉提到股癌、好市多",
+      "start": 83.87,
+      "end": 173.1,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0030-s03",
+      "heading": "Gogoro 公關危機",
+      "start": 173.15,
+      "end": 825.75,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0030-s04",
+      "heading": "白狼張安樂赴中山大學演講",
+      "start": 825.8,
+      "end": 1213.37,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0030-s05",
+      "heading": "Q&A",
+      "start": 1213.42,
+      "end": 1976.77,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0030-s06",
+      "heading": "結尾",
+      "start": 1976.82,
+      "end": 1991.37,
+      "confidence": 0.733
+    }
+  ]
+}

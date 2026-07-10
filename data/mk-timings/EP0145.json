@@ -1,0 +1,58 @@
+{
+  "ep": 145,
+  "source": "auto-aligned from reports/mk/gooaye-ep0145.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0145.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f276e601-3d02-4dab-b8c9-0eeca7ae516a/rssFileVip.mp3?timestamp=1689439402410",
+  "duration": 2761.2,
+  "segments": [
+    {
+      "id": "ep0145-s01",
+      "heading": "開場 / 贊助：氧潤藥妝",
+      "start": 0.0,
+      "end": 109.87,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0145-s02",
+      "heading": "閒聊：疫情隔離生活",
+      "start": 109.92,
+      "end": 236.09,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0145-s03",
+      "heading": "裝潢心得：設計師的價值",
+      "start": 236.14,
+      "end": 507.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0145-s04",
+      "heading": "市場話題：龍巖跟蹤與孩子王概念股",
+      "start": 507.26,
+      "end": 617.83,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0145-s05",
+      "heading": "三胎政策的思考",
+      "start": 617.88,
+      "end": 874.07,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0145-s06",
+      "heading": "疫苗股：高端疫苗（6547）解析",
+      "start": 874.12,
+      "end": 1707.73,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0145-s07",
+      "heading": "Q&A",
+      "start": 1707.78,
+      "end": 2761.2,
+      "confidence": 0.978
+    }
+  ]
+}

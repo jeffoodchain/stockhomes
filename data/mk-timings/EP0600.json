@@ -1,0 +1,72 @@
+{
+  "ep": 600,
+  "source": "auto-aligned from reports/mk/gooaye-ep0600.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0600.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c6410d83-6e9b-4ead-a3cd-7428465487b5/rssFileVip.mp3?timestamp=1760238865986",
+  "duration": 3061.37,
+  "segments": [
+    {
+      "id": "ep0600-s01",
+      "heading": "開場 / 贊助：善存益生菌",
+      "start": 0.0,
+      "end": 69.07,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0600-s02",
+      "heading": "市場大跌：NASDAQ暴跌、台股連假後評估",
+      "start": 69.12,
+      "end": 207.83,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0600-s03",
+      "heading": "市場判斷：健康修正、汰弱留強策略",
+      "start": 207.88,
+      "end": 512.81,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0600-s04",
+      "heading": "加密貨幣爆倉創紀錄",
+      "start": 512.86,
+      "end": 660.01,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0600-s05",
+      "heading": "稀土禁出口事件分析",
+      "start": 660.06,
+      "end": 926.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0600-s06",
+      "heading": "稀土的實質影響",
+      "start": 926.16,
+      "end": 1359.81,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0600-s07",
+      "heading": "軍工股觀察：稀土影響有限",
+      "start": 1359.86,
+      "end": 1398.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0600-s08",
+      "heading": "給聽眾的鼓勵話",
+      "start": 1398.18,
+      "end": 1492.15,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0600-s09",
+      "heading": "Q&A",
+      "start": 1492.2,
+      "end": 3061.37,
+      "confidence": 0.544
+    }
+  ]
+}

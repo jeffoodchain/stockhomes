@@ -1,0 +1,44 @@
+{
+  "ep": 140,
+  "source": "auto-aligned from reports/mk/gooaye-ep0140.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0140.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/08a430be-b275-49d7-b561-e8adf50e9a71/rssFileVip.mp3?timestamp=1689439382796",
+  "duration": 2582.86,
+  "segments": [
+    {
+      "id": "ep0140-s01",
+      "heading": "開場 / 贊助：率土之濱",
+      "start": 0.0,
+      "end": 82.17,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0140-s02",
+      "heading": "疫情與囤貨心態",
+      "start": 82.22,
+      "end": 471.01,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0140-s03",
+      "heading": "GME 紀錄片",
+      "start": 471.06,
+      "end": 557.07,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0140-s04",
+      "heading": "停損與追高策略",
+      "start": 557.12,
+      "end": 1523.23,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0140-s05",
+      "heading": "Q&A",
+      "start": 1523.28,
+      "end": 2582.86,
+      "confidence": 0.922
+    }
+  ]
+}

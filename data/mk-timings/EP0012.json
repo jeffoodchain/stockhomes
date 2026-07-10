@@ -1,0 +1,72 @@
+{
+  "ep": 12,
+  "source": "auto-aligned from reports/mk/gooaye-ep0012.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0012.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/1b274bf6-d2f8-4116-94ed-7ce155146a31/rssFileVip.mp3?timestamp=1689439394644",
+  "duration": 1160.7,
+  "segments": [
+    {
+      "id": "ep0012-s01",
+      "heading": "開場 / 自我介紹",
+      "start": 0.34,
+      "end": 46.99,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0012-s02",
+      "heading": "感謝推薦：敏迪選讀、Bilingual News、喵吉",
+      "start": 47.04,
+      "end": 248.01,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0012-s03",
+      "heading": "降息是什麼？",
+      "start": 248.06,
+      "end": 363.3,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0012-s04",
+      "heading": "QE量化寬鬆是什麼？",
+      "start": 363.35,
+      "end": 510.8,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0012-s05",
+      "heading": "閃電降息四碼＋QE 7000億，市場仍熔斷",
+      "start": 510.85,
+      "end": 705.07,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0012-s06",
+      "heading": "實體經濟的衝擊：倒閉潮與金融海嘯2.0的風險",
+      "start": 705.12,
+      "end": 898.95,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0012-s07",
+      "heading": "實體經濟建議：先等一等，別急著簽合約",
+      "start": 899.0,
+      "end": 994.09,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0012-s08",
+      "heading": "00672L 元大S&P原油正2：時機比方向更重要",
+      "start": 994.14,
+      "end": 1092.06,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0012-s09",
+      "heading": "結尾",
+      "start": 1092.11,
+      "end": 1160.7,
+      "confidence": 0.811
+    }
+  ]
+}

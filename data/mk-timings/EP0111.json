@@ -1,0 +1,72 @@
+{
+  "ep": 111,
+  "source": "auto-aligned from reports/mk/gooaye-ep0111.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0111.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7145166a-38e6-4382-a6e2-9a656fca7e8c/rssFileVip.mp3?timestamp=1689439397997",
+  "duration": 2428.32,
+  "segments": [
+    {
+      "id": "ep0111-s01",
+      "heading": "開場 / 贊助：Toshiba 台灣東芝硬碟",
+      "start": 0.0,
+      "end": 111.09,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0111-s02",
+      "heading": "當爸消息 & 媒體曝光",
+      "start": 111.14,
+      "end": 222.45,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0111-s03",
+      "heading": "GME 事件後續",
+      "start": 222.5,
+      "end": 381.19,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0111-s04",
+      "heading": "Clubhouse 現象與中資爭議",
+      "start": 381.24,
+      "end": 651.69,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0111-s05",
+      "heading": "聲網 Agora（API）：Clubhouse 背後的技術",
+      "start": 651.74,
+      "end": 1140.61,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0111-s06",
+      "heading": "新春前部位怎麼處理",
+      "start": 1140.66,
+      "end": 1460.57,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0111-s07",
+      "heading": "贊助：UCC 職人の咖啡",
+      "start": 1460.62,
+      "end": 1489.53,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0111-s08",
+      "heading": "Q&A",
+      "start": 1489.58,
+      "end": 2410.12,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0111-s09",
+      "heading": "結尾",
+      "start": 2410.17,
+      "end": 2428.32,
+      "confidence": 1.0
+    }
+  ]
+}

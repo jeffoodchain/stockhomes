@@ -1,0 +1,107 @@
+{
+  "ep": 186,
+  "source": "auto-aligned from reports/mk/gooaye-ep0186.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0186.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9a5313a9-6537-4033-9c81-94282ec77e5e/rssFileVip.mp3?timestamp=1689439403632",
+  "duration": 2596.22,
+  "segments": [
+    {
+      "id": "ep0186-s01",
+      "heading": "開場 / 贊助",
+      "start": 0.0,
+      "end": 80.33,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0186-s02",
+      "heading": "生活與近況閒聊 1",
+      "start": 80.38,
+      "end": 287.87,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0186-s03",
+      "heading": "總經與政策觀察 2",
+      "start": 287.92,
+      "end": 477.13,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0186-s04",
+      "heading": "市場與投資討論 3",
+      "start": 477.18,
+      "end": 662.35,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0186-s05",
+      "heading": "生活與近況閒聊 4",
+      "start": 662.4,
+      "end": 864.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0186-s06",
+      "heading": "市場與投資討論 5",
+      "start": 864.88,
+      "end": 1068.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0186-s07",
+      "heading": "市場與投資討論 6",
+      "start": 1068.2,
+      "end": 1295.73,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0186-s08",
+      "heading": "市場與投資討論 7",
+      "start": 1295.78,
+      "end": 1526.71,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0186-s09",
+      "heading": "市場與投資討論 8",
+      "start": 1526.76,
+      "end": 1733.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0186-s10",
+      "heading": "市場與投資討論 9",
+      "start": 1733.76,
+      "end": 1832.59,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0186-s11",
+      "heading": "Q&A：聽眾問答",
+      "start": 1832.64,
+      "end": 2041.13,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0186-s12",
+      "heading": "Q&A：聽眾問答 2",
+      "start": 2041.18,
+      "end": 2269.35,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0186-s13",
+      "heading": "Q&A：聽眾問答 3",
+      "start": 2269.4,
+      "end": 2481.33,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0186-s14",
+      "heading": "Q&A：聽眾問答 4",
+      "start": 2481.38,
+      "end": 2596.22,
+      "confidence": 0.733
+    }
+  ]
+}

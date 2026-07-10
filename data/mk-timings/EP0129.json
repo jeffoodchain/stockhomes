@@ -1,0 +1,72 @@
+{
+  "ep": 129,
+  "source": "auto-aligned from reports/mk/gooaye-ep0129.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0129.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/78617b72-0acf-475e-84d4-15f92bc61146/rssFileVip.mp3?timestamp=1689439390153",
+  "duration": 2205.41,
+  "segments": [
+    {
+      "id": "ep0129-s01",
+      "heading": "開場 / 贊助：萌髮 Fresh Up",
+      "start": 0.0,
+      "end": 70.27,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0129-s02",
+      "heading": "新書《灰色思考》發表、感謝各方聲援",
+      "start": 70.32,
+      "end": 181.89,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0129-s03",
+      "heading": "投資打群架的時代：各粉專與「多元視角」",
+      "start": 181.94,
+      "end": 381.49,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0129-s04",
+      "heading": "昨天蝦皮直播的趣事",
+      "start": 381.54,
+      "end": 448.25,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0129-s05",
+      "heading": "市場現況：台股攻心高、美股科技股、升息觀察",
+      "start": 448.3,
+      "end": 747.03,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0129-s06",
+      "heading": "台股行情火熱、科技供應鏈漲價觀察",
+      "start": 747.08,
+      "end": 863.25,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0129-s07",
+      "heading": "投資心理：賠錢是正常的事",
+      "start": 863.3,
+      "end": 1397.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0129-s08",
+      "heading": "Q&A",
+      "start": 1397.86,
+      "end": 2191.93,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0129-s09",
+      "heading": "結尾",
+      "start": 2191.98,
+      "end": 2205.41,
+      "confidence": 0.989
+    }
+  ]
+}

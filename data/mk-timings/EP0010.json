@@ -1,0 +1,65 @@
+{
+  "ep": 10,
+  "source": "auto-aligned from reports/mk/gooaye-ep0010.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0010.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0cd4f52f-9f56-4888-b059-78fc2a273531/rssFileVip.mp3?timestamp=1689439396470",
+  "duration": 1463.85,
+  "segments": [
+    {
+      "id": "ep0010-s01",
+      "heading": "開場：熔斷週回顧",
+      "start": 0.69,
+      "end": 56.46,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0010-s02",
+      "heading": "熔斷機制介紹",
+      "start": 56.51,
+      "end": 144.25,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0010-s03",
+      "heading": "武漢肺炎崩盤：給受傷者的話",
+      "start": 144.3,
+      "end": 312.94,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0010-s04",
+      "heading": "投資門檻與風險觀念",
+      "start": 312.99,
+      "end": 408.53,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0010-s05",
+      "heading": "投資界妖魔鬼怪",
+      "start": 408.58,
+      "end": 723.56,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0010-s06",
+      "heading": "VIX商品的教訓",
+      "start": 723.61,
+      "end": 988.47,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0010-s07",
+      "heading": "報牌的責任問題",
+      "start": 988.52,
+      "end": 1263.49,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0010-s08",
+      "heading": "結語",
+      "start": 1263.54,
+      "end": 1463.85,
+      "confidence": 0.711
+    }
+  ]
+}

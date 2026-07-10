@@ -1,0 +1,51 @@
+{
+  "ep": 588,
+  "source": "auto-aligned from reports/mk/gooaye-ep0588.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0588.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/c4d5bc11-975f-4443-a8f4-ed74c86a8c6f/rssFileVip.mp3?timestamp=1756695487038",
+  "duration": 2985.59,
+  "segments": [
+    {
+      "id": "ep0588-s01",
+      "heading": "開場 / 贊助：iHerb",
+      "start": 0.0,
+      "end": 96.79,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0588-s02",
+      "heading": "育兒觀：別把小孩當作比較的籌碼",
+      "start": 96.84,
+      "end": 708.45,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0588-s03",
+      "heading": "市場話題：NVIDIA 財報、Rubin 進程與散熱題材",
+      "start": 708.5,
+      "end": 926.79,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0588-s04",
+      "heading": "Google Nano Banana 與儲存需求的想像",
+      "start": 926.84,
+      "end": 1298.91,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0588-s05",
+      "heading": "大盤操作思路：指數轉個股，警戒修正",
+      "start": 1298.96,
+      "end": 1476.77,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0588-s06",
+      "heading": "Q&A",
+      "start": 1476.82,
+      "end": 2985.59,
+      "confidence": 0.756
+    }
+  ]
+}

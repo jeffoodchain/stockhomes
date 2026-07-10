@@ -1,0 +1,51 @@
+{
+  "ep": 324,
+  "source": "auto-aligned from reports/mk/gooaye-ep0324.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0324.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9956a01d-78be-42f8-85fb-a323e80a57c1/rssFileVip.mp3?timestamp=1689439402108",
+  "duration": 3016.8,
+  "segments": [
+    {
+      "id": "ep0324-s01",
+      "heading": "開場 / 贊助：水果豬高階進口水果店",
+      "start": 0.0,
+      "end": 71.75,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0324-s02",
+      "heading": "生活雜談：買行李箱",
+      "start": 71.8,
+      "end": 254.18,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0324-s03",
+      "heading": "航空股觀察：星宇航空飆漲解析",
+      "start": 254.23,
+      "end": 521.84,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0324-s04",
+      "heading": "工業電腦族群：低估值小市值投資邏輯",
+      "start": 521.89,
+      "end": 1053.62,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0324-s05",
+      "heading": "AI 時代與工業電腦的機會",
+      "start": 1053.67,
+      "end": 1344.26,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0324-s06",
+      "heading": "Q&A",
+      "start": 1344.31,
+      "end": 3016.8,
+      "confidence": 0.622
+    }
+  ]
+}

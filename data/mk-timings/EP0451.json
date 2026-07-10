@@ -1,0 +1,79 @@
+{
+  "ep": 451,
+  "source": "auto-aligned from reports/mk/gooaye-ep0451.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0451.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/18faa2db-65db-4c72-b5d0-a5b228594b3e/rssFileVip.mp3?timestamp=1715156559586",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0451-s01",
+      "heading": "開場／贊助：ZZ Sleeper 忘憂枕",
+      "start": 0.0,
+      "end": 69.07,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0451-s02",
+      "heading": "新書推薦",
+      "start": 69.12,
+      "end": 78.21,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0451-s03",
+      "heading": "影集推薦：Fallout",
+      "start": 78.26,
+      "end": 443.97,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0451-s04",
+      "heading": "蘋果新品與芯片設計",
+      "start": 444.02,
+      "end": 779.23,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0451-s05",
+      "heading": "Computex 與供應鏈佈局",
+      "start": 779.28,
+      "end": 925.81,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0451-s06",
+      "heading": "AI 晶片供應鏈與機會",
+      "start": 925.86,
+      "end": 1184.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0451-s07",
+      "heading": "輝達深度佈局與記憶體產業",
+      "start": 1184.54,
+      "end": 1398.87,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0451-s08",
+      "heading": "筆電市場與 AI 未來",
+      "start": 1398.92,
+      "end": 1473.05,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0451-s09",
+      "heading": "節目資訊與公益宣導",
+      "start": 1473.1,
+      "end": 1619.83,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0451-s10",
+      "heading": "Q&A 環節",
+      "start": 1619.88,
+      "end": 2997.47,
+      "confidence": 0.689
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 528,
+  "source": "auto-aligned from reports/mk/gooaye-ep0528.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0528.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/efc8da5e-9c4f-4fce-936f-a78b0584d3a0/rssFileVip.mp3?timestamp=1738398089866",
+  "duration": 3104.47,
+  "segments": [
+    {
+      "id": "ep0528-s01",
+      "heading": "開場/贊助：NordVPN",
+      "start": 0.0,
+      "end": 76.93,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0528-s02",
+      "heading": "重返工作與時間流逝的感悟",
+      "start": 76.98,
+      "end": 209.67,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0528-s03",
+      "heading": "過年回苗栗的回憶與年味消亡",
+      "start": 209.72,
+      "end": 512.01,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0528-s04",
+      "heading": "開盤前的臺股觀察與國際市場",
+      "start": 512.06,
+      "end": 660.47,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0528-s05",
+      "heading": "美股走勢與硬軟體輪動",
+      "start": 660.52,
+      "end": 714.23,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0528-s06",
+      "heading": "關稅政策的影響與執行困難",
+      "start": 714.28,
+      "end": 835.03,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0528-s07",
+      "heading": "對臺積電與晶片產業的潛在關稅威脅",
+      "start": 835.08,
+      "end": 1011.29,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0528-s08",
+      "heading": "供應鏈轉移的商業邏輯",
+      "start": 1011.34,
+      "end": 1189.97,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0528-s09",
+      "heading": "關稅政策的實際可行性與市場反應",
+      "start": 1190.02,
+      "end": 1490.27,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0528-s10",
+      "heading": "見招才招的市場應對哲學",
+      "start": 1490.32,
+      "end": 1516.65,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0528-s11",
+      "heading": "聽眾互動：保留原內容",
+      "start": 1516.7,
+      "end": 3104.47,
+      "confidence": 0.744
+    }
+  ]
+}

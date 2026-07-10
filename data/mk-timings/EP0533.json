@@ -1,0 +1,107 @@
+{
+  "ep": 533,
+  "source": "auto-aligned from reports/mk/gooaye-ep0533.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0533.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e0da590f-032a-4778-a5b0-4e5b55641f36/rssFileVip.mp3?timestamp=1739953255776",
+  "duration": 3000.45,
+  "segments": [
+    {
+      "id": "ep0533-s01",
+      "heading": "開場／Easy Life十月被贊助",
+      "start": 0.0,
+      "end": 53.37,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0533-s02",
+      "heading": "開場二手記事：與頂尖人物的討論",
+      "start": 53.42,
+      "end": 154.33,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0533-s03",
+      "heading": "AI對交易的衝擊：DeepSeek與高頻交易軍備競賽",
+      "start": 154.38,
+      "end": 345.91,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0533-s04",
+      "heading": "時間配置的反思",
+      "start": 345.96,
+      "end": 426.03,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0533-s05",
+      "heading": "交易圈子的結論與未來趨勢",
+      "start": 426.08,
+      "end": 518.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0533-s06",
+      "heading": "AI訓練與企業應用策略",
+      "start": 518.76,
+      "end": 595.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0533-s07",
+      "heading": "新聞資料源與另類數據",
+      "start": 595.44,
+      "end": 681.43,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0533-s08",
+      "heading": "窮人的AI與企業選擇",
+      "start": 681.48,
+      "end": 864.17,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0533-s09",
+      "heading": "臺灣市場動向",
+      "start": 864.22,
+      "end": 954.97,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0533-s10",
+      "heading": "美國市場與個人操作",
+      "start": 955.02,
+      "end": 1079.31,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0533-s11",
+      "heading": "顯示卡供應鏈與需求分析",
+      "start": 1079.36,
+      "end": 1251.35,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0533-s12",
+      "heading": "GPU 與個人運算體驗",
+      "start": 1251.4,
+      "end": 1399.31,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0533-s13",
+      "heading": "顯示卡財報與市場預期",
+      "start": 1399.36,
+      "end": 1532.05,
+      "confidence": 0.467
+    },
+    {
+      "id": "ep0533-s14",
+      "heading": "Q&A 環節",
+      "start": 1532.1,
+      "end": 3000.45,
+      "confidence": 0.656
+    }
+  ]
+}

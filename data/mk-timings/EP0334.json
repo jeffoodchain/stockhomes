@@ -1,0 +1,58 @@
+{
+  "ep": 334,
+  "source": "auto-aligned from reports/mk/gooaye-ep0334.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0334.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f971531a-b0fe-4ae4-adab-651ce702d9fc/rssFileVip.mp3?timestamp=1689439379216",
+  "duration": 3050.97,
+  "segments": [
+    {
+      "id": "ep0334-s01",
+      "heading": "開場 / 贊助：拜耳拜維佳",
+      "start": 0.0,
+      "end": 60.71,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0334-s02",
+      "heading": "防詐騙呼籲",
+      "start": 60.76,
+      "end": 309.93,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0334-s03",
+      "heading": "AI 詐騙技術升級",
+      "start": 309.98,
+      "end": 591.8,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0334-s04",
+      "heading": "NVIDIA cuLitho 與光罩生產技術分析",
+      "start": 591.85,
+      "end": 988.66,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0334-s05",
+      "heading": "選擇權龜苓糕：Photronics（PLAB）",
+      "start": 988.71,
+      "end": 1218.5,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0334-s06",
+      "heading": "2023 Q1 總結：半信半疑中的多頭行情",
+      "start": 1218.55,
+      "end": 2127.7,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0334-s07",
+      "heading": "Q&A",
+      "start": 2127.75,
+      "end": 3050.97,
+      "confidence": 0.711
+    }
+  ]
+}

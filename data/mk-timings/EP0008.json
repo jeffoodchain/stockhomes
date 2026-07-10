@@ -1,0 +1,72 @@
+{
+  "ep": 8,
+  "source": "auto-aligned from reports/mk/gooaye-ep0008.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0008.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/d07b790a-42dd-420c-aed0-dfdf9c60380d/rssFileVip.mp3?timestamp=1689439389433",
+  "duration": 1370.23,
+  "segments": [
+    {
+      "id": "ep0008-s01",
+      "heading": "開場：臻鼎併購先豐",
+      "start": 0.0,
+      "end": 123.99,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0008-s02",
+      "heading": "元大S&P原油正二溢價危機",
+      "start": 124.04,
+      "end": 210.25,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0008-s03",
+      "heading": "美股台股進入熊市",
+      "start": 210.3,
+      "end": 386.53,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0008-s04",
+      "heading": "川普推特失靈與武漢肺炎",
+      "start": 386.58,
+      "end": 627.15,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0008-s05",
+      "heading": "義大利疫情第一線見聞",
+      "start": 627.2,
+      "end": 918.19,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0008-s06",
+      "heading": "美國民主黨選情：Sanders vs 拜登",
+      "start": 918.24,
+      "end": 1079.77,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0008-s07",
+      "heading": "川普打過WWE摔角",
+      "start": 1079.82,
+      "end": 1257.09,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0008-s08",
+      "heading": "疫情對全球政府的考驗",
+      "start": 1257.14,
+      "end": 1331.57,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0008-s09",
+      "heading": "結尾",
+      "start": 1331.62,
+      "end": 1370.23,
+      "confidence": 0.667
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ep": 164,
+  "source": "auto-aligned from reports/mk/gooaye-ep0164.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0164.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0f51a374-509a-408e-9f7b-6748185489f5/rssFileVip.mp3?timestamp=1689439386709",
+  "duration": 2689.85,
+  "segments": [
+    {
+      "id": "ep0164-s01",
+      "heading": "開場 / 贊助：HARU含春",
+      "start": 0.0,
+      "end": 65.77,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0164-s02",
+      "heading": "聊聊：月子中心心得 / 老婆外國人的文化差異",
+      "start": 65.82,
+      "end": 324.81,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0164-s03",
+      "heading": "籌碼追蹤：當沖率、隔日沖、融資三大迷思破解",
+      "start": 324.86,
+      "end": 1458.43,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0164-s04",
+      "heading": "Q&A",
+      "start": 1458.48,
+      "end": 2689.85,
+      "confidence": 0.611
+    }
+  ]
+}

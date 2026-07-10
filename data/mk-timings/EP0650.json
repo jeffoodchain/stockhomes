@@ -1,0 +1,128 @@
+{
+  "ep": 650,
+  "source": "auto-aligned from reports/mk/gooaye-ep0650.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0650.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f4c6bee4-7b9e-4646-b6f9-e450485715a3/rssFileVip.mp3?timestamp=1775341666552",
+  "duration": 3019.78,
+  "segments": [
+    {
+      "id": "ep0650-s01",
+      "heading": "開場 / 贊助：KINYO 吱吱叫電擊式捕蚊燈",
+      "start": 0.0,
+      "end": 96.33,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0650-s02",
+      "heading": "瘦瘦針第二針紀錄",
+      "start": 96.38,
+      "end": 232.69,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0650-s03",
+      "heading": "市場行情：難做的一週",
+      "start": 232.74,
+      "end": 354.61,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0650-s04",
+      "heading": "美伊戰局分析",
+      "start": 354.66,
+      "end": 617.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0650-s05",
+      "heading": "美股佈局：CPU 題材崛起",
+      "start": 617.3,
+      "end": 836.37,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0650-s06",
+      "heading": "CPU 題材深究：三大廠商分析",
+      "start": 836.42,
+      "end": 1201.77,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0650-s07",
+      "heading": "新題材：鋁價上漲與鋁電容佈局",
+      "start": 1201.82,
+      "end": 1547.89,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0650-s08",
+      "heading": "被動元件持續追蹤",
+      "start": 1547.94,
+      "end": 1597.35,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0650-s09",
+      "heading": "Q&A：大頭妞妞老頭退休快樂",
+      "start": 1597.4,
+      "end": 1617.93,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0650-s10",
+      "heading": "Q&A：被取難聽綽號怎麼辦",
+      "start": 1617.98,
+      "end": 1729.97,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0650-s11",
+      "heading": "Q&A：諾亞戒尿布的心得",
+      "start": 1730.02,
+      "end": 1875.07,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0650-s12",
+      "heading": "Q&A：給小費的快樂與橘色火鍋夢想達成",
+      "start": 1875.12,
+      "end": 2169.61,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0650-s13",
+      "heading": "Q&A：寬油幫同學推薦音樂",
+      "start": 2169.66,
+      "end": 2202.55,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0650-s14",
+      "heading": "Q&A：8069 元太停損心得",
+      "start": 2202.6,
+      "end": 2421.73,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0650-s15",
+      "heading": "Q&A：工作與老闆不順如何調適",
+      "start": 2421.78,
+      "end": 2534.67,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0650-s16",
+      "heading": "Q&A：基本面研究的方法論",
+      "start": 2534.72,
+      "end": 2869.29,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0650-s17",
+      "heading": "Q&A：空頭操作與 Michael Burry",
+      "start": 2869.34,
+      "end": 3019.78,
+      "confidence": 0.844
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 75,
+  "source": "auto-aligned from reports/mk/gooaye-ep0075.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0075.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/88cb615a-ce4e-449d-88f2-7c001ae9c004/rssFileVip.mp3?timestamp=1689439388614",
+  "duration": 2408.99,
+  "segments": [
+    {
+      "id": "ep0075-s01",
+      "heading": "開場 / 贊助：Garmin 台灣國際航電",
+      "start": 0.0,
+      "end": 129.15,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0075-s02",
+      "heading": "帳號被盜、歐洲疫情近況",
+      "start": 129.2,
+      "end": 344.99,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0075-s03",
+      "heading": "遛狗日常",
+      "start": 345.04,
+      "end": 449.51,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0075-s04",
+      "heading": "美國總統大選辯論心得",
+      "start": 449.56,
+      "end": 858.53,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0075-s05",
+      "heading": "遊戲串流時代：GFN 體驗與市場概覽",
+      "start": 858.58,
+      "end": 1150.89,
+      "confidence": 0.844
+    },
+    {
+      "id": "ep0075-s06",
+      "heading": "遊戲串流三巨頭：Google、Microsoft、Amazon 與 NVIDIA",
+      "start": 1150.94,
+      "end": 1710.37,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0075-s07",
+      "heading": "Q&A",
+      "start": 1710.42,
+      "end": 2347.75,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0075-s08",
+      "heading": "結尾",
+      "start": 2347.8,
+      "end": 2408.99,
+      "confidence": 0.578
+    }
+  ]
+}

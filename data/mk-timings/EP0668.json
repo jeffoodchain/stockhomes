@@ -1,0 +1,128 @@
+{
+  "ep": 668,
+  "source": "auto-aligned from reports/mk/gooaye-ep0668.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0668.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6d6095d8-112b-4c7f-abb3-8b670f092b2e/rssFileVip.mp3?timestamp=1780771909163",
+  "duration": 3001.94,
+  "segments": [
+    {
+      "id": "ep0668-s01",
+      "heading": "開場 / 贊助：Saily eSIM",
+      "start": 0.0,
+      "end": 67.55,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0668-s02",
+      "heading": "Computex：出圈、追星與展會熱度",
+      "start": 67.6,
+      "end": 258.15,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0668-s03",
+      "heading": "今年展會感受：從高空敘事走向實際應用",
+      "start": 258.2,
+      "end": 382.21,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0668-s04",
+      "heading": "NVIDIA Enterprise：Power Rack、LPU、Vera Rubin 與 Kyber",
+      "start": 382.26,
+      "end": 703.99,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0668-s05",
+      "heading": "NVIDIA 消費端：RTX Spark、Adobe 與人味工作流",
+      "start": 704.04,
+      "end": 1228.31,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0668-s06",
+      "heading": "RTX Spark：本地端 AI、記憶體池與電競筆電想像",
+      "start": 1228.36,
+      "end": 1551.67,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0668-s07",
+      "heading": "ASUS ROG：精銳盡出、眼鏡與私展軟體",
+      "start": 1551.72,
+      "end": 1898.03,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0668-s08",
+      "heading": "夜盤大場面：brace for impact 與洗籌碼",
+      "start": 1898.08,
+      "end": 1984.27,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0668-s09",
+      "heading": "Q&A：川普語音包與操作績效",
+      "start": 1984.32,
+      "end": 2033.43,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0668-s10",
+      "heading": "Q&A：生日祝福、深淵與腳趾玄學",
+      "start": 2033.48,
+      "end": 2172.73,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0668-s11",
+      "heading": "Q&A：遛小孩、毛派與無腦跟單",
+      "start": 2172.78,
+      "end": 2342.97,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0668-s12",
+      "heading": "Q&A：腰痠背痛、功能性訓練與呼吸",
+      "start": 2343.02,
+      "end": 2502.13,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0668-s13",
+      "heading": "Q&A：金錢焦慮與生日祝福",
+      "start": 2502.18,
+      "end": 2553.89,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0668-s14",
+      "heading": "Q&A：夫妻扶持、家人踩雷與善後",
+      "start": 2553.94,
+      "end": 2680.44,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0668-s15",
+      "heading": "Q&A：不知道為什麼漲的股票",
+      "start": 2680.49,
+      "end": 2759.22,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0668-s16",
+      "heading": "Q&A：試管、胎停與重新期待未來",
+      "start": 2759.27,
+      "end": 2890.29,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0668-s17",
+      "heading": "Q&A：生日暗號、AMD 與最後祝福",
+      "start": 2890.34,
+      "end": 3001.94,
+      "confidence": 0.744
+    }
+  ]
+}

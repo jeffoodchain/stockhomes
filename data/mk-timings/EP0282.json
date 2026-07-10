@@ -1,0 +1,93 @@
+{
+  "ep": 282,
+  "source": "auto-aligned from reports/mk/gooaye-ep0282.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0282.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9c66b60b-34dd-43c4-b5e9-5def0802140f/rssFileVip.mp3?timestamp=1689439379395",
+  "duration": 2988.55,
+  "segments": [
+    {
+      "id": "ep0282-s01",
+      "heading": "開場 / 贊助：Dr.情趣 特濕拉按摩棒",
+      "start": 0.0,
+      "end": 75.39,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0282-s02",
+      "heading": "樂天桃猿 Kobo Day 開球心得",
+      "start": 75.44,
+      "end": 251.43,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0282-s03",
+      "heading": "特斯拉 Model Y 台灣上市、Model Q 傳聞",
+      "start": 251.48,
+      "end": 447.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0282-s04",
+      "heading": "FedEx 財報解析",
+      "start": 447.06,
+      "end": 595.39,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0282-s05",
+      "heading": "臺積電的壟斷地位與漲價",
+      "start": 595.44,
+      "end": 645.13,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0282-s06",
+      "heading": "聯準會升息三碼與點陣圖",
+      "start": 645.18,
+      "end": 755.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0282-s07",
+      "heading": "升息邏輯與政策式市場",
+      "start": 755.9,
+      "end": 880.57,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0282-s08",
+      "heading": "美元收割全世界：QE、QT、升降息機制解析",
+      "start": 880.62,
+      "end": 1175.61,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0282-s09",
+      "heading": "俄羅斯動員令與普丁現況",
+      "start": 1175.66,
+      "end": 1227.91,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0282-s10",
+      "heading": "原物料價格回落：通縮訊號？",
+      "start": 1227.96,
+      "end": 1417.77,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0282-s11",
+      "heading": "個股 bottom-up vs. 總經判斷",
+      "start": 1417.82,
+      "end": 1628.67,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0282-s12",
+      "heading": "Q&A",
+      "start": 1628.72,
+      "end": 2988.55,
+      "confidence": 0.711
+    }
+  ]
+}

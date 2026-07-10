@@ -1,0 +1,142 @@
+{
+  "ep": 648,
+  "source": "auto-aligned from reports/mk/gooaye-ep0648.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0648.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bdb56d8d-4093-4857-9e7e-275c22f0fd45/rssFileVip.mp3?timestamp=1774737319724",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0648-s01",
+      "heading": "開場 / 贊助：修麗可《AGE 極效賦活緊緻精華》",
+      "start": 0.0,
+      "end": 152.41,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0648-s02",
+      "heading": "近況：健康管理、膽固醇與瘦肉針",
+      "start": 152.46,
+      "end": 621.07,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0648-s03",
+      "heading": "市場雜談：NASDAQ 破底、Liberation Day 感覺又來了",
+      "start": 621.12,
+      "end": 790.71,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0648-s04",
+      "heading": "市場操作：我的現金水位、右側加碼策略",
+      "start": 790.76,
+      "end": 980.19,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0648-s05",
+      "heading": "持股動態：Marvel、光通、玻璃基板關注",
+      "start": 980.24,
+      "end": 1197.69,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0648-s06",
+      "heading": "玻璃基板 (GCS/TGV)：時間軸與應用分析",
+      "start": 1197.74,
+      "end": 1888.77,
+      "confidence": 0.478
+    },
+    {
+      "id": "ep0648-s07",
+      "heading": "Q&A：職場戀情被碎嘴",
+      "start": 1888.82,
+      "end": 2006.59,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0648-s08",
+      "heading": "Q&A：閃電鳥、電動聲音",
+      "start": 2006.64,
+      "end": 2036.28,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0648-s09",
+      "heading": "Q&A：女兒長相、洗基因哏",
+      "start": 2036.33,
+      "end": 2060.5,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0648-s10",
+      "heading": "Q&A：張飛與費玉清是親兄弟",
+      "start": 2060.55,
+      "end": 2082.5,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0648-s11",
+      "heading": "Q&A：觀音佛祖、KVCache 殺記憶體有無道理",
+      "start": 2082.55,
+      "end": 2386.94,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0648-s12",
+      "heading": "Q&A：機械鍵盤與日本旅遊心得",
+      "start": 2386.99,
+      "end": 2443.44,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0648-s13",
+      "heading": "Q&A：氣氛仔 Zen 許願、懷孕寶寶",
+      "start": 2443.49,
+      "end": 2485.42,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0648-s14",
+      "heading": "Q&A：財經朋友 all-in NVIDIA、歐印單股",
+      "start": 2485.47,
+      "end": 2566.24,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0648-s15",
+      "heading": "Q&A：快樂寶貝節目筆記、AI 二次資訊",
+      "start": 2566.29,
+      "end": 2652.17,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0648-s16",
+      "heading": "Q&A：竹北末代碼農、LLM 開發心得",
+      "start": 2652.22,
+      "end": 2777.61,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0648-s17",
+      "heading": "Q&A：二寶媽氣氛仔、把握當下",
+      "start": 2777.66,
+      "end": 2836.91,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0648-s18",
+      "heading": "Q&A：特斯拉像一坨大便、TerraFab 財務疑慮",
+      "start": 2836.96,
+      "end": 2926.63,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0648-s19",
+      "heading": "Q&A：竹科神山、為孩子注重健康",
+      "start": 2926.68,
+      "end": 2995.98,
+      "confidence": 0.733
+    }
+  ]
+}

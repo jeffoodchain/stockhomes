@@ -1,0 +1,93 @@
+{
+  "ep": 458,
+  "source": "auto-aligned from reports/mk/gooaye-ep0458.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0458.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3e120014-c045-40d1-9885-c021b46b149a/rssFileVip.mp3?timestamp=1717232329758",
+  "duration": 3071.79,
+  "segments": [
+    {
+      "id": "ep0458-s01",
+      "heading": "開場 / 贊助：米鴻生醫",
+      "start": 0.0,
+      "end": 77.75,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0458-s02",
+      "heading": "這週的好事與壞事",
+      "start": 77.8,
+      "end": 179.31,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0458-s03",
+      "heading": "從 Celestica 看 Dell 的下殺",
+      "start": 179.36,
+      "end": 234.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0458-s04",
+      "heading": "交易心態的拿捏",
+      "start": 234.88,
+      "end": 351.73,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0458-s05",
+      "heading": "被大哥點醒的小鬼谷經驗",
+      "start": 351.78,
+      "end": 957.69,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0458-s06",
+      "heading": "急性耳聾的經驗分享",
+      "start": 957.74,
+      "end": 1132.23,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0458-s07",
+      "heading": "Marvell 和 Dell 的財報分析",
+      "start": 1132.28,
+      "end": 1260.51,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0458-s08",
+      "heading": "Dell 的財報與毛利問題",
+      "start": 1260.56,
+      "end": 1403.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0458-s09",
+      "heading": "企業伺服器市場的前景",
+      "start": 1403.32,
+      "end": 1488.01,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0458-s10",
+      "heading": "下週的投資策略",
+      "start": 1488.06,
+      "end": 1700.81,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0458-s11",
+      "heading": "基本面與技術面的平衡",
+      "start": 1700.86,
+      "end": 1743.51,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0458-s12",
+      "heading": "Q&A",
+      "start": 1743.56,
+      "end": 3071.79,
+      "confidence": 0.656
+    }
+  ]
+}

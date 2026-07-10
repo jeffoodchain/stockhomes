@@ -1,0 +1,121 @@
+{
+  "ep": 485,
+  "source": "auto-aligned from reports/mk/gooaye-ep0485.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0485.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/ecc1dbdb-da55-4b45-bd36-e71796882f8c/rssFileVip.mp3?timestamp=1725440265281",
+  "duration": 3123.8,
+  "segments": [
+    {
+      "id": "ep0485-s01",
+      "heading": "開場 / 贊助：台灣微軟",
+      "start": 0.0,
+      "end": 83.27,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0485-s02",
+      "heading": "Concord 遊戲停損事件",
+      "start": 83.32,
+      "end": 173.55,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0485-s03",
+      "heading": "Sweet Baby 事件與商業哲學",
+      "start": 173.6,
+      "end": 360.69,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0485-s04",
+      "heading": "個人投資策略檢討與調整",
+      "start": 360.74,
+      "end": 457.91,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0485-s05",
+      "heading": "行為與長期績效的衡量",
+      "start": 457.96,
+      "end": 562.29,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0485-s06",
+      "heading": "槓桿過高的教訓",
+      "start": 562.34,
+      "end": 715.83,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0485-s07",
+      "heading": "可持續性策略的重要性",
+      "start": 715.88,
+      "end": 807.09,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0485-s08",
+      "heading": "市場現象與成功者特質",
+      "start": 807.14,
+      "end": 938.51,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0485-s09",
+      "heading": "後續策略與停損設定",
+      "start": 938.56,
+      "end": 1130.53,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0485-s10",
+      "heading": "貪心的故事",
+      "start": 1130.58,
+      "end": 1150.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0485-s11",
+      "heading": "NVIDIA Blackwell 設計變更與供應鏈",
+      "start": 1150.9,
+      "end": 1238.17,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0485-s12",
+      "heading": "Amphenol Overpass 設計變更",
+      "start": 1238.22,
+      "end": 1413.21,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0485-s13",
+      "heading": "市場效率與 alpha 難度",
+      "start": 1413.26,
+      "end": 1614.31,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0485-s14",
+      "heading": "産業討論與 CIS 話題",
+      "start": 1614.36,
+      "end": 1745.21,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0485-s15",
+      "heading": "總結",
+      "start": 1745.26,
+      "end": 1772.59,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0485-s16",
+      "heading": "Q&A 聽眾提問",
+      "start": 1772.64,
+      "end": 3123.8,
+      "confidence": 0.578
+    }
+  ]
+}

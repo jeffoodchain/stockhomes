@@ -1,0 +1,107 @@
+{
+  "ep": 505,
+  "source": "auto-aligned from reports/mk/gooaye-ep0505.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0505.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8acfc705-a038-4ddf-9b4f-b51598cf4c84/rssFileVip.mp3?timestamp=1731488213231",
+  "duration": 3077.72,
+  "segments": [
+    {
+      "id": "ep0505-s01",
+      "heading": "開場 / 贊助：QB Power 超能備份",
+      "start": 0.0,
+      "end": 104.37,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0505-s02",
+      "heading": "美國出差紀實：五天任務型旅行",
+      "start": 104.42,
+      "end": 173.45,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0505-s03",
+      "heading": "下背痛與健身心得",
+      "start": 173.5,
+      "end": 246.45,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0505-s04",
+      "heading": "費城的美景與未來規劃",
+      "start": 246.5,
+      "end": 393.97,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0505-s05",
+      "heading": "台股與美股的表現分析",
+      "start": 394.02,
+      "end": 482.39,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0505-s06",
+      "heading": "台股走勢的假設與策略調整",
+      "start": 482.44,
+      "end": 565.45,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0505-s07",
+      "heading": "持股調整與減碼操作",
+      "start": 565.5,
+      "end": 680.71,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0505-s08",
+      "heading": "美股走勢與軟體股的機會",
+      "start": 680.76,
+      "end": 842.51,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0505-s09",
+      "heading": "AI 投資的時序與邏輯",
+      "start": 842.56,
+      "end": 1007.01,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0505-s10",
+      "heading": "2020-2021 的重現與估值邏輯",
+      "start": 1007.06,
+      "end": 1178.75,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0505-s11",
+      "heading": "投資方向總結",
+      "start": 1178.8,
+      "end": 1393.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0505-s12",
+      "heading": "最後總結",
+      "start": 1393.54,
+      "end": 1526.09,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0505-s13",
+      "heading": "美國聽眾留言唸讀",
+      "start": 1526.14,
+      "end": 2028.88,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0505-s14",
+      "heading": "台灣聽眾 Q&A",
+      "start": 2028.93,
+      "end": 3077.72,
+      "confidence": 0.633
+    }
+  ]
+}

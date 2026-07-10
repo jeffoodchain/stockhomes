@@ -1,0 +1,58 @@
+{
+  "ep": 473,
+  "source": "auto-aligned from reports/mk/gooaye-ep0473.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0473.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/51f83974-b0ed-4fa9-85d4-f14f9c9f770a/rssFileVip.mp3?timestamp=1721811621028",
+  "duration": 2995.98,
+  "segments": [
+    {
+      "id": "ep0473-s01",
+      "heading": "開場/贊助：富華創新",
+      "start": 0.0,
+      "end": 58.55,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0473-s02",
+      "heading": "颱風來襲的碎碎念",
+      "start": 58.6,
+      "end": 415.51,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0473-s03",
+      "heading": "股市反彈與籌碼指標",
+      "start": 415.56,
+      "end": 1028.47,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0473-s04",
+      "heading": "硬體產業動態：NVIDIA、Broadcom",
+      "start": 1028.52,
+      "end": 1498.93,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0473-s05",
+      "heading": "接下來的觀察重點與市場判斷",
+      "start": 1498.98,
+      "end": 1637.27,
+      "confidence": 0.567
+    },
+    {
+      "id": "ep0473-s06",
+      "heading": "Q&A 時間",
+      "start": 1637.32,
+      "end": 2993.03,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0473-s07",
+      "heading": "結尾",
+      "start": 2993.08,
+      "end": 2995.98,
+      "confidence": 0.615
+    }
+  ]
+}

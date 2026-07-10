@@ -1,0 +1,44 @@
+{
+  "ep": 273,
+  "source": "auto-aligned from reports/mk/gooaye-ep0273.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0273.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f40e886f-2deb-4e49-9c02-aebee1ed02ed/rssFileVip.mp3?timestamp=1689439385491",
+  "duration": 3152.03,
+  "segments": [
+    {
+      "id": "ep0273-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 58.67,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0273-s02",
+      "heading": "人生選擇、去茫然與反焦慮",
+      "start": 58.72,
+      "end": 513.65,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0273-s03",
+      "heading": "WeWork 創辦人 Adam Neumann 再獲 a16z 投資",
+      "start": 513.7,
+      "end": 1385.05,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0273-s04",
+      "heading": "美台股市況：三隻腳格局 / Qorvo 砍單",
+      "start": 1385.1,
+      "end": 1762.15,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0273-s05",
+      "heading": "Q&A",
+      "start": 1762.2,
+      "end": 3152.03,
+      "confidence": 0.811
+    }
+  ]
+}

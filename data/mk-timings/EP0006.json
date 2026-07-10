@@ -1,0 +1,72 @@
+{
+  "ep": 6,
+  "source": "auto-aligned from reports/mk/gooaye-ep0006.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0006.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/abe71da9-8b06-417f-849e-a26f429821b2/rssFileVip.mp3?timestamp=1689439404897",
+  "duration": 1448.99,
+  "segments": [
+    {
+      "id": "ep0006-s01",
+      "heading": "開場 / 音質升級與麥克風插錯面",
+      "start": 0.14,
+      "end": 121.74,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0006-s02",
+      "heading": "健身房見聞 / 道瓊震盪與末日博士觀點",
+      "start": 121.79,
+      "end": 204.18,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0006-s03",
+      "heading": "看多 vs 看空的心態論",
+      "start": 204.23,
+      "end": 372.52,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0006-s04",
+      "heading": "最壞情境分析：旅宿業崩潰",
+      "start": 372.57,
+      "end": 659.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0006-s05",
+      "heading": "台股觀察：5G供應鏈個股表現",
+      "start": 659.94,
+      "end": 792.03,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0006-s06",
+      "heading": "Howard Marks 備忘錄：Nobody Knows II",
+      "start": 792.08,
+      "end": 1207.47,
+      "confidence": 0.867
+    },
+    {
+      "id": "ep0006-s07",
+      "heading": "財政政策的侷限 / 降息能解決疫情嗎？",
+      "start": 1207.52,
+      "end": 1299.67,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0006-s08",
+      "heading": "Howard Marks 操作建議：分批買入",
+      "start": 1299.72,
+      "end": 1356.67,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0006-s09",
+      "heading": "結尾 / 投資大師的謙遜 / Telegram 頻道開通",
+      "start": 1356.72,
+      "end": 1448.99,
+      "confidence": 0.833
+    }
+  ]
+}

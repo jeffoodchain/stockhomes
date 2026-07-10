@@ -1,0 +1,93 @@
+{
+  "ep": 464,
+  "source": "auto-aligned from reports/mk/gooaye-ep0464.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0464.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bf223ded-2558-40cc-9974-d3d4c3a51266/rssFileVip.mp3?timestamp=1719046756944",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0464-s01",
+      "heading": "開場 / 贊助：亞新集團",
+      "start": 0.0,
+      "end": 68.77,
+      "confidence": 0.878
+    },
+    {
+      "id": "ep0464-s02",
+      "heading": "小舅子的Fortnite故事",
+      "start": 68.82,
+      "end": 332.95,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0464-s03",
+      "heading": "市場回檔 vs 樂觀心態",
+      "start": 333.0,
+      "end": 391.37,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0464-s04",
+      "heading": "記憶體廠與業界風言風語",
+      "start": 391.42,
+      "end": 542.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0464-s05",
+      "heading": "股性變化與長蹲者的優勢",
+      "start": 542.18,
+      "end": 643.49,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0464-s06",
+      "heading": "AMD未來產品線與軟體支援",
+      "start": 643.54,
+      "end": 768.31,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0464-s07",
+      "heading": "毛利侵蝕的必然性",
+      "start": 768.36,
+      "end": 886.95,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0464-s08",
+      "heading": "蘋果與歐盟DMA法案",
+      "start": 887.0,
+      "end": 960.83,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0464-s09",
+      "heading": "軟體股佈局策略",
+      "start": 960.88,
+      "end": 1034.81,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0464-s10",
+      "heading": "美股軟體配置：微軟與蘋果為核心",
+      "start": 1034.86,
+      "end": 1164.07,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0464-s11",
+      "heading": "台灣軟體股策略",
+      "start": 1164.12,
+      "end": 1430.81,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0464-s12",
+      "heading": "Q&A 環節",
+      "start": 1430.86,
+      "end": 2997.47,
+      "confidence": 0.822
+    }
+  ]
+}

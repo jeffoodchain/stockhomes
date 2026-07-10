@@ -1,0 +1,240 @@
+{
+  "ep": 637,
+  "source": "auto-aligned from reports/mk/gooaye-ep0637.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0637.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7ce8b868-cf8f-44ec-8157-b33fd99eaa39/rssFileVip.mp3?timestamp=1771451747877",
+  "duration": 3083.68,
+  "segments": [
+    {
+      "id": "ep0637-s01",
+      "heading": "開場 / 贊助：AWSON 八電極家用體脂計",
+      "start": 0.0,
+      "end": 81.17,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0637-s02",
+      "heading": "交通是旅遊最痛苦的事",
+      "start": 81.22,
+      "end": 139.61,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0637-s03",
+      "heading": "Resort 的封閉式沙盒",
+      "start": 139.66,
+      "end": 261.17,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0637-s04",
+      "heading": "巴厘島放鬆心得：身體數據、寶格麗四手按摩",
+      "start": 261.22,
+      "end": 385.32,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0637-s05",
+      "heading": "管家的誠意與小費哲學",
+      "start": 385.37,
+      "end": 503.51,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0637-s06",
+      "heading": "Kids Club 與 Cool Guy 綽號",
+      "start": 503.56,
+      "end": 551.27,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0637-s07",
+      "heading": "大兒子的回答 & 帶小孩出遊是為了自己",
+      "start": 551.32,
+      "end": 703.35,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0637-s08",
+      "heading": "美股盤勢：尾盤收回的奇蹟、難熬的盤",
+      "start": 703.4,
+      "end": 786.57,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0637-s09",
+      "heading": "軟體股全面通殺：市場 overshoot？",
+      "start": 786.62,
+      "end": 956.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0637-s10",
+      "heading": "選股策略：找錯殺、有財務數字佐證的東西",
+      "start": 956.06,
+      "end": 1009.21,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0637-s11",
+      "heading": "第一檔：Cloudflare 是 AI 爬蟲的收費站",
+      "start": 1009.26,
+      "end": 1085.95,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0637-s12",
+      "heading": "第二檔：Microsoft 留算力給自己用",
+      "start": 1086.0,
+      "end": 1129.85,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0637-s13",
+      "heading": "Google 偏 Neutral，已反應",
+      "start": 1129.9,
+      "end": 1183.97,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0637-s14",
+      "heading": "第三檔：CrowdStrike 與資安股",
+      "start": 1184.02,
+      "end": 1339.67,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0637-s15",
+      "heading": "高盛 PS Ratio 6 倍：別忽略成長率差異",
+      "start": 1339.72,
+      "end": 1472.45,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0637-s16",
+      "heading": "蘋果是 Agent 贏家？Apple Intelligence 慢慢進步",
+      "start": 1472.5,
+      "end": 1720.87,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0637-s17",
+      "heading": "蘋果的資安優勢與消費者使用習慣",
+      "start": 1720.92,
+      "end": 1887.99,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0637-s18",
+      "heading": "結論：Possible ≠ Viable，Day 1 vs Day 2",
+      "start": 1888.04,
+      "end": 2003.65,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0637-s19",
+      "heading": "Q&A：葬送的芙莉蓮第二季",
+      "start": 2003.7,
+      "end": 2043.77,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0637-s20",
+      "heading": "Q&A：竹北最正女醫師生日快樂",
+      "start": 2043.82,
+      "end": 2073.39,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0637-s21",
+      "heading": "Q&A：喜餅怎麼寄",
+      "start": 2073.44,
+      "end": 2125.97,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0637-s22",
+      "heading": "Q&A：推薦過年看的書、黃油",
+      "start": 2126.02,
+      "end": 2161.73,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0637-s23",
+      "heading": "Q&A：林口公園遛小孩",
+      "start": 2161.78,
+      "end": 2185.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0637-s24",
+      "heading": "Q&A：阿曼 Aman 系列飯店推薦",
+      "start": 2185.84,
+      "end": 2261.89,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0637-s25",
+      "heading": "Q&A：喜歡的東西會買不止一個 & 輔大演講",
+      "start": 2261.94,
+      "end": 2490.71,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0637-s26",
+      "heading": "Q&A：CJ 從少年股神到 AI 重壓四大持股",
+      "start": 2490.76,
+      "end": 2664.53,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0637-s27",
+      "heading": "Q&A：沖繩日本駕照、女兒生日",
+      "start": 2664.58,
+      "end": 2692.13,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0637-s28",
+      "heading": "Q&A：This Is Us 美劇推薦",
+      "start": 2692.18,
+      "end": 2719.97,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0637-s29",
+      "heading": "Q&A：基層公職的資產配置",
+      "start": 2720.02,
+      "end": 2760.27,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0637-s30",
+      "heading": "Q&A：未來人預言臺股 87000、Model Alpha 反重力",
+      "start": 2760.32,
+      "end": 2819.8,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0637-s31",
+      "heading": "Q&A：Spotify 留言快樂寶貝",
+      "start": 2819.85,
+      "end": 2883.0,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0637-s32",
+      "heading": "Q&A：宮廟教徒、桃園南崁餐廳",
+      "start": 2883.05,
+      "end": 2972.5,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0637-s33",
+      "heading": "Q&A：節目促成緣分",
+      "start": 2972.55,
+      "end": 3083.68,
+      "confidence": 0.711
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ep": 340,
+  "source": "auto-aligned from reports/mk/gooaye-ep0340.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0340.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/4d95b925-c3b3-4842-9359-1311c089a6e1/rssFileVip.mp3?timestamp=1689439407048",
+  "duration": 3071.79,
+  "segments": [
+    {
+      "id": "ep0340-s01",
+      "heading": "開場 / 贊助：米洪生醫",
+      "start": 0.0,
+      "end": 86.13,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0340-s02",
+      "heading": "前集Q&A後續：笑與陰影",
+      "start": 86.18,
+      "end": 620.65,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0340-s03",
+      "heading": "國安基金第八次護盤",
+      "start": 620.7,
+      "end": 1278.39,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0340-s04",
+      "heading": "Intel出售伺服器整機業務給神達，臺系伺服器供應鏈格局",
+      "start": 1278.44,
+      "end": 1849.85,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0340-s05",
+      "heading": "Q&A",
+      "start": 1849.9,
+      "end": 3071.79,
+      "confidence": 0.744
+    }
+  ]
+}

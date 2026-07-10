@@ -1,0 +1,128 @@
+{
+  "ep": 642,
+  "source": "auto-aligned from reports/mk/gooaye-ep0642.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0642.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/54b77e39-53f2-47be-afae-e2f6162a8bb0/rssFileVip.mp3?timestamp=1772921655666",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0642-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 96.33,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0642-s02",
+      "heading": "近況：利木尾牙、帶兒子玩 Mezastar",
+      "start": 96.38,
+      "end": 546.47,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0642-s03",
+      "heading": "市場觀察：美股輪動、軟體股反彈",
+      "start": 546.52,
+      "end": 1031.05,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0642-s04",
+      "heading": "光通 vs. 銅：市場情緒與估值",
+      "start": 1031.1,
+      "end": 1112.67,
+      "confidence": 0.4
+    },
+    {
+      "id": "ep0642-s05",
+      "heading": "蘋果策略：記憶體漲價趁勢搶市佔",
+      "start": 1112.72,
+      "end": 1761.61,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0642-s06",
+      "heading": "Q&A：聽眾樣貌與 26 歲的人生",
+      "start": 1761.66,
+      "end": 1865.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0642-s07",
+      "heading": "Q&A：看盤螢幕數量",
+      "start": 1865.52,
+      "end": 1961.09,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0642-s08",
+      "heading": "Q&A：BTC 與市場心理",
+      "start": 1961.14,
+      "end": 1992.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0642-s09",
+      "heading": "Q&A：馬年傳產中小起飛許願",
+      "start": 1992.76,
+      "end": 2020.85,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0642-s10",
+      "heading": "Q&A：生日祝福 (老公生日）",
+      "start": 2020.9,
+      "end": 2050.59,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0642-s11",
+      "heading": "Q&A：Arizona 仙人掌公園推薦",
+      "start": 2050.64,
+      "end": 2124.91,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0642-s12",
+      "heading": "Q&A：物慾控管與財富自由",
+      "start": 2124.96,
+      "end": 2327.89,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0642-s13",
+      "heading": "Q&A：光通訊與銅的資金輪動",
+      "start": 2327.94,
+      "end": 2489.03,
+      "confidence": 0.511
+    },
+    {
+      "id": "ep0642-s14",
+      "heading": "Q&A：換工作與舒適圈",
+      "start": 2489.08,
+      "end": 2530.51,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0642-s15",
+      "heading": "Q&A：配息稅務與大部位資產配置",
+      "start": 2530.56,
+      "end": 2703.55,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0642-s16",
+      "heading": "Q&A：中年爸爸與青春期、配息稅務",
+      "start": 2703.6,
+      "end": 2971.79,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0642-s17",
+      "heading": "Q&A：手遊角色喜好",
+      "start": 2971.84,
+      "end": 2998.96,
+      "confidence": 0.889
+    }
+  ]
+}

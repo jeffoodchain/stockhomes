@@ -1,0 +1,58 @@
+{
+  "ep": 131,
+  "source": "auto-aligned from reports/mk/gooaye-ep0131.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0131.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/31e86dcb-17b8-4553-976a-f2b9d7bd0f2b/rssFileVip.mp3?timestamp=1689439390854",
+  "duration": 2648.27,
+  "segments": [
+    {
+      "id": "ep0131-s01",
+      "heading": "開場 / 贊助：鳳凰電波",
+      "start": 0.0,
+      "end": 124.59,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0131-s02",
+      "heading": "看房心得：林口與台中",
+      "start": 124.64,
+      "end": 253.31,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0131-s03",
+      "heading": "買房財務邏輯",
+      "start": 253.36,
+      "end": 545.85,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0131-s04",
+      "heading": "買房財務總結與銀行聯徵眉角",
+      "start": 545.9,
+      "end": 845.81,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0131-s05",
+      "heading": "台股市況：日內V轉、配置警示",
+      "start": 845.86,
+      "end": 1336.07,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0131-s06",
+      "heading": "美股市況：NVIDIA創新高、特斯拉大漲",
+      "start": 1336.12,
+      "end": 1757.33,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0131-s07",
+      "heading": "Q&A",
+      "start": 1757.38,
+      "end": 2648.27,
+      "confidence": 0.822
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 276,
+  "source": "auto-aligned from reports/mk/gooaye-ep0276.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0276.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/a4a130e1-42cd-4a7d-9ecc-81c687d9d261/rssFileVip.mp3?timestamp=1689439384084",
+  "duration": 2248.48,
+  "segments": [
+    {
+      "id": "ep0276-s01",
+      "heading": "開場 / 贊助：IS LOUNGE 嗜香氛 HGP 控油精油洗髮露",
+      "start": 0.0,
+      "end": 88.47,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0276-s02",
+      "heading": "國動節目與實況圈聊聊",
+      "start": 88.52,
+      "end": 433.07,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0276-s03",
+      "heading": "市場近況：連番大跌，NVIDIA 承壓",
+      "start": 433.12,
+      "end": 498.17,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0276-s04",
+      "heading": "美國封鎖 A100/H100 出口中國：貿易戰 2.0 的前兆",
+      "start": 498.22,
+      "end": 813.93,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0276-s05",
+      "heading": "中美 CSP 雲端晶片全景：BAT vs. AAM",
+      "start": 813.98,
+      "end": 1091.37,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0276-s06",
+      "heading": "EDA 工具管制、ABF 載板連帶影響",
+      "start": 1091.42,
+      "end": 1385.58,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0276-s07",
+      "heading": "Q&A",
+      "start": 1385.63,
+      "end": 2223.5,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0276-s08",
+      "heading": "結尾",
+      "start": 2223.55,
+      "end": 2248.48,
+      "confidence": 0.778
+    }
+  ]
+}

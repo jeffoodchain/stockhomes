@@ -1,0 +1,86 @@
+{
+  "ep": 32,
+  "source": "auto-aligned from reports/mk/gooaye-ep0032.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0032.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/67475902-1ae2-4340-9553-2cf9c3fc1760/rssFileVip.mp3?timestamp=1761072700853",
+  "duration": 2193.45,
+  "segments": [
+    {
+      "id": "ep0032-s01",
+      "heading": "開場 / 贊助：眠豆腐",
+      "start": 0.05,
+      "end": 55.0,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0032-s02",
+      "heading": "馬斯克發推嫌特斯拉股價太高",
+      "start": 55.05,
+      "end": 153.5,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0032-s03",
+      "heading": "馬斯克與空軍的宿仇",
+      "start": 153.55,
+      "end": 249.24,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0032-s04",
+      "heading": "陰謀論分析",
+      "start": 249.29,
+      "end": 385.58,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0032-s05",
+      "heading": "馬斯克的薪酬結構",
+      "start": 385.63,
+      "end": 478.22,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0032-s06",
+      "heading": "馬斯克作為先驅者",
+      "start": 478.27,
+      "end": 676.7,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0032-s07",
+      "heading": "疫苗眉角：Bill Gates的看法",
+      "start": 676.75,
+      "end": 1049.6,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0032-s08",
+      "heading": "疫苗分配的兩難",
+      "start": 1049.65,
+      "end": 1139.6,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0032-s09",
+      "heading": "台灣別鬆懈、也別搞情緒勒索",
+      "start": 1139.65,
+      "end": 1432.02,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0032-s10",
+      "heading": "Q&A",
+      "start": 1432.07,
+      "end": 2167.85,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0032-s11",
+      "heading": "結尾",
+      "start": 2167.9,
+      "end": 2193.45,
+      "confidence": 0.967
+    }
+  ]
+}

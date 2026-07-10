@@ -1,0 +1,72 @@
+{
+  "ep": 520,
+  "source": "auto-aligned from reports/mk/gooaye-ep0520.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0520.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/e9096f54-ebfa-4f3e-8e8d-b3984874cfc6/rssFileVip.mp3?timestamp=1735981132274",
+  "duration": 3077.72,
+  "segments": [
+    {
+      "id": "ep0520-s01",
+      "heading": "開場／贊助：Zero Halliburton",
+      "start": 0.0,
+      "end": 108.27,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0520-s02",
+      "heading": "動漫話題：膽大黨完播後的空虛感",
+      "start": 108.32,
+      "end": 166.11,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0520-s03",
+      "heading": "天文學者Brian Cox與宇宙的奧秘",
+      "start": 166.16,
+      "end": 331.63,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0520-s04",
+      "heading": "宇宙觀與人生意義",
+      "start": 331.68,
+      "end": 503.75,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0520-s05",
+      "heading": "小型股vs中大型股的策略論",
+      "start": 503.8,
+      "end": 695.99,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0520-s06",
+      "heading": "中大型股交易的核心：市場共識",
+      "start": 696.04,
+      "end": 1136.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0520-s07",
+      "heading": "從眾與獨立思考：朋友的案例",
+      "start": 1136.26,
+      "end": 1477.71,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0520-s08",
+      "heading": "市場表現、風險認知與投資心態",
+      "start": 1477.76,
+      "end": 1732.41,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0520-s09",
+      "heading": "Q&A環節",
+      "start": 1732.46,
+      "end": 3077.72,
+      "confidence": 0.811
+    }
+  ]
+}

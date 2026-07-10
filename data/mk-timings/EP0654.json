@@ -1,0 +1,156 @@
+{
+  "ep": 654,
+  "source": "auto-aligned from reports/mk/gooaye-ep0654.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0654.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/687a5ae3-badb-4733-a9ff-49228d65875f/rssFileVip.mp3?timestamp=1776573731975",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0654-s01",
+      "heading": "開場 / 贊助：New Balance",
+      "start": 0.0,
+      "end": 83.01,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0654-s02",
+      "heading": "悼念：一封來自宜蘭聽眾的私訊",
+      "start": 83.06,
+      "end": 196.03,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0654-s03",
+      "heading": "節目的意義：意外涉入大家的生活",
+      "start": 196.08,
+      "end": 544.57,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0654-s04",
+      "heading": "市場觀察：美股臺股大噴，多頭格局確立",
+      "start": 544.62,
+      "end": 639.29,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0654-s05",
+      "heading": "臺積電與常務股：法說會後觀察",
+      "start": 639.34,
+      "end": 754.43,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0654-s06",
+      "heading": "被動元件：全面起噴，漲價信連發",
+      "start": 754.48,
+      "end": 1002.59,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0654-s07",
+      "heading": "CPU 缺貨：市場最大的房間裡的大象",
+      "start": 1002.64,
+      "end": 1162.43,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0654-s08",
+      "heading": "Uber Token 用光事件 & AI Token Maxing 的真實價值",
+      "start": 1162.48,
+      "end": 1432.21,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0654-s09",
+      "heading": "Sam Altman 2017 名言：每個人最終都是 Sales",
+      "start": 1432.26,
+      "end": 1747.13,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0654-s10",
+      "heading": "Q&A：許兔兔生日快樂 & 沙漠中的綠洲楊董",
+      "start": 1747.18,
+      "end": 1823.83,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0654-s11",
+      "heading": "Q&A：二寶爸與兒子的「球球」故事",
+      "start": 1823.88,
+      "end": 1884.34,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0654-s12",
+      "heading": "Q&A：叛逃的土木仔問「成功的定義」",
+      "start": 1884.39,
+      "end": 2159.64,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0654-s13",
+      "heading": "Q&A：嘉裡安鳳小月 — 臺大兒科病房女兒生日",
+      "start": 2159.69,
+      "end": 2298.64,
+      "confidence": 0.622
+    },
+    {
+      "id": "ep0654-s14",
+      "heading": "Q&A：大豬豬改稱呼、iPhone 鬧鐘冷知識",
+      "start": 2298.69,
+      "end": 2327.54,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0654-s15",
+      "heading": "Q&A：炒股就跟愛愛一樣",
+      "start": 2327.59,
+      "end": 2367.9,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0654-s16",
+      "heading": "Q&A：分析師執照問題 & 喊話川普",
+      "start": 2367.95,
+      "end": 2401.2,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0654-s17",
+      "heading": "Q&A：退休配置，資產一億如何規劃",
+      "start": 2401.25,
+      "end": 2515.06,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0654-s18",
+      "heading": "Q&A：嘴喵喵汪汪：瘦瘦針與 Lisa 接受訪問",
+      "start": 2515.11,
+      "end": 2628.35,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0654-s19",
+      "heading": "Q&A：臺中小織女：福利恩坑 & 魔法選擇",
+      "start": 2628.4,
+      "end": 2727.15,
+      "confidence": 0.611
+    },
+    {
+      "id": "ep0654-s20",
+      "heading": "Q&A：飛機杯上癮症：光通訊佈局 & CPU 測試裝置",
+      "start": 2727.2,
+      "end": 2835.87,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0654-s21",
+      "heading": "Q&A：竹科臭質男的五星召喚術：如何痛快花錢",
+      "start": 2835.92,
+      "end": 2998.96,
+      "confidence": 0.611
+    }
+  ]
+}

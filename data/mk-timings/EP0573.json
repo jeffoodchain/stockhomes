@@ -1,0 +1,51 @@
+{
+  "ep": 573,
+  "source": "auto-aligned from reports/mk/gooaye-ep0573.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0573.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/9f231aef-172c-4a21-af43-720011b8d6a3/rssFileVip.mp3?timestamp=1752042259703",
+  "duration": 3040.57,
+  "segments": [
+    {
+      "id": "ep0573-s01",
+      "heading": "開場 / 贊助：SAHOLEA 森歐黎漾",
+      "start": 0.0,
+      "end": 93.17,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0573-s02",
+      "heading": "小島秀夫台北見面會心得：被建模的人生啟發",
+      "start": 93.22,
+      "end": 708.29,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0573-s03",
+      "heading": "特斯拉與馬斯克創黨",
+      "start": 708.34,
+      "end": 908.99,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0573-s04",
+      "heading": "最新關稅發展：新關稅數字與台灣的應對",
+      "start": 909.04,
+      "end": 1306.85,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0573-s05",
+      "heading": "晶片關稅：執行困難與實務爭議",
+      "start": 1306.9,
+      "end": 1589.15,
+      "confidence": 0.6
+    },
+    {
+      "id": "ep0573-s06",
+      "heading": "Q&A",
+      "start": 1589.2,
+      "end": 3040.57,
+      "confidence": 0.856
+    }
+  ]
+}

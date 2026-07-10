@@ -1,0 +1,72 @@
+{
+  "ep": 4,
+  "source": "auto-aligned from reports/mk/gooaye-ep0004.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0004.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/68be4ef0-9bf1-40dd-8afe-6ca193a69dc6/rssFileVip.mp3?timestamp=1689439381297",
+  "duration": 1526.26,
+  "segments": [
+    {
+      "id": "ep0004-s01",
+      "heading": "開場：Jack Welch 逝世",
+      "start": 0.34,
+      "end": 95.37,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0004-s02",
+      "heading": "Jack Welch 的管理哲學與正反辯論",
+      "start": 95.42,
+      "end": 271.68,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0004-s03",
+      "heading": "昨天美股史上最大漲點，台股今日表現",
+      "start": 271.73,
+      "end": 324.33,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0004-s04",
+      "heading": "台股強勢族群分析：與 18 年貿易戰的差異",
+      "start": 324.38,
+      "end": 472.54,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0004-s05",
+      "heading": "CIS 族群：原相 vs 同欣電",
+      "start": 472.59,
+      "end": 583.77,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0004-s06",
+      "heading": "PCB 族群：博智、金像電",
+      "start": 583.82,
+      "end": 663.07,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0004-s07",
+      "heading": "台幣匯率觀察：外資動向",
+      "start": 663.12,
+      "end": 723.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0004-s08",
+      "heading": "Q&A",
+      "start": 723.7,
+      "end": 1482.71,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0004-s09",
+      "heading": "結尾",
+      "start": 1482.76,
+      "end": 1526.26,
+      "confidence": 0.811
+    }
+  ]
+}

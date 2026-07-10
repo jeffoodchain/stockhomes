@@ -1,0 +1,86 @@
+{
+  "ep": 515,
+  "source": "auto-aligned from reports/mk/gooaye-ep0515.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0515.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/3045de17-968a-46ec-b489-0fb398505f5a/rssFileVip.mp3?timestamp=1734512470315",
+  "duration": 2991.52,
+  "segments": [
+    {
+      "id": "ep0515-s01",
+      "heading": "開場 / 贊助：佳銥國際",
+      "start": 0.0,
+      "end": 115.73,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0515-s02",
+      "heading": "感謝聽眾關懷與近況分享",
+      "start": 115.78,
+      "end": 208.59,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0515-s03",
+      "heading": "兒子檢查結果與醫療歷程",
+      "start": 208.64,
+      "end": 306.21,
+      "confidence": 0.578
+    },
+    {
+      "id": "ep0515-s04",
+      "heading": "醫師分析與診斷結果",
+      "start": 306.26,
+      "end": 386.53,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0515-s05",
+      "heading": "感恩與承諾給予",
+      "start": 386.58,
+      "end": 531.59,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0515-s06",
+      "heading": "人生觀的改變與感恩",
+      "start": 531.64,
+      "end": 638.07,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0515-s07",
+      "heading": "GB200 到 GB300 轉換與市場謠言",
+      "start": 638.12,
+      "end": 785.89,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0515-s08",
+      "heading": "B200 到 B300：產品演進分析",
+      "start": 785.94,
+      "end": 1198.83,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0515-s09",
+      "heading": "ASIC 趨勢與 GPU 未來",
+      "start": 1198.88,
+      "end": 1324.87,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0515-s10",
+      "heading": "AI 模型實戰心得：O1 Pro 與 Sora",
+      "start": 1324.92,
+      "end": 1891.05,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0515-s11",
+      "heading": "Q&A 部分",
+      "start": 1891.1,
+      "end": 2991.52,
+      "confidence": 0.789
+    }
+  ]
+}

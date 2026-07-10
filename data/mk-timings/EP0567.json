@@ -1,0 +1,51 @@
+{
+  "ep": 567,
+  "source": "auto-aligned from reports/mk/gooaye-ep0567.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0567.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/538bbecd-f91a-4955-94b5-c5f07d4921fd/rssFileVip.mp3?timestamp=1750305178308",
+  "duration": 2998.96,
+  "segments": [
+    {
+      "id": "ep0567-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 74.17,
+      "confidence": 0.922
+    },
+    {
+      "id": "ep0567-s02",
+      "heading": "算命體驗：八字老師與財庫補法",
+      "start": 74.22,
+      "end": 828.23,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0567-s03",
+      "heading": "市場話題：AI供應鏈類股輪動",
+      "start": 828.28,
+      "end": 986.73,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0567-s04",
+      "heading": "市場話題：Apple摺疊機",
+      "start": 986.78,
+      "end": 1159.85,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0567-s05",
+      "heading": "市場話題：Meta MTIA拉貨",
+      "start": 1159.9,
+      "end": 1644.21,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0567-s06",
+      "heading": "Q&A",
+      "start": 1644.26,
+      "end": 2998.96,
+      "confidence": 0.778
+    }
+  ]
+}

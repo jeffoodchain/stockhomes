@@ -1,0 +1,79 @@
+{
+  "ep": 665,
+  "source": "auto-aligned from reports/mk/gooaye-ep0665.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0665.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/181f554e-900e-4261-bc3c-1a3fe53a902a/rssFileVip.mp3?timestamp=1779869508972",
+  "duration": 2990.05,
+  "segments": [
+    {
+      "id": "ep0665-s01",
+      "heading": "開場 / 贊助：善存葉黃素",
+      "start": 0.0,
+      "end": 80.97,
+      "confidence": 0.956
+    },
+    {
+      "id": "ep0665-s02",
+      "heading": "夏日運動與身體界線",
+      "start": 81.02,
+      "end": 209.41,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0665-s03",
+      "heading": "孩子與 Pokémon MEZASTAR",
+      "start": 209.46,
+      "end": 668.69,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0665-s04",
+      "heading": "市場近況：被動元件整組做壞",
+      "start": 668.74,
+      "end": 774.21,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0665-s05",
+      "heading": "台積電分紅與長期持有",
+      "start": 774.26,
+      "end": 849.79,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0665-s06",
+      "heading": "SpaceX IPO 與太空算力",
+      "start": 849.84,
+      "end": 1360.85,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0665-s07",
+      "heading": "台股題材輪動與行情心態",
+      "start": 1360.9,
+      "end": 1668.15,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0665-s08",
+      "heading": "Q&A：喜悅、命名與興趣",
+      "start": 1668.2,
+      "end": 2357.83,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0665-s09",
+      "heading": "Q&A：投資經驗、育兒與生活",
+      "start": 2357.88,
+      "end": 2673.51,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0665-s10",
+      "heading": "Q&A：交易紀律與失去",
+      "start": 2673.56,
+      "end": 2990.05,
+      "confidence": 0.733
+    }
+  ]
+}

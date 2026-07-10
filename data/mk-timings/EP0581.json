@@ -1,0 +1,51 @@
+{
+  "ep": 581,
+  "source": "auto-aligned from reports/mk/gooaye-ep0581.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0581.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/92bc6758-92b3-40ed-88db-08cf8c2d92b8/rssFileVip.mp3?timestamp=1754466299434",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0581-s01",
+      "heading": "開場 / 贊助：zZSLEEPER 忘憂枕",
+      "start": 0.0,
+      "end": 73.29,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0581-s02",
+      "heading": "曼報 Pro 大成功：恭喜 Manny",
+      "start": 73.34,
+      "end": 483.53,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0581-s03",
+      "heading": "Palmer Luckey 台大演講：台灣武裝、去中化供應鏈",
+      "start": 483.58,
+      "end": 936.59,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0581-s04",
+      "heading": "Anduril 四項選品標準",
+      "start": 936.64,
+      "end": 1099.19,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0581-s05",
+      "heading": "市場八卦：臺積電 2 奈米洩密案",
+      "start": 1099.24,
+      "end": 1355.99,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0581-s06",
+      "heading": "Q&A",
+      "start": 1356.04,
+      "end": 2997.47,
+      "confidence": 0.778
+    }
+  ]
+}

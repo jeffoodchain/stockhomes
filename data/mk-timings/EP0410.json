@@ -1,0 +1,65 @@
+{
+  "ep": 410,
+  "source": "auto-aligned from reports/mk/gooaye-ep0410.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0410.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8a77a31b-e61f-4dfe-bfe8-df32bdb9f572/rssFileVip.mp3?timestamp=1702714932882",
+  "duration": 2994.52,
+  "segments": [
+    {
+      "id": "ep0410-s01",
+      "heading": "開場 / 贊助：國泰人壽自由配",
+      "start": 0.0,
+      "end": 79.53,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0410-s02",
+      "heading": "Spotify 無密碼登入",
+      "start": 79.58,
+      "end": 435.61,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0410-s03",
+      "heading": "產業進度更新：手機拉貨",
+      "start": 435.66,
+      "end": 545.01,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0410-s04",
+      "heading": "車用與 AIPC 觀察",
+      "start": 545.06,
+      "end": 915.73,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0410-s05",
+      "heading": "AIPC 供應鏈與投資角度",
+      "start": 915.78,
+      "end": 1144.91,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0410-s06",
+      "heading": "深入談 Edge 裝置",
+      "start": 1144.96,
+      "end": 1752.43,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0410-s07",
+      "heading": "對 Edge 與 AIPC 元年的總體看法",
+      "start": 1752.48,
+      "end": 1864.49,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0410-s08",
+      "heading": "Q&A 部分",
+      "start": 1864.54,
+      "end": 2994.52,
+      "confidence": 0.778
+    }
+  ]
+}

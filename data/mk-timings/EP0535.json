@@ -1,0 +1,79 @@
+{
+  "ep": 535,
+  "source": "auto-aligned from reports/mk/gooaye-ep0535.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0535.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/fcadc5aa-e4e5-463d-8aa3-bd7f66f1952b/rssFileVip.mp3?timestamp=1740550937406",
+  "duration": 2994.49,
+  "segments": [
+    {
+      "id": "ep0535-s01",
+      "heading": "開場 / 贊助：ZENOMI 小先鋒",
+      "start": 0.0,
+      "end": 96.31,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0535-s02",
+      "heading": "大病初癒：心境轉變",
+      "start": 96.36,
+      "end": 224.87,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0535-s03",
+      "heading": "音樂分享：Sigur Rós 演唱會",
+      "start": 224.92,
+      "end": 450.87,
+      "confidence": 0.9
+    },
+    {
+      "id": "ep0535-s04",
+      "heading": "市場動向：微軟、Stargate 與 AI 伺服器",
+      "start": 450.92,
+      "end": 624.31,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0535-s05",
+      "heading": "微軟 Delay/Cancel Data Center 事件",
+      "start": 624.36,
+      "end": 950.79,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0535-s06",
+      "heading": "NVIDIA 財報與 Blackwell 展望",
+      "start": 950.84,
+      "end": 1226.13,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0535-s07",
+      "heading": "GTC 傳聞：144 與 288 架構",
+      "start": 1226.18,
+      "end": 1363.37,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0535-s08",
+      "heading": "GTC 展望：傳輸與材料升級",
+      "start": 1363.42,
+      "end": 1554.95,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0535-s09",
+      "heading": "AI 產業展望",
+      "start": 1555.0,
+      "end": 1659.39,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0535-s10",
+      "heading": "Q&A 環節",
+      "start": 1659.44,
+      "end": 2994.49,
+      "confidence": 0.5
+    }
+  ]
+}

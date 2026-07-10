@@ -1,0 +1,212 @@
+{
+  "ep": 514,
+  "source": "auto-aligned from reports/mk/gooaye-ep0514.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0514.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0a10a004-e9c5-46c4-a0c8-1c4f96c2fe6c/rssFileVip.mp3?timestamp=1734166809474",
+  "duration": 3045.02,
+  "segments": [
+    {
+      "id": "ep0514-s01",
+      "heading": "開場 / 贊助：臺灣銀行數位帳戶",
+      "start": 0.0,
+      "end": 59.85,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0514-s02",
+      "heading": "工作心態與市場現況",
+      "start": 59.9,
+      "end": 116.79,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0514-s03",
+      "heading": "投資心態與基本面分析",
+      "start": 116.84,
+      "end": 170.57,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0514-s04",
+      "heading": "健康與家庭的重要性",
+      "start": 170.62,
+      "end": 262.55,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0514-s05",
+      "heading": "個人家庭狀況與感受",
+      "start": 262.6,
+      "end": 417.37,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0514-s06",
+      "heading": "人生深度與家庭的意義",
+      "start": 417.42,
+      "end": 607.83,
+      "confidence": 0.644
+    },
+    {
+      "id": "ep0514-s07",
+      "heading": "健康提醒與 Broadcom 財報",
+      "start": 607.88,
+      "end": 708.11,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0514-s08",
+      "heading": "ASIC 客戶結構分析",
+      "start": 708.16,
+      "end": 881.93,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0514-s09",
+      "heading": "Broadcom CEO 言論與市場預期",
+      "start": 881.98,
+      "end": 1006.93,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0514-s10",
+      "heading": "持股策略與市場觀察",
+      "start": 1006.98,
+      "end": 1120.1,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0514-s11",
+      "heading": "上游供應鏈與市場趨勢",
+      "start": 1120.15,
+      "end": 1241.84,
+      "confidence": 0.978
+    },
+    {
+      "id": "ep0514-s12",
+      "heading": "伺服器高密度化趨勢與台灣機會",
+      "start": 1241.89,
+      "end": 1352.6,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0514-s13",
+      "heading": "指數納入與軟體股走勢",
+      "start": 1352.65,
+      "end": 1426.5,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0514-s14",
+      "heading": "BlockCon Earnings Call 與軟體貢獻",
+      "start": 1426.55,
+      "end": 1470.32,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0514-s15",
+      "heading": "臺股 ASIC 類股機會",
+      "start": 1470.37,
+      "end": 1539.38,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0514-s16",
+      "heading": "Q&A 環節",
+      "start": 1539.43,
+      "end": 1741.72,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0514-s17",
+      "heading": "職場心態與人生選擇",
+      "start": 1741.77,
+      "end": 1861.84,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0514-s18",
+      "heading": "職場與人際關係建議",
+      "start": 1861.89,
+      "end": 1925.6,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0514-s19",
+      "heading": "交易紀律與心理狀態",
+      "start": 1925.65,
+      "end": 2138.28,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0514-s20",
+      "heading": "聽眾點唱與生活分享",
+      "start": 2138.33,
+      "end": 2243.66,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0514-s21",
+      "heading": "玩笑與互動",
+      "start": 2243.71,
+      "end": 2272.46,
+      "confidence": 0.989
+    },
+    {
+      "id": "ep0514-s22",
+      "heading": "心理健康與焦慮應對",
+      "start": 2272.51,
+      "end": 2450.84,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0514-s23",
+      "heading": "聽眾祝福與互動",
+      "start": 2450.89,
+      "end": 2574.98,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0514-s24",
+      "heading": "人生感悟與安全距離",
+      "start": 2575.03,
+      "end": 2685.88,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0514-s25",
+      "heading": "演唱會遺憾與感謝",
+      "start": 2685.93,
+      "end": 2729.34,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0514-s26",
+      "heading": "陪伴與成長的感謝",
+      "start": 2729.39,
+      "end": 2875.22,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0514-s27",
+      "heading": "槓桿型 ETF 下市條件",
+      "start": 2875.27,
+      "end": 2962.72,
+      "confidence": 0.889
+    },
+    {
+      "id": "ep0514-s28",
+      "heading": "基本面與動能交易",
+      "start": 2962.77,
+      "end": 3041.86,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0514-s29",
+      "heading": "節目結語",
+      "start": 3041.91,
+      "end": 3045.02,
+      "confidence": 0.529
+    }
+  ]
+}

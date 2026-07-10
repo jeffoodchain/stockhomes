@@ -1,0 +1,51 @@
+{
+  "ep": 667,
+  "source": "auto-aligned from reports/mk/gooaye-ep0667.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0667.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8c2cb9ef-82a5-46ec-bd46-1e213017a353/rssFileVip.mp3?timestamp=1780475033628",
+  "duration": 3050.97,
+  "segments": [
+    {
+      "id": "ep0667-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 85.65,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0667-s02",
+      "heading": "生活聊聊：慢下來運動 & 入坑品酒",
+      "start": 85.7,
+      "end": 708.87,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0667-s03",
+      "heading": "Computex 2026：Marvell、NVIDIA、光通訊與 AIPC",
+      "start": 708.92,
+      "end": 938.21,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0667-s04",
+      "heading": "Snowflake 員工視角：開源模型的威脅與機會",
+      "start": 938.26,
+      "end": 1192.29,
+      "confidence": 0.822
+    },
+    {
+      "id": "ep0667-s05",
+      "heading": "市場觀察：盤勢與投資框架",
+      "start": 1192.34,
+      "end": 1560.69,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0667-s06",
+      "heading": "Q&A",
+      "start": 1560.74,
+      "end": 3050.97,
+      "confidence": 0.9
+    }
+  ]
+}

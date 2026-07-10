@@ -1,0 +1,65 @@
+{
+  "ep": 574,
+  "source": "auto-aligned from reports/mk/gooaye-ep0574.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0574.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/b8bda44a-9b42-479e-b93e-cc1c98f3e3be/rssFileVip.mp3?timestamp=1752307306195",
+  "duration": 3034.62,
+  "segments": [
+    {
+      "id": "ep0574-s01",
+      "heading": "開場 / 贊助：尼泊爾正宗瑜伽課",
+      "start": 0.0,
+      "end": 80.05,
+      "confidence": 0.911
+    },
+    {
+      "id": "ep0574-s02",
+      "heading": "開場閒聊：長輩化與人生哲學",
+      "start": 80.1,
+      "end": 566.27,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0574-s03",
+      "heading": "台股市場：匯損衝擊與後續觀察",
+      "start": 566.32,
+      "end": 861.13,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0574-s04",
+      "heading": "Switch 2 開箱心得",
+      "start": 861.18,
+      "end": 934.19,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0574-s05",
+      "heading": "AWS Trainium 砍單謠言分析",
+      "start": 934.24,
+      "end": 1067.49,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0574-s06",
+      "heading": "AWS IR-HX 自研水冷方案",
+      "start": 1067.54,
+      "end": 1353.15,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0574-s07",
+      "heading": "xAI Grok 4 使用心得與 AI 模型觀察",
+      "start": 1353.2,
+      "end": 1762.49,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0574-s08",
+      "heading": "Q&A",
+      "start": 1762.54,
+      "end": 3034.62,
+      "confidence": 0.633
+    }
+  ]
+}

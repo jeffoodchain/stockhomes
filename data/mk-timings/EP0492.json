@@ -1,0 +1,51 @@
+{
+  "ep": 492,
+  "source": "auto-aligned from reports/mk/gooaye-ep0492.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0492.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/7dce5acc-d27e-4310-a35e-9a0e4a36aef2/rssFileVip.mp3?timestamp=1727514002235",
+  "duration": 3009.36,
+  "segments": [
+    {
+      "id": "ep0492-s01",
+      "heading": "開場／贊助：眠豆腐",
+      "start": 0.0,
+      "end": 66.51,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0492-s02",
+      "heading": "A 君上手實錄",
+      "start": 66.56,
+      "end": 730.69,
+      "confidence": 0.722
+    },
+    {
+      "id": "ep0492-s03",
+      "heading": "Meta 2024 年 Connect 大會新品",
+      "start": 730.74,
+      "end": 875.99,
+      "confidence": 0.856
+    },
+    {
+      "id": "ep0492-s04",
+      "heading": "Meta Orion AR 眼鏡",
+      "start": 876.04,
+      "end": 1215.55,
+      "confidence": 0.933
+    },
+    {
+      "id": "ep0492-s05",
+      "heading": "AIPC 和記憶體芯片",
+      "start": 1215.6,
+      "end": 1749.61,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0492-s06",
+      "heading": "Q&A",
+      "start": 1749.66,
+      "end": 3009.36,
+      "confidence": 0.922
+    }
+  ]
+}

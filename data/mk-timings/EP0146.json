@@ -1,0 +1,65 @@
+{
+  "ep": 146,
+  "source": "auto-aligned from reports/mk/gooaye-ep0146.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0146.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/f251b36a-2fc8-4b51-9040-cc3e9342537e/rssFileVip.mp3?timestamp=1689439383125",
+  "duration": 2478.84,
+  "segments": [
+    {
+      "id": "ep0146-s01",
+      "heading": "開場 / 贊助：原食實驗室",
+      "start": 0.0,
+      "end": 106.45,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0146-s02",
+      "heading": "NVIDIA 攻上 700 美元",
+      "start": 106.5,
+      "end": 146.27,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0146-s03",
+      "heading": "NVIDIA 題材分析",
+      "start": 146.32,
+      "end": 252.35,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0146-s04",
+      "heading": "Facebook 分析",
+      "start": 252.4,
+      "end": 623.65,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0146-s05",
+      "heading": "Google、Amazon、Apple 近況",
+      "start": 623.7,
+      "end": 775.19,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0146-s06",
+      "heading": "Apple 供應鏈觀察",
+      "start": 775.24,
+      "end": 975.57,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0146-s07",
+      "heading": "AMC 炒股事件",
+      "start": 975.62,
+      "end": 1606.89,
+      "confidence": 1.0
+    },
+    {
+      "id": "ep0146-s08",
+      "heading": "Q&A",
+      "start": 1606.94,
+      "end": 2478.84,
+      "confidence": 0.678
+    }
+  ]
+}

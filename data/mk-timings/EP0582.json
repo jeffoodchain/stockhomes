@@ -1,0 +1,65 @@
+{
+  "ep": 582,
+  "source": "auto-aligned from reports/mk/gooaye-ep0582.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0582.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8a023304-cb91-4301-be67-3d5cb11ea4a3/rssFileVip.mp3?timestamp=1754727878439",
+  "duration": 2997.47,
+  "segments": [
+    {
+      "id": "ep0582-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.0,
+      "end": 60.97,
+      "confidence": 0.967
+    },
+    {
+      "id": "ep0582-s02",
+      "heading": "生活聊聊：帶老婆看 F1 電影",
+      "start": 61.02,
+      "end": 298.25,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0582-s03",
+      "heading": "玄學之旅結論：找到「恐怖老師」",
+      "start": 298.3,
+      "end": 820.03,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0582-s04",
+      "heading": "市場話題：臺灣半導體關稅",
+      "start": 820.08,
+      "end": 1235.45,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0582-s05",
+      "heading": "市場話題：Tesla Dojo 裁撤與 AI6",
+      "start": 1235.5,
+      "end": 1480.17,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0582-s06",
+      "heading": "市場話題：ASIC vs GPGPU 白熱化",
+      "start": 1480.22,
+      "end": 1737.25,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0582-s07",
+      "heading": "市場話題：GPT-5 推出",
+      "start": 1737.3,
+      "end": 1857.49,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0582-s08",
+      "heading": "Q&A",
+      "start": 1857.54,
+      "end": 2997.47,
+      "confidence": 0.722
+    }
+  ]
+}

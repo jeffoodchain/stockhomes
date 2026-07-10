@@ -1,0 +1,205 @@
+{
+  "ep": 618,
+  "source": "auto-aligned from reports/mk/gooaye-ep0618.md and /home/fc/foodmo/gooaye/transcripts/raw/EP0618.json",
+  "quality": "experimental section-level alignment; low-confidence segments need listening check",
+  "audio_url": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/5fc19fa8-eb41-4719-8622-4672411ac601/rssFileVip.mp3?timestamp=1765663689075",
+  "duration": 3174.32,
+  "segments": [
+    {
+      "id": "ep0618-s01",
+      "heading": "開場 / 贊助：NordVPN",
+      "start": 0.11,
+      "end": 54.24,
+      "confidence": 0.944
+    },
+    {
+      "id": "ep0618-s02",
+      "heading": "柏林 Radiohead 演唱會：人生最棒的演出",
+      "start": 54.29,
+      "end": 256.64,
+      "confidence": 0.8
+    },
+    {
+      "id": "ep0618-s03",
+      "heading": "獨履心得：原來自己更想跟家人一起",
+      "start": 256.69,
+      "end": 546.52,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0618-s04",
+      "heading": "德國印象：食物沒這麼糟、計程車司機很可愛",
+      "start": 546.57,
+      "end": 702.7,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0618-s05",
+      "heading": "博通財報：AI Backlog 73B、別用一天股價找答案",
+      "start": 702.75,
+      "end": 846.64,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0618-s06",
+      "heading": "Anthropic = 博通第四大客戶？FluidStack 拼圖",
+      "start": 846.69,
+      "end": 1081.18,
+      "confidence": 0.733
+    },
+    {
+      "id": "ep0618-s07",
+      "heading": "TPU 代數迷宮：V8P 與 V8E、MTK 切入 IO",
+      "start": 1081.23,
+      "end": 1268.7,
+      "confidence": 0.7
+    },
+    {
+      "id": "ep0618-s08",
+      "heading": "矽光子、OCS 與光通類股",
+      "start": 1268.75,
+      "end": 1361.28,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0618-s09",
+      "heading": "CoWoS 瓶頸與後段 OSAT、廠務裝置股",
+      "start": 1361.33,
+      "end": 1570.86,
+      "confidence": 0.667
+    },
+    {
+      "id": "ep0618-s10",
+      "heading": "二刷 Radiohead：壓哨進去、最快搭計程車",
+      "start": 1570.91,
+      "end": 1612.14,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0618-s11",
+      "heading": "Q&A：土博歧視",
+      "start": 1612.19,
+      "end": 1715.04,
+      "confidence": 0.633
+    },
+    {
+      "id": "ep0618-s12",
+      "heading": "Q&A：寧靜車廂的快樂寶貝",
+      "start": 1715.09,
+      "end": 1788.88,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0618-s13",
+      "heading": "Q&A：女友夢到老公、夾燈快訊",
+      "start": 1788.93,
+      "end": 1868.14,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0618-s14",
+      "heading": "Q&A：老婆生日快樂",
+      "start": 1868.19,
+      "end": 1911.5,
+      "confidence": 0.767
+    },
+    {
+      "id": "ep0618-s15",
+      "heading": "Q&A：小豬豬生日快樂",
+      "start": 1911.55,
+      "end": 1941.82,
+      "confidence": 0.656
+    },
+    {
+      "id": "ep0618-s16",
+      "heading": "Q&A：單眼皮的基因",
+      "start": 1941.87,
+      "end": 1973.72,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0618-s17",
+      "heading": "Q&A：Lisa 會吃醋嗎？",
+      "start": 1973.77,
+      "end": 2184.03,
+      "confidence": 0.689
+    },
+    {
+      "id": "ep0618-s18",
+      "heading": "Q&A：超音波看到小香腸的失落",
+      "start": 2184.08,
+      "end": 2298.43,
+      "confidence": 0.678
+    },
+    {
+      "id": "ep0618-s19",
+      "heading": "Q&A：留言密碼怎麼抓",
+      "start": 2298.48,
+      "end": 2330.79,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0618-s20",
+      "heading": "Q&A：空船的故事",
+      "start": 2330.84,
+      "end": 2373.61,
+      "confidence": 0.811
+    },
+    {
+      "id": "ep0618-s21",
+      "heading": "Q&A：葬送的芙莉蓮",
+      "start": 2373.66,
+      "end": 2422.55,
+      "confidence": 0.778
+    },
+    {
+      "id": "ep0618-s22",
+      "heading": "Q&A：跟周杰倫像不像？",
+      "start": 2422.6,
+      "end": 2516.81,
+      "confidence": 0.789
+    },
+    {
+      "id": "ep0618-s23",
+      "heading": "Q&A：跟仙人交往、男友爸 mansplaining",
+      "start": 2516.86,
+      "end": 2663.86,
+      "confidence": 0.589
+    },
+    {
+      "id": "ep0618-s24",
+      "heading": "Q&A：成全老公獨履日本",
+      "start": 2663.91,
+      "end": 2712.86,
+      "confidence": 0.711
+    },
+    {
+      "id": "ep0618-s25",
+      "heading": "Q&A：SpaceX IPO 對 DXYZ、Tesla 的影響",
+      "start": 2712.91,
+      "end": 2804.79,
+      "confidence": 0.833
+    },
+    {
+      "id": "ep0618-s26",
+      "heading": "Q&A：苗栗鄉親生日快樂",
+      "start": 2804.84,
+      "end": 2830.61,
+      "confidence": 0.756
+    },
+    {
+      "id": "ep0618-s27",
+      "heading": "Q&A：開導黑森哥",
+      "start": 2830.66,
+      "end": 2930.45,
+      "confidence": 0.744
+    },
+    {
+      "id": "ep0618-s28",
+      "heading": "Q&A：QQQ 回測、槓桿與年化報酬",
+      "start": 2930.5,
+      "end": 3174.32,
+      "confidence": 0.722
+    }
+  ]
+}
